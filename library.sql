@@ -60,7 +60,7 @@ CREATE TABLE `corpus` (
   `date` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `unique_book` (`title`,`author`)
-) ENGINE=InnoDB AUTO_INCREMENT=4105 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=4108 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -83,4 +83,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-10-14 15:12:33
+-- Dump completed on 2019-10-14 15:22:16
