@@ -20432,5 +20432,2997 @@
 		"std_error_intercept": 0.032284404885432494,
 		"std_error_slope": 0.0030303227444724305
 	}
+},
+{
+	"_id": {
+		"$oid": "5ed3dffd350612971243b5b6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/Almost_ in love (68892)/Almost_ in love - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "Almost: in love",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "No todo es como parecía ser. Ernest es denunciado por acoso y eso está a punto de hundirle por completo. Él, que siempre se ha tomado muy en serio su profesión y siente un respeto infinito por sus alumnos, se ve de repente en la calle y siendo señalado por algo que no es. Marta tiene que elegir entre creer a su amiga o hacer caso de lo que su corazón le dice, y comienza a darse cuenta de que no todo en la vida es tan sencillo como creía que era hasta hace poco. Si salva a Ernest de la cárcel, el mundo se enterará de su relación, trayéndoles a ambos muchos más problemas. Y Marta no está preparada ni física ni mentalmente para algo así. Más problemas, más decisiones difíciles que tomar, más amor y más odio entre familias, donde el pasado comienza a tomar forma hasta casi ahogar el presente.",
+	"contributor": null,
+	"date": "2017-10-12T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68285,
+	"unique_words": 7133,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.018518546875131,
+		"slope": 0.6169136610869727,
+		"std_error_intercept": 0.045365563061883704,
+		"std_error_slope": 0.004401917801233032
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e001350612971243b5b7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/Almost_ no more (68822)/Almost_ no more - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "Almost: no more",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Toda historia tiene su final… Marta y Ernest nunca pensaron que las cosas pudieran llegar a complicarse tanto. El odio familiar siempre fue un gran impedimento, pero cada día que pasa, se dan cuenta de que todo esto puede acabar explotando de una forma más que violenta para ambos. Saben que arriesgan incluso sus vidas, pero quieren seguir intentándolo hasta el último segundo. Muertes violentas, engaños, decepciones… Y aun así ambos consiguen ver siempre un rayo de luz, aunque todo se esté tornando negro. París, el futuro de los dos, nunca estuvo tan cerca y a la vez tan lejos… ¿Cómo sobrevivir con gente a tu alrededor que odia con tanta intensidad como para querer acabar con la vida de cuantos se pongan por delante?",
+	"contributor": null,
+	"date": "2017-10-26T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 73853,
+	"unique_words": 7539,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.116421505632155,
+		"slope": 0.6066345004528642,
+		"std_error_intercept": 0.038156622044193005,
+		"std_error_slope": 0.003679163897741823
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e006350612971243b5b8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/Almost_ together (68920)/Almost_ together - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "Almost: together",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "El peligro del pasado se hace más presente que nunca. Marta se siente abandonada por Ernest, el cual ha tenido que irse a París para que ella viva. Todo el mundo le dice a Marta que le olvide, pero ella no deja de intentar ponerse en contacto con él. Marta y Ernest se enfrentarán a lo que haga falta para seguir juntos, para luchar lo que tengan que luchar, pero la sombra del odio familiar es demasiado alargada, y las familias de los dos parecen estar dispuestos a cualquier cosa por no permitir que las cosas cambien. Cuando sabes que incluso tu propia familia estaría dispuesta a acabar contigo, te das cuenta de que no siempre amar es suficiente para cualquiera.",
+	"contributor": null,
+	"date": "2017-10-19T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 85180,
+	"unique_words": 7879,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0541417543936453,
+		"slope": 0.609056426863344,
+		"std_error_intercept": 0.013614931463291789,
+		"std_error_slope": 0.0012978282886216862
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e010350612971243b5b9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/Maybe (61180)/Maybe - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "Maybe",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "El mundo del espectáculo es increíblemente atrayente. Fama, dinero, gente famosa, lujo, glamour... Eso para muchos es la felicidad y puede que intenten con todas sus fuerzas hacerse un lugar en ese mundillo al que poca gente llega finalmente. Para otros, el mundo del espectáculo es un sueño, es arte, es una forma de expresarse y de llegar a la gente para hacerles sentir mejor durante unas horas y que olviden sus problemas diarios. Hay personas que sueñan con actuar desde pequeños, lo llevan en la sangre y necesitan esa forma de vida para subsistir. Entre estos últimos tenemos a Alec y Carolina, dos actores que llevan años queriendo cumplir su sueño. Les surge la oportunidad con el proyecto de una adaptación al cine del libro de «Coincidence», una historia policíaca con escenas eróticas más que comprometedoras. Los dos tienen sus vidas hechas fuera de la pantalla: Carolina está saliendo con un famoso y atractivo actor español con el que va a irse a vivir muy pronto y Alec tiene hecha su vida en Nueva York, junto con su esposa y futura madre de su hijo. Pero cuando el verdadero amor llega, da lo mismo que tu vida ya esté organizada por completo. Te desequilibra, te vuelve todo patas arriba y hace que incluso en el más puro desorden, no pierdas la sonrisa. Aunque a veces puede que no todo sea como parece que es...",
+	"contributor": null,
+	"date": "2016-10-26T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 163968,
+	"unique_words": 13033,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0475255721686674,
+		"slope": 0.6201738961172191,
+		"std_error_intercept": 0.137976962632805,
+		"std_error_slope": 0.012481469389536993
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e017350612971243b5ba"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/Maybe_ Always (61192)/Maybe_ Always - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "Maybe: Always",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Cuando los actores protagonistas de una de las más controvertidas películas del mercado terminan un rodaje de ese tipo, sus vidas no vuelven a ser las mismas. Más aún si sus vidas personales se han visto implicadas como les ha pasado a Alec y Carolina. Meses de nuevos proyectos, de dudas, de presiones laborales y problemas personales que han surgido a lo largo del rodaje. Y al finalizarlo no ha mejorado. Cuando la confianza debería de ser la base entre ellos, todo tipo de problemas surgen entre Alec y Carol, haciendo que duden de sí mismos y de lo que creían sentir por el otro. Puede que la espera hasta la promoción y estreno de 'Coincidence' sea demasiado larga para que una relación se mantenga intacta pero ellos tienen algo que pocos pueden tener: El verdadero amor está de su parte. Aunque, ¿eso será suficiente?",
+	"contributor": null,
+	"date": "2016-06-30T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 119854,
+	"unique_words": 10182,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.2966461567650636,
+		"slope": 0.5939761352760335,
+		"std_error_intercept": 0.0429521408830621,
+		"std_error_slope": 0.003983731253091392
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e01c350612971243b5bb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/Maybe_ Babe (61721)/Maybe_ Babe - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "Maybe: Babe",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Los protagonistas de las películas de Coincidence, Carolina y Alec, tienen que enfrentarse al nuevo rodaje sin saber siquiera cómo van a desarrollarse las cosas entre ellos. Alec dejó tiempo a Carolina para que pensara si todo lo que estaban pasando merecía la pena y se encuentran en el rodaje de la segunda parte de Coincidence sin tener claro si van a darse una nueva oportunidad. Nuevos personajes, nuevos problemas y una gran intensidad de sentimientos que deberán manejar sin que los fans y la prensa sepan sobre todo ello. ¿Pueden seguir confiando en tener algo como pareja o se tendrán que limitar a ser compañeros de rodaje? ¿El amor lo puede todo o pesará más la opinión pública y los deberes ya adquiridos? ¿Qué futuro les puede esperar a ambos si toman una decisión equivocada? Y es que a veces nuestra vida cambia con una decisión que no pensábamos siquiera que fuera importante. Una decisión que depende sólo de ellos y que tiene que ser tomada con rapidez.. Porque es en esos momentos cuando se sabe realmente cómo es una persona y qué se puede esperar de ella. ¿Qué podrán esperar Alec y Carol el uno del otro? ¿Amor incondicional para toda la vida o una gran decepción que jamás podrá ser reparada?",
+	"contributor": null,
+	"date": "2016-06-30T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 90986,
+	"unique_words": 8358,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.847661328958457,
+		"slope": 0.6291448827528641,
+		"std_error_intercept": 0.04665989038359222,
+		"std_error_slope": 0.004424273761371238
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e021350612971243b5bc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/Maybe_ Umbrella (61409)/Maybe_ Umbrella - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "Maybe: Umbrella",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Carol y Alec tuvieron que separarse en una difícil situación. El hijo que creían estar esperando no pudo llegar a ser, y ha sido un duro golpe para ambos. Carol se ha centrado en seguir promocionando Coincidence, asistiendo a cualquier evento que hubiera mientras que Alec no es capaz de salir de casa, ahogándose en su propio dolor. El doloroso recuerdo de Carol y aquel bebé se ha unido al de aquella situación amarga del pasado: Theresa y el bebé que en esa ocasión perdió por no cuidar a ambos. En el tiempo que pasará entre el final de la promoción de Coincidence hasta el rodaje de la segunda parte, su situación cambiará de forma inesperada una y otra vez. Un pacto que amenaza con acabar con la carrera de Alec a cambio de la salvación de Carol, dolor por la separación, dudas, desconfianza... Y toda la maquinaria de la industria del cine junto con la prensa para hacer que toda su vida sea un tremendo rompecabezas que ni los fans ni incluso ellos mismos sean capaces de recomponer. ¿Carol y Alec están destinados a estar juntos o a estar eternamente enamorados en una dolorosa distancia?",
+	"contributor": null,
+	"date": "2016-06-30T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 79637,
+	"unique_words": 8027,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1252042614104405,
+		"slope": 0.6097418291608505,
+		"std_error_intercept": 0.06753044195017525,
+		"std_error_slope": 0.0064721128960895935
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e028350612971243b5bd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/What if (61247)/What if - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "What if",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Laura tiene treinta años. Es periodista en la sección de política, vive en Salamanca y sale de vez en cuando a tomar algo con las amigas. ¿Pareja? A veces, pero el amor no está hecho precisamente para ella. En la actualidad ya no existe ningún Mr Darcy que aparezca montado a caballo y te pida la mano en la campiña inglesa. No, ahora los hombres no hablan de forma caballerosa, no te tratan como si fueras una princesa, no dicen frases románticas, no se te para el corazón nada más que aparecen ante ti... Excepto... A Laura sí que se le paraliza el corazón con alguien. Alguien que es una mezcla entre Mr Darcy y el Capitán Vonn Trapp. Alguien que no habla con ella salvo convencionalismos, que no se ha fijado en ella en más de diez años y que es el hombre más atractivo, misterioso y frío de cuantos conoce. Y sin embargo Laura lleva enamorada de él desde los diecisiete. Ella sigue con su vida amorosa estancada por completo mientras que él está casado y es padre de una niña. Todo está perdido desde un principio y sin embargo Laura es incapaz de olvidarse de él. Pero... Y si...",
+	"contributor": null,
+	"date": "2015-10-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 132674,
+	"unique_words": 11740,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.204047992487535,
+		"slope": 0.608367092533995,
+		"std_error_intercept": 0.05121805156141131,
+		"std_error_slope": 0.004711949753953606
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e037350612971243b5be"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/What if_ Always (61473)/What if_ Always - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "What if: Always",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Las cosas no han ido demasiado bien desde que Laura y Jorge volvieron de Escocia. Ella intenta superar lo sucedido como puede, mientras que Jorge necesita que Laura se comunique con él y le diga cómo puede ayudar a que se sienta mejor. Pero Laura no aguanta la presión y siente que tomó una decisión equivocada al elegir a Jorge en vez de a Enrique. Puede que la vida sencilla en estos precisos momentos sea lo que más necesita. ¿Y si ella no es capaz de soportar la vida aristocrática que tendría que aguantar si sigue con Jorge? ¿Y si el constante contacto con Enrique en su nuevo trabajo como corresponsal en el Europarlamento hace que las cosas entre ellos funcionen mejor que con Jorge? ¿Y si el amor platónico es solamente eso y Laura tiene que comenzar a vivir en la vida real? Pero, ¿y si Jorge renunciara a todo, a su legado familiar, a su fortuna y sus títulos, para poder estar con Laura?",
+	"contributor": null,
+	"date": "2015-10-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 242648,
+	"unique_words": 15294,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1803078693271067,
+		"slope": 0.6013166752689247,
+		"std_error_intercept": 0.040748680929973496,
+		"std_error_slope": 0.0035740938366317725
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e048350612971243b5bf"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/What if_ With me (61211)/What if_ With me - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "What if: With me",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Una nueva vida les espera en Londres a Jorge, Laura y la pequeña Noelia. Un nuevo trabajo, nuevas costumbres y nuevos miembros de la familia en camino. Y sin embargo, el pasado atenaza con aparecer de la forma más dolorosa posible. Un pasado que Jorge pensó que nunca podría afectar a su nueva vida. Y cuando intente proteger a su familia de los peligros a los que por ello se enfrentan, puede que no esté haciendo más que llevarles cada vez más al abismo. Pero Jorge daría su propia vida por salvarles, y precisamente eso es a lo que puede llegar cuando alguien ama de la forma en la que lo hace él mismo.",
+	"contributor": null,
+	"date": "2015-10-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 270369,
+	"unique_words": 16193,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0632493794277447,
+		"slope": 0.6104608772799894,
+		"std_error_intercept": 0.07779719264899859,
+		"std_error_slope": 0.0067663373031806385
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e04f350612971243b5c0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana L. S. Swift/What if_ You (61183)/What if_ You - Adriana L. S. Swift.epub",
+	"creator": "Adriana L. S. Swift",
+	"title": "What if: You",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Nunca ha sido fácil para Laura mantener una relación. Puede que por eso saliera huyendo de los problemas, dejando a Jorge destrozado por ello. Aunque esta vez es diferente. Ella sabe que lo es. No puede olvidarle. Enrique Guzmán, uno de esos políticos españoles de la nueva generación, arrogante, presuntuoso y seguro de sí mismo, es el candidato perfecto para que Laura pase página. Hace años se conocieron en una manifestación y parece que ninguno de los dos se ha olvidado. Un enfrentamiento dialéctico en una rueda de prensa, una entrevista, unos vasos de sangría... Pero, por supuesto, las cosas no van a ser sencillas. Laura tendrá que elegir entre su amor platónico o el amor que le haría todo más sencillo. A su vez, Jorge deberá confesar algo a Laura que puede que haga que la pierda para siempre. Pero no puede seguir ocultando ciertos secretos, sobre todo si quiere recuperarla. Tiene que correr el riesgo de perderla si quiere intentar mantenerla con él de por vida. Y conociendo a Laura, ese riesgo es demasiado elevado...",
+	"contributor": null,
+	"date": "2015-10-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 107281,
+	"unique_words": 9961,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1734995290634527,
+		"slope": 0.6073340035138611,
+		"std_error_intercept": 0.021266009552430853,
+		"std_error_slope": 0.001989963868986145
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e051350612971243b5c1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Loaiza/Como sobrevivir a mi jefe (82838)/Como sobrevivir a mi jefe - Adriana Loaiza.epub",
+	"creator": "Adriana Loaiza",
+	"title": "Cómo sobrevivir a mi jefe",
+	"subject": "Ensayo",
+	"publisher": null,
+	"description": "En este libro se analiza la relación con los jefes y la situación en la que toda persona se enfrenta al seguir las órdenes de sus superiores. Los jefes, como toda la gente, tienen su lado bueno. Se trata encontrar ese lado bueno para verlo como lo que es: un ser humano imperfecto y necesitado. Si se logra hacer esto, se podrá tener una mejor actitud y ello se reflejará en el trabajo y trato hacia a cada uno. Además, este libro es para las personas que desean tomar el control de sus vidas, hacerse responsables de sus acciones y todos aquellos que desean –con su presente- construir un mejor futuro.",
+	"contributor": null,
+	"date": "2015-04-29T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 38723,
+	"unique_words": 6814,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6573198986041324,
+		"slope": 0.6784945438929808,
+		"std_error_intercept": 0.04075800569362099,
+		"std_error_slope": 0.004138103434366117
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e057350612971243b5c2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Mather/Asi se cuelga a una bruja (77487)/Asi se cuelga a una bruja - Adriana Mather.epub",
+	"creator": "Adriana Mather",
+	"title": "Así se cuelga a una bruja",
+	"subject": "Juvenil",
+	"publisher": null,
+	"description": "Odio ancestral y un misterio que impregnan una historia increíble en Salem.Salem, Massachusetts, es la ciudad en la que tuvieron lugar los infames juicios contra las brujas, y también es el nuevo hogar de Samantha Mather, que recién llegada de Nueva York junto a su madrastra, no es recibida precisamente con los brazos abiertos. Sam es descendiente de Cotton Mather, uno de los responsables de aquellos juicios y, casi de inmediato, se convierte en la enemiga de Las Descendientes. Y adivinad quiénes fueron sus antepasadas...Por si eso fuera poco, Sam se enfrentará cara a cara con un fantasma de verdad (aunque sea alguien técnicamente muerto). Atractivo y con mal genio, quiere que Sam deje de tocar sus cosas. Además, Sam descubrirá pronto que ella misma es el centro de una maldición centenaria que afecta a todo aquel que tiene alguna relación con los juicios.",
+	"contributor": null,
+	"date": "2017-04-05T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 110897,
+	"unique_words": 11444,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.052572103132958,
+		"slope": 0.6272235237558331,
+		"std_error_intercept": 0.029355929045648446,
+		"std_error_slope": 0.002739685773952696
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e059350612971243b5c3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Paramo Moguel/Un abrazo al corazon (72636)/Un abrazo al corazon - Adriana Paramo Moguel.epub",
+	"creator": "Adriana Páramo Moguel",
+	"title": "Un abrazo al corazón",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "¿Has estado triste por mucho tiempo? ¿Sigues recordando una traición que te hicieron hace muchos años? ¿Sientes que has postergado todas tus metas? ¿Vas como un barco a la deriva? Lo primero que debes saber es que no eres la única persona que ha experimentado estos sentimientos. La tristeza, envidia, rencor y pereza pueden desgastarnos e impedirnos vivir de forma placentera. Aquí encontrarás las cápsulas con las que la autora brinda un abrazo a nuestro corazón y se acerca a nosotros para reflexionar sobre la vida, sin prejuicios ni verdades ocultas.",
+	"contributor": null,
+	"date": "2012-04-23T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 28207,
+	"unique_words": 5144,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.891481439916805,
+		"slope": 0.6503978500357854,
+		"std_error_intercept": 0.0456054872783874,
+		"std_error_slope": 0.004746868603584607
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e05b350612971243b5c4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Rangel/Recuerdame (41797)/Recuerdame - Adriana Rangel.epub",
+	"creator": "Adriana Rangel",
+	"title": "Recuérdame",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "El amor a veces no es como lo esperamos. A veces se llena de ilusiones y termina en desengaño. Caroline Robins siempre había creído en Zachary Gibbs y en aquellas promesas que él le había hecho cuando ambos eran simples niños. Sin embargo, el tiempo le había hecho ver algo diferente cuando había regresado a aquel lugar donde se habían conocido, haciéndole ver que aquella realidad que se colocaba en frente de sus ojos, no era realmente la que esperaba. ¿Y Zachary? ¿Qué había sido para él? El tiempo no es justo cuando las verdades caen, golpeando fuertemente. ¿Podría haber una segunda oportunidad cuando el amor llega de nuevo a la puerta? ¿Sería justa la vida cuando el arrepentimiento es sincero?",
+	"contributor": null,
+	"date": "1999-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 41597,
+	"unique_words": 4664,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7299406213691602,
+		"slope": 0.6316876864657035,
+		"std_error_intercept": 0.05403982946116125,
+		"std_error_slope": 0.005455574359599173
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e05d350612971243b5c5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Rangel/Te ame primero (61260)/Te ame primero - Adriana Rangel.epub",
+	"creator": "Adriana Rangel",
+	"title": "Te amé primero",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Harry Barlow es un chico que se ha criado en un hogar donde no predomina el amor, sino las cosas materiales. Según sus padres, el valor de las personas surgen según lo que tú tienes. Y está harto de esa vida que ha tenido que vivir junto a ellos, por lo que se ha hecho un rebelde. Es expulsado en el colegio que ellos le han obligado estudiar, haciendo que sus padres quieran deshacerse de él y enviarlo a un internado lejos de ellos. Solo que es salvado por su tía que vive en Venezuela, que a pesar de la distancia, tiene fe en él. Y sólo quiere ayudarle cuando le pide a su hermana que lo envié a Venezuela como castigo. Andrea Guzmán, es una chica tímida que vive en Venezuela y tiene a una familia maravillosa. Aún recuerda aquella experiencia que tuvo de niña cuando tuvo que conocer al primo de su mejor amiga, que por cierto, resulto ser un niño grosero y distante, y el cual pensó que jamás volvería a ver. ¿Qué sucederá entre ellos cuando la vida les dé una oportunidad de verse frente a frente de nuevo?",
+	"contributor": null,
+	"date": "2013-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 32457,
+	"unique_words": 4424,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8040744158243476,
+		"slope": 0.6340588843355304,
+		"std_error_intercept": 0.07186243492416121,
+		"std_error_slope": 0.007398383694969487
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e05f350612971243b5c6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Reinking/Amores extra y extraordinarios (77667)/Amores extra y extraordinarios - Adriana Reinking.epub",
+	"creator": "Adriana Reinking",
+	"title": "Amores extra y extraordinarios",
+	"subject": "Psicología",
+	"publisher": null,
+	"description": "A lo largo de las páginas de este libro, resulta imposible no cuestionarse sobre el amor, el matrimonio y buscar respuestas a las historias de miles de personas, que amándose real y profundamente sucumben ante el aburrimiento y la cotidianidad. ¿Cómo es posible que parejas con más de 20 años de unión se separen o se pongan los cuernos, cuando se habían jurado amor eterno? ¿Qué sucede con las promesas de fidelidad que hacemos estando enamorados y la facilidad con que las rompemos a pesar del dolor que le podemos causar a quién confía en nosotros? ¿Por qué no se permite amar a más de una persona libremente, cuando está comprobado que no todos los cerebros están diseñados para que se les facilite la fidelidad y la monogamia? Estas son algunas preguntas que, tal vez, encuentren respuesta ante las reflexiones de Adriana, quien se muestra absolutamente decidida a abrirnos los ojos, compartiendo su coherente forma de pensar y vivir, haciéndolo de forma totalmente honesta.",
+	"contributor": null,
+	"date": "2015-06-22T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 54179,
+	"unique_words": 7168,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4637835594547586,
+		"slope": 0.6808366697207288,
+		"std_error_intercept": 0.07758562394197985,
+		"std_error_slope": 0.007669292098438737
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e063350612971243b5c7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Rubens/Detras de la mascara (48122)/Detras de la mascara - Adriana Rubens.epub",
+	"creator": "Adriana Rubens",
+	"title": "Detrás de la máscara",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "La Revolución industrial ha convertido a Londres en una ciudad de grandes desigualdades económicas y sociales. Kathleen Sweeney nació en Whitechapel, uno de los barrios más pobres. Se habría convertido en lo que muchos considerarían una «rata de alcantarilla», si no hubiera sido por un giro inesperado del destino, que ha hecho de ella la prometida del marqués de Dunmore. Pero un nuevo imprevisto amenaza con ensombrecer su porvenir: acaba de recibir en herencia el Jardín Secreto, un exclusivo prostíbulo.A Nicholas Richmond, marqués de Dunmore, la vida lo ha bendecido desde la cuna. Nacido en el seno de una de las familias más poderosas del país, está acostumbrado a que todo el mundo le rinda pleitesía. Se enorgullece de ser un hombre frío, que mantiene todos sus sentimientos controlados… hasta que el beso de una inocente muchacha se convierte en su obsesión y una misteriosa mujer enmascarada termina por robarle el corazón.¿Podrá su amor vencer los prejuicios sociales y sobrevivir a los peligros que acechan desde Whitechapel?",
+	"contributor": null,
+	"date": "2016-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 78288,
+	"unique_words": 10572,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.752416638253071,
+		"slope": 0.6683853328687981,
+		"std_error_intercept": 0.08450337277870461,
+		"std_error_slope": 0.008109931687522779
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e069350612971243b5c8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Rubens/Detras de tu mirada (79647)/Detras de tu mirada - Adriana Rubens.epub",
+	"creator": "Adriana Rubens",
+	"title": "Detrás de tu mirada",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Lady Samantha Richmond es una dama poco común. No solo por su singular belleza sino por el interés que tiene en ejercer una profesión: ser periodista. Un empleo poco usual para una mujer a finales del siglo XIX y completamente descabellado para la hija de un duque. Sabedor de que la joven no va a dejar que nadie la detenga en sus aspiraciones, su padre, Nathaniel Richmond, duque de Bellrose, decide contratar los servicios de la mejor empresa de seguridad de Londres para protegerla mientras trabaja.Connor MacDunne ha sobrevivido a una infancia dura y todavía sufre pesadillas por ello, pero está decidido a dejar atrás su pasado. Su vida da un giro inesperado cuando decide fundar los Blueguards, una empresa de seguridad y vigilancia que colabora con Scotland Yard en la lucha contra el crimen y en la caza de un asesino que está asolando Whitechapel: Jack el destripador. Cuando decide aceptar el encargo que le encomienda el duque de Bellrose para proteger a su hija, sabe que ese trabajo le aportará mucho prestigio y beneficios, lo que no espera es que la muchacha se convierta en el mayor reto al que se ha enfrentado en su vida.",
+	"contributor": null,
+	"date": "2018-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 107143,
+	"unique_words": 12267,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9543659522028227,
+		"slope": 0.646072737823231,
+		"std_error_intercept": 0.10164527784972309,
+		"std_error_slope": 0.009512402867603534
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e06e350612971243b5c9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Rubens/La manzana de Eva (66074)/La manzana de Eva - Adriana Rubens.epub",
+	"creator": "Adriana Rubens",
+	"title": "La manzana de Eva",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "Adán y Eva son dos amigos que dirigen Pecado Original, una singular peluquería situada en el barrio de Chueca, en Madrid, apoyados económicamente por Laura, la prima de Eva.Para cubrir la baja de uno de sus peluqueros, Eva decide contratar a Max, un atractivo italiano que se presenta en la peluquería en busca de trabajo, sin saber que a quien está contratando en realidad es a Massimo Valenti, propietario de un imperio de peluquerías en Italia, y dueño también de la peluquería que tienen enfrente y que es su competidora más directa.Max se infiltra en Pecado Original dispuesto a averiguar el secreto de su éxito, pero todo se vuelve del revés cuando la atracción que siente por la propietaria se convierte en algo más.¿Podrá hacer entender a Eva que lo que empezó como una mentira se ha convertido en un sentimiento muy real?",
+	"contributor": null,
+	"date": "2016-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 94357,
+	"unique_words": 10903,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.874711807205861,
+		"slope": 0.6496678794089646,
+		"std_error_intercept": 0.09543094067620801,
+		"std_error_slope": 0.009022372159210527
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e075350612971243b5ca"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Rubens/La tentacion de Adan (70523)/La tentacion de Adan - Adriana Rubens.epub",
+	"creator": "Adriana Rubens",
+	"title": "La tentación de Adán",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "¿Adán es gay?Teniendo en cuenta que trabaja de peluquero en Chueca, que ha sido portada de una conocida revista gay, y que vive con un chico llamado Luis, con el que se rumorea que tienen algo más que amistad, parece que la respuesta es clara. A pesar de eso, Laura lo ha convertido en el protagonista de sus fantasías eróticas.Lo peor de todo es que, cada vez que se encuentra con él, siente que saltan chispas. ¿Son imaginaciones suyas o es deseo lo que ve en sus ojos azules cuando la mira?¿Qué esconde Laura?Adán es un hombre que ha luchado desde pequeño por mantenerse fiel a sí mismo. Por eso, no entiende cómo una chica joven y atractiva puede dejar que su abuelo controle su vida, convirtiéndola en la encarnación de la señorita Rottenmeier, con una apariencia fría y controlada que lo saca de quicio desde el primer momento. Lo más desconcertante es que, de vez en cuando, una chispa de vida ilumina sus ojos con tanta intensidad que le hace desear deshacerle el moño hortera que siempre lleva… y dejarse enredar por sus cabellos de fuego.¿Conseguirá desvelar sus secretos antes de caer en la tentación?",
+	"contributor": null,
+	"date": "2017-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 92744,
+	"unique_words": 10865,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6817458566642056,
+		"slope": 0.6673973875331491,
+		"std_error_intercept": 0.08186378568283935,
+		"std_error_slope": 0.007750395023091081
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e07a350612971243b5cb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Rubens/Mi nombre es Pecado (61892)/Mi nombre es Pecado - Adriana Rubens.epub",
+	"creator": "Adriana Rubens",
+	"title": "Mi nombre es Pecado",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "Cuando Sonia le ofrece a su amiga Sinclair una sustanciosa suma de dinero para que la sustituya como traductora en un evento en Barcelona, Sin acepta sin dudar. Noah Grayson, su cliente VIP, resulta ser un apuesto ejecutivo y una chispa de deseo brota de inmediato.Pronto Sin descubre que de ella se esperan más servicios que el de mera traductora, y a su desconcierto se unen las complicaciones de una serie de secretos que salen a la luz y la confusión por la suplantación de identidad de su amiga. En esas circunstancias, la relación de Noah y Sin no parece ir por buen camino… hasta que él la rescata de la situación más peligrosa en la que se ha visto envuelta en toda su vida.",
+	"contributor": null,
+	"date": "2016-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68837,
+	"unique_words": 9188,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7974567406771298,
+		"slope": 0.6592299787941676,
+		"std_error_intercept": 0.07240892940755071,
+		"std_error_slope": 0.007021402266987151
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e080350612971243b5cc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Trigiani/Lucia, Lucia (76164)/Lucia, Lucia - Adriana Trigiani.epub",
+	"creator": "Adriana Trigiani",
+	"title": "Lucía, Lucía",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Nueva York, década de los cincuenta. Lucia Sartori tiene veinticinco años, es hija de un próspero inmigrante italiano y vive en el corazón de Greenwich Village. La joven parece tenerlo todo: un buen trabajo como modista en los prestigiosos almacenes B. Altman &amp; Co. De la Quinta Avenida, una familia que la quiere, unas amigas con las que compartir buenos ratos y un prometido. Lucia disfruta de las reuniones familiares, las salidas con sus amigas, las charlas con su jefe, el diseñador Delmarr, las fiestas de barrio en Little Italy o las noches de jazz en el hotel Carlyle. Sin embargo, el tiempo pasa, la presión social que espera de ella matrimonio e hijos aumenta, y Lucia se ve ante el dilema de casarse -lo que supondría ejercer exclusivamente de su esposa- o continuar con su trabajo y sus sueños. Para escándalo de muchos, elegirá su independencia, y aunque la ruptura de las convenciones sociales deje inevitablemente secuelas, saldrá adelante.",
+	"contributor": null,
+	"date": "2004-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 114650,
+	"unique_words": 12572,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9525408199101617,
+		"slope": 0.6443249508316083,
+		"std_error_intercept": 0.05557064361590251,
+		"std_error_slope": 0.005172408459930315
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e086350612971243b5cd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Trigiani/Todo empezo aquel verano (27342)/Todo empezo aquel verano - Adriana Trigiani.epub",
+	"creator": "Adriana Trigiani",
+	"title": "Todo empezó aquel verano",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Estamos en 1978, y Ave María Mulligan, de treinta y cinco años, es la solterona por vocación de Big Stone Gap, un pequeño y aislado pueblo de las montañas Apalaches, en Virginia. Como farmacéutica local, Ave María ha sido durante años la depositaria de los secretos de sus vecinos, pero ahora descubrirá un escándalo que su madre le ha ocultado hasta su muerte y que trastornará para siempre su apacible existencia. En aquel verano, la vida de Ave María se convierte en un torbellino de acontecimientos: deberá decidirse entre dos propuestas de matrimonio, al tiempo que lidia con un feroz conflicto familiar, dirige el grupo de teatro local, planea un trascendental viaje al Viejo Continente y ayuda a su mejor amiga a organizar un espectáculo en honor de Elizabeth Taylor, quien acompaña a su marido durante la campaña electoral al senado. Una novela pletórica de amor y risas, que transmite el placer de las historias cotidianas a la vez que extraordinarias, cuya lectura continuará disfrutándose en la imaginación durante mucho tiempo.",
+	"contributor": null,
+	"date": "2001-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "pt",
+	"word_count": 120182,
+	"unique_words": 13033,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9603354789806253,
+		"slope": 0.6463360717480376,
+		"std_error_intercept": 0.1298753703792385,
+		"std_error_slope": 0.01204302635020045
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e08c350612971243b5ce"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Trigiani/Un tiempo para pensar (27343)/Un tiempo para pensar - Adriana Trigiani.epub",
+	"creator": "Adriana Trigiani",
+	"title": "Un tiempo para pensar",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Continúa la saga protagonizada por Ave María Mulligan a partir de su boda y el nacimiento de su hija Etta. Tras la aparente placidez de su nueva vida de ama de casa, la protagonista está viviendo momentos de gran inquietud. El cierre de las minas amenaza el empleo de su esposo, su hija está creciendo, y por si fuera poco, Eva María se está viendo cada vez más atraída por su mejor amigo.",
+	"contributor": null,
+	"date": "2003-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 110707,
+	"unique_words": 12018,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.281325207130476,
+		"slope": 0.6144901006741628,
+		"std_error_intercept": 0.08312498048231884,
+		"std_error_slope": 0.007758822844238106
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e096350612971243b5cf"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Trigiani/Valentine, Valentine (75924)/Valentine, Valentine - Adriana Trigiani.epub",
+	"creator": "Adriana Trigiani",
+	"title": "Valentine, Valentine",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "En esta saga contemporánea, la compañía Angelini Shoe, fabricantes de zapatos de boda por encargo desde 1903, es una de las últimas empresas familiares de Greenwich Village. Al borde de la bancarrota, recae en Valentine Roncalli, la talentosa aunque confiada aprendiz de treinta y tres años, la responsabilidad de introducir el viejo negocio artesano en el siglo XXI. Compaginando como puede su relación romántica con el apuesto chef Roman Falconi, su deber para con su familia y un concurso de diseño para unos prestigiosos grandes almacenes, Valentine acompaña a su abuela y maestra artesana, Teodora, a Italia con la esperanza de encontrar inspiración. Allí, en Tuscany y en la isla de Capri, descubrirá su vocación artística y mucho más, transformando su vida en formas que jamás habría esperado.",
+	"contributor": "Roberto A. Frías Llorens",
+	"date": "2008-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 150204,
+	"unique_words": 16327,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0718065830438523,
+		"slope": 0.6422893819680442,
+		"std_error_intercept": 0.12033804451613668,
+		"std_error_slope": 0.010961956173541404
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e09a350612971243b5d0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana W. Hernandez/Antes de ser mia & Despues de ser mia (61401)/Antes de ser mia & Despues de ser mia - Adriana W. Hernandez.epub",
+	"creator": "Adriana W. Hernández",
+	"title": "Antes de ser mía & Después de ser mía",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Ronald y Chris son dos hermanos millonarios, jóvenes y atractivos los cuales se les llueven las mujeres. Ronald es retirado del FBI hasta que llega el dia en que lo llaman para hacer la última misión: Ha aparecido el responsable de la muerte de sus comoañeros y él aceptará este cometido sin saber que una mujer será la clave de todo. erotismo, intriga, pasión, engaño y suspenso.. Chris es un deportista, negociante magnate. Tiene al frente la administración de las empresas y lleva a cuestas el conflicto entre su tio y su hermano. Chris quiere sentar las bases para un futuro, pero a su vida llega una mujer que lo saca de todo patrón, una que lo pone de patas arriba... Dos libros en uno, edición especial.",
+	"contributor": null,
+	"date": "2015-09-22T21:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 69107,
+	"unique_words": 9336,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8768062268802168,
+		"slope": 0.6531047214445104,
+		"std_error_intercept": 0.05607920294073213,
+		"std_error_slope": 0.005436219758184777
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0a3350612971243b5d1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana W. Hernandez/Coleccion romance (46936)/Coleccion romance - Adriana W. Hernandez.epub",
+	"creator": "Adriana W. Hernández",
+	"title": "Colección romance",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Una colección de los best sellers de romance y suspenso de la autora. 5 libros en uno. Contiene las siguientes novelas: Más allá de todo, Bajo la lluvia de Berlín, Cita con un extraño, Lo que dejamos atrás y Entre mi corazón y tu alma.",
+	"contributor": null,
+	"date": "2015-11-13T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 164291,
+	"unique_words": 15886,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.937829285090429,
+		"slope": 0.6469752487624376,
+		"std_error_intercept": 0.07592752660788174,
+		"std_error_slope": 0.006867368886665774
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0a6350612971243b5d2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana W. Hernandez/Condenado a tu amor (59628)/Condenado a tu amor - Adriana W. Hernandez.epub",
+	"creator": "Adriana W. Hernandez",
+	"title": "Condenado a tu amor",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Camila pierde a su familia a raíz de una denuncia a los maltratos de su padre. Ahora debe sobrevivir sola en el Bronx con un trabajo de porquería. Sin embargo algo ocurre que le hace aceptar una oferta no muy decente para poder hacer realidad sus sueños, una que le lleva a conocer a dos hombres, uno que paga lo que sea por su presencia y el otro que se pierde en sus ojos y pelea a toda costa por estar a su lado.... Hay un misterio en la vida de ambos hombres, algo que Camila no sospecha...Cuando se entere de la maraña, deberá o rendirse o elegir. Pasión, drama e intrigas y además unos personajes increíbles que rodean a este trío. No te pierdas este primer libro de la bilogía Condenado a tu amor.",
+	"contributor": null,
+	"date": "2016-07-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 43991,
+	"unique_words": 6473,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0563520480410906,
+		"slope": 0.6290096216157878,
+		"std_error_intercept": 0.03499173415982389,
+		"std_error_slope": 0.0035169050479610876
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0a7350612971243b5d3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana W. Hernandez/Las sombras de mi pasado (61447)/Las sombras de mi pasado - Adriana W. Hernandez.epub",
+	"creator": "Adriana W. Hernández",
+	"title": "Las sombras de mi pasado",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Charleen ha tenido una vida llena de desgracias. Cuando decide hacer un análisis de su pasado, descubre cosas que no sabía y que ha afectado su árbol genealógico. Debe solucionarlo para evitar que sigan ocurriendo cosas extrañas a su alrededor. Su futuro dependerá de descubrir el secreto y las personas que pueden ayudarla a salvarse a sí misma.... Un psicólogo, una amiga y un grupo. Ellos forman parte del futuro y la felicidad de ella. ¿Podrá conocer la historia familiar y el secreto que no ha permitido que sea feliz? ¿Se rendirá en una depresión? ¿Encontrará el amor de su vida?",
+	"contributor": null,
+	"date": "2013-12-20T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 24608,
+	"unique_words": 5315,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6023634606467634,
+		"slope": 0.6902658195388386,
+		"std_error_intercept": 0.043480751893005806,
+		"std_error_slope": 0.004573717793497911
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0a9350612971243b5d4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana W. Hernandez/Pasaje para dos (61264)/Pasaje para dos - Adriana W. Hernandez.epub",
+	"creator": "Adriana W. Hernández",
+	"title": "Pasaje para dos",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "Sarah tiene una amiga que, cansada de verla tener una vida aburrida y rutinaria, le regala un pasaje para que tenga el mejor fin de semana. Lo que ella no sabe es que será el mejor y el peor. Dos hombres, sol, arena, mar. Mucho erotismo y varias sorpresas le esperan a Sarah. Una historia de romance, erotismo contemporáneo.",
+	"contributor": null,
+	"date": "2014-01-16T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 23435,
+	"unique_words": 4765,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5814188780217369,
+		"slope": 0.685973091911454,
+		"std_error_intercept": 0.10505263750816991,
+		"std_error_slope": 0.01109179358587456
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0aa350612971243b5d5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana W. Hernandez/Que seas siempre mio (61384)/Que seas siempre mio - Adriana W. Hernandez.epub",
+	"creator": "Adriana W. Hernández",
+	"title": "Que seas siempre mío",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Valeria está a punto de cumplir los 30 y sus amigas están preocupadas porque es la única soltera del grupo. A Valeria no le faltan los atributos ni los enamorados, pero ha tenido mala suerte en el amor. Todos, incluyendo sus padres, le vaticinan que se quedará solterona si no consigue a alguien. Pero todo se agrava cuando la última de sus amigas le proponen matrimonio, es entonces cuando cae en el punto de que debe buscarse a alguien ya. Todo lo que tiene que pasar para tener una cita de verdad es increíble, y encima entiende que debe complacer a todo su círculo pro cupido. Descubre lo que debe pasar esa mujer para decir: QUE SEAS SIEMPRE MIO. Erotismo, romance, una novela divertida.",
+	"contributor": null,
+	"date": "2014-07-16T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 17673,
+	"unique_words": 3794,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6554563272017844,
+		"slope": 0.6737887449951416,
+		"std_error_intercept": 0.03539781924431882,
+		"std_error_slope": 0.003817834006730225
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0ac350612971243b5d6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana W. Hernandez/Un encuentro con mi jefe (61299)/Un encuentro con mi jefe - Adriana W. Hernandez.epub",
+	"creator": "Adriana W. Hernández",
+	"title": "Un encuentro con mi jefe",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Después que los directivos de una de las mejores publicitarias de Miami quedaran expuestos por un escándalo sexual, la empresa debe renovarse, es entonces que surge una nueva directiva que es dirigida por la presidenta tras las rejas. Dos personas que se mantenían en el anonimato, pasan a tener puestos muy importantes y regresa alguien que dejó huellas en aquél escándalo. ¿Qué pasará cuando se mezcle el pasado, el presente, los intereses sexuales y económicos?",
+	"contributor": null,
+	"date": "2013-08-08T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 31587,
+	"unique_words": 5882,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9200386152268543,
+		"slope": 0.6525288286549606,
+		"std_error_intercept": 0.07474739890935783,
+		"std_error_slope": 0.007711679933494507
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0ac350612971243b5d7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriana Zuleta Franco/63 recetas light ricas y rapidas (46439)/63 recetas light ricas y rapidas - Adriana Zuleta Franco.epub",
+	"creator": "Adriana Zuleta Franco",
+	"title": "63 recetas light ricas y rápidas",
+	"subject": "Cocina",
+	"publisher": null,
+	"description": "63 Recetas Light Ricas y Rápidas Planeadas para personas que quieren conservar la figura o bajar de peso comiendo delicioso. ¡Verificadas! • Preparadas con ingredientes sanos, nutritivos, económicos y fáciles de conseguir en cualquier mercado. • Gran variedad de opciones para combinar menús: entradas, platos principales, acompañamientos, ensaladas, tortas, salsas, aderezos y hasta postres que ¡cuidan la figura! • Tips para transformar recetas corrientes en comidas bajas en calorías.",
+	"contributor": null,
+	"date": "2013-12-26T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 7559,
+	"unique_words": 1558
+},
+{
+	"_id": {
+		"$oid": "5ed3e0b1350612971243b5d8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adrianne Holt/Alguien como tu (46377)/Alguien como tu - Adrianne Holt.epub",
+	"creator": "Adrianne Holt",
+	"title": "Alguien como tú",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "El primer amor nunca se olvida y eso le queda muy claro a Irina, quien no ha podido superar la muerte de su primer novio, Joshep. Tras cinco años de haber desaparecido de su vida, finalmente decide superarlo, es entonces que el destino la reúne con Scott, un excéntrico adonis millonario, ocho años mayor que ella a quien conoció en una cena hace algunos años. Scott Parker es un hombre de mundo, lleno de experiencia capaz de conquistar a cualquier mujer que se proponga fácilmente pero, Irina no es una de ellas. Impresionado por su deslumbrante belleza y juventud se empeñará en hacerla suya a como de lugar, usando sus mejores técnicas de romanticismo y seducción para conquistarla. ¿Podrá esa idealización del hombre perfecto tambalearse ante la aparición de un viejo amor?",
+	"contributor": null,
+	"date": "2015-10-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 78802,
+	"unique_words": 8871,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.114127560885271,
+		"slope": 0.6186812219247159,
+		"std_error_intercept": 0.04449861275085978,
+		"std_error_slope": 0.004268366284807416
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0b5350612971243b5d9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adrianne Holt/Despues de ti (59737)/Despues de ti - Adrianne Holt.epub",
+	"creator": "Adrianne Holt",
+	"title": "Después de ti",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Una mentira puede cambiar el rumbo de tu vida y Nina lo sabe perfectamente. Con 24 años, atrapada en una relación tormentosa y desperdiciando su talento fotográfico en una revista de moda, su vida dista mucho de ser perfecta. Un viaje de negocios la llevará a Praga en donde conocerá a Alexander, un sexy y atractivo striper quien la hará replantearse su vida. Sin embargo, las cosas no son lo que parecen y pronto descubrirá que Alexander no es quién dice ser. Inmersa en una confusión y tras recibir una inesperada invitación a Viena por parte de su familia, el pasado reabrirá viejas heridas haciendo que Nina tome una abrupta decisión. Cuando la verdad salga a la luz y los errores cometidos sean exhibidos solo una pregunta quedará en el aire ¿Hasta dónde estas dispuesto a perdonar?",
+	"contributor": null,
+	"date": "2016-08-27T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 62167,
+	"unique_words": 6539,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.3443540770185973,
+		"slope": 0.5856954712148486,
+		"std_error_intercept": 0.0874034671865175,
+		"std_error_slope": 0.00854512195231397
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0b9350612971243b5da"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adrianne Holt/Primer amor (59808)/Primer amor - Adrianne Holt.epub",
+	"creator": "Adrianne Holt",
+	"title": "Primer amor",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Irina es la hija de un acaudalado abogado. Un hombre intransigente y dominante que se ha ocupado de dirigir la vida de su hija a su antojo. Pero a punto de cumplir la mayoría de edad ella ha decidido dejar de lado la intromisión de su padre en sus decisiones. Lo que parecía un común viaje en metro se transforma en una pesadilla cuando ella se pierde. Es entonces que conoce a Joshep, un atractivo universitario que le ofrece su ayuda y quien se enamora de ella a primera vista. Pero las cosas no son tan sencillas como parecen. El profundo amor que ambos se tienen se verá empañado por la trágica ironía que unen a sus familias. ¿Podrá esta ser capaz de separarlos? O serán capaces de demostrar que el verdadero amor existe y no solo eso, que hay un alma gemela.",
+	"contributor": null,
+	"date": "2015-04-02T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 63709,
+	"unique_words": 7073,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8761735023209138,
+		"slope": 0.632867614094484,
+		"std_error_intercept": 0.09790845452419844,
+		"std_error_slope": 0.009553279894358118
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0be350612971243b5db"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adrianne Holt/Regresa a mi (59615)/Regresa a mi - Adrianne Holt.epub",
+	"creator": "Adrianne Holt",
+	"title": "Regresa a mí",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "El destino no esta escrito...¿Si tuvieras la oportunidad de comenzar de nuevo, lo harías? Han pasado dos años desde que Irina se convirtió en la señora Parker y perdió la oportunidad de huir con el amor de su vida. La constante interrogante de que habría pasado la agobia diariamente a pesar de sus intentos por olvidarlo y seguir adelante sin embargo, le es imposible. La aparente estabilidad que vive al lado de Scott dará un vuelco cuando su inminente ingreso a la política desestabilice su matrimonio. Aunado a eso la reapertura de las investigaciones en torno al asesinato de Norman, destaparán una serie de acontecimientos inesperados. El destino no da tregua, en medio de ese caos un oportuno suceso la reencontrará con Joshep quién le demostrará que cuando existe el amor ni el tiempo, ni las circunstancias pueden ser capaces de mermar ese sentimiento. Decidida a ser feliz ¿Podrá Irina afrontar las consecuencias de sus actos cuando una repentina noticia cambie su perspectiva por completo?",
+	"contributor": null,
+	"date": "2016-05-07T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 88566,
+	"unique_words": 9364,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1000809422601563,
+		"slope": 0.6195629246621992,
+		"std_error_intercept": 0.0548851146723455,
+		"std_error_slope": 0.005215470919852831
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0c2350612971243b5dc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriano Banchieri/Bertoldo, Bertoldino, Y Cacaseno (32244)/Bertoldo, Bertoldino, Y Cacaseno - Adriano Banchieri.epub",
+	"creator": "Adriano Banchieri",
+	"title": "Bertoldo, Bertoldino, Y Cacaseno",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "Bertoldo, Bertoldino y Cacaseno es el título de tres cuentos muy populares escritos por Julio César Croce (los dos primeros) y Adriano Banchieri (el último), publicados por primera vez en una edición única en 1620. Estos relatos retoman cuentos antiguos, en particular la disputa de Salomón y Marcolfo que data de la Edad Media. En el primer cuento se narra la vida, hechos y astucias sutilísimas de Bertoldo en una imaginaria corte de Albuino, rey de los Longobardos, en la ciudad de Verona. Bertoldo es un campesino rústico pero de mente muy aguda, que termina por convertirse en consejero real. Bertoldo tiene una mujer de un entendimiento elevado, Marcolfa, y un hijo bastante estúpido, Bertoldino. El segundo cuento o tratado se refiere a las ridículas simplezas de Bertoldino, hijo del sutil y astuto Bertoldo y las agudas respuestas de Marcolfa, su madre. En el tercer cuento, el de Banchieri, el protagonista es Cacaseno, hijo de Bertoldino, quien al madurar ha adquirido un poco de sentido común. El principio narrativo común a todos los relatos es la contraposición entre la vida simple del campesino y la vida artificiosa y vana de los cortesanos. En la cultura italiana, el nombre Bertoldo ha pasado a connotar una persona rústica aunque sabia y dotada de sentido común.",
+	"contributor": null,
+	"date": "1620-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68859,
+	"unique_words": 11359,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4530886824372415,
+		"slope": 0.7060130790010996,
+		"std_error_intercept": 0.06978141486547093,
+		"std_error_slope": 0.006766473178110301
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0c9350612971243b5dd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriano Petta/!Muerte a los cataros! (74464)/!Muerte a los cataros! - Adriano Petta.epub",
+	"creator": "Adriano Petta",
+	"title": "¡Muerte a los cátaros!",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Montségur, 1243. Las tropas del senescal de Carcasona, Hugues des Arcis, y el obispo de Narbona, Pierre Amiel, se preparan para el asedio del último bastión del catarismo. En pocos meses, la que fue una de las expresiones más refinadas de la razón y la fe cristiana quedará reducida a cenizas y, con ella, las últimas esperanzas de una de las figuras más importantes y enigmáticas del pensamiento occidental, Giordano Nemorario.",
+	"contributor": "Francisco Javier Lorente Puchades",
+	"date": "2009-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 129161,
+	"unique_words": 15640,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6310677564472802,
+		"slope": 0.6852166673015206,
+		"std_error_intercept": 0.1021208021240947,
+		"std_error_slope": 0.009415075231874459
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0d0350612971243b5de"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adriano Petta/La herejia (74451)/La herejia - Adriano Petta.epub",
+	"creator": "Adriano Petta",
+	"title": "La herejía",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Montségur, 1243. Las tropas del senescal de Carcasona, Hugues des Arcis, y el obispo de Narbona, Pierre Amiel, se preparan para el asedio del último bastión del catarismo. En pocos meses, la que fue una de las expresiones más refinadas de la razón y la fe cristiana quedará reducida a cenizas y, con ella, las últimas esperanzas de una de las figuras más importantes y enigmáticas del pensamiento occidental, Giordano Nemorario.La lucha será encarnizada a muerte. El Papa Inocencio III dejó bien clara su decisión de acabar con la herejía cátara para consolidar todo su poder en el orbe cristiano. Con el exterminio de los últimos focos de resistencia, la Iglesia católica se convertirá en la única depositaría de la palabra de Dios y, con ella, del poder de administrarla entre reyes y príncipes. La razón y la libertad están en juego, y nadie podrá evitar su derrota. Sin embargo, Giordano ha urdido un plan que asegurará la victoria final... más allá de la muerte.",
+	"contributor": "Francisco Javier Lorente Puchades",
+	"date": "2007-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 129151,
+	"unique_words": 15640,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.638037637728089,
+		"slope": 0.6846007516472196,
+		"std_error_intercept": 0.10092779854597282,
+		"std_error_slope": 0.009305137416495234
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0d1350612971243b5df"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adrick Tolliver/Muerte en los pozos de esclavos de Lorrd (46706)/Muerte en los pozos de esclavos de Lorrd - Adrick Tolliver.epub",
+	"creator": "Adrick Tolliver",
+	"title": "Muerte en los pozos de esclavos de Lorrd",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "8 meses después de la batalla de Yavin Tash, Zak y su tío Hoole visitan el planeta Lorrd. Parece un lugar excelente para ir de vacaciones… hasta que su camino se cruza con el de unos agentes imperiales dementes que tratan de desencadenar una terrible fuerza del horrible y sangriento pasado de Lorrd.",
+	"contributor": "Javi-Wan Kenobi",
+	"date": "2009-05-31T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 6364,
+	"unique_words": 2044
+},
+{
+	"_id": {
+		"$oid": "5ed3e0d8350612971243b5e0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adrienne Basso/Una condesa para Navidad (75512)/Una condesa para Navidad - Adrienne Basso.epub",
+	"creator": "Adrienne Basso",
+	"title": "Una condesa para Navidad",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Una mujer con un pasado… Hace seis años, Rebecca Tremaine, la hija de un vicario, quedó embarazada de su prometido. Cuando murió inesperadamente, Rebecca tenía el corazón roto y cayó en desgracia. El niño nació muerto, o eso creía Rebecca. Ahora, está impresionada y llena de júbilo al descubrir que sus parientes dispusieron que su bebé, Lily, debía ser entregada a un pariente lejano, Cameron Sinclair, conde de Hampton. El conde viudo acepta de mala gana que Rebecca visite a Lily durante la Navidad en su casa de Kent, donde se encuentra con que la niña, aunque que es un encanto, está alarmantemente malcriada, y el conde, apuesto y seguro de sí mismo, es inconmensurablemente atractivo. Un amor para todas las estaciones… Elegante, compasiva y cautivadora por completo, Rebecca llena la casa de Cameron Sinclair de calor y luz. No se puede negar que su preocupación por el comportamiento de Lily está bien fundada. Al igual que sabe que él tampoco puede negar el dolor que siente ante la idea de su partida. Después de la muerte de su esposa hace tres años, Cameron se mantuvo inflexible, pensando que nunca podría amar a otra mujer. Pero a medida que la temporada navideña llega a su fin, sólo le resta esperar que no sea demasiado tarde para admitir la alegría de saber que estaba profunda y deliciosamente equivocado.",
+	"contributor": null,
+	"date": "2008-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 111794,
+	"unique_words": 13727,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5139673182915279,
+		"slope": 0.6868591575173808,
+		"std_error_intercept": 0.11087570028516781,
+		"std_error_slope": 0.010340942442568692
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0df350612971243b5e1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adrienne Dillard/Cor Rotto (63897)/Cor Rotto - Adrienne Dillard.epub",
+	"creator": "Adrienne Dillard",
+	"title": "Cor Rotto",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "La historia de Catherine Carey, una dama en la corte\nEra siempre el mismo sueño.el patíbulo ante mí. Miré con horror mientras la espada separaba la cabeza de mi tía de su cuello de cisne y vi cómo el verdugo la alzó agarrándola por los largos rizos de color avellana. Lo último que recordé antes de que mi mundo se tornara negro fue mi propio grito. Catherine Carey, una joven de quince años, ha tenido el mismo sueño durante los últimos tres, desde la sangrienta ejecución de su tía la reina Ana Bolena. Su único consuelo es que su familia y ella están a salvo en Calais, lejos de las intrigas de la corte de Enrique VIII. Pero ahora Catherine ha sido escogida para servir a la nueva esposa del rey Enrique, Ana de Cleves. Justo antes de partir hacia Inglaterra, ella descubre el secreto familiar: la verdadera identidad de su padre, un hombre a quien ella considera un monstruo y al que conocerá en breve. Esta absorbente novela nos cuenta la historia de una mujer que sobrevivió en la corte de Enrique VIII y que se convirtió en una de las confidentes más cercanas de Isabel I.",
+	"contributor": null,
+	"date": "2014-03-14T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 105396,
+	"unique_words": 12307,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7811027787698779,
+		"slope": 0.659233041079527,
+		"std_error_intercept": 0.04012776506795984,
+		"std_error_slope": 0.003760278389768505
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0e7350612971243b5e2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Adrienne Sharp/La verdadera historia de Mathilde K (26738)/La verdadera historia de Mathilde K - Adrienne Sharp.epub",
+	"creator": "Adrienne Sharp",
+	"title": "La verdadera historia de Mathilde K",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Mathilde Kschessinska (1872-1971) fue conocida por ser la primera bailarina del Ballet Imperial de St. Petersburgo y por sus relaciones con los aristócratas de la familia Romanov. Parece que desvirgó al Zar Nicolas II cuando este tenía 17 años y después mantuvo relaciones de forma simultánea con dos Grandes Duques, primos del Zar. Quedó embarazada y no sabía cuál de los dos primos era el padre de la criatura. Cuando la revolución rusa trasladó su residencia a París. En 1960 publicó unas memorias tituladas Souvenirs de la Kschessinska. Se ha publicado otros libros sobre ella y su relación con la familia imperial, pero este es el primero en castellano. Mathilde K. murió 8 meses antes de cumplir 100 años. Adrianne Sharp, que fue bailarina antes que escritora, ha novelado la vida de Mathilde K.",
+	"contributor": null,
+	"date": "1970-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 159497,
+	"unique_words": 16740,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7828649561810899,
+		"slope": 0.6643395908216218,
+		"std_error_intercept": 0.05987254766341859,
+		"std_error_slope": 0.005428003695332197
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0e9350612971243b5e3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aeryn Anders/Conquistando el mundo (68752)/Conquistando el mundo - Aeryn Anders.epub",
+	"creator": "Aeryn Anders",
+	"title": "Conquistando el mundo",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "¿Puede un juego de guerras traspasar la pantalla e invadir la realidad? ¿Qué harías tú si la persona que más detestas es en realidad la que más te comprende y de la que estás enamorado sin saberlo? En Tenerife, durante un juego de clanes, surge una amistad que irá más allá de la propia pantalla. Dos jugadores aliados en la conquista de un nuevo mundo sin saber que en realidad es su corazón y su propia historia de amor la que están librando. Conquistando el Mundo no es simplemente una historia de amor imaginaria, es una historia de amor inspirada en hechos reales.",
+	"contributor": null,
+	"date": "2017-09-11T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 49833,
+	"unique_words": 7276,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.847559878009496,
+		"slope": 0.6514662530268834,
+		"std_error_intercept": 0.03482617733412557,
+		"std_error_slope": 0.0034656470683442765
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0ea350612971243b5e4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aeryn Anders/Tu, mi salvacion (61987)/Tu, mi salvacion - Aeryn Anders.epub",
+	"creator": "Aeryn Anders",
+	"title": "Tú, mi salvación",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "Tú, mi salvación es la historia de dos personas distintas que por caprichos del destino, tras un encuentro fortuito, ya no pueden volver a ser los mismos. Un relato que nos habla de superación personal, y nos enseña que el miedo se debe dejar atrás cuando el amor llama a tu puerta.",
+	"contributor": null,
+	"date": "2017-02-07T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 10935,
+	"unique_words": 2701,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5318592374639697,
+		"slope": 0.6837226070360009,
+		"std_error_intercept": 0.06910782371620697,
+		"std_error_slope": 0.007715916954360426
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0f1350612971243b5e5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Affinity Konar/La otra mitad de mi (71080)/La otra mitad de mi - Affinity Konar.epub",
+	"creator": "Affinity Konar",
+	"title": "La otra mitad de mí",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "En 1944, Pearl y Stasha Zagorski, dos hermanas gemelas de 12 años, son enviadas a Auschwitz junto a su madre y su abuelo. Nada más llegar, Josef Mengele las selecciona para formar parte de sus experimentos genéticos. Ese invierno, en un concierto organizado por Mengele, Pearl desaparece. Stasha llora la pérdida de su hermana gemela pero se aferra a la posibilidad de que Pearl siga con vida. Cuando el Ejército Rojo libera Auschwitz, Stasha y su compañero Feliks -un niño empeñado en la venganza de su propio gemelo perdido- viajan a través de la Polonia devastada del fin de la guerra. Sin dejarse intimidar por el caos a su alrededor, motivados por igual por el peligro y la esperanza, ambos niños se proponen algo aparentemente inalcanzable: capturar a Mengele y llevarlo ante la justicia. ¿Sueños de niños? Lo cierto es que esos sueños les dan una razón para sobrevivir y continuar su descubrimiento de lo que ha ocurrido en el mundo a la vez que tratan de imaginar un futuro. El resultado es una historia magníficamente elaborada contada en primera persona por las dos gemelas, con una voz narrativa tan exquisitamente sensible como original. Como ha dicho Michiko Kakutani, una de las críticas literarias más prestigiosas de nuestro tiempo, en el New York Times, 'Konar consigue transmitir poderosamente las experiencias de sus heroínas: su inventiva y voluntad de sobrevivir, su resistencia y fe en un futuro incluso ante el Exterminio y la notable determinación de Pearl de perdonar… Lo que más sorprende de la novela es la capacidad de Konar para describir el infierno que era Auschwitz, mientras que al mismo tiempo captura la resistencia de muchos presos, su capacidad de aferrarse a la esperanza y la bondad, de permanecer, en palabras de Elie Wiesel, humanos en un universo inhumano'.",
+	"contributor": null,
+	"date": "2017-03-28T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 133953,
+	"unique_words": 14618,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9368608691354752,
+		"slope": 0.6507253774909931,
+		"std_error_intercept": 0.1199988402827355,
+		"std_error_slope": 0.011031191527321247
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0f5350612971243b5e6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Afonso Cruz/Jesucristo bebia cerveza (40997)/Jesucristo bebia cerveza - Afonso Cruz.epub",
+	"creator": "Afonso Cruz",
+	"title": "Jesucristo bebía cerveza",
+	"subject": "Novela contemporánea",
+	"publisher": null,
+	"description": "Una pequeña aldea del Alentejo se transforma en Jerusalén gracias al amor de una muchacha por su abuela, cuyo mayor deseo es visitar Tierra Santa. Un profesor «paralelo a sí mismo», una inglesa que duerme dentro de una ballena y una chica que lee westerns son algunos de los personajes de esta historia sobre las cosas funda mentales de la vida: el amor, el sacrificio y la cerveza.",
+	"contributor": null,
+	"date": "2014-05-06T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68457,
+	"unique_words": 9623,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6104584325707008,
+		"slope": 0.6786175625686643,
+		"std_error_intercept": 0.08797252338685801,
+		"std_error_slope": 0.008534447772694003
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0f8350612971243b5e7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Africa Huertas/Mi pequeno milagro (77527)/Mi pequeno milagro - Africa Huertas.epub",
+	"creator": "África Huertas",
+	"title": "Mi pequeño milagro",
+	"subject": "Romántico",
+	"rights": "Reedición: Abril de 2.017\n\n\n\nCopyright\n\n© África Huertas 2017\n\n© Editorial LxL 2017\n\nwww.editoriallxl.com\n\ndirección@lxleditorial.com\n\n     ISBN: 978-84-16609-35-5",
+	"publisher": null,
+	"description": "¿Cómo algo tan pequeño e indefenso puede cambiarte la vida? La mía cambió, de la noche a la mañana, sin previo aviso. Un día era Jordan Brown, un tipo problemático que intentaba sobrevivir, y al otro era esto. El Jordan cambia pañales. Una vida muy distinta a la que yo tenía.No creí poder acostumbrarme a esta nueva situación. A los llantos, a las noches sin dormir, a las obligaciones que jamás había tenido. A ella, más bien a ellas, hasta que todo cambió, hasta que simplemente se convirtió en… mi pequeño milagro.",
+	"contributor": null,
+	"date": "2017-04-21T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 70616,
+	"unique_words": 6891,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.437082322784706,
+		"slope": 0.574188756542175,
+		"std_error_intercept": 0.040298633627019693,
+		"std_error_slope": 0.0038997333113490623
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0fc350612971243b5e8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Africa Huertas/Nieve, nacida del hielo y la luz (77393)/Nieve, nacida del hielo y la luz - Africa Huertas.epub",
+	"creator": "África Huertas",
+	"title": "Nieve, nacida del hielo y la luz",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "El mundo ha quedado cubierto por nieve después de la glaciación. Hielo y nieve congelan cada rincón de la Tierra. El llanto de un bebé resuena en la profundidad de un bosque helado. Una niña criada por la Orden de las Hermanas del Hielo en la pequeña localidad de Asgardo, al norte de Italia. Un secreto que se oculta en su llamativo cabello color granate. Un viaje la llevará lejos de todo lo que conoce para conducirla por una aventura hacia las Montañas Solitarias. Alguien la espera muy lejos de su hogar, aunque ella lo desconoce. Nieve. Nacida del hielo y la luz es la primera parte de una bilogía juvenil que te helará el corazón. Deja que el invierno te atrape.",
+	"contributor": null,
+	"date": "2018-05-28T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 58667,
+	"unique_words": 7489,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8676709128570723,
+		"slope": 0.6421155821817477,
+		"std_error_intercept": 0.026419762965450483,
+		"std_error_slope": 0.0025949701732007617
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e0ff350612971243b5e9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Africa Huertas/_Y si te digo que te quiero_ (61399)/_Y si te digo que te quiero_ - Africa Huertas.epub",
+	"creator": "África Huertas",
+	"title": "¿Y si te digo que te quiero?",
+	"subject": "Novela",
+	"rights": "1. ª edición: Mayo 2.016 © África Huertas 2016 © Editorial LxL 2016 ISBN: 978-84-16609-37-6",
+	"publisher": null,
+	"description": "Ocho años no han sido suficientes para que la doctora Cora Sheridan consiguiera olvidar a su primer e intenso amor, Jamie, un joven granjero de Kansas al que acabó dejando para continuar sus estudios en Los Ángeles. Cora ha intentado todo ese tiempo seguir hacia delante pero todo vuelve al caos la mañana que recibe una terrible noticia. Confusa, olvida todo y pone rumbo a Fort Scott (Kansas), pero regresar de nuevo a su hogar le supondrá a ella tener que volver hacer frente a la realidad que la llevó hace ocho años dejar a Jamie y marcharse. Un amor condenado por las circunstancias que los rodea, la realidad de la que no pudieron huir y que nuevamente los golpea. Jamie ha rehecho su vida, pero sin embargo, tampoco podrá ocultar durante mucho tiempo el amor que aún siente por Cora, y otra vez, se verán envueltos en una historia que comenzó en el 2006 y que nunca terminó del todo.",
+	"contributor": null,
+	"date": "2016-05-14T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 54972,
+	"unique_words": 6228,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.2695750034406026,
+		"slope": 0.5942748837198331,
+		"std_error_intercept": 0.08477785176354391,
+		"std_error_slope": 0.008370509009509442
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e102350612971243b5ea"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Africa Ruh/A las puertas de Numancia (68882)/A las puertas de Numancia - Africa Ruh.epub",
+	"creator": "África Ruh",
+	"title": "A las puertas de Numancia",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Cuando tu enemigo puede convertirse en tu hogar. En el año 154 a. C., la joven aristócrata Cassia se ve embarcada en un viaje accidental a Hispania, donde los feroces celtíberos se han rebelado contra el poder de Roma. Su intención es zarpar de vuelta a casa en el primer barco, pero sus planes se truncan cuando se convierte en la prisionera de una tribu de salvajes y debe casarse con su líder, Leukón, para sobrevivir.\nAtrapada en la ciudad de Numancia, Cassia se siente cautivada por el primitivo y fascinante mundo de los celtíberos y por la nobleza de su esposo bárbaro. Y comprende que debe tomar una decisión: permanecer fiel a Roma... o entregarse a su nueva vida a pesar de la guerra que amenaza con destruir aquello que ama.",
+	"contributor": null,
+	"date": "2017-06-21T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 60666,
+	"unique_words": 8206,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.766050515967343,
+		"slope": 0.6599040338015819,
+		"std_error_intercept": 0.09848820454422544,
+		"std_error_slope": 0.009647647373978541
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e105350612971243b5eb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Africa Ruh/La prisionera espartana (79935)/La prisionera espartana - Africa Ruh.epub",
+	"creator": "África Ruh",
+	"title": "La prisionera espartana",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "En un mundo guiado por el honor, el deber y la voluntad de los dioses, una joven decidió cambiar la guerra por el amor. Esparta, 465 a. C. Cinisca se siente fuera de lugar: mientras su padre y su hermano se preparan para la guerra y su madre y su hermana sirven a la ciudad dándole hijos, ella se escabulle a contarles historias a los niños esclavos. Pero sabe que es el hazmerreír de las otras muchachas y que, antes o después, deberá cumplir con su deber como espartana y formar su propia familia. Todo cambia cuando conoce a un joven misterioso que la defiende de las burlas de los demás. Aunque desconoce su identidad, todos parecen temerlo y respetarlo. Cinisca no descansará hasta averiguar la verdad sobre él; y, sin pretenderlo, se verá atrapada en un amor prohibido por los hombres y los dioses.",
+	"contributor": null,
+	"date": "2018-09-07T22:46:49+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 49060,
+	"unique_words": 7135,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8829896083418292,
+		"slope": 0.6479047665924152,
+		"std_error_intercept": 0.076001707121937,
+		"std_error_slope": 0.007572596269236927
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e108350612971243b5ec"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Africa Ruh/Sobre los puentes de Paris (73571)/Sobre los puentes de Paris - Africa Ruh.epub",
+	"creator": "África Ruh",
+	"title": "Sobre los puentes de París",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "La mejor duelista de París se enfrenta a tres amenazas: un asesino enmascarado, un complot contra el Rey y los encantos de un joven aristócrata.Todos en París han oído hablar del famoso duelista Léonide de La Rochelle, pero casi nadie sabe que se trata de una mujer. Entrenada por un mosquetero retirado, Léonide se propone capturar a le Renard Noir, el criminal que siembra el terror en la ciudad nocturna; sin embargo, sus planes se truncan cuando se ve obligada a enseñar esgrima a Valérian, el arrogante hijo de un aristócrata. Mientras trata de convertir al chico en un héroe, Léonide se verá involucrada en una lucha de poder que podría costarle la vida.",
+	"contributor": null,
+	"date": "2018-04-04T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 50999,
+	"unique_words": 7301,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6733305283852677,
+		"slope": 0.6680548016110219,
+		"std_error_intercept": 0.07257429483476961,
+		"std_error_slope": 0.007208684446298784
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e109350612971243b5ed"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Africa Ruh/Una sombra en la aljama (68838)/Una sombra en la aljama - Africa Ruh.epub",
+	"creator": "África Ruh",
+	"title": "Una sombra en la aljama",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "El amor es lo único que no te obliga a ser lo que otros han decidido. Para sacar adelante este amor hay que pagar un alto precio, pues María es cristiana y ladrona y, Enoc, judío y médico. Se conocen de manera fortuita cuando María, tras robarle, se ve necesitada de un médico, acude a él sin saber que ha sido la víctima de su hurto y llegan a un acuerdo: ella le ayudará con sus pacientes hasta pagar su falta y conseguir que opere a una persona muy querida. Pero el resto del mundo no ve con buenos ojos la relación de un judío con una cristiana, y así se ven obligados a buscar un nuevo amanecer.",
+	"contributor": null,
+	"date": "2017-10-04T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 28036,
+	"unique_words": 4943,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.024337031710655,
+		"slope": 0.6323621572934438,
+		"std_error_intercept": 0.026339016412884133,
+		"std_error_slope": 0.002742803848006572
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e10b350612971243b5ee"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agata Roquette/La dieta de los 31 dias (77428)/La dieta de los 31 dias - Agata Roquette.epub",
+	"creator": "Ágata Roquette",
+	"title": "La dieta de los 31 días",
+	"subject": "Salud y bienestar",
+	"publisher": null,
+	"description": "Si está harto de planes de adelgazamiento que no funcionan, que le hacen pasar hambre o que se basan en productos que luego no puede encontrar en los supermercados, este es su libro. La nutricionista Ágata Roquette le propone una dieta innovadora con resultados garantizados. Al final de tan solo un mes, comprobará en su báscula que ha perdido entre 3 y 5 kilos si es mujer y entre 5 y 8 si es hombre. Todo comienza con una lista de alimentos prohibidos y aquellos otros que puede tomar a voluntad, sin límite de cantidad. A partir de aquí, en cada página la autora le acompañará día a día con ideas prácticas, consejos útiles y recetas variadas y fáciles de cocinar. Y cuando hayan pasado 31 días, ¡no se lo creerá! Tendrá el peso deseado, la autoestima reforzada y habrá conseguido unos hábitos alimenticios saludables.",
+	"contributor": null,
+	"date": "2018-06-02",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 36423,
+	"unique_words": 5722,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.832969013561148,
+		"slope": 0.6513268056233198,
+		"std_error_intercept": 0.11072039612007281,
+		"std_error_slope": 0.011295907417937132
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e10d350612971243b5ef"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agata Szekely/Freelance (57410)/Freelance - Agata Szekely.epub",
+	"creator": "Ágata Székely",
+	"title": "Freelance",
+	"subject": "Autoayuda",
+	"publisher": null,
+	"description": "Guía práctica para una vida sin oficinas. La tendencia mundial indica que los cubículos, las juntas presenciales interminables y los horarios fijos están pasados de moda. Lo de hoy es la flexibilidad, el equilibrio trabajo-bienestar, esfuerzo-descanso, tomar decisiones integrales para que el desarrollo profesional y el personal vayan en una misma dirección. En Freelance, Ágata Székely explica con entrevistas a expertos, testimonios, estadísticas y datos contundentes, cómo y por qué trabajar por tu cuenta es una opción saludable para mente, cuerpo, relaciones y finanzas. Freelance es una guía motivadora y detallada paso a paso para ser tu propio jefe, tener éxito en tu carrera y diseñar el estilo de vida que te haga feliz.",
+	"contributor": null,
+	"date": "2015-12-14T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 33486,
+	"unique_words": 6936,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3806884498697707,
+		"slope": 0.7144614495465434,
+		"std_error_intercept": 0.06440170161585515,
+		"std_error_slope": 0.0066139721367232
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e111350612971243b5f0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Allen/El amor del capitan Gaviota (81488)/El amor del capitan Gaviota - Agatha Allen.epub",
+	"creator": "Agatha Allen",
+	"title": "El amor del capitán Gaviota",
+	"subject": "Aventuras",
+	"rights": "WORLD ALL LANGUAGES",
+	"publisher": null,
+	"description": "Juan Gaviota es un joven menorquín nacido en 1755 en Ciutadella, en el seno de una familia de pescadores.Para salvar a su hermana de una violación, Juan mata a un letrado francés, hecho que le empuja a huir y a convertir su vida en un azar que le llevará, después de ser cautivo en un barco pirata bereber, a estudiar náutica en Barcelona y a servir en la armada inglesa del Mediterráneo.Gran navegante, Juan Gaviota atravesará el Atlántico y se enrolará en el ejército norteamericano en la guerra de independencia de las colonias, y, posteriormente, en las luchas contra los indios.En Menorca, sin embargo, Juan ha dejado a su amor, Águeda, una muchacha casada por la fuerza con Felipe de Gaula, terrateniente con plantaciones en Carolina del Sur. En tierras americanas los amantes luchan para reencontrarse cuando los Gaula se trasladan a Charles Town.",
+	"contributor": null,
+	"date": "2017-10-29T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 81460,
+	"unique_words": 11560,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5883442845028275,
+		"slope": 0.6860528429975875,
+		"std_error_intercept": 0.04895433654002489,
+		"std_error_slope": 0.004683278405809057
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e116350612971243b5f1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Allen/El dia y la noche (78045)/El dia y la noche - Agatha Allen.epub",
+	"creator": "Agatha Allen",
+	"title": "El día y la noche",
+	"subject": "Novela",
+	"rights": "Penguin Random House Grupo Editorial",
+	"publisher": null,
+	"description": "¿Cuántas razones tiene el primogénito del Conde Flor para odiar a su hermano bastardo? Intensa y perfectamente ambientada en el siglo XVIII, esta nueva novela de Agatha Allen hará que sus personajes lleguen a unos límites que nunca creerías. ¿Puede el odio llevar a un hombre a matar a su hermano? Si su padre prefiere al bastardo incluso para heredar el título de conde; si él consigue robarle a las mujeres más bonitas y tratarlas como esclavas; si triunfa en la Francia de la Revolución Francesa y entra a formar parte de la Cámara de los Lores en Gran Bretaña; si goza del favor de Azhar, la más sensual de las criaturas, y de Amédée, el amigo más fiel; si es menos inteligente que él, menos capaz de enriquecerse y más querido, idolatrado incluso por la propia esposa, Jeanne-Thérèse... ¿No tiene un hombre suficientes razones para matar a su hermano? Si todo lo de Florián le pertenece por razón de su nacimiento... Todo, incluso su vida...",
+	"contributor": null,
+	"date": "2018-05-31T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 91069,
+	"unique_words": 12967,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2457825834957619,
+		"slope": 0.7227657818139307,
+		"std_error_intercept": 0.07932453969990093,
+		"std_error_slope": 0.007520986470428217
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e11e350612971243b5f2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Allen/El secreto del peregrino (81809)/El secreto del peregrino - Agatha Allen.epub",
+	"creator": "Agatha Allen",
+	"title": "El secreto del peregrino",
+	"subject": "Novela",
+	"rights": "Penguin Random House Grupo Editorial",
+	"publisher": null,
+	"description": "Primera entrega de la serie «Las bodas del diablo». Ciudades medievales, conventos, un sinfín de aventuras y un amor profundo que ni el mismo diablo podrá truncar, son los componentes de esta gran novela de Agatha Allen. ¿Es cosa del diablo impedir la celebración de un matrimonio? Por algo nos hallamos en plena Edad Media, cuando Dios y el diablo tenían una presencia cotidiana en las vidas de nobles y plebeyos, campesinos y comerciantes, casados y casaderos. Pero Gladis y María están dispuestos a luchar por su amor contra corriente, porque el suyo no es un amor de conveniencia, el suyo es un amor capaz de lidiar contra todo y contra todos, un amor de los de verdad. ¿Acaso puede el rico Nicolás Mercader comprar el favor del diablo para impedir la felicidad de los amantes? ¿Cuál es el secreto del peregrino y de sulibro misterioso? En definitiva, ¿cuál es el secreto de la felicidad? Esta novela trascurre por los escenarios medievales de ciudades y conventos a un lado y otro del Mediterráneo, y despliega un sinfín de aventuras, una acción trepidante que nos reconcilia con la lectura y nos hace disfrutar de cada palabra, de cada lance, de cada personaje, hasta el punto de identificarnos con Cara de Rosa, contrapunto del protagonista, y convertirlo en nuestro fiel compañero de fatigas.",
+	"contributor": null,
+	"date": "2018-11-06T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 154909,
+	"unique_words": 17271,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4539136347103834,
+		"slope": 0.6975647595527154,
+		"std_error_intercept": 0.1082942688823085,
+		"std_error_slope": 0.009840681131709422
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e126350612971243b5f3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Allen/Su rostro verdadero (81811)/Su rostro verdadero - Agatha Allen.epub",
+	"creator": "Agatha Allen",
+	"title": "Su rostro verdadero",
+	"subject": "Novela",
+	"rights": "Penguin Random House Grupo Editorial",
+	"publisher": null,
+	"description": "Última entrega de la bilogía «Las bodas del diablo» de Agatha Allen. Una novela de superación, de amor y de desafíos que no dejará indiferente a sus lectores. ¿Es posible que el libro del peregrino tenga un poder infinito? Por algo Gladis y Cara de Rosa, María y Nicolás Mercader siguen su periplo de París a Roma y a Tierra Santa en busca de un libro que se sucede a sí mismo, se reviste de poderes sobrenaturales y parece contener la clave de la felicidad. ¿Cuál es la clave de la felicidad? ¿Puede concretarse en un rostro, una mirada dulcísima, una simple sonrisa? Los avatares que sufren los personajes de esta novela parecen no tener fin. No se arredran ante el fracaso, saben que cuando Dios cierra una puerta abre otra mejor, y aunque se lasven y se las desean con fieles y con infieles, con varones preclaros y con esbirros despiadados han puesto su meta en alcanzar la gracia del amor, en descubrir su rostro verdadero.",
+	"contributor": null,
+	"date": "2018-11-05T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 133312,
+	"unique_words": 15364,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.533792242856859,
+		"slope": 0.6892092725063056,
+		"std_error_intercept": 0.10944826202863056,
+		"std_error_slope": 0.010065197080838605
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e127350612971243b5f4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Berner/De tu cama al cielo (77701)/De tu cama al cielo - Agatha Berner.epub",
+	"creator": "Agatha Berner",
+	"title": "De tu cama al cielo",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "Hay quien piensa que si deseas algo con fuerza se convierte en realidad, el peligro radica en saber si lo que deseas, realmente te hará feliz o se convertirá en tu cárcel, por eso a veces, es preferible dejar que las cosas simplemente sucedan, pero eso es algo que solo un alma femenina puede comprender. La vida de Leo transcurrirá bajo la influencia de su más irrefrenable adicción, las mujeres. Mujeres que marcarán su vida desde su nacimiento haciéndose protagonistas de la misma a lo largo de toda su trayectoria vital hacia la madurez, logrando poco a poco hacerle mejor persona y ayudándole a descubrir que a veces las cosas importantes de la vida son las más sencillas.",
+	"contributor": null,
+	"date": "2014-01-11T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 20410,
+	"unique_words": 4457,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.575987715931258,
+		"slope": 0.6884504822891596,
+		"std_error_intercept": 0.07035637060154823,
+		"std_error_slope": 0.00750688906031799
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e12b350612971243b5f5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Asesinato en Bardsley Mews (17911)/Asesinato en Bardsley Mews - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Asesinato en Bardsley Mews",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Cuatro relatos, a cual más interesante, protagonizados por el infalible Poirot.Asesinato en Bardsley Mews: En la noche de Guy Fawkes, el estallido de los petardos oculta el sonido de un disparo y el cuerpo de Miss Allen aparece sin vida.Un robo increíble: En una reunión de alta sociedad, desaparecen los planos de una nueva y secreta bomba.El espejo del muerto: Sir Gervas Chevenix-Gore, conocido como el último barón, ha muerto en circunstancias extrañas. Poirot deberá demostrar que no se trata de un suicidio.Triángulo de Rodas: Un clásico triángulo amoroso deviene en un complejo asesinato.",
+	"contributor": "C. Peraire del Molino",
+	"date": "1937-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 74253,
+	"unique_words": 8272,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7638862258310537,
+		"slope": 0.6462424815582384,
+		"std_error_intercept": 0.06343113923304325,
+		"std_error_slope": 0.006113573038885014
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e12f350612971243b5f6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Asesinato en el campo de golf (8614)/Asesinato en el campo de golf - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Asesinato en el campo de golf",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Una soleada mañana Hercules Poirot se encuentra desayunando con su gran amigo el Capitan Hasting. La conversación entre los dos amigos pronto es reemplazada por las quejas del detective belga que se encuentra aburrido por la falta de casos que sean un verdadero reto para su brillante cerebro… repentinamente el detective recibe una carta que despierta su interés. La carta es enviada por Pablo Renauld que le ruega que acuda en su ayuda inmediatamente ya que teme por su vida y no quiere recurrir a la policía Poirot de inmediato se dirige a la casa de Renauld pero se encuentra con una terrible noticia Pablo Renauld ha sido asesinado con una daga en un campo de Golf cercano.",
+	"contributor": "José Mallorquí Figuerola",
+	"date": "2018-10-09",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72606,
+	"unique_words": 8507,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.117592992247118,
+		"slope": 0.6180864703052908,
+		"std_error_intercept": 0.03295879753790491,
+		"std_error_slope": 0.003182341054272338
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e133350612971243b5f7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Asesinato en el Orient Express (9587)/Asesinato en el Orient Express - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Asesinato en el Orient Express",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "En un lugar aislado de la antigua Yugoslavia, en plena madrugada, una fuerte tormenta de nieve obstaculiza la línea férrea por donde circula el Orient Express. Procedente de la exótica Estambul, en él viaja el detective Hércules Poirot, que repentinamente se topa con uno de los casos más desconcertantes de su carrera: en el compartimento vecino ha sido asesinado Samuel E. Ratchett mientras dormía, pese a que ningún indicio trasluce un móvil concreto. Poirot aprovechará la situación para indagar entre los ocupantes del vagón, que a todas luces deberían ser los únicos posibles autores del crimen. Una víctima, doce sospechosos y una mente privilegiada en busca de la verdad.",
+	"contributor": "Eduardo Machado Quevedo",
+	"date": "1934-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68715,
+	"unique_words": 7906,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.163562994685045,
+		"slope": 0.6119834883162331,
+		"std_error_intercept": 0.10118912499764944,
+		"std_error_slope": 0.009813625312976818
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e137350612971243b5f8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Asesinato en la calle Hickory (8318)/Asesinato en la calle Hickory - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Asesinato en la calle Hickory",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "La eficientísima secretaria de Hércules Poirot, Miss Lemon, llega excesivamente atrasada y comete algún error. El motivo de su nerviosismo tiene relación con un problema que atañe a su hermana, señora igualmente eficiente que lleva una pensión para estudiantes extranjeros situada en la calle Hickory. Hacía algunos meses que ocurrían hechos extraños y desagradables que la Sra. Hubbard no conseguía administrar adecuadamente: robos y actos de vandalismo inexplicables.Poirot decide ayudar a la Sra. Hubbard, pero se siente inmediatamente confuso, en medio de tantas situaciones aparentemente independientes unas de otras. El problema se agrava cuando ocurre un asesinato.",
+	"contributor": "C. Peraire del Molino",
+	"date": "2014-12-28",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 67906,
+	"unique_words": 8087,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0286828030399002,
+		"slope": 0.6263120987743116,
+		"std_error_intercept": 0.1113054220962184,
+		"std_error_slope": 0.010805020129963441
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e13b350612971243b5f9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Asesinato en Mesopotamia (13047)/Asesinato en Mesopotamia - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Asesinato en Mesopotamia",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Louise Leidner aseguraba que su vida corría peligro y todos pensaban que quería llamar la atención. Pero una tarde aparece asesinada. Hablando con unos y con otros, Hércules Poirot descubre que la 'adorable' Louise era más odiada que amada. Todos en Tell Yarimjah son sospechosos. Para dar con el asesino, Poirot tendrá que afinar más que nunca su aguda inteligencia.",
+	"contributor": "Ángel Soler Crespo",
+	"date": "1936-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 80269,
+	"unique_words": 9473,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.908012207168622,
+		"slope": 0.6421751280669369,
+		"std_error_intercept": 0.08614099764944227,
+		"std_error_slope": 0.008250521803647794
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e148350612971243b5fa"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Autobiografia (21508)/Autobiografia - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Autobiografía",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "A lo largo de 56 años de actividad creadora, Agatha Christie (1890-1976) escribe 81 novelas policiacas que, traducidas a multitud de idiomas, con más de trescientos millones de ejemplares vendidos, la sitúan entre los escritores más comerciales del mundo. También escribe algunas novelas sentimentales con el pseudónimo Mary Westmacott, un libro de recuerdos bajo el nombre de Agatha Christie Malowan, y adapta varias de sus novelas al teatro, entre las que destaca La ratonera por alcanzar un éxito escepcional. Varias de sus novelas son el origen de películas tan conocidas como Testigo de cargo (Billy Wilder, 1958), Asesinato en el Oriente Express (Sidney Lumet, 1974) y Muerte en el Nilo (John Guillermin, 1978).Entre 1950 y 1965 escribe una larga autobiografía, que sólo se ha publicado recientemente por expresa prohibición suya de que no apareciera hasta después de su muerte.",
+	"contributor": "Diorki",
+	"date": "1977-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 245525,
+	"unique_words": 23264,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7673784035857476,
+		"slope": 0.6704319500362153,
+		"std_error_intercept": 0.10859346115791857,
+		"std_error_slope": 0.00951602811523433
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e14b350612971243b5fb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Cafe solo (19898)/Cafe solo - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Café solo",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Sir Claud Amory ha descubierto la fórmula de un nuevo y poderoso explosivo, que es robada por alguno de los numerosos huéspedes y familiares hospedados en su casa. Después de encerrar a todo el mundo en la biblioteca, sir Claud apaga la luz para permitir al ladrón devolver el botín, sin acusar a nadie. Pero, al encenderse la luz, sir Claud yace muerto, y será tarea de Hercules Poirot el desentrañar la red de disputas familiares, viejas querellas y extraños sospechosos para encontrar al asesino y prevenir una catástrofe mayor.La obra de teatro «Café Negro» fue estrenada inicialmente en 1930. Se trata de la primera pieza que Agatha Christie escribió para el teatro, pieza que lanzó a Agatha en una exitosa segunda carrera como dramaturga, y de la que Charles Osborne hizo esta interesante novelización en 1998.",
+	"contributor": "Charles Osborne",
+	"date": "1998-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 49672,
+	"unique_words": 6121,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.6997878886275433,
+		"slope": 0.5576838440256917,
+		"std_error_intercept": 0.08580069169764369,
+		"std_error_slope": 0.008540479820462183
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e14e350612971243b5fc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Cartas sobre la mesa (15014)/Cartas sobre la mesa - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Cartas sobre la mesa",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El señor Shaitana es famoso como anfitrión de sus fiestas. Sin embargo, se trata de un hombre del que todos desconfían. Así, cuando expone a Poirot su teoría sobre el asesinato como forma de arte, el detective tiene sus reservas sobre aceptar la invitación para ver la colección privada de Shaitana.Convocado con otros tres criminólogos y cuatro supuestos asesinos, inician tras la cena una partida de bridge. Pero al final de la partida descubren que el anfitrión ha sido asesinado por uno de sus invitados...",
+	"contributor": "A. Soler Crespo",
+	"date": "1936-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72046,
+	"unique_words": 8639,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.002422056538519,
+		"slope": 0.6310302664384217,
+		"std_error_intercept": 0.034665011217253766,
+		"std_error_slope": 0.0033491601828073724
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e152350612971243b5fd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Cianuro espumoso (16614)/Cianuro espumoso - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Cianuro espumoso",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Ha pasado menos de un año desde que la hermosa Rosemary Burton se quitó la vida en una cena de cumpleaños en su honor. Su esposo George nunca creyó que se tratase de un suicidio, especialmente después de recibir dos cartas anónimas sugiriendo que se trató de un asesinato a sangre fría. Una de ellas implicaba al mismo George.Es cierto que este sufrió demasiado tiempo las infidelidades de Rosemary. Pero ¿qué decir de la amargada hermana de Rosemary, excluida del testamento familiar? ¿O de alguno de los amantes de Rosemary, por no mencionar a sus esposas traicionadas? Ni uno de ellos ha olvidado a Rosemary. Ninguno la ha perdonado, tampoco. Pero sólo uno la asesinó...",
+	"contributor": "Guillermo López Hipkiss",
+	"date": "1945-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 78844,
+	"unique_words": 9577,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6883846922992594,
+		"slope": 0.6654266255890717,
+		"std_error_intercept": 0.13553296362915881,
+		"std_error_slope": 0.013000025742329365
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e157350612971243b5fe"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Cinco cerditos (17912)/Cinco cerditos - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Cinco cerditos",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Una joven acude a Hércules Poirot en busca de ayuda. Su padre, Amyas Crale, un famoso pintor, fue envenenado hace muchos años, y su madre, juzgada y condenada por este crimen murió en la cárcel. La muchacha fue enviada entonces a Canadá con unos parientes, quienes la educaron y cambiaron el nombre.",
+	"contributor": "Guillermo López Hipkiss",
+	"date": "1942-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 81053,
+	"unique_words": 9281,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5563267855623673,
+		"slope": 0.6719127356842417,
+		"std_error_intercept": 0.05662658060980212,
+		"std_error_slope": 0.005419423426129115
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e15a350612971243b5ff"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Cita con la muerte (17913)/Cita con la muerte - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Cita con la muerte",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "La señora Boynton muere víctima de lo que parece un ataque al corazón y, con ello, hace a su familia el mejor de los regalos: la libertad. Todos tenían razones para desear su muerte, pero ¿alguno de ellos la mató? Hércules Poirot desvelará el misterio y demostrará una vez más que para ver la verdad hay que ser capaz de mirar más allá de las apariencias.",
+	"contributor": "José Mallorquí Figuerola",
+	"date": "1938-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68743,
+	"unique_words": 8227,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8637789291991167,
+		"slope": 0.6444737282762412,
+		"std_error_intercept": 0.11485257230667527,
+		"std_error_slope": 0.011138395854016086
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e15e350612971243b600"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Despues del funeral (17915)/Despues del funeral - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Después del funeral",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Richard Abernethie, un anciano millonario, ha muerto inesperadamente y sus descendientes esperan ansiosos la lectura del testamento para solucionar sus respectivos problemas económicos. Sin embargo las cosas se complican cuando Cora Lansquenet, mujer imprudente y hermana de Richard, deja entrever que posiblemente su hermano fue asesinado y ella misma muere al día siguiente de su 'declaración' víctima de un ataque violento con un hacha. El abogado de la familia (Mister Entwhistle) decide llamar a un viejo amigo: Hércules Poirot, para que solucione el misterio de ambas muertes y descubra la identidad del asesino",
+	"contributor": "C. Peraire del Molino",
+	"date": "1953-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 80127,
+	"unique_words": 8984,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.049705156119681,
+		"slope": 0.6270663920021676,
+		"std_error_intercept": 0.060392774412825104,
+		"std_error_slope": 0.005785210327441859
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e163350612971243b601"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Destino desconocido (18532)/Destino desconocido - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Destino desconocido",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "En los años cincuenta de nuestro siglo, nos encontramos de lleno en lo que se dio en llamar «La Guerra Fría». Un eminente científico británico, Thomas Betterton, desaparece misteriosamente después de un congreso celebrado en París. Al parecer, no se trata de un caso aislado, sino de la continuación de una serie de episodios parecidos que han sucedido reiteradamente en los últimos tiempos. Siempre se trata de hombres de ciencia que desaparecen sin ningún tipo de violencia y van a parar voluntariamente al otro lado del Telón de Acero.",
+	"contributor": "Concha Peraire del Molino",
+	"date": "1954-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 67749,
+	"unique_words": 9059,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4953456159598917,
+		"slope": 0.6861317058485883,
+		"std_error_intercept": 0.06656327543458478,
+		"std_error_slope": 0.006462828214619778
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e166350612971243b602"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Diez negritos (Ilustrado) (37966)/Diez negritos (Ilustrado) - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Diez negritos (Ilustrado)",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Diez personas reciben sendas cartas firmadas por un desconocido Mr. Owen, que las invita a pasar unos días en la mansión que tienen en uno de los islotes de la costa de Devon. La primera noche, después de la cena, una voz los acusa de ser culpables de un crimen. Lo que parece ser una broma macabra se convierte en una espantosa realidad cuando, uno por uno, los diez invitados son asesinados en una atmósfera de miedo y mutuas recriminaciones. La clave parece estar en una vieja canción infantil:«Diez negritos se fueron a cenar, uno de ellos se asfixió y quedaron nueve. Nueve negritos trasnocharon mucho, uno de ellos no se pudo despertar, y quedaron ocho…».",
+	"contributor": "Orestes Llorens",
+	"date": "1939-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 58623,
+	"unique_words": 8532,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9999975755971913,
+		"slope": 0.6420768819132812,
+		"std_error_intercept": 0.10690950089113054,
+		"std_error_slope": 0.010501382272012303
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e16a350612971243b603"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El asesinato de Rogelio Ackroyd (16988)/El asesinato de Rogelio Ackroyd - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El asesinato de Rogelio Ackroyd",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Mrs. Ferrars ha muerto víctima de una sobredosis de somníferos. Hace un año, su marido murió al parecer de una gastritis aguda. Carolina Sheppard, la hermana del médico del pueblo, sospecha que fue envenenado. Poco después, Roger Ackroyd, el terrateniente de la villa, aparece muerto con una daga tunecina clavada en la espalda.¿Estarán las tres muertes relacionadas? ¿Tendrá Caroline razones para sospechar? Afortunadamente al pueblo ha llegado un nuevo vecino, un hombre bajito de grandes bigotes, que se ha retirado a descansar y a cultivar calabacines.",
+	"contributor": "G. Bernard de Ferrer",
+	"date": "1926-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 77797,
+	"unique_words": 8893,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.205724384581157,
+		"slope": 0.6126125870210953,
+		"std_error_intercept": 0.07593128575859467,
+		"std_error_slope": 0.007290969026869801
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e16d350612971243b604"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El caso de los anonimos (16829)/El caso de los anonimos - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El caso de los anónimos",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Los habitantes del pueblo de Lymstock empiezan a recibir anónimos llenos de calumnias. Una de las cartas provoca el suicidio de la esposa del abogado Symmington. Miss Marple acude a Lymstock a requerimiento de sus amigos los Calthrop: con su singular olfato llegará a despejar las brumas de un plan de asesinato cuidadosamente trazado.",
+	"contributor": "C. Peraire del Molino",
+	"date": "1943-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 57508,
+	"unique_words": 7852,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9896925946112876,
+		"slope": 0.6376229161733571,
+		"std_error_intercept": 0.06092589943891602,
+		"std_error_slope": 0.005993785079544517
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e171350612971243b605"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El cuadro (18628)/El cuadro - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El cuadro",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Tommy y Tuppence Beresford visitan a su tía Ada en la residencia de ancianos en la que vive. Allí conocen a algunas ancianas que dicen que las están envenenando o que hay escondido el cadáver de un niño. Al poco tiempo fallece la tía Ada y ellos recogen sus pertenencias, incluyendo un cuadro que otra de las ancianas regaló a su tía. En él se ve una casa que Tuppence ha visto desde el tren, así que no descansa hasta encontrarla.",
+	"contributor": "Ramón Margalef Llambrich",
+	"date": "1968-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 92929,
+	"unique_words": 10423,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9530420301519302,
+		"slope": 0.639982408406177,
+		"std_error_intercept": 0.06135591235982172,
+		"std_error_slope": 0.005807922633367533
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e177350612971243b606"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El enigmatico Mr. Quin (14219)/El enigmatico Mr. Quin - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El enigmático Mr. Quin",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El señor Harley Quin posee un olfato casi mágico para aparecer en la escena de los crímenes más impresionantes. ¿Es acaso un truco la aparición fantasmal que le persigue? ¿Es el destino el que lo invita a presenciar un asesinato la víspera de Año Nuevo? Y por último, ¿qué fuerzas misteriosas provocan que su coche deje de funcionar justo en las afueras de Royston Hall, un paraje aislado tras el cual se oculta una historia siniestra?Este volumen incluye los siguientes relatos:· La llegada de Mr. Quin (The Coming of Mr Quin)· La sombra en el cristal (The Shadow on the Glass)· En la Hostería del Bufón (At the Bells and Motley)· El signo en el cielo (The Sign in the Sky)· El alma del croupier (The Soul of the Croupier)· El hombre del mar (The Man from the Sea)· La voz en las sombras (The Voice in the Dark)· La cara de Elena (The Face of Helen)· El cadáver de Arlequín (The Dead Harlequin)· El pájaro con el ala rota (The Bird with the Broken Wing)· El fin del mundo (The World's End)· El sendero de Arlequín (Harlequin's Lane)",
+	"contributor": "Manuel Amechazurra",
+	"date": "1930-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 102118,
+	"unique_words": 11920,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6744355925130103,
+		"slope": 0.6700263558435429,
+		"std_error_intercept": 0.06567481196436069,
+		"std_error_slope": 0.006169878263442568
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e17c350612971243b607"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El espejo se rajo de parte a parte (16831)/El espejo se rajo de parte a parte - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El espejo se rajó de parte a parte",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Marina Gregg y su marido, el productor cinematográfico Jason Rudd, han comprado la casa de los Bantry. Los nuevos inquilinos deciden dar una fiesta a beneficio del hospital local a la que asisten todas las fuerzas vivas de la población. En el transcurso de la fiesta muere Mrs. Badcock, al parecer a causa de un ataque. Pero miss Marple desconfía, ya que la salud de la difunta era excelente, y decide tirar de los hilos para deshacer la madeja del misterio.",
+	"contributor": "María Dolores Raich de Ullán",
+	"date": "1962-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 87190,
+	"unique_words": 9998,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.3868174450186634,
+		"slope": 0.6004904504098876,
+		"std_error_intercept": 0.05798659305381315,
+		"std_error_slope": 0.005517129647721552
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e181350612971243b608"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El hombre del traje color castano (19540)/El hombre del traje color castano - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El hombre del traje color castaño",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Una bailarina rusa que planea un chantaje, un robo de diamantes en África del Sur, un hombre que muere empujado a la vía del metro de Londres y un extraño pedazo de papel. Estas son las piezas del rompecabezas que casualmente caen en manos de Anne Beddingfeld, la hija de un famoso arqueólogo, que decide descubrir la trama completa sin importarle los riesgos que debe asumir para ello.",
+	"contributor": "Guillermo López Hipkiss",
+	"date": "1924-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 91845,
+	"unique_words": 11380,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.030370714701289,
+		"slope": 0.6400115062209847,
+		"std_error_intercept": 0.05437739320336641,
+		"std_error_slope": 0.005152173457544038
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e185350612971243b609"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El misterio de la guia de ferrocarriles (15001)/El misterio de la guia de ferrocarriles - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El misterio de la guía de ferrocarriles",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Poirot recibe una carta en la que se le anuncia un asesinato que será cometido en Andover. A pie de firma: ABC. En el día señalado, la estanquera de Andover, Mrs Ascher, es asesinada. Nuevas cartas y asesinatos se suceden con un riguroso orden alfabético. Poirot está dispuesto a evitar que el misterioso asesino complete el abecedario.",
+	"contributor": "José Mallorquí Figuerola",
+	"date": "1936-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 63469,
+	"unique_words": 8270,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8840421634745852,
+		"slope": 0.6455709422201275,
+		"std_error_intercept": 0.025444413124746865,
+		"std_error_slope": 0.0024834644031175497
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e189350612971243b60a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El misterio de las siete esferas (37373)/El misterio de las siete esferas - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El misterio de las siete esferas",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "En la mansión Chimneys después de una partida de naipes, acontece una asesinato. Un grupo de jóvenes compra 8 relojes despertadores para realizar una broma. Pero tras el crimen aparecen ordenadas sólo siete esferas constituyéndose la llave de una misteriosa aventura en la que se descubrirá una extraña organización secreta que se autorepresenta como siete esferas de relojes donde cada uno de ellos marca una hora distinta y dicho número es el de cada integrante.",
+	"contributor": "Carlos Paytuví de Sierra",
+	"date": "1929-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 75834,
+	"unique_words": 9090,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8726442366125728,
+		"slope": 0.6453227923836418,
+		"std_error_intercept": 0.05248675380883436,
+		"std_error_slope": 0.005050166058411136
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e18c350612971243b60b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El misterio de Listerdale (13358)/El misterio de Listerdale - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El misterio de Listerdale",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Este libro nos trae diez relatos cortos.El primero, que da nombre al libro, cuenta sobre una familia burguesa empobrecida que alquila una casa maravillosa a un precio muy bajo. La casa pertenece a Lord Listerdale, desaparecido años atrás sin dejar ningún indicio de su paradero. El joven morador de la casa defiende la hipótesis de que el hombre está muerto y que su cuerpo está escondido en algún lugar de la casa y, según él, razón por la que el alquiler es tan bajo. Suceden ciertas coincidencias que, al final, hacen que el joven consiga descubrir el misterio que ronda al antiguo propietario.",
+	"contributor": "C. Peraire del Molino",
+	"date": "1934-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 61838,
+	"unique_words": 8580,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5105949794244706,
+		"slope": 0.6839062295654464,
+		"std_error_intercept": 0.02788494545341229,
+		"std_error_slope": 0.002727353901826128
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e190350612971243b60c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El misterio de Pale Horse (19127)/El misterio de Pale Horse - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El misterio de Pale Horse",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El escritor Mark Easterbrook se ve, poco a poco, envuelto involuntariamente en una compleja historia de muertes aparentemente naturales con algo en común: siempre había alguien que ganaba mucho con cada una de estas muertes y los nombres de los fallecidos constaban en la lista escrita por el reverendo Gorman la noche en que fue asesinado. Mark y su amiga, escritora de novelas policíacas, Ariadne Oliver, participan de una fiesta de beneficencia organizada por una pariente de Mark en una pequeña ciudad del interior. Después de la fiesta él tiene la oportunidad de conocer Pale Horse, de quien tanto había oído hablar.Pale Horse es una mansión que en el pasado había sido una hospedería donde actualmente viven las brujas del poblado, tres mujeres extrañas que organizan sesiones de espiritismo y hechicería. En esta misma oportunidad, Mark conoce al Sr. Venables, hombre poderoso, inválido e identificado por el farmacéutico Osborne -importante testigo- como el hombre que seguía al reverendo Gorman la noche que fue asesinado.Mark se da cuenta de una serie de coincidencias que lo hacen pensar que la muerte de las personas en la lista es consecuencia del hechizo de las brujas de Pale Horse y se dispone a ayudar a sus amigos de la policía a desentrañar el misterio.",
+	"contributor": "Ramón Margalef Llambrich",
+	"date": "1961-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 83318,
+	"unique_words": 11017,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.907477899503881,
+		"slope": 0.655404426050882,
+		"std_error_intercept": 0.08465438335503832,
+		"std_error_slope": 0.008083866760784434
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e194350612971243b60d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El misterio de Sans-Souci (17935)/El misterio de Sans-Souci - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El misterio de Sans-Souci",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Durante la Segunda Guerra Mundial, y mientras la RAF lucha por mantener a la Luftwaffe lejos de sus costas, Gran Bretaña afronta la amenaza aún más siniestra del «enemigo interior»: espías nazis haciéndose pasar por ciudadanos corrientes. Con la presión en aumento, el servicio secreto decide contratar a dos espías muy particulares: Tommy y Tuppence Beresford. Su misión: buscar a dos traidores pertenecientes a las altas esferas, un hombre y una mujer, entre los variopintos huéspedes del hotel Sans Souci, en la costa inglesa. Pero esta misión no es precisamente un paseo, sobre todo teniendo en cuenta que los espías que buscan ya han matado al mejor agente británico.",
+	"contributor": "A. Soler Crespo",
+	"date": "1941-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 73458,
+	"unique_words": 9496,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5678681079074597,
+		"slope": 0.679148734433723,
+		"std_error_intercept": 0.059420909898549354,
+		"std_error_slope": 0.005731999163754534
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e19a350612971243b60e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El misterio de Sittaford (20122)/El misterio de Sittaford - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El misterio de Sittaford",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Mientras la nieve cae en el pueblecito de Sittaford, sus escasos habitantes se reúnen en una sesión casera de espiritismo con un velador que anuncia el asesinato de un convecino: el capitán Trevelyan. Estupor e incredulidad, aunque a la postre los hechos dan la razón al espíritu. La policía detiene finalmente al sobrino y heredero del muerto. La novia del inculpado y un periodista de prensa sensacionalista no se dan por satisfechos e investigan por su cuenta.",
+	"contributor": "José María Álvarez",
+	"date": "1934-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 92621,
+	"unique_words": 9736,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0566660846509066,
+		"slope": 0.6232803682879607,
+		"std_error_intercept": 0.021410191458257462,
+		"std_error_slope": 0.002027215768329504
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e19d350612971243b60f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El misterioso caso de Styles (13476)/El misterioso caso de Styles - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El misterioso caso de Styles",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Hastings se está recuperando de sus heridas de guerra cuando recibe una invitación para visitar a sus amigos, la familia Cavendish, en Styles St. Mary. Cerca de allí, como invitados de los Cavendish, se encuentra un grupo de refugiados belgas, y entre ellos, para sorpresa de Hastings, está su viejo amigo de la policía belga, el célebre detective Hércules Poirot.A su llegada, Hastings encuentra mucha tensión en Styles. Emily Inglethorp, viuda de Cavendish, posee el control de la gran fortuna familiar desde la muerte de su marido. Para disgusto de sus pródigos hijos John y Lawrence, se ha casado recientemente con Alfred Inglethorp, un hombre de aspecto y pasado dudosos, veinte años más joven que ella.Una madrugada, todo el mundo se despierta con los ruidos que llegan de la habitación de la Sra. Inglethorp. Al abrir la puerta cerrada con llave, la encuentran sufriendo terribles convulsiones. La mujer grita el nombre de su marido y muere. Cuando el examen post mortem revela que la causa de la muerte es el envenenamiento por estricnina, Hastings avisa inmediatamente al famoso detective belga. A las pocas horas, Hércules Poirot emprende su primera investigación…",
+	"contributor": "Estella de Call",
+	"date": "1920-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 67083,
+	"unique_words": 7998,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.246757179723459,
+		"slope": 0.6071380682828517,
+		"std_error_intercept": 0.09702853314073193,
+		"std_error_slope": 0.009428268535288767
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1a2350612971243b610"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El misterioso senor Brown (17937)/El misterioso senor Brown - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El misterioso señor Brown",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "La búsqueda de unos comprometedores documentos secretos suscritos durante la Primera Guerra Mundial y perdidos en el naufragio del Lusitania, da lugar a una lucha sin cuartel entre los servicios secretos británicos y una banda internacional que quiere utilizar los documentos como instrumento de la propaganda bolchevique. Pero en la vorágine de la guerra de espías aparecen dos jóvenes, Tommy y Tuppence, dispuestos a jugarse la vida para desvelar la identidad del líder de la banda, el misterioso Mr. Brown.",
+	"contributor": "C. Peraire del Molino",
+	"date": "1922-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 84811,
+	"unique_words": 10216,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.902888801377185,
+		"slope": 0.6465484832693618,
+		"std_error_intercept": 0.07585812203425413,
+		"std_error_slope": 0.007233614414597917
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1a7350612971243b611"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El pudding de Navidad (18708)/El pudding de Navidad - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El pudding de Navidad",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El robo de una joya perteneciente a la Corona de un estado oriental y el hallazgo de un cadáver en un antiguo cofre español son el punto de partida de dos relatos que ponen de manifiesto, una vez más, la legendaria sagacidad de Hércules Poirot para descubrir siempre al autor del delito.En El pudding de Navidad, un príncipe oriental inicia en Londres un romance con una muchacha de dudosa reputación, a la que regalará un rubí emblemático de las tradiciones de su país. Pronto la joven y la gema desaparecen y, para evitar el escándalo, son requeridos los servicios de Hércules Poirot.Este volumen incluye los siguientes relatos:· El pudding de Navidad (The Adventure of the Christmas Pudding)· El misterio del cofre español (The Mystery of the Spanish Chest)· El inferior (The Under Dog)· La tarta de zarzamoras (Four and Twenty Blackbirds)· El sueño (The Dream)· La locura de Greenshaw (Greenshaw’s Folly)",
+	"contributor": "Stella de Cal",
+	"date": "1960-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 84672,
+	"unique_words": 9368,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.595889168995963,
+		"slope": 0.6647906094417466,
+		"std_error_intercept": 0.04664316940867984,
+		"std_error_slope": 0.004448329139830709
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1ab350612971243b612"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El secreto de Chimneys (18703)/El secreto de Chimneys - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El secreto de Chimneys",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Anthony Cade, que ejerce de guía turístico en África del sur, recibe de un buen amigo una extraña misión que le devuelve a Inglaterra. A su llegada, se ve envuelto en una telaraña de asesinatos, chantaje y traición, relacionados con las luchas políticas de Herzoslovaquia, y en una romántica y misteriosa historia de amor.",
+	"contributor": "Juan A. Gutiérrez Larraya",
+	"date": "1925-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 71465,
+	"unique_words": 10902,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.788922720980155,
+		"slope": 0.6734269185983839,
+		"std_error_intercept": 0.1167274293800237,
+		"std_error_slope": 0.011284896573277407
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1af350612971243b613"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El templete de Nasse House (18533)/El templete de Nasse House - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El templete de Nasse House",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El matrimonio Folliat, encargado de organizar la fiesta del pueblo, decide encomendarle a su amiga y escritora de libros de misterio Ariadne Oliver la planificación de un falso asesinato, para entretenimiento de los presentes. Ella acepta encantada, y se pone manos a la obra. Tras varias semanas de planificación, Ariadne acude en el último momento a su amigo Hércules Poirot para obtener su valiosa ayuda, ya que sus instintos le dicen que algo siniestro se incuba detrás del divertimento. Efectivamente, Poirot no tardará en descubrir que nada ni nadie es lo que aparenta... ni siquiera el falso asesinato.",
+	"contributor": "Stella de Cal",
+	"date": "1956-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 71056,
+	"unique_words": 7847,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1970675373012587,
+		"slope": 0.6071066343703277,
+		"std_error_intercept": 0.1538646420648132,
+		"std_error_slope": 0.014882167739724178
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1b5350612971243b614"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El testigo mudo (15020)/El testigo mudo - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El testigo mudo",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Tras sufrir un accidente en su propia casa, Emily Arundell redacta un nuevo testamento desheredando a sus sobrinos y escribe una carta a Hércules Poirot. El detective la recibirá dos meses después de la muerte, aparentemente natural, de la anciana e inmediatamente empieza a investigar. Poco a poco se irán revelando las intrigas que rodean el misterioso caso.",
+	"contributor": "A. Soler Crespo",
+	"date": "1937-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 93923,
+	"unique_words": 10363,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.170733267497483,
+		"slope": 0.6203615167369873,
+		"std_error_intercept": 0.1443459400460873,
+		"std_error_slope": 0.013651994593324798
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1b9350612971243b615"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El tren de las 4.50 (16830)/El tren de las 4.50 - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El tren de las 4.50",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Mientras viaja de Londres a St. Mary Mead en el tren de las 4.50, la señora MacGillucuddy presencia un asesinato que se está cometiendo en otro tren que circula paralelo al suyo. Intenta denunciar el hecho, pero sólo su amiga miss Marple da crédito a su historia y, al comprobar que el cadáver no aparece, decide tomar cartas en el asunto.",
+	"contributor": "Guillermo de Boladeres Ibern",
+	"date": "1957-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 79424,
+	"unique_words": 9275,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9702174632911578,
+		"slope": 0.6371106703264326,
+		"std_error_intercept": 0.10087809634069883,
+		"std_error_slope": 0.009670260012459193
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1bd350612971243b616"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El truco de los espejos (18032)/El truco de los espejos - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El truco de los espejos",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Ruth van Rydock está preocupada por su hermana. Para asegurarse de que está bien, le pide a su vieja amiga Jane Marple que vaya a Stonygates, la laberíntica mansión donde Carrie-Louis vive junto a su tercer marido, Lewis Serrocold. De repente Miss Marple se encuentra en medio de una excéntrica casa, donde convive una extraña familia y un reformatorio para jóvenes criminales, donde la violencia apenas parece percibirse.",
+	"contributor": "C. Peraire del Molino",
+	"date": "1952-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 60115,
+	"unique_words": 7443,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9060870659530083,
+		"slope": 0.6381840749562459,
+		"std_error_intercept": 0.15776106072021448,
+		"std_error_slope": 0.015465318889540417
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1c2350612971243b617"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/En el hotel Bertram (18881)/En el hotel Bertram - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "En el hotel Bertram",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Un sobrino de la Srta. Marple la invita a pasar unos días en el extraordinario Hotel Bertram de Londres. Lo curioso del lugar es que ha sabido adaptarse a la modernidad sin perder su esencia victoriana y todos los clientes son, en su mayoría, antiguas «reliquias» de antes de la guerra que saben apreciar una cortesía servicial, comidas caseras, el confortable lujo de chimeneas de leña, salones bien decorados y el trato personal por parte de todos los competentes empleados.Paralelamente, se han ido sucediendo en Londres diversos y frecuentes robos que apuntan a una organización bien estructurada y con una inteligencia importante al mando, que mantienen en vilo a la policía porque actúan de manera muy escurridiza.La Srta. Marple, desde el hotel, advierte algunas cosas con relación a determinados huéspedes, y el tema se complica realmente cuando desaparece uno de esos clientes, un clérigo despistado, y se produce un asesinato… El inmaculado hotel, precisamente a causa de su aspecto intachable, comienza a ser considerado un misterioso foco de… ¿?",
+	"contributor": "Manuel Giménez Sales",
+	"date": "1965-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 78029,
+	"unique_words": 8891,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.2511473578589594,
+		"slope": 0.610249151582913,
+		"std_error_intercept": 0.14405631429316945,
+		"std_error_slope": 0.013829038431818368
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1c6350612971243b618"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Hacia cero (13196)/Hacia cero - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Hacia cero",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "«Me gustan las buenas historias de detectives, ¡pero estas siempre comienzan en el lugar equivocado! Comienzan con el asesinato. Pero el asesinato es el final. La historia empieza mucho antes de eso». Así hablaba el eminente criminólogo Treves.Y tales palabras nunca han sido más justas, cuando se trata del psicópata asesino que acecha en el tranquilo poblado a orillas del río Tern. ¿A quién pretende matar? ¿Cuáles son sus motivos? Y por último ¿cómo y cuándo llegará al punto del asesinato, el punto cero?En esta ingeniosa obra de Agatha Christie, el misterio se centra en la patológica mente que planea el crimen, mientras un grupo de amigos pasan un agradable fin de semana juntos, sin ser conscientes de que se trata del último de sus vidas…",
+	"contributor": "Stella de Cal",
+	"date": "2018-02-24",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 70618,
+	"unique_words": 8260,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0434594153356964,
+		"slope": 0.6265280098680551,
+		"std_error_intercept": 0.07598111498762654,
+		"std_error_slope": 0.0073527575784053285
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1ca350612971243b619"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Inocencia tragica (14826)/Inocencia tragica - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Inocencia trágica",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Al recuperarse de su amnesia, el doctor Arthur Calgary descubre que podría haber ofrecido una coartada para el escandaloso juicio en el que Jacko Argyle fue acusado de asesinar a su madre. Lo peor de todo es que este murió en prisión. Pero si el joven Jacko era inocente, entonces otra persona asesinó a su madre, y seguramente volverá a hacerlo para permanecer oculto en las sombras.",
+	"contributor": "Guillermo de Boladeres",
+	"date": "1958-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 79109,
+	"unique_words": 8112,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9419566548158036,
+		"slope": 0.6274820911944405,
+		"std_error_intercept": 0.08234226985162524,
+		"std_error_slope": 0.0078959210662051
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1d0350612971243b61a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Intriga en Bagdad (18309)/Intriga en Bagdad - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Intriga en Bagdad",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Victoria Jones, una mediocre mecanógrafa, acaba de perder su empleo. Conoce entonces a un atractivo muchacho, Edward, del que se enamora. El joven debe marchar a Bagdad por cuestiones profesionales y Victoria se las ingenia para seguirle allí como señorita de compañía de una anciana. Para conseguir el puesto, se finge sobrina de un famoso arqueólogo. Una vez en Bagdad, la trama romántica se ve complicada por un sinnúmero de aventuras que acontecen vertiginosamente a la protagonista que, de heroína de una historia de amor, pasa a ser de una trepidante intriga internacional.",
+	"contributor": "C. Praire del Molino",
+	"date": "1951-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 76512,
+	"unique_words": 10271,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8504713269302013,
+		"slope": 0.6591122314125826,
+		"std_error_intercept": 0.13250741877479208,
+		"std_error_slope": 0.012740511634757064
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1d3350612971243b61b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/La casa torcida (36863)/La casa torcida - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "La casa torcida",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Arístides Leónides, un multimillonario griego, se mudó a Inglaterra donde construyó la Casa Torcida, un palacete de curiosa estructura donde hospedó a toda su familia, desde sus hijos hasta sus nietos y sus sobrinos.Sophia Leónides, su nieta, conquista el corazón de Charles, el hijo de un detective de Scotland Yard, y cuando su abuelo es asesinado mediante una inyección de eserina por un miembro de la familia, pide a su novio que investigue el caso. Charles vivirá por y para el caso con el fin de casarse con su amada Sophia, y cuando ya creen que todo ha acabado, habrá un nuevo asesinato.Así comienza una historia de secretos y misterios en el seno de una familia poderosa y cerrada. Al final de la novela, cuando el secreto más importante es desvelado, descubrimos que el asesino es uno de los personajes de quien menos lo podíamos esperar, lo que convierte a la novela en una obra maestra, excelente y llena de misterio, considerada por Agatha Christie su mejor obra.",
+	"contributor": "Stella de Cal",
+	"date": "1949-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68343,
+	"unique_words": 8300,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.791516881882135,
+		"slope": 0.6493547674942922,
+		"std_error_intercept": 0.037748147676199405,
+		"std_error_slope": 0.0036625123627676308
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1d8350612971243b61c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/La muerte de Lord Edgware (14991)/La muerte de Lord Edgware - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "La muerte de Lord Edgware",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Poirot y Hastings asisten a un espectáculo en el que Carlotta Adams realiza una perfecta imitación de personajes célebres, entre los que se destaca la famosa actriz de cine Jane Wilkinson. Casualmente se encuentran todos después en una fiesta y la famosa actriz pida a Poirot que la ayude a obtener el divorcio de su marido, lord Edgware. La gestión resulta innecesaria porque, a los pocos días, lord Edgware aparece asesinado con un estilete clavado en la nuca.Nuevas muertes dificultan la investigación. Existen varios sospechosos..., pero todos tienen una coartada perfecta.",
+	"contributor": "José Mallorquí Figuerola",
+	"date": "1933-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 73123,
+	"unique_words": 7951,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.959221531663975,
+		"slope": 0.6266201153969184,
+		"std_error_intercept": 0.03036339652061533,
+		"std_error_slope": 0.002930054738902536
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1dd350612971243b61d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/La puerta del destino (18899)/La puerta del destino - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "La puerta del destino",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Tommy y Tuppence Beresford creen que es su gruñona tía quien inventa las diversas calamidades que suceden en su vieja residencia de ancianos. Pero no sólo en esta vieja casa encontrarán pistas inquietantes, también en la que acaban de comprar en un pueblecito inglés, y que encierra un antiguo secreto alrededor de un macabro asesinato.",
+	"contributor": "Ramón Margalef Llambrich",
+	"date": "1973-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 92083,
+	"unique_words": 10122,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9049294250762616,
+		"slope": 0.6417555381491213,
+		"std_error_intercept": 0.05912960017120335,
+		"std_error_slope": 0.005601292929696171
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1df350612971243b61e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/La ratonera (18128)/La ratonera - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "La ratonera",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Escrita por Agatha Christie y basada en su propio relato Tres ratones ciegos, La ratonera fue estrenada en Londres en el año 1952 y allí se representa desde entonces de forma ininterrumpida, logrando de esta forma todo un récord en el mundo teatral. Es la clásica pieza policíaca en la que no se sabe quién es el asesino hasta el final de la obra, de modo que el espectador puede sospechar de cada uno de los personajes, pues todos tienen motivos y ocasión para cometer el crimen. Una joven pareja ha heredado una mansión y deciden convertirla en una casa de huéspedes. En una fría noche de invierno, van llegando los inquietantes inquilinos que van a pasar el fin de semana: un joven excéntrico, una dama anciana de mal temperamento, un militar retirado, una mujer con aire masculino y un misterioso extranjero… Poco después, un joven sargento de la policía consigue llegar a través de la nieve para advertirles que un peligro les acecha, pues alguno de ellos puede tener relación con un crimen cometido en Londres. A partir de ese momento la casa se convierte en una ratonera. Las sospechas y recelos entre unos y otros se van sucediendo hasta llegar al inesperado final…",
+	"contributor": "Alberto Fuentes Pérez",
+	"date": "1952-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 33850,
+	"unique_words": 4430,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7675530370573582,
+		"slope": 0.6335282501596107,
+		"std_error_intercept": 0.05637867040199365,
+		"std_error_slope": 0.005785155056693377
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1e4350612971243b61f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/La senora McGinty ha muerto (18707)/La senora McGinty ha muerto - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "La señora McGinty ha muerto",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "La señora McGinty aparece asesinada. James Bentley, su inquilino, es acusado del crimen y condenado a la horca, pero el superintendente Spence de Scotland Yard no cree que sea el verdadero culpable y, para demostrarlo, pide ayuda a Hércules Poirot. El detective belga conseguirá desentrañar una verdad que las pistas más superficiales habían ocultado.",
+	"contributor": "Guillermo López Hipkiss",
+	"date": "1952-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 77980,
+	"unique_words": 9153,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7664633204337168,
+		"slope": 0.6553607346844762,
+		"std_error_intercept": 0.10021766587581585,
+		"std_error_slope": 0.009621175524908264
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1e6350612971243b620"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/La telarana (20961)/La telarana - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "La telaraña",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Clarissa, la esposa de un diplomático del Foreign Office, es proclive a soñar despierta. Suponiendo que un día encontrara un cadáver en la biblioteca, ¿qué haría?, se pregunta. Clarissa tiene la oportunidad de averiguarlo cuando un día descubre un cuerpo en la sala de su casa. Desesperada por deshacerse de él antes de que llegue su marido con un importante político extranjero, intenta convencer a sus tres invitados para que la ayuden y se conviertan así en sus cómplices. Cuando empieza a indagar en su entorno para descubrir al asesino, se ve sorprendida por la llegada de un inspector de policía que ha recibido una llamada anónima, y que necesita ser convencido de que allí no se ha cometido ningún asesinato… Una brillante novelización de una de las obras teatrales de mayor éxito de Agatha Christie; una historia desengaño y muerte que entusiasmará a los seguidores de la inolvidable autora.",
+	"contributor": "Sonia Tapia",
+	"date": "1954-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 42992,
+	"unique_words": 5189,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.131317546040983,
+		"slope": 0.6020928031398783,
+		"std_error_intercept": 0.09854980426475418,
+		"std_error_slope": 0.009923029613084198
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1ec350612971243b621"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/La tercera muchacha (8322)/La tercera muchacha - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "La tercera muchacha",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Tres chicas solteras comparten piso en Londres. Una trabaja como secretaria, otra es artista y la tercera, que acaba de pedir ayuda a Poirot, desaparece repentinamente al creer que es una asesina.Hércules Poirot encuentra una joven que le dice una frase que probablemente no escuchara antes, confesándole que creía haber cometido un homicidio, pero que no tenía total certeza y que probablemente él no podría ayudarla pues era demasiado viejo.Es así que el detective comienza a investigar el extraño caso y descubre quien es la chica que no sabe si cometió un crimen. Uno de sus primeros descubrimientos es que ella comparte un apartamento en Londres con otras dos jóvenes, razón por la que era conocida como la tercera muchacha, sin contar que muchos la creían enferma mental. En la investigación, Poirot encuentra varios hechos en el pasado de los familiares de la muchacha, tramas paralelos, conexiones misteriosas, que lo ayuda a descubrir la verdad detrás de esta inquietante joven.Se habla de pistolas, navajas y manchas de sangre pero, a falta de pruebas concluyentes, Poirot necesitará hacer uso de su tenacidad para esclarecer el asunto y descubrir si la tercera chica es culpable, inocente o si está loca.",
+	"contributor": "Ramón Margalef Llambrich",
+	"date": "2014-12-28",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 96714,
+	"unique_words": 10861,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0701486734327266,
+		"slope": 0.6306716546619082,
+		"std_error_intercept": 0.0863791527878843,
+		"std_error_slope": 0.008150419430460135
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1f0350612971243b622"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/La venganza de Nofret (9485)/La venganza de Nofret - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "La venganza de Nofret",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Una joven viuda egipcia, Reniseb, regresa al hogar paterno tras la muerte de su esposo. Allí convivirá con sus hermanos y sus respectivas esposas, así como con su padre, que ha traído al hogar a una nueva concubina. La llegada de esta última perturba a la familia y desata la lucha por el poder, la codicia y el odio.",
+	"contributor": "Inés Cortés Bover",
+	"date": "1944-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 60949,
+	"unique_words": 8628,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8095114272957928,
+		"slope": 0.6589161137614521,
+		"std_error_intercept": 0.06793304545794268,
+		"std_error_slope": 0.006652095026815734
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1f6350612971243b623"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Las manzanas (19488)/Las manzanas - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Las manzanas",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Ariadne Oliver está de visita en casa de su amiga Judith Butler. La casa hierve de actividad, pues se prepara una fiesta juvenil y hay que organizar diversos juegos. Nadie tiene tiempo o ganas de prestar atención a Joyce, una pequeña que afirma haber presenciado un asesinato; el anuncio se toma como el invento de una mente muy imaginativa, para no decir mentirosa, que es la fama que persigue a Joyce. Pero poco tiempo pasará antes de que la propia Joyce aparezca muerta y tenga que intervenir Hércules Poirot a resolver el caso.",
+	"contributor": "Ramón Margalef Llambrich",
+	"date": "1969-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 91436,
+	"unique_words": 10350,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8268509646446682,
+		"slope": 0.6500171121732388,
+		"std_error_intercept": 0.05236690595944817,
+		"std_error_slope": 0.004963444131448534
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1fa350612971243b624"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Los cuatro grandes (8582)/Los cuatro grandes - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Los cuatro grandes",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Hércules Poirot se enfrenta con unos criminales fuera de lo común. No son vulgares asesinos ni simples estafadores. Son líderes organizados a escala internacional, que mueven los hilos de cuanto sucede en el mundo. Se les conoce como 'Los cuatro grandes' y el detective tendrá que descubrir su identidad antes de que sea demasiado tarde para la humanidad.",
+	"contributor": "A. Soler Crespo",
+	"date": "2014-12-29",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 67081,
+	"unique_words": 8919,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7265244382477982,
+		"slope": 0.6642809124887501,
+		"std_error_intercept": 0.12507765320180997,
+		"std_error_slope": 0.01215393426636733
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e1ff350612971243b625"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Los elefantes pueden recordar (8326)/Los elefantes pueden recordar - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Los elefantes pueden recordar",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Hércules Poirot y la escritora Ariadne Oliver se sumergen en una historia acaecida doce años atrás, un caso de doble muerte que en su día fue archivado como suicidio pactado. Las cosas que pasaron por alto a quienes tuvieron alguna relación con los sucesos, los recuerdos dispersos de unos y otros llevarán a los dos investigadores al conocimiento de la verdad.",
+	"contributor": "Ramón Margalef Llambrich",
+	"date": "2014-12-28",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72224,
+	"unique_words": 7924,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1301105860508085,
+		"slope": 0.6116882479109494,
+		"std_error_intercept": 0.020641075143554743,
+		"std_error_slope": 0.001993837801834077
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e204350612971243b626"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Los Relojes (8321)/Los Relojes - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Los Relojes",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Desde el número 19 de Wilbraham Crescent alguien llama solicitando una mecanógrafa, con preferencia Sheila Webb. La llamada es atendida y Sheila es enviada a la dirección reseñada con el encargo de presentarse a miss Pebmarsh.Al llegar allí se encuentra la puerta abierta y se introduce en un saloncito que le llama la atención por los numerosos relojes que distingue y porque junto al sofá descubre el cuerpo de un hombre con los ojos entreabiertos, unos ojos que miran sin ver ya que está muerto. Afortunadamente del caso se encarga finalmente Hércules Poirot.",
+	"contributor": "Ramón Margalef Llambrich",
+	"date": "2014-12-28",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 102045,
+	"unique_words": 11560,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.646343537017977,
+		"slope": 0.6699768459301477,
+		"std_error_intercept": 0.061724927087097675,
+		"std_error_slope": 0.00579913083877363
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e20a350612971243b627"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Los trabajos de Hercules (18706)/Los trabajos de Hercules - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Los trabajos de Hércules",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Antes de retirarse definitivamente, el famoso detective Hércules Poirot decide resolver sus últimos doce casos a modo de las doce pruebas que el Hércules de la mitología griega tuvo que realizar. De este modo, acepta tan solo los casos que, aun siendo triviales, como la desaparición de un pekinés o las habladurías y cotilleos de un pequeño pueblo, hayan sido considerados como irresolubles y que, en cualquier caso, puedan encajar con cualquiera de los trabajos del mítico héroe griego.Este volumen incluye los siguientes relatos:· El león de Nemea (The Nemean Lion)· La hidra de Lerna (The Lernean Hydra)· La corza de Cerinea (The Arcadian Deer)· El jabalí de Erimantea (The Erymanthian Boar)· Los establos de Augías (The Augean Stables)· Los pájaros del Estinfalia (The Stymphalean Birds)· El toro de Creta (The Cretan Bull)· Los caballos de Diomedes (The Horses of Diomedes)· El cinturón de Hipólita (The Girdle of Hyppolita)· El rebaño de Gerión (The Flock of Geryon)· Las manzanas de las Hespérides (The Apples of the Hesperides)· La captura de Cancerbero (The Capture of Cerberus)",
+	"contributor": "Ángel Soler Crespo",
+	"date": "1947-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 97019,
+	"unique_words": 11910,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8160151939277167,
+		"slope": 0.6578391183859358,
+		"std_error_intercept": 0.051618717601430955,
+		"std_error_slope": 0.004869317775388011
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e20e350612971243b628"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Maldad bajo el sol (18705)/Maldad bajo el sol - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Maldad bajo el sol",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Una playa estupenda y un hotel lujoso. Reina la paz, la alegría y la despreocupación. Sin embargo la naturaleza humana es la naturaleza humana. Caldo de cultivo en el que la codicia se agita, hierven las pasiones y los vapores de la maldad se filtran por todas partes, bajo el sol. Aquí la maldad parece concentrarse en Arlene, a la que todos desean. Mujer fatal, que acaso castigo por su carácter licencioso, aparece estrangulada junto al mar. Se trata de un asesinato, pero todos los posibles sospechosos tienen coartada. Sin embargo, el detective Hércules Poirot ve más allá de las apariencias. Se percata de que aquel es un crimen minuciosamente planeado y cronometrado...",
+	"contributor": "E. M. A.",
+	"date": "1941-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68681,
+	"unique_words": 8273,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7167459089643686,
+		"slope": 0.6561338953644816,
+		"std_error_intercept": 0.11253128007669633,
+		"std_error_slope": 0.010914080907771576
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e211350612971243b629"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Matar es facil (13333)/Matar es facil - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Matar es fácil",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "¿Qué oscuro secreto esconde el pueblo de Wychwood para que muchos de sus habitantes estén muriendo bajo extrañas circunstancias? La señora Pinkerton, una anciana vecina de la localidad, le cuenta al ex policía Luke Fitzwilliam los entresijos de los crímenes recientemente acaecidos allí, y le anuncia que la próxima víctima será el doctor Humbleby. Lo que en principio no parece más que una chifladura propia de una lunática, al día siguiente se convierte en algo alarmante: Fitzwilliam lee en la prensa que la anciana ha muerto atropellada y que el cuerpo del doctor Humbleby ha sido hallado sin vida. Fitzwilliam se traslada a Whichwood donde finge ser un escritor que busca información para una novela y poder así investigar más libremente.",
+	"contributor": "Conchita Peraire del Molino",
+	"date": "1939-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 64751,
+	"unique_words": 8249,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8811004722402722,
+		"slope": 0.6455550448241525,
+		"std_error_intercept": 0.09680820115432956,
+		"std_error_slope": 0.009433608041561339
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e216350612971243b62a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Matrimonio de sabuesos (17938)/Matrimonio de sabuesos - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Matrimonio de sabuesos",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Cuando el amable Tommy Beresford, queda desempleado y sin perspectivas de futuro al finalizar la Primera Guerra Mundial, se percata que la vida no es como él imaginaba. No obstante, al reencontrar una vieja amiga de infancia, Prudence Cowley, más conocida como Tuppence, su vida cobra un interés inimaginado. Ambos sin dinero y sin trabajo deciden fundar la Young Adventures Limited, colocando un anuncio en el The Times, donde Tommy y Tuppence prometen: '... hacemos de todo, vamos a cualquier parte...'Claro que este irresistible duo está apasionado por la intriga...y uno por el otro. No pierden la oportunidad de comprar y gerenciar la Agencia Internacional de Detectives Blunt. Juntos, resolverán una serie de casos de una forma que ilustra, con algo de humor y en gran estilo, la manera de actuar de los mayores detectives del mundo.Tommy y Tuppence se divierten hasta más no poder, mientras intentan resolver los casos más siniestros y mortíferos. En la lista de personajes envueltos en la acción se encuentra una bella actriz, un explorador del Ártico, un embajador americano y mucho más. Cada aventura guía a los recién casados tras la pista de joyas desaparecidas, documentos secretos, chocolates envenenados y otros. Lo más difícil en su tarea es descifrar quién es inocente y qué es legítimo.",
+	"contributor": "Manuel Amechazurra",
+	"date": "1929-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 86673,
+	"unique_words": 10371,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8288657553316665,
+		"slope": 0.6543096639170095,
+		"std_error_intercept": 0.08624007441392313,
+		"std_error_slope": 0.00820926404535834
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e219350612971243b62b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Diez negritos (9564)/Diez negritos - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Diez negritos",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Diez personas reciben sendas cartas firmadas por un desconocido Mr. Owen, que las invita a pasar unos días en la mansión que tienen en uno de los islotes de la costa de Devon. La primera noche, después de la cena, una voz los acusa de ser culpables de un crimen. Lo que parece ser una broma macabra se convierte en una espantosa realidad cuando, uno por uno, los diez invitados son asesinados en una atmósfera de miedo y mutuas recriminaciones. La clave parece estar en una vieja canción infantil: «Diez negritos se fueron a cenar, uno de ellos se asfixió y quedaron nueve. Nueve negritos trasnocharon mucho, uno de ellos no se pudo despertar, y quedaron ocho…».",
+	"contributor": "Orestes Llorens",
+	"date": "1939-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 58564,
+	"unique_words": 8497,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0161501873500955,
+		"slope": 0.6402137224122086,
+		"std_error_intercept": 0.09050410046034554,
+		"std_error_slope": 0.008890698041322262
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e21d350612971243b62c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/El misterio del Tren Azul (17943)/El misterio del Tren Azul - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "El misterio del Tren Azul",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Cuando el lujoso Tren Azul llega a Niza, un guardia intenta despertar a Ruth Kettering para anunciarle su parada. Pero ella no despertará nunca más, ya que un disparo de gran calibre la ha matado, desfigurando sus rasgos hasta volverla casi irreconocible. Además, sus valiosísimos rubíes han desaparecido.El principal sospechoso del crimen es el arruinado marido de la dama, Derek. Pero Poirot no está convencido, y decide hacer una reconstrucción de ese día hasta llegar a la clave del asesinato…",
+	"contributor": "José Mallorquí",
+	"date": "1928-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 79957,
+	"unique_words": 8932,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.2130361173299584,
+		"slope": 0.6103639947190421,
+		"std_error_intercept": 0.04773470091332891,
+		"std_error_slope": 0.004573439545364909
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e220350612971243b62d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/La muerte visita al dentista (18531)/La muerte visita al dentista - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "La muerte visita al dentista",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El dentista es encontrado muerto, con un agujero de bala en su sien y un revólver en el suelo, cerca de su mano derecha. Poco después, un paciente aparece sin vida por una dosis letal de anestesia. Un caso evidente de suicidio y asesinato, pero ¿por qué un dentista cometería un crimen en medio de una jornada llena de citas? Un zapato de mujer parece ser la clave del misterio. Y solo Hércules Poirot podrá desentrañarlo.",
+	"contributor": "Concha Peraire del Molino",
+	"date": "1940-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 57388,
+	"unique_words": 7787,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8418839449925275,
+		"slope": 0.6491071712824199,
+		"std_error_intercept": 0.06985031723703602,
+		"std_error_slope": 0.006872961892737426
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e225350612971243b62e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Misterio en el Caribe (16637)/Misterio en el Caribe - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Misterio en el Caribe",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Miss Marple está de vacaciones en Barbados, invitada por su generoso sobrino. Siempre alerta, pasa su primer día en el hotel Golden Palm, conociendo al resto de los invitados: Tim y Molly Kendal dueños del hotel, Edward y Evelyn Hillingdon quienes, con Greg y Lucky Dyson, invierten su tiempo en expediciones botánicas que no son lo que intentan aparentar. Está también el excéntrico millonario Jason Rafael, su secretaria, Esther Walters y su sirviente Jackson. Finalmente está el mayor Palgrave, el pesado del hotel, cuyo catálogo de interminables cuentos le convierten en un payaso para el resto de los invitados. Él aborda a Miss Marple con un cuento sobre una extraña coincidencia…",
+	"contributor": "Ramón Margalef Llambrich",
+	"date": "1964-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 76008,
+	"unique_words": 9235,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.301094043809786,
+		"slope": 0.6076142314175942,
+		"std_error_intercept": 0.08939042358049415,
+		"std_error_slope": 0.008599403478673266
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e22b350612971243b62f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Primeros casos de Poirot (36854)/Primeros casos de Poirot - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Primeros casos de Poirot",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Agatha Christie publicó las historias reunidas en este volumen entre 1923 y 1935, dispersas en periódicos de Gran Bretaña. La recopilación original, de 1974, puso al alcance de los fieles lectores de la «Reina del Crimen» unos relatos que ya parecían relegados al olvido por no haber sido nunca editados en forma de libro. En este volumen se recogen diecisiete casos de uno de los detectives literarios más célebres del mundo, Hércules Poirot, desde sus orígenes en su Bélgica natal hasta sus mayores logros como investigador en Londres: El caso del baile de la Victoria, El misterio de Cornualles, Doble pista, El expreso de Plymouth —cuya trama originaría la novela El tren azul—, Nido de avispas y Problema en el mar, entre otros. Para el lector de hoy supone una formidable oportunidad de conocer aún más a fondo el personaje, su evolución en el tiempo y la de sus peculiares métodos de investigación, además de los atractivos estilísticos y literarios de una de las más reputadas autoras de novela criminal de todos los tiempos.",
+	"contributor": "Alberto Coscarelli Guaschino",
+	"date": "1974-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 91730,
+	"unique_words": 11043,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5799292084486805,
+		"slope": 0.6769510299625884,
+		"std_error_intercept": 0.029280396823864234,
+		"std_error_slope": 0.0027745560571110456
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e230350612971243b630"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Muerte en el Nilo (79301)/Muerte en el Nilo - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Muerte en el Nilo",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Durante unas placenteras vacaciones en Egipto, el detective Hércules Poirot coincide con Linnet y Simon, unos conocidos suyos que están de luna de miel en el país de los faraones.El encanto de tan maravillosos días se rompe cuando una mañana, en el transcurso de un crucero por el Nilo, la bella Linnet aparece muerta de un disparo en la cabeza.¿Será capaz Poirot de encontrar al asesino de la joven esposa? ¿Será capaz de discernir entre imaginación y realidad, aun estando a bordo la ex pareja de Simon, empeñada desde el mismo día de la boda en arruinar su matrimonio con la desafortunada Linnet?El misterio está servido.",
+	"contributor": null,
+	"date": "1937-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 84019,
+	"unique_words": 9880,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.096433185859502,
+		"slope": 0.6286110893623158,
+		"std_error_intercept": 0.0961010584120511,
+		"std_error_slope": 0.009170834331843491
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e235350612971243b631"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Muerte en la vicaria (18030)/Muerte en la vicaria - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Muerte en la vicaría",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El asesinato del coronel Protheroe conmociona el pueblo de St. Mary Mead, donde el principal entretenimiento consiste en tomar el té y chismorrear. Entre los vecinos de St. Mary Mead, la persona más entrometida, observadora y sagaz es miss Marple. Su intervención será decisiva en la resolución de un crimen para el que no faltan sospechosos.",
+	"contributor": "Carlos Paytuví de Sierra",
+	"date": "1930-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 77892,
+	"unique_words": 8697,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.235493779543831,
+		"slope": 0.6053700252628219,
+		"std_error_intercept": 0.09603257342529069,
+		"std_error_slope": 0.009220164787767392
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e239350612971243b632"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Agatha Christie/Muerte en las nubes (20681)/Muerte en las nubes - Agatha Christie.epub",
+	"creator": "Agatha Christie",
+	"title": "Muerte en las nubes",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El avión se acercaba ya al canal de la Mancha cuando la pasajera del asiento número doce, madame Giselle, inclinó la cabeza hacia adelante. Cualquiera hubiese dicho que se había quedado dormida. Cualquiera, menos el asesino que acababa de matarla. El pequeño dardo se clavó en el cuello de la víctima y el veneno surtió su efecto sin que ninguno de los demás pasajeros ni ningún miembro de la tripulación se diese cuenta de nada. El caso tendría todos los visos de lo insoluble si no fuera porque en el avión viajaba también Hercules Poirot.",
+	"contributor": "A. Nadal",
+	"date": "1935-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 70292,
+	"unique_words": 9145,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7985378656541304,
+		"slope": 0.6570143416267222,
+		"std_error_intercept": 0.04459945190163063,
+		"std_error_slope": 0.004317522058466416
+	}
 }]
 
