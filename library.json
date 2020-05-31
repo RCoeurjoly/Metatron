@@ -45444,5 +45444,1743 @@
 		"std_error_intercept": 0.10386679540259526,
 		"std_error_slope": 0.010139035875360497
 	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f53e350612971243b9d0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Gandara/Ciegas esperanzas (19202)/Ciegas esperanzas - Alejandro Gandara.epub",
+	"creator": "Alejandro Gándara",
+	"title": "Ciegas esperanzas",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "En una llanura desértica, atravesada por un río poderoso, un hombre despierta, ignorante de su propia identidad. Únicamente la palabra «soldado» parece decirle algo de sí mismo. Desde la otra orilla, un extraño le hace señas invitándole a cruzar el río. Jornada tras jornada, el hombre se enfrentará durante la noche al extraño mensajero y, durante el día, rescatará lentamente del olvido las principales experiencias de un itinerario vital marcado por la incapacidad de asumir su verdadera identidad. Su infancia en un Marruecos próximo a la independencia, el descubrimiento de la figura contradictoria del padre, su amor adolescente, su carrera militar, su matrimonio, el nacimiento de una hija... A lo largo de estos «días de sueño y noches de combate» se le ofrecerá la fuga definitiva, escapar al dolor y a la memoria, y tendrá la oportunidad, al revivir su vida, de tomar auténtica conciencia de sí mismo. Con una estructura extraordinaria en la que destaca la perfecta elección del universo metafórico.Ciegas esperanzas se revela como un fascinante ejercicio literario, que persigue, y logra, recrear un mundo que normalmente escapa a los límites de nuestro lenguaje. En la alternancia entre el sueño y la batalla, sitúa Gándara la reflexión y la resistencia, únicos mecanismos posibles para sobrevivir al desconcierto y el desamparo que presiden la existencia del hombre. Antes de la revelación, o antes de saber que no llegará nunca, nos queda la esperanza de ser sujetos de nuestro propio destino. Finalmente Ciegas esperanzas es también una bellísima reflexión sobre la muerte como definitivo acontecimiento de la vida y una reivindicación de nuestro derecho a enfrentarnos a aquello que es superior a nosotros mismos.",
+	"contributor": null,
+	"date": "2014-06-30",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72664,
+	"unique_words": 8611,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5232410081917702,
+		"slope": 0.6719381094037479,
+		"std_error_intercept": 0.06331304857400959,
+		"std_error_slope": 0.006112773871693143
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f546350612971243b9d1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Gandara/El dia de hoy (78491)/El dia de hoy - Alejandro Gandara.epub",
+	"creator": "Alejandro Gándara",
+	"title": "El día de hoy",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Un hombre abre los ojos a las 7.20 y tiene miedo. Hoy no es cualquier día, sino ese en el que todo puede cambiar. No entiende su matrimonio fracasado, odia a la vecina del primero y sufre extraños arrebatos de violencia…, pero hoy tiene un plan que lo cambiará todo. Ángel Santiesteban sabe que debe tener una conversación crucial con Goro, su hijo adolescente con trastorno de atención (TDAH).El día de hoy nos habla de la eterna lucha contra la suerte y el destino. De las mentiras que apuntalan nuestra historia y de los recuerdos que acabamos por olvidar. Una original mirada de la ciudad como biografía: un paseo lleno de esquinas, mentiras, fugas y azares.",
+	"contributor": null,
+	"date": "2008-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 104953,
+	"unique_words": 12891,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5667631888607894,
+		"slope": 0.6862202863823089,
+		"std_error_intercept": 0.15054233813310497,
+		"std_error_slope": 0.014111807814863578
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f54a350612971243b9d2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Gandara/La vida de H (80967)/La vida de H - Alejandro Gandara.epub",
+	"creator": "Alejandro Gándara",
+	"title": "La vida de H",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Este relato surge de una pregunta sencilla y terrible: la que, en algún momento de su temprana existencia, todo niño se formula alrededor del enigma llamado muerte. Bajo la tutela de un hada que la ayuda a forjar su carácter, H vive en una ciudad, pero también en un laberinto; recorre un tiempo que sólo avanza en una dirección, pero en el que todo ha sucedido ya; se cruza con personas, pero también con criaturas mitológicas y, en suma, observa la realidad como cualquier otra niña de cinco años, pero es capaz de articular preguntas que sólo los hombres y mujeres más sabios llegan a plantearse al cabo de su vida acerca de lo que no vemos y de cuánto y cómo nos atraviesa.",
+	"contributor": null,
+	"date": "2018-04-01T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 51286,
+	"unique_words": 8154,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.9233928507809462,
+		"slope": 0.7479892137942492,
+		"std_error_intercept": 0.09643099256131514,
+		"std_error_slope": 0.009574154838633612
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f553350612971243b9d3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Gandara/Las puertas de la noche (75564)/Las puertas de la noche - Alejandro Gandara.epub",
+	"creator": "Alejandro Gándara",
+	"title": "Las puertas de la noche",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "No nacemos solos, no morimos solos, no nos consolamos solos. Un escritor y profesor, cumplidos los cincuenta, se enfrenta en un solo año a la muerte de varios seres queridos. Las palabras y los libros a los que ha dedicado su vida, ¿sirven ahora de algo? Todo lo que ha escrito, aprendido e incluso lo que ha enseñado deberá ponerlo urgentemente al servicio de un único objetivo: descubrir si existe consuelo para el dolor, la tristeza y la muerte. Lo tranquilizador, quizá lo consolador, no es que todos los humanos mueran, sino que todos viven, del primero al último, y que ése es el verdadero legado que han dejado los predecesores, del mismo modo en que lo dejarán los que ahora existen a quienes les sucedan sobre esta Tierra. Alejandro Gándara combina relato, ensayo e historia de vida en una novela que toca los temas esenciales de la literatura: la vida, la muerte, el alma, el amor, con un planteamiento en la línea de la narrativa contemporánea más innovadora.",
+	"contributor": null,
+	"date": "2013-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 87708,
+	"unique_words": 13353,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0644743738547766,
+		"slope": 0.7426670926609445,
+		"std_error_intercept": 0.09115834791678785,
+		"std_error_slope": 0.008669166876312823
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f556350612971243b9d4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Gandara/Punto de fuga (53836)/Punto de fuga - Alejandro Gandara.epub",
+	"creator": "Alejandro Gándara",
+	"title": "Punto de fuga",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Punto de fuga es un libro lleno de claves. Pero ninguna parece resolver aisladamente la aparente dificultad de enlazar unos hechos con otros.En esta novela, los asideros son al mismo tiempo palancas que empujan por un nuevo desvío. Las razones proyectan peligros que antes quisieron desvanecer. Sin embargo, hay un fondo continuo, una propensión del oído a escuchar una misma música que parece sonar en las encrucijadas del texto. Tal vez sea el efecto de una acústica que el lector inventa para superar la tensión de moverse en una tiniebla mágicamente coherente, o tal vez resida en la intención del autor de construir la novela como una fuga melódica: un motivo adoptado por diferentes voces, cuyo sentido contiene sus propias leyes de huida.",
+	"contributor": null,
+	"date": "1984-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 29142,
+	"unique_words": 5287,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2412431086768048,
+		"slope": 0.7140998235004297,
+		"std_error_intercept": 0.07699199196527821,
+		"std_error_slope": 0.00799342903325806
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f55f350612971243b9d5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Gandara/Ultimas noticias de nuestro mundo (31750)/Ultimas noticias de nuestro mundo - Alejandro Gandara.epub",
+	"creator": "Alejandro Gándara",
+	"title": "Últimas noticias de nuestro mundo",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Después de la caída del Muro de Berlín, un grupo de antiguos espías de la desaparecida República Democrática Alemana es encargado de organizar un encuentro con los ex agentes que aún siguen en activo y al servicio de otros países o de grupos internacionales. Desde 1989 se ha intentado celebrar esta asamblea para trazar una estrategia que devuelva a sus miembros a la escena política. Pero la persona enviada por Moscú para coordinar los preparativos y realizar los contactos muere en extrañas circunstancias. Se desata una investigación que tiene como destino Moscú, San Petersburgo, Berlín, Jerusalén..., y también la propia vida de los agentes, «despertados» para una misión ya quizá imposible. Novela sobre los conflictos y las crisis políticas del presente, sobre la forma en que las viven los individuos sobre las falsas identidades de la vida cotidiana, sobre la traición y el amor... Con extraordinaria ambición y no menos rigor literario, el autor nos brinda una novela diáfana y un envite radical a la inteligibilidad del mundo. Ganador del XIX Premio Herralde de Novela.",
+	"contributor": null,
+	"date": "2001-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 121755,
+	"unique_words": 14940,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6484602084180713,
+		"slope": 0.6842966591537217,
+		"std_error_intercept": 0.1453698441551317,
+		"std_error_slope": 0.013465842071329068
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f564350612971243b9d6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Garcia Maldonado/Al resguardo del tilo rojo (77489)/Al resguardo del tilo rojo - Alejandro Garcia Maldonado.epub",
+	"creator": "Alejandro García Maldonado",
+	"title": "Al resguardo del tilo rojo",
+	"subject": "Novela",
+	"source": null,
+	"rights": null,
+	"relation": null,
+	"publisher": null,
+	"identifier": "9788417499075",
+	"description": "A pesar de haber nacido en la misma ciudadela, Tiziano y Saifel no estaban destinados a encontrarse. Tiziano había sido gobernador dentro de aquellas murallas y ansiaba por conocer qué sucedía más allá de ellas. Saifel solo era un joven con inquietud por aprender y jamás habría podido sospechar que lo que empezaría como una mera enseñanza sobre la vida, ocultaba una de las misiones más inesperadas y extrañas que pudiera imaginar. Ambos hallarían respuestas al resguardo del tilo rojo.",
+	"coverage": null,
+	"contributor": null,
+	"date": "2018-04-24T10:43:56Z",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 97782,
+	"unique_words": 12284,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7566207145195163,
+		"slope": 0.6671939569406927,
+		"std_error_intercept": 0.016422752354901704,
+		"std_error_slope": 0.0015482215030966275
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f574350612971243b9d7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Garcia Sanjuan/La conquista islamica de la peninsula Iberica y la tergiversacion del pasado (32995)/La conquista islamica de la peninsula Iber - Alejandro Garcia Sanjuan.epub",
+	"creator": "Alejandro García Sanjuan",
+	"title": "La conquista islámica de la península Ibérica y la tergiversación del pasado",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "La conquista islámica de 711 constituye uno de los episodios más importantes y, a la vez, más controvertidos y tergiversados de la historia de España. El españolismo nacionalcatólico generó una visión denigratoria basada en una lectura catastrofista (la «pérdida de España»), mientras que, por el contrario, la tradición árab e ha promovido un paradigma mitificador basado en la idea de la misión civilizadora del Islam. La manipulación de este relevante hecho histórico alcanza sus máximas cotas con la corriente negacionista, que pretende desvincular el origen de al-Andalus de la conquista y representa un vulgar fraude historiográfico ejecutado sobre la manipulación, en unos casos, y el soslayo, en otros, de los testimonios históricos. Además de una refutación crítica de todas estas lecturas deformantes, la presente obra aporta una visión de conjunto de la conquista de 711, conectando este acontecimiento con el problema de los orígenes del Islam y la situación del reino visigodo de Toledo a través de una nueva lectura de las fuentes históricas en la que, por vez primera, se toma en consideración tanto la información procedente del registro literario (latino y árabe) como arqueológico (monedas y sellos de plomo).",
+	"contributor": null,
+	"date": "2013-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 187373,
+	"unique_words": 16910,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9435253264452326,
+		"slope": 0.6411170805267798,
+		"std_error_intercept": 0.12009884993895323,
+		"std_error_slope": 0.010750100857822553
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f577350612971243b9d8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Gonzalez/_Y si el secreto de la felicidad estuviera en la mente_ (53910)/_Y si el secreto de la felicidad estuviera - Alejandro Gonzalez.epub",
+	"creator": "Alejandro González",
+	"title": "¿Y si el secreto de la felicidad estuviera en la mente?",
+	"subject": "Salud y bienestar",
+	"publisher": null,
+	"description": "Libro para aprender a Meditar. La Guía más completa de meditación para principiantes: ¿Qué es meditar? ¿Cómo empezar a meditar? Técnicas de meditación Tipos de meditación Niveles de meditación Meditación para principiantes Estado de Flow Mindfulness Yoga del sonido Yoga nidra Mantras Respiración y relajación Concentración o Trataka Silencio Interior Paz interior",
+	"contributor": null,
+	"date": "2016-07-29T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 38390,
+	"unique_words": 5613,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4865025073447677,
+		"slope": 0.6770295469743958,
+		"std_error_intercept": 0.035635308874500546,
+		"std_error_slope": 0.0036204761968163697
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f57f350612971243b9d9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Guardiola/Calles de chatarra (70963)/Calles de chatarra - Alejandro Guardiola.epub",
+	"creator": "Alejandro Guardiola",
+	"title": "Calles de chatarra",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Una oscura noche, después de una discusión familiar, la pequeña Irina asiste impotente al asesinato de su hermana, sin que sea capaz de explicar nada ni a la policía ni a sus padres.Ya adulta, Irina Gryzina, detective del departamento de inhumanos de Semura, será la encargada de resolver el caso del homicidio de una ninfa, con el que se pone en jaque la débil convivencia pacífica entre humanos e inhumanos. Sin embargo, según avanza la investigación, Irina comenzará a desenterrar demonios de su pasado que creía olvidados.Una novela de tráfico de drogas y alcohol, corrupción, amores perdidos, racismo, traiciones y asesinatos… Una historia plagada de personajes que no dudarán en bajar a los infiernos para conseguir sus objetivos. Una novela de género negro ambientada en un mundo fantástico, demasiado parecido al nuestro.",
+	"contributor": null,
+	"date": "2013-04-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 118724,
+	"unique_words": 14871,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.995348678019332,
+		"slope": 0.6526538396148297,
+		"std_error_intercept": 0.1010380268278837,
+		"std_error_slope": 0.009378161797494549
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f581350612971243b9da"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Guillermo Roemmers/El regreso del joven principe (35991)/El regreso del joven principe - Alejandro Guillermo Roemmers.epub",
+	"creator": "Alejandro Guillermo Roemmers",
+	"title": "El regreso del joven príncipe",
+	"subject": "Autoayuda",
+	"publisher": null,
+	"description": "«Como muchos otros que han leído El Principito, también yo sentí la sencillez de su mensaje y compartí la tristeza de Saint-Exupéry cuando este niño héroe, que había llegado a lo más profundo de mi corazón, se vio obligado a regresar a su asteroide. Muchas veces me he preguntado, como quizá tú también lo hayas hecho, lo que habría sido de este niño tan especial de haber seguido viviendo entre nosotros en estos tiempos. ¿Cómo habría sido su adolescencia? ¿Cómo habría podido preservar inmaculada la inocencia de su corazón?». A. G. Roemmers.«El regreso del Joven Príncipe» es una historia de ficción que nos cuenta el regreso a la Tierra del príncipe que ya no es niño, con la misma visión humanística y espiritual del mundo, sus habitantes y los valores básicos que lo sostienen. Un hombre que viaja sólo en automóvil por las extensas y desoladas rutas de la Patagonia encuentra a un adolescente desvalido que resulta ser aquel príncipe ya crecido, que regresa a la Tierra. Los dos viajeros, tan dispares, entablan un diálogo profundo y sorprendente que va desnudando, con sencillez, los grandes interrogantes de la existencia. Así, el viaje se transforma en un auténtico recorrido espiritual que va de la inocencia a la madurez, de lo cotidiano a lo trascendente, y de la tristeza a la alegría y el entusiasmo de vivir. Un libro para todas las edades. Una historia profunda que nos acerca a los valores esenciales de la vida. Una lectura que no deja indiferente a nadie.",
+	"contributor": null,
+	"date": "2010-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 26292,
+	"unique_words": 5063,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4643389723403122,
+		"slope": 0.6959266454624856,
+		"std_error_intercept": 0.07036890784392251,
+		"std_error_slope": 0.007364428140283731
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f596350612971243b9db"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Hernandez/Amaras a Dios sobre todas las cosas (81189)/Amaras a Dios sobre todas las cosas - Alejandro Hernandez.epub",
+	"creator": "Alejandro Hernández",
+	"title": "Amarás a Dios sobre todas las cosas",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Talleres, fábricas, pobreza y una casaen la que sobran las personas y falta el alimento, es el entorno familiar deWalter y sus hermanos Wilbert, Waldo y Wilberto en tierras hondureñas. Sonparte de la familia Milla Funes, con la que perseguirán el sueño americano yhabrán de pagar el precio de ser indocumentados en México: robo, vejaciones,hambre, persecución, tortura, secuestro y asesinato. Sus primeros intentos de llegaral norte terminarán con el abuso de las autoridades y en una serie dedesgracias. Mientras tanto, el primo Valente desaparecerá a mitad de uno de losviajes, Waldo se caerá del emblemático tren conocido como «la Bestia» y Elena,de quien Walter se enamorará en el camino, vivirá lo indecible y optará porretraerse y enmudecer. En su último intento,Walter guiará a un grupo de migrantes con quienes vivirá encerrado en un trencon la promesa de ser llevados al norte, cuando en realidad serán carnada para extorsionara sus familiares. Los secuestradores lo elegirán para convertirse en uno deellos. ¿Traicionará a los suyos? ¿Por qué tanta crueldad con los indocumentadosque intentan cruzar México rumbo a Estados Unidos?, ¿por qué siendo víctimas delas mismas circunstancias nos convertimos en peores verdugos?",
+	"contributor": null,
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 143105,
+	"unique_words": 13574,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7957019144914566,
+		"slope": 0.6525172977002051,
+		"std_error_intercept": 0.09591632683480425,
+		"std_error_slope": 0.008771009945814697
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f599350612971243b9dc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Hernandez/Canibal (21629)/Canibal - Alejandro Hernandez.epub",
+	"creator": "Alejandro Hernández",
+	"title": "Caníbal",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Carlos es el sastre más prestigioso de Granada. Un hombre respetable. Sus pasiones son el trabajo y sobre todo la comida, pero no come cualquier cosa: se alimenta de mujeres desconocidas, con las que no tiene ningún vínculo emocional. Esa situación cambia el día en que conoce a Nina, una joven rumana que busca desesperadamente a su hermana gemela, que ha desaparecido hace unos días.",
+	"contributor": null,
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 24413,
+	"unique_words": 4591,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.9142672606658061,
+		"slope": 0.741232118561278,
+		"std_error_intercept": 0.10408993399760894,
+		"std_error_slope": 0.010955653850859613
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f5a3350612971243b9dd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Hernandez/Negociacion para Dummies (46702)/Negociacion para Dummies - Alejandro Hernandez.epub",
+	"creator": "Alejandro Hernández",
+	"title": "Negociación para Dummies",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "¿Sabías que el 80% de las empresas no tiene un proceso formalizado para negociar y que cada uno de sus directivos lo hace a su manera? Negociar no es regatear, ceder o imponer; negociar es un proceso de comunicación para buscar un punto de encuentro en el que las dos partes salgan ganando. ¡Cuánto tiempo y dinero se pierde por falta de preparación específica para negociar! Este libro te enseñará qué comportamientos y habilidades son correctos en una negociación, te guiará para dirigir el proceso en vez de reaccionar al movimiento del otro y, con eso, reducirás tu ansiedad en tus próximas negociaciones. ¿Qué te parece? • 5 + 5 — te explicamos las cinco fases de la preparación y las cinco etapas de la negociación en sí. • Autoevaluación — en la “Guía rápida” del principio encontrarás un cuestionario; hazlo antes de leer el libro para conocer tu punto de partida como negociador y repítelo cuando termines, para comprobar tu evolución. En la página web wwww.paradummies.es encontrarás las respuestas comentadas. • En todos los ámbitos — trucos y ejemplos para aplicar las técnicas de negociación en tu vida privada, en el trabajo o con los vecinos de la escalera.",
+	"contributor": null,
+	"date": "2013-10-21T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 91720,
+	"unique_words": 9799,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6304512310316268,
+		"slope": 0.6640262507085882,
+		"std_error_intercept": 0.0770367666569143,
+		"std_error_slope": 0.007299918572093743
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f5b1350612971243b9de"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Hernandez/Oro ciego (80114)/Oro ciego - Alejandro Hernandez.epub",
+	"creator": "Alejandro Hernández",
+	"title": "Oro ciego",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Alex Pashinantra se enfrenta a un pelotón de fusilamiento. Los máuseres le apuntan, pero un jinete anuncia su salvación: la guerra ha terminado. Es Cuba, 1898. España ha perdido su última colonia. Las tropas estadounidenses toman el control de la isla. Entre los mambises, milicianos del ejército libertador cubano, cunde el descontento. Y en el caos de la guerra un hombre enloquecido escapó vivo de las entrañas de la tierra cargando un secreto: oro cubano. Ésta es la aventura de Alex, cocinero y soldado mambí, descendiente de hindúes y superviviente de los horrores de los campos de concentración españoles. El destino lo llevará a sortear la muerte, descubrir nuevos placeres, coronar una montaña de cadáveres, revivir la infancia, confiar en el enemigo, perseguir un tesoro y conocer a Gador, una mujer hermosa en busca de un barco que la aleje de allí. Con esta aventura histórica, de impecable estructura y ritmo absorbente, Alejandro Hernández se reafirma como uno de los autores más audaces e imaginativos de la actual narrativa en español.",
+	"contributor": null,
+	"date": "2013-05-19T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 126956,
+	"unique_words": 13998,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7119772976082932,
+		"slope": 0.6708638802048725,
+		"std_error_intercept": 0.154516296393134,
+		"std_error_slope": 0.014265309531374675
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f5ba350612971243b9df"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Hernandez/Vender es facil, si sabe como (65861)/Vender es facil, si sabe como - Alejandro Hernandez.epub",
+	"creator": "Alejandro Hernández",
+	"title": "Vender es fácil, si sabe cómo",
+	"subject": "Autoayuda",
+	"publisher": null,
+	"description": "Tu cliente compra por sus propias razones, no por las tuyas.\nLo que más convence a tu cliente es aquello que él mismo descubre.\nDe esto trata este libro. Acompañar a tu cliente para que descubra por sí mismo lo que tu producto puede hacer por él. Si tienes que vender a tus clientes, convencer a tu jefe o a tu pareja, en conversaciones cara a cara, te doy la bienvenida a este libro.",
+	"contributor": null,
+	"date": "2013-11-14T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 71025,
+	"unique_words": 7816,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0463996867433423,
+		"slope": 0.6165514819638204,
+		"std_error_intercept": 0.0673723907023957,
+		"std_error_slope": 0.006516622810583105
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f5bd350612971243b9e0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Hosne/Todo lo demas es mentira (40627)/Todo lo demas es mentira - Alejandro Hosne.epub",
+	"creator": "Alejandro Hosne",
+	"title": "Todo lo demás es mentira",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Miguel es un joven que vive en un pequeño pueblo de provincia de Argentina. Ha decidido irse a estudiar a Buenos Aires, lo que le ocasiona conflicto con sus padres, que quieren que trabaje el restaurante que ellos tienen en el pueblo. Poco antes de partir muere su abuela, lo que desencadena emociones encontradas en la familia y la decisión de Miguel de buscar al tío David, personaje del que todos evitan hablar en su casa debido a un rompimiento familiar en el pasado, al punto que deciden no comunicarle la muerte de su madre. David vive en un pueblo cercano y Miguel tratará de desenredar el ovillo familiar para averiguar quién es su tío y, de alguna manera, quiénes son sus padres. Lo que comprueba a medida que se profundizan los conflictos con cada uno de ellos es que su viaje acaba siendo un duro aprendizaje sobre las relaciones humanas y familiares.",
+	"contributor": null,
+	"date": "2014-05-01T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 41619,
+	"unique_words": 6336,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3926189584367314,
+		"slope": 0.6900701339801999,
+		"std_error_intercept": 0.055166020481995266,
+		"std_error_slope": 0.005569077356649532
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f5be350612971243b9e1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/365 tuits de amor (82256)/365 tuits de amor - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "365 tuits de amor",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "El polifacético autor Alejandro Jodorowsky dice en el prólogo a este libro: «Amor es lo que se da sin esperanza de regreso. Es la manifestación de lo sublime, la belleza pura e invisible, lo que nos hace bellos. El amor es el comienzo y el fin, la esencia de todo lo que nos anima, sus raíces se extienden en nosotros hasta el infinito. El amor convierte cada cosa, cada ser, cada acto, en una fibra sagrada que nos otorga la posibilidad de tejer un edén». Un libro imprescindible para entender el amor de una forma distinta.",
+	"contributor": null,
+	"date": "2014-12-10T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 7159,
+	"unique_words": 1640
+},
+{
+	"_id": {
+		"$oid": "5ed3f5be350612971243b9e2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/365 tuits de sabiduria (83009)/365 tuits de sabiduria - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "365 tuits de sabiduría",
+	"subject": "Didáctico",
+	"publisher": null,
+	"description": "«Ahora la literatura, especialmente la poesía, surge de una colaboración estrecha entre el escritor y sus lectores: juntos, crean la obra. Se conectan contigo, te siguen, te responden, pero si lo que dices no es lo que ellos desean oír, te cortan la lengua con un unfollow, te abandonan. Te los tienes que ganar cada día, sorprenderlos, convencerlos, remecerlos, acariciarlos. Como una barca habitada por ellos, debes avanzar en el oscuro mar del inconsciente para arribar a la Conciencia».",
+	"contributor": null,
+	"date": "2014-10-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 7160,
+	"unique_words": 1939
+},
+{
+	"_id": {
+		"$oid": "5ed3f5c6350612971243b9e3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/Cabaret mistico (82356)/Cabaret mistico - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "Cabaret místico",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "En Cabaret místico se da estructura a los encuentros que, desde hace años, Alejandro Jodorowsky viene manteniendo con el público que acude a sus conferencias. Más de un centenar de chistes e historias iniciáticas le sirven de base para analizar al ser humano sin su «máscara», con sus problemas, miedos, inseguridades y carencias. El amplio número de ejemplos y comentarios que el autor ofrece sobre las causas que impiden nuestra felicidad y nuestro desarrollo hacia una Consciencia plena, ayudará al lector a sanar la relación consigo mismo, con los demás, con la vida y con su entorno. Como La danza de la realidad (Siruela, 2001) y Psicomagia (Siruela, 2004), Cabaret místico es un libro imprescindible para quienes, interesados en la evolución y liberación de su propio ser y consciencia, buscan su propia «verdad auténtica» para incorporarla como felicidad útil en su vida, y vivir sin miedo la vejez y la muerte.",
+	"contributor": null,
+	"date": "2012-08-31T03:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 88302,
+	"unique_words": 12068,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4846739689186137,
+		"slope": 0.6969716822198834,
+		"std_error_intercept": 0.07834048810696609,
+		"std_error_slope": 0.007446148886974199
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f5c6350612971243b9e4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/Cuentos del intramundo (82598)/Cuentos del intramundo - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "Cuentos del intramundo",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "Fiel al carácter terapéutico de todos sus escritos, Alejandro Jodorowsky se interna en el mundo de las fábulas espirituales, de los cuentos sanadores, para que intentemos encauzar nuestro ser maltratado por la vida, hacia el autoconocimiento y la paz. Esta colección de microcuentos nos da, a través de la metáfora, pequeñas pistas de quiénes somos. En resumidas cuentas, Jodorowsky en estado puro.Estos relatos forman parte de la antología Cuentos mágicos y del intramundo.",
+	"contributor": null,
+	"date": "2012-05-14T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 4038,
+	"unique_words": 1584
+},
+{
+	"_id": {
+		"$oid": "5ed3f5d6350612971243b9e5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/Donde mejor canta un pajaro (82264)/Donde mejor canta un pajaro - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "Donde mejor canta un pájaro",
+	"subject": "Autoayuda",
+	"source": "Siruela",
+	"publisher": null,
+	"description": "Basándose en una sugerente frase de Jean Cocteau, «un pájaro canta mejor en su árbol genealógico», Jodorowsky nos sumerge en un amenísimo relato, tan cómico y sorprendente como heroico y legendario, sobre la vida de sus antepasados, desde sus bisabuelos hasta sus padres. Esta reconstrucción narrativa de su árbol genealógico le sirve para bucear en el sentido de su propio ser y su propia vida, a través de una inmensa geografía: Ucrania, parís, Venecia, Chile o Argentina. «Todos los personajes, sitios y acontecimientos son reales», dice el autor. «Pero esta realidad es transformada y exaltada hasta llevarla al mito. nuestro árbol genealógico por una parte es la trampa que limita nuestros pensamientos, emociones, deseos y nuestra vida material... y por otra parte es el tesoro que encierra la mayor parte de nuestros valores. Aparte de ser una novela, este libro es un trabajo que, si ha sido logrado, aspira a servir de ejemplo para que cada lector lo siga y transforme, a través del perdón, su memoria familiar en leyenda heroica.»",
+	"contributor": null,
+	"date": "2002-03-10T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 152260,
+	"unique_words": 19381,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5189558096406504,
+		"slope": 0.702734290007619,
+		"std_error_intercept": 0.10600923440367278,
+		"std_error_slope": 0.009646241617640982
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f5e0350612971243b9e6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/El maestro y las magas (82508)/El maestro y las magas - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "El maestro y las magas",
+	"subject": "Crónica",
+	"publisher": null,
+	"description": "En este libro que completa su autobiografía La danza de la realidad (Siruela, 2001), Alejandro Jodorowsky cuenta cómo conoció al maestro japonés Ejo Takata, que lo inició en la meditación, en el budismo zen y en la enseñanza que transmiten los koans. Sin embargo, la aplicación de estos conocimientos en la vida lo aprendió de un reducido grupo de mujeres («magas») que nada tenían que ver con el budismo. Aunque era el propio Takata quien le mostraba la esencia del zen y de los koans, la experiencia de dichas enseñanzas sólo la aprendía a través de estas mujeres. En este libro nos habla de la escritora y pintora surrealista Leonora Carrington; de Doña Magdalena, que le enseñó el masaje iniciático; de la poderosa actriz mexicana la Tigresa; y de Reyna DAssia, hija del ocultista G. I. Gurdjieff. Pero en la vida del autor hubo otras magas: la sacerdotisa de los hongos María Sabina, la curandera Pachita o la cantante chilena Violeta Parra, de quienes ya escribió en La danza de la realidad y Psicomagia (Siruela, 2004)",
+	"contributor": null,
+	"date": "2009-09-18T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 99013,
+	"unique_words": 14342,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4048232272321612,
+		"slope": 0.7118184513282364,
+		"std_error_intercept": 0.08162064181913233,
+		"std_error_slope": 0.007686942637455253
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f5e3350612971243b9e7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/El tesoro de la sombra (83033)/El tesoro de la sombra - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "El tesoro de la sombra",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "El tesoro de la sombra reúne dos libros de Alejandro Jodorowsky, el que da título a esta edición y El paso del Ganso. Cerca de doscientas historias breves, máximas y reflexiones llenas de sagacidad, poesía, encantamiento o brutalidad.",
+	"contributor": null,
+	"date": "2016-05-14T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 35493,
+	"unique_words": 8110,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3401465358890914,
+		"slope": 0.7314263135943532,
+		"std_error_intercept": 0.02062591171673395,
+		"std_error_slope": 0.0021085771988599757
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f5f1350612971243b9e8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/La danza de la realidad (27807)/La danza de la realidad - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "La danza de la realidad",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "'Este libro es un ejercicio de autobiografía imaginaria, aunque no en el sentido de “ficticia”, pues todos los personajes, lugares y acontecimientos son verdaderos, sino en el hecho de que la historia profunda de mi vida es un esfuerzo constante para expandir la imaginación y ampliar sus límites, para aprehenderla en su potencial terapéutico y transformador. Ella actúa en todos los terrenos de nuestra vida, incluso en los que consideramos racionales. Por eso, no se puede abordar la realidad sin desarrollar la imaginación desde múltiples ángulos. Normalmente lo visualizamos todo según los estrechos límites de nuestras creencias condicionadas. De la realidad misteriosa, tan vasta e imprevisible, no percibimos más que lo que se filtra a través de nuestro reducido punto de vista. La imaginación activa es la clave de una visión amplia: permite enfocar la vida desde ángulos que no son los nuestros, imaginando otros niveles de conciencia, superiores al nuestro. Esta búsqueda me separó de mi Yo ilusorio, me hizo huir de Chile y me impulsó a buscar con desesperación un sentido a la vida.' Alejandro Jodorowsky",
+	"contributor": null,
+	"date": "2001-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 160594,
+	"unique_words": 19842,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7504564631598605,
+		"slope": 0.6836229012469551,
+		"std_error_intercept": 0.14643929908320497,
+		"std_error_slope": 0.013268856721652856
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f603350612971243b9e9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/La via del tarot (68088)/La via del tarot - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "La ví­a del tarot",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "'Durante medio siglo el Tarot ha sidomi amante, mi guía, mi estructura… El ser que me enseñó la importancia de los otros.' Terapeuta, creador de la psicomagia, actor, dramaturgo, escritor, en esta obra a cuatro manos el lector penetra en los múltiples significados de las cartas del Tarot, y encuentra la vía para orientarse entre la multiplicidad de símbolos.",
+	"contributor": null,
+	"date": "2017-10-21T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 169907,
+	"unique_words": 14044,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.618119161376793,
+		"slope": 0.5792058422474133,
+		"std_error_intercept": 0.10713679540815339,
+		"std_error_slope": 0.009664348182172615
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f60b350612971243b9ea"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/La vida es un cuento (82449)/La vida es un cuento - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "La vida es un cuento",
+	"subject": "Filosófico",
+	"publisher": null,
+	"description": "Alejandro Jodorowsky explica que, en su infancia, la lectura de cuentos «le impidió morir, ya que encontró un alimento que reencantó su difícil existencia. Desde entonces le gusta crear cuentos: cortos, largos, sabios o locos.\nLos cuentos han vertebrado su vida y su trayectoria como escritor. Así, en 2005 publicó El tesoro de la sombra, una antología ahora inencontrable. El afán cuentista de Jodorowsky lo ha llevado a revisar y ampliar aquella compilación hasta prácticamente duplicar el volumen. En La vida es cuento se cristaliza la inmensa sabiduría de este escritor, que cuestionándose sobre el sentido y lo absurdo de nuestro mundo intenta aportar una divertida y surrealista lección vital.",
+	"contributor": null,
+	"date": "2015-09-21T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 94666,
+	"unique_words": 14311,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2333608946086612,
+		"slope": 0.7307307600067819,
+		"std_error_intercept": 0.13912429315898903,
+		"std_error_slope": 0.01314987505298935
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f611350612971243b9eb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/Las ansias carnivoras de la nada (82426)/Las ansias carnivoras de la nada - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "Las ansias carnívoras de la nada",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "«Llevado por mi ardiente deseo de evadirme de la novela costumbrista, realista mágica o didáctica-social, con su aristotélica construcción en tres actos, comienzo-nudo-desenlace, cuajada de lluvias de flores, chamanes drogados, patriarcas con olor a queso de cabra, amores entre vejetes, putas santas, jergas indígenas, muertos que no saben que han muerto..., me dije: voy a presentar un héroe con el que el lector de ninguna manera pueda identificarse. No será uno sino tres. ¿Por qué no? Los teólogos nos han dividido a Dios en tres, Padre-Hijo-Espíritu Santo; tres ciegas con un solo ojo, órgano común que se lo pasan de cuenca a cuenca, son las Gorgonas; el hombre cabalístico consta de tres partes: Guff (el cuerpo), Nephesh (el alma) y Neshamah (el espíritu)... Peor aún: a los integrantes de mi heroico trío no se les verá el cuerpo ni la cara, porque irán cubiertos de ropa de pies a cabeza; habrán perdido la memoria; cada persona los captará de forma diferente. ¿Son estudiantes, ángeles, asesinos, viejos, niños? ¿Buscan o son buscados? ¿Saben que saben o no saben que no saben?»",
+	"contributor": null,
+	"date": "2016-03-15T03:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 57084,
+	"unique_words": 10186,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2438409020820076,
+		"slope": 0.7297742515785478,
+		"std_error_intercept": 0.06840607968590201,
+		"std_error_slope": 0.006733654865808271
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f625350612971243b9ec"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/Metagenealogia (83048)/Metagenealogia - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "Metagenealogía",
+	"subject": "Ensayo",
+	"publisher": null,
+	"description": "Este libro único enseña cómo estudiar y analizar nuestro árbol genealógico, para así poder entender nuestro pasado familiar y sanar nuestro presente. Un paso más allá de las técnicas terapéuticas de la «psicomagia» y la «psicogenealogía», está la Metagenealogía, que «no es estrictamente una terapia, sino un trabajo de toma de conciencia que supone la comprensión de los elementos del pasado que nos han formado, así como el inicio de un impulso futuro al cual nosotros damos forma». La lectura del libro y sus ejercicios hacen al lector tomar conciencia del estado de «salud» del árbol genealógico en el que ha nacido, y también le enseña a ser consciente de la tradición familiar que él carga. Una vez comprendida la influencia que ejercen en nosotros las vidas de bisabuelos, abuelos, padres, tíos o hermanos; o los lazos especiales que algunos miembros de nuestro árbol establecieron entre sí; o cómo la imposición de las ideas y tabúes familiares ha obstaculizado la expansión de nuestro Yo esencial, seremos capaces de desarrollar un nivel de Conciencia más elevado y entregarnos con espíritu libre y sin miedo a nuestro futuro.",
+	"contributor": null,
+	"date": "2015-03-14T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 255473,
+	"unique_words": 22154,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.009096997792471,
+		"slope": 0.6438563875926783,
+		"std_error_intercept": 0.0878968897941087,
+		"std_error_slope": 0.0076785599134973044
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f62b350612971243b9ed"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/Ojo de oro (82389)/Ojo de oro - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "Ojo de oro",
+	"subject": "Didáctico",
+	"publisher": null,
+	"description": "«Para expresarme en Twitter bajo el lema ¡Re-evolución poética, la Conciencia al poder!, al contrario de quienes utilizan este medio para hablar de ellos mismos, me prometí entrar en el terreno de lo impersonal, hablando sólo de temas exentos del aroma a ombligo que se desprende de tantos tweets. La tarea se convirtió en un juego enriquecedor: cualquier pensamiento tenía que ser condensado en una frase de 140 caracteres como máximo. A las frases, por su implacable impersonalidad, las llamé metaforismos. Escarbé en antologías de refranes de todos los países, y transformándolos o desviándolos hacia significados psicológicos, los llamé psicoproverbios. Lo más difícil de todo fue, cuando me bombardearon con preguntas sobre problemas personales, condensar los actos de psicomagia en tan pocas palabras. En Twitter estos actos escuetos semejan disparos psíquicos, adquiriendo un tinte surrealista. Pueden ofender o hacer reír, su objetivo es provocar un cortocircuito mental que extraiga al consultante de los hábitos que lo aprisionan, haciéndolo abrirse a lo inesperado, ahí donde un aire nuevo aporta semillas de felicidad.»\nAlejandro Jodorowsky",
+	"contributor": null,
+	"date": "2012-05-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 77273,
+	"unique_words": 10160,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.072816325868661,
+		"slope": 0.6309827876779757,
+		"std_error_intercept": 0.08829249471841431,
+		"std_error_slope": 0.008482488056661646
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f632350612971243b9ee"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/Psicomagia (69391)/Psicomagia - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "Psicomagia",
+	"subject": "Autoayuda",
+	"publisher": null,
+	"description": "Psicomagia es el documento más completo sobre la evolución de la obra creativa y terapéutica de Alejandro Jodorowsky, e incluye la versión íntegra del texto fundamental para comprender la psicomagia. El autor nos muestra el camino que le llevó a ella, desde sus primeros actos poéticos y teatrales hasta su aprendizaje para controlar el mundo onírico. Estos pasos imprescindibles, junto con el conocimiento que maestros, curanderos y chamanes le transmitieron, fueron los que dieron origen a sus técnicas para sanar, conocidas como psicomagia y psicogenealogía. El libro ofrece también al lector una reciente entrevista con Jodorowsky, en la que nos habla de la muerte, del destino, las religiones, la clonación humana, su idea sobre el futuro de la humanidad o la necesidad de despertar nuestra mente. El volumen lo cierra un curso con ejercicios, donde el autor nos muestra cómo es posible desarrollar nuestra creatividad y utilizarla para que nos libere de roles e ideas preconcebidas, y un apéndice con doce casos psiquiátricos reales cuyos pacientes fueron curados al serles prescritos actos de psicomagia. De pronto hay libros que se hacen necesarios porque son capaces de aventar la caspa de las ideas establecidas y de abrir horizontes. Los textos aquí reunidos tienen ese don: el de contemplar viejos problemas desde perspectivas que nunca se pensó que pudieran existir.",
+	"contributor": "Cristóbal Santa Cruz",
+	"date": "2004-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 119218,
+	"unique_words": 14702,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0750618554394116,
+		"slope": 0.6450865679984912,
+		"std_error_intercept": 0.12198449535097206,
+		"std_error_slope": 0.011318674521422439
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f634350612971243b9ef"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Jodorowsky/Tres cuentos magicos (82995)/Tres cuentos magicos - Alejandro Jodorowsky.epub",
+	"creator": "Alejandro Jodorowsky",
+	"title": "Tres cuentos mágicos",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "«Memorias de un niño bombero», historia de un niño que desea ser bombero, es más la historia de un aprendizaje: la de aprender a ser uno mismo. La sabia doña Filovera hace comprender al joven que «Nada ni nadie hay que no sea doble. La realidad es lo que es, al mismo tiempo que es lo que no es. Tan importante es lo que sientes como lo que no sientes». Las ideas fijas del padre chocarán con la voluntad del niño, que tendrá que enfrentarse a él y a los demás para poder alcanzar su objetivo. «Loïe del cielo» cuenta la relación que –durante la dictadura del loco y perverso Horzatt– mantienen un hombre mayor y Loïe, una niña que «no se parecía a ningún mortal» y que quizá vino del cielo. «La increíble mosca humana» es una reflexión que narra la metamorfosis que realiza una mosca en ser humano, poniendo en evidencia la huida que las personas hacemos para no ser quienes en realidad somos, huyendo de nuestra propia espiritualidad.",
+	"contributor": null,
+	"date": "2015-02-19T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 28755,
+	"unique_words": 6564,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0237500182162367,
+		"slope": 0.7553364608386934,
+		"std_error_intercept": 0.08116169413243363,
+		"std_error_slope": 0.008435104917901507
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f634350612971243b9f0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/Barbarroja (66916)/Barbarroja - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "Barbarroja",
+	"subject": "Filosófico",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0001211023&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"publisher": null,
+	"identifier": "calibre:70636",
+	"description": "Cuento de Navidad basado en la leyenda germana de Barbarroja.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2010-12-22T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 5210,
+	"unique_words": 1853
+},
+{
+	"_id": {
+		"$oid": "5ed3f635350612971243b9f1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/Carnaval fantastico (67393)/Carnaval fantastico - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "Carnaval fantástico",
+	"subject": "Relato",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0001188105&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"identifier": "calibre:13593",
+	"description": "Cuento carnavalesco y onírico que da la vuelta a un mundo de espíritus.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2011-03-05T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 1565,
+	"unique_words": 718
+},
+{
+	"_id": {
+		"$oid": "5ed3f635350612971243b9f2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/Cuento de Nochebuena (67384)/Cuento de Nochebuena - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "Cuento de Nochebuena",
+	"subject": "Relato",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0001220815&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"identifier": "calibre:13584",
+	"description": "Cuento de Navidad donde se establece un dilema entre justicia y misericordia.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2010-12-22T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 3194,
+	"unique_words": 1248
+},
+{
+	"_id": {
+		"$oid": "5ed3f635350612971243b9f3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/Don Serafico (68110)/Don Serafico - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "Don Seráfico",
+	"subject": "Relato",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0001519382&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"identifier": "calibre:14312",
+	"description": "Cuento que refleja las emociones producidas por la imposición de la realidad sobre el ideal platónico.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2010-12-09T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 2385,
+	"unique_words": 1016
+},
+{
+	"_id": {
+		"$oid": "5ed3f636350612971243b9f4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/El corse nupcial (67854)/El corse nupcial - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "El corsé nupcial",
+	"subject": "Relato",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0001505878&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"identifier": "calibre:14055",
+	"description": "Cuento donde una gota de sangre esconde una gran historia de amor ignorado.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2011-03-23T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 1617,
+	"unique_words": 724
+},
+{
+	"_id": {
+		"$oid": "5ed3f636350612971243b9f5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/El despenadero (66933)/El despenadero - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "El despeñadero",
+	"subject": "Relato",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0000968486&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"identifier": "calibre:14361",
+	"description": "Cuento donde se mezclan la avaricia de los padres y el amor sincero de los hijos.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2011-07-04T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 7144,
+	"unique_words": 2190
+},
+{
+	"_id": {
+		"$oid": "5ed3f636350612971243b9f6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/El hombre del violin roto (67514)/El hombre del violin roto - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "El hombre del violín roto",
+	"subject": "Relato",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0001211120&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"identifier": "calibre:13714",
+	"description": "Cuento donde el contraste entre clases sociales encierra una historia de nostalgia y remordimiento.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2011-09-06T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 2395,
+	"unique_words": 957
+},
+{
+	"_id": {
+		"$oid": "5ed3f637350612971243b9f7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/Jaula de oro (67549)/Jaula de oro - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "Jaula de oro",
+	"subject": "Romántico",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0005529693&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"publisher": null,
+	"identifier": "calibre:70657",
+	"description": "Novela rápida Cuento que plantea las dramáticas consecuencias que depara a las mujeres la tentación del materialismo.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2011-01-27T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 3920,
+	"unique_words": 1436
+},
+{
+	"_id": {
+		"$oid": "5ed3f637350612971243b9f8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/La novela de una fea (67159)/La novela de una fea - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "La novela de una fea",
+	"subject": "Romántico",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0001217677&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"publisher": null,
+	"identifier": "calibre:67164",
+	"description": "Historia romantica. Cuento realista que narra una experiencia romántica tomando como pretexto las novelas trágicas del mismo movimiento literario.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2010-09-20T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 4622,
+	"unique_words": 1568
+},
+{
+	"_id": {
+		"$oid": "5ed3f637350612971243b9f9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Larrubiera/Lo que trajeron unos misioneros (68128)/Lo que trajeron unos misioneros - Alejandro Larrubiera.epub",
+	"creator": "Alejandro Larrubiera",
+	"title": "Lo que trajeron unos misioneros",
+	"subject": "Relato",
+	"source": "http://hemerotecadigital.bne.es/issue.vm?id=0001217259&search=&lang=es",
+	"rights": "Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 3.0 España",
+	"identifier": "calibre:14330",
+	"description": "Relato histórico que describe el momento inicial de la explotación de la seda en todo Occidente.",
+	"contributor": "Pablo Barrio Aller",
+	"date": "2010-09-20T00:00:00+00:00",
+	"original_language": "es-ES",
+	"language": "es",
+	"word_count": 1710,
+	"unique_words": 752
+},
+{
+	"_id": {
+		"$oid": "5ed3f649350612971243b9fa"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Lois/Frontera final (coleccion completa) (10136)/Frontera final (coleccion completa) - Alejandro Lois.epub",
+	"creator": "Alejandro Lois",
+	"title": "Frontera final (colección completa)",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"identifier": "f80ff162-0526-423f-ac76-eaf31577848a",
+	"description": "Recopilación de los catorce tomos de Star Trek Frontera Final.A poco más de diez años de firmados los primeros Acuerdos de Khitomer, y estando pronto a festejarse la conmemoración del «Día de la Federación», la frágil alianza federación-klingon se encuentra amenazada por una misteriosa arma de origen desconocido. En la frontera de ambos poderes galácticos, la USS Excelsior del capitán Sulu detecta la destrucción de todo un sector en las Viejas Regiones del Imperio Klingon.Este incidente lleva a la Flota Estelar a negociar un salvoconducto para una de sus naves, y así poder transitar e investigar libremente en el territorio de sus viejos enemigos.Poco después de su viaje inaugural, que la llevó de improviso hasta la Plataforma Dark Range, la USS Gurruchaga NCC-5581 clase Miranda, parte hacia su segunda misión, detener un posible ataque contra el planeta Qo’Nos, Capital del Imperio Klingon.",
+	"contributor": null,
+	"date": "2013-08-02T19:23:36",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 194070,
+	"unique_words": 17139,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.69372778335233,
+		"slope": 0.6623549987586643,
+		"std_error_intercept": 0.05904564029967839,
+		"std_error_slope": 0.005270577175228668
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f64e350612971243b9fb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Lujan/Roja Subur (81160)/Roja Subur - Alejandro Lujan.epub",
+	"creator": "Alejandro Luján",
+	"title": "Roja Subur",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "La inspectora de los Mossos d'Escuadra Elena Catalán, y Alberto Cifuentes de la Policía Nacional; confluirán en la investigación de un caso apasionante ¿Estamos ante un asesino en serie? Sitges, la Blanca Subur como se denomina a la ciudad, se teñirá de rojo en esta novela de misterio donde las historias íntimas de los personajes confluyen de manera sorprendente, y con el sentido del humor de la ultimísima narrativa catalana. Tampoco faltan el amor y el desamor en este policiaco cuajado de descripciones minuciosas, y el recuerdo con cierta añoranza de una Barcelona fuera de la vorágine de la globalización. Alejandro Luján se estrena en la ficción con esta novela negra que no dejará impasible a nadie.",
+	"contributor": null,
+	"date": "2013-03-24T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 88430,
+	"unique_words": 11731,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7112677939706933,
+		"slope": 0.6750687728764708,
+		"std_error_intercept": 0.0925159615204587,
+		"std_error_slope": 0.008792428239479623
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f655350612971243b9fc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/Asesinato de un trotskista (20002)/Asesinato de un trotskista - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "Asesinato de un trotskista",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "La policía investiga el asesinato de Leroux, un conocido militante trotskista, tras una manifestación contra la globalización en Madrid. Se sigue la pista de un grupo de agentes vinculados a organizaciones de extrema derecha. La investigación parece ir por buen camino y las pruebas van haciendo encajar las piezas del rompecabezas. Pero el jefe Martín, amigo personal y ex compañero de la víctima, no lo tiene tan claro y baraja otra interpretación de los hechos que va desvelando a medida que confirma sus hipótesis.Una novela ágil que nos acerca al poliédrico mundo de la policía, con sus conexiones con el pasado y las cloacas del poder y del terrorismo de Estado. Gallo nos acerca también al Madrid cosmopolita y urbano, de grandes fachadas y bajos fondos, de opulencias y miserias, narrado y vivido en primera persona por su protagonista, Héctor, un policía en prácticas.",
+	"contributor": null,
+	"date": "2014-09-04",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 101809,
+	"unique_words": 11229,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9077679476442213,
+		"slope": 0.6431994828540295,
+		"std_error_intercept": 0.023106039134120834,
+		"std_error_slope": 0.0021712398524920923
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f658350612971243b9fd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/Asesinato en el Kremlin (19621)/Asesinato en el Kremlin - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "Asesinato en el Kremlin",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "En el invierno de 1934, un crimen conmociona al Soviet de Leningrado: el asesinato de Serguéi Kirov, destacado dirigente del Partido Comunista y estrecho colaborador de Stalin. Igor Litonev, joven comandante de la Milicia, emprende una investigación para esclarecer un crimen teñido de sombras. Partiendo de un hecho real, que marcó el inicio de la era más dura del stalinismo, Alejandro M. Gallo ha escrito una novela donde personajes reales se mezclan con otros de ficción para ofrecer un relato de ritmo trepidante, en la que la intriga por descubrir la autoría del asesinato no decae un sólo momento. Escrita con un lenguaje directo, profusión de diálogos y un escrupuloso respeto por la memoria histórica, Asesinato en el Kremlin ha obtenido el XIV Premio Francisco García Pavón de Narrativa Policíaca.",
+	"contributor": null,
+	"date": "2011-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 54589,
+	"unique_words": 8056,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6445298675341657,
+		"slope": 0.6749784725726569,
+		"std_error_intercept": 0.05301519470620362,
+		"std_error_slope": 0.0052373968007035625
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f660350612971243b9fe"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/Caballeros de la muerte (19622)/Caballeros de la muerte - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "Caballeros de la muerte",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "El 14 de julio de 1977, un exguerrillero republicano cruza la frontera española con Francia. Es el día de la reunión de la Asamblea Constituyente y de la última emisión de Radio España Independiente. El conflicto armado ha terminado para todos menos para él. Ha regresado con tres obsesiones: averiguar quién fue el asesino de su hermano; localizar a su mujer y a su hijo, desaparecidos hace cuarenta años; y morir en paz en su tierra. Sus investigaciones le harán sumergirse en los estercoleros del último fascismo europeo e indagar en una de las organizaciones paramilitares fascistas más peligrosas del mundo, los Caballeros de la Muerte. Cuanto más avanza en la búsqueda, más cadáveres surgen a su alrededor. Preparativos para un golpe de estado, protestas obreras y estudiantiles en las calles, el renacer de los partidos políticos y sindicatos, organizaciones fascistas asesinando con impunidad... Ése es el apasionante marco histórico que le rodea y que le obligará a indagar en su pasado, cuando era uno de los últimos maquis en las montañas.",
+	"contributor": null,
+	"date": "2007-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 113962,
+	"unique_words": 13282,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0173003413240247,
+		"slope": 0.6433647899602716,
+		"std_error_intercept": 0.06401136273127278,
+		"std_error_slope": 0.0059609470529738435
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f663350612971243b9ff"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/La muerte abrio la leyenda (72338)/La muerte abrio la leyenda - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "La muerte abrió la leyenda",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Durante la primavera de 1972, el joven subinspector de Policía GorgonioLlaneza se incorpora a su primer destino, la Brigada de Investigación Criminalde Castellón de la Plana, dominada por los agentes de la temida BrigadaPolítico-Social. Su primer caso es un mero trámite, certificar el fallecimientode un ingeniero chileno en un accidente de tráfico ocurrido en Sueca, a treintakilómetros de Valencia. Pero cuando Gorgonio llega al lugar del siniestro todose complica: en la guantera del vehículo accidentado descubre que la víctimaposee una doble identidad. Es también Amado Granell, natural de la localidadcastellonense de Burriana y héroe de Francia, que le nombró oficial de laLegión de Honor por haber liberado París de la ocupación nazi. A partir de esemomento la investigación policial intenta arrojar luz, luchando contra unaoscura red de intereses que pretende encubrir un más que probable asesinato.",
+	"contributor": null,
+	"date": "2016-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 55709,
+	"unique_words": 8951,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6425908284954267,
+		"slope": 0.6822572671721662,
+		"std_error_intercept": 0.06551775577391114,
+		"std_error_slope": 0.0064619660295763045
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f66a350612971243ba00"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/La ultima fosa (19623)/La ultima fosa - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "La última fosa",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "El descubrimiento de una fosa común en el Valle Negro, en Asturias, abre muchos interrogantes. En ella se encuentran doce cuerpos de republicanos fusilados en la postguerra. Pero el desconcierto se incrementa cuando debajo de los doce cadáveres surge el cuerpo de una muchacha de dieciséis años desaparecida durante la Revolución del 34.La familia de la víctima solicita al inspector Ramalho da Costa, alias El Trini, que investigue las razones, causas y autores del asesinato. El inspector se negará en un primer momento, pero los acontecimientos posteriores, con la aparición de otro asesinato, harán que se sumerja en la investigación de los hechos que rodearon al homicidio setenta años antes. La pasión por la transformación social, el hambre, la necesidad, la represión, la revolución y los sueños de una generación desfilaran ante nosotros de la mano de personajes que vivieron el drama desde todos los lados de la barricada.",
+	"contributor": null,
+	"date": "2008-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 116470,
+	"unique_words": 13351,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7666492117855552,
+		"slope": 0.6655660650575057,
+		"std_error_intercept": 0.083611237909044,
+		"std_error_slope": 0.007772578368356576
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f679350612971243ba01"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/Morir bajo dos banderas (19652)/Morir bajo dos banderas - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "Morir bajo dos banderas",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Terminada la Guerra Civil española, los soldados de la II República se dispersaron por el mundo. Meses después, al comenzar la II Guerra Mundial, se reagruparon en las unidades militares que combatieron al nazismo y al fascismo en todos los frentes. No hay un sólo territorio de batalla donde no exista la tumba de un español. A través de los miembros de la familia Ardura, Alejandro M. Gallo reconstruye la vida en los campos de internamiento del norte de África, el reenganche en la Legión Extranjera o en la Columna Leclerc para combatir a Rommel y el Afrika Korps, la creación de la II División Blindada y el desembarco en Normandía, la liberación de París y la incorporación a la Resistencia y al maquis bajo la dirección de los jefes guerrilleros asturianos Vitini y García Granda… Todo hasta la derrota del III Reich y la toma del Nido del Águila.",
+	"contributor": null,
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 213483,
+	"unique_words": 23380,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7121499580502768,
+		"slope": 0.6824173609316914,
+		"std_error_intercept": 0.0731192623625576,
+		"std_error_slope": 0.0064780284362253105
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f686350612971243ba02"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/Operacion Exterminio (19437)/Operacion Exterminio - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "Operación Exterminio",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "En otoño de 1946, los muros de la prisión de Carabanchel fueron testigos mudos de una ambiciosa conspiración. Luis González Vincén, jefe de Información de Falange y encargado de terminar con la oposición antifranquista, infiltró a un colaborador habitual del Régimen en la sexta galería de la cárcel, la correspondiente a los presos políticos. Con esta decisión dio el pistoletazo de salida a la Operación Exterminio, maniobra secreta que llevaron conjuntamente los Servicios de Inteligencia de la Guardia Civil y los de Información de Falange. Los resultados de esta intriga no empezaron a verse hasta el 27 de enero de 1948. Fue entonces cuando una serie de terribles acontecimientos sacudió las montañas asturianas, una infamia que tuvo eco incluso fuera de nuestras fronteras. Operación Exterminio narra uno de los sucesos más crueles de la historia de la represión franquista y su guerra sucia contra la guerrilla republicana. Partiendo de estos hechos reales, Alejandro M. Gallo urde una tensa y emotiva novela que rinde tributo a todas aquellas personas que lucharon contra el franquismo y por la libertad.",
+	"contributor": null,
+	"date": "2009-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 141726,
+	"unique_words": 16873,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.870904074070144,
+		"slope": 0.6654360619770862,
+		"std_error_intercept": 0.09949863525094653,
+		"std_error_slope": 0.009105648394358611
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f68e350612971243ba03"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/Oracion sangrienta en Vallekas (36140)/Oracion sangrienta en Vallekas - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "Oración sangrienta en Vallekas",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Durante un encuentro mundial de la Teología de la Liberación, un sacerdote es asesinado en Vallecas. Como principal sospechoso, la policía detiene a un poeta argentino amigo del inspector Ramalho da Costa, que removerá la tierra y el cielo para demostrar su inocencia. Sus pesquisas le llevarán a intervenir entre facciones rivales dentro de la Iglesia católica, que pugnan por el poder ante la llegada del papa Francisco. El enigma está servido: en un Madrid envuelto en una crisis de inseguridad ciudadana, un homicida que mata a escritores, un demente que secuestra y viola a menores y un justiciero que acaba con todo aquel que haya sido acusado de corrupción.",
+	"contributor": null,
+	"date": "2014-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 113299,
+	"unique_words": 14207,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6777258712271277,
+		"slope": 0.679571411174916,
+		"std_error_intercept": 0.07056367091602479,
+		"std_error_slope": 0.006574162529868937
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f691350612971243ba04"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/Seis meses con el comisario Gorgonio (20003)/Seis meses con el comisario Gorgonio - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "Seis meses con el comisario Gorgonio",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Para adentrarse en estas camisas de once varas que son el humor, Alejandro Gallo ha elegido a un personaje que va como anillo al dedo: el comisario Gorgonio, cómico a su pesar, una de esas personas que provoca la simpatía y la hilaridad allá por donde va, aun sin él quererlo ni pretenderlo.El inspector Ramalho da Costa —otra de las criaturas literarias de Gallo— describe a Gorgonio como 'un individuo grueso de cabello escaso y revuelto, cejas anchas, gabardina beige arrugada, traje gris con la raya del pantalón torcida y el nudo de la corbata ladeado', y el viejo policía que protagoniza este libro se describe a sí mismo como 'un dinosaurio que ya no comprende ni quiere comprender el mundo en el que vivimos'. Por cierto, que perdió la pistola, y ni él mismo sabe cuántos años han pasado de aquello.",
+	"contributor": null,
+	"date": "2011-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 51284,
+	"unique_words": 8108,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2276180499460152,
+		"slope": 0.7162321122227415,
+		"std_error_intercept": 0.024842334842151415,
+		"std_error_slope": 0.00246647216657916
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f699350612971243ba05"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro M. Gallo/Una mina llamada Infierno (19620)/Una mina llamada Infierno - Alejandro M. Gallo.epub",
+	"creator": "Alejandro M. Gallo",
+	"title": "Una mina llamada Infierno",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Una serie de misteriosos asesinatos sacuden la cuenca minera leonesa. Las víctimas sólo tienen en común haber trabajado en la mina Infierno, propiedad de los dueños y señores del valle. La policía encarga al joven inspector T. Ramalho da Costa que se infiltre en la población minera como un trabajador más. Allí conocerá de primera mano los sueños, las frustraciones, los miedos, el pasado y el presente de sus gentes... Incluso olvidará que es policía y cuál es su peligrosa misión. El entorno al rojo vivo de la mina, la especulación urbanística y financiera, la explotación sin escrúpulos y el crimen organizado se dan cita en esta explosiva y trepidante obra de acción y emoción a raudales, única en su género al mezclar los ingredientes puros y duros de la novela negra con la recreación del complejo y laberíntico mundo minero",
+	"contributor": null,
+	"date": "2005-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 114397,
+	"unique_words": 12871,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.689601370437433,
+		"slope": 0.6676053015862038,
+		"std_error_intercept": 0.02913552226275751,
+		"std_error_slope": 0.0027123560507267114
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f69f350612971243ba06"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Melamed/Historias y mitos de la oficina (83030)/Historias y mitos de la oficina - Alejandro Melamed.epub",
+	"creator": "Alejandro Melamed",
+	"title": "Historias y mitos de la oficina",
+	"subject": "Ciencias sociales",
+	"rights": "No se permite la reproducción parcial o total, el almacenamiento, el alquiler, la transmisión o la transformación de este libro, en cualquier forma o por cualquier medio, sea electrónico o mecánico, mediante fotocopias, digitalización u otros métodos, sin el permiso previo y escrito del editor. Su infracción está penada por las leyes 11.723 y 25.446 de la República Argentina.",
+	"publisher": null,
+	"description": "Lo que nadie cuenta\nA partir de relatos de vida, leyendas urbanas y avanzados conceptos, Alejandro Melamed invita a los lectores a reflexionar sobre la realidad laboral del presente y sugiere los planes de acción para mejorarla.\nEl amor en el trabajo, las conversaciones difíciles de abordar, el acoso laboral, el salario emocional, el contrato psicológico, la ética en un contexto indecente, los modos de cultivar el talento, el manejo del estrés y la búsqueda de equilibrio, el capitalismo ético, la presencia y desarrollo del género femenino, el nuevo liderazgo en tiempos de cambio y los traslados al exterior son algunos de los temas que se abordan de un modo ágil y accesible.\nHistorias y mitos de la oficina es un libro que atrapa desde el primer momento por su pragmatismo y su narrativa realista, simple, ágil y profunda.\nEl lector encontrará en estas páginas referencias a la bibliografía más reciente, enfocada desde un punto de vista personal y una mirada muy humana.\nCon más de veinticinco años de experiencia en gestión y puestos de máxima responsabilidad en empresas multinacionales de diferentes países de Latinoamérica y Europa, Alejandro Melamed —coach ejecutivo, consultor, conferencista reconocido, docente universitario y de maestrías— comparte sus experiencias e ideas innovadoras con todas las personas que estén trabajando en cualquier tipo de organización —o se encuentren en proceso de búsqueda o cambio— y aspiren a una vida más significativa.",
+	"contributor": null,
+	"date": "2015-04-23T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 83312,
+	"unique_words": 9830,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9552774477541837,
+		"slope": 0.6349696136849645,
+		"std_error_intercept": 0.07402621791471718,
+		"std_error_slope": 0.007069017032804407
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f6a6350612971243ba07"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Menendez/Las cenizas del viento (41672)/Las cenizas del viento - Alejandro Menendez.epub",
+	"creator": "Alejandro Menéndez",
+	"title": "Las cenizas del viento",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "La casa Wintersoul comanda el imperio más grande del mundo: Ferth. Todos los reinos del continente de Odaria han jurado lealtad a Ferth -apodado el Reino del Viento, el León de Gaia, el Imperio de la Guerra- y esa alianza ha dado origen a un imperio tan vasto como el océano Septentrional. Antaño, cada nación de Odaria era un feudo autónomo. Eso fue antes de que Caleb Wintersoul exigiera la lealtad de todas las comarcas a una sola ciudad capital. Logró que los reinos cedieran la mayor parte de sus soldados a Ferth, tributando cuando lograban un exceso de producción de alimentos o bienes. A cambio de esa lealtad, Ferth protegería a los reinos de enemigos extranjeros, convirtiendo a los feudos en sus colonias. Sabiamente, les permitió mantener sus costumbres y sus dioses. Los Wintersoul han conducido el imperio, reinando por más de quinientos años. Ellos forjaron grandes leyendas a través de los siglos. Los héroes más significativos en la historia de Gaia portaron con orgullo aquel apellido.",
+	"contributor": null,
+	"date": "2014-09-04T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 95571,
+	"unique_words": 11708,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7727749733059517,
+		"slope": 0.6638761492810089,
+		"std_error_intercept": 0.09825945903258354,
+		"std_error_slope": 0.009280253117218919
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f6b6350612971243ba08"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Munoz-Alonso/La Rusia de los Zares (18744)/La Rusia de los Zares - Alejandro Munoz-Alonso.epub",
+	"creator": "Alejandro Muñoz-Alonso",
+	"title": "La Rusia de los Zares",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "Rusia no es una entidad eterna que haya existido siempre, sino el fruto de una evolución que paulatinamente ha ido cobrando forma. A lo largo de más de mil años, desde sus orígenes en Kiev hasta el destronamiento de Nicolás II en 1917, la entidad política que hoy llamamos Rusia ha pasado por numerosas vicisitudes. Lo que a finales de la Edad Media era el principado de Moscovia se convierte en algo menos de dos siglos en un formidable imperio que llega a ser, a principios del siglo XX, el más extenso conglomerado territorial del planeta: de Polonia al Pacífico y del Báltico y el océano Ártico hasta el mar Negro y Asia central. El expansionismo ruso —que será continuado después por la Unión Soviética, Estado sucesor del zarismo— es una constante de su historia, que se entreteje con intrigas palaciegas, regicidios y traiciones al servicio de una voluntad de poder que ha hecho de este imperio euroasiático, al menos desde el siglo XVIII, uno de los países con más peso e influencia en la historia de Europa y del mundo.El libro es un recorrido cronológico que comprende desde el siglo XVI hasta la revolución rusa de 1917. Los orígenes de este formidable imperio se remontan a la creación por el legendario Rurik de la primera entidad rusa conocida, en el año 857, si bien su esplendor llegaría con los zares Iván el Terrible, Pedro I el Grande o Catalina la Grande, para finalizar con los reinados de Alejandro III y Nicolás II.",
+	"contributor": null,
+	"date": "2007-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 242777,
+	"unique_words": 21575,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6948301409066673,
+		"slope": 0.6717240841129004,
+		"std_error_intercept": 0.14555715899760424,
+		"std_error_slope": 0.01276639726779447
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f6ba350612971243ba09"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Negueruela/La balada del sofa (15153)/La balada del sofa - Alejandro Negueruela.epub",
+	"creator": "Alejandro Negueruela",
+	"title": "La balada del sofá",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Bruno lleva una vida despreocupada y hedonista recorriendo las zonas de ambiente gay de su ciudad, Bilbao, disfrutando sin remordimientos de cada encuentro sexual que su camino le ofrece, hasta que Sergio se cruza en su camino. Sergio, en cambio, es pudoroso y discreto, tímido y fácilmente escandalizable, lo que supone para Bruno un atractivo irresistible.En esta novela, Alejandro Negueruela exprime al máximo su capacidad para crear ambientes sugerentes y escenas de una sensualidad que se deja llevar hasta las últimas consecuencias. Plantea además dilemas tan universales como la dicotomía entre el amor y el sexo, la promiscuidad en las relaciones entre hombres o el hecho de que uno sólo sea consciente del inevitable paso del tiempo cuando éste ya ha pasado y uno se halla al otro lado, inmerso completamente en la edad adulta.",
+	"contributor": null,
+	"date": "2011-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 46910,
+	"unique_words": 8579,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1035270639261319,
+		"slope": 0.7407285472941899,
+		"std_error_intercept": 0.05207066621253908,
+		"std_error_slope": 0.005206768221147664
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f6d0350612971243ba0a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Nunez Alonso/El denario de plata (23101)/El denario de plata - Alejandro Nunez Alonso.epub",
+	"creator": "Alejandro Núñez Alonso",
+	"title": "El denario de plata",
+	"subject": "Histórico",
+	"publisher": null,
+	"identifier": "6e442fd0-241c-4080-9226-b1b23c944914",
+	"description": "Tercera novela del ciclo 'Benasur de Judea', pentalogía de novelas históricas ambientadas en la Roma del siglo I d. C. Su protagonista es Benasur, un astuto banquero judío que finge lealtad a Roma, pero procura en secreto la ruina del Imperio. El contacto con Cristo y los apóstoles modifica profundamente su carácter, llevándole a un final inesperado. SINOPSIS: En esta novela nos narra la búsqueda de las últimas monedas de judas con riqueza de detalles y apasionantes aventuras. Nos mezcla entre todas las clases populares de la Roma imperial y nos estremece y conmueve con los sucesos que se producen en estos lugares y tiempos. Nuevos personajes entran a formar parte de esta historia junto a Benasur de Judea y Clío de Mitilene. De este libro merecería la pena mencionar muchas paginas pero en especial las que se ocupan de la estancia de Benasur en la cárcel, el encuentro con el apóstol Santiago, la jornada diaria del ciudadano romano, la visita a la casa de Ovidio, las saturnales y el encuentro del último denario bajo la higuera de Judas todo ello narrado con tal vigor y realismo que a veces el lector se siente formando parte de esa realidad.",
+	"contributor": null,
+	"date": "2015-03-15T21:43:45",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 339020,
+	"unique_words": 28758,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.706311693523572,
+		"slope": 0.6772113676212799,
+		"std_error_intercept": 0.17545908653578585,
+		"std_error_slope": 0.014995580415964238
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f6ee350612971243ba0b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Nunez Alonso/El hombre de Damasco (23100)/El hombre de Damasco - Alejandro Nunez Alonso.epub",
+	"creator": "Alejandro Núñez Alonso",
+	"title": "El hombre de Damasco",
+	"subject": "Histórico",
+	"publisher": null,
+	"identifier": "b521899c-42d7-424c-ae04-7d3f1c4781ba",
+	"description": "Como en la primera entrega de la serie, El lazo de púrpura, cada capítulo de esta novela es una revelación de la vida, los hábitos y las instituciones del Imperio Romano. Escritos con certera eficacia narrativa, recrean la época y el entorno con tal exactitud que dejan una impresión imborrable en el lector. En El hombre de Damasco nuevos personajes vienen a extender el marco en que se mueve Benasur de Judea, poderoso navarca judío aliado de Roma y protagonista de esta serie, quien ha transformado en objetivo vital su deseo más íntimo: destruir el Imperio Romano. Los nuevos personajes como Pablo de Tarso (el Hombre de Damasco), Artabán III, Calígula, Séneca, etc., trazados con mano maestra, enriquecen y completan el cuadro histórico, dando una asombrosa e inquietante verosimilitud a la acción de la novela. La coronación en Garama, la fiesta libertina de la apertura del mar, la despedida de Festo en el anfiteatro de Pompeya, la catástrofe de Alejandría, la conversión de Saulo, la corte de Artabán, los juegos olímpicos, las primeras comunidades cristianas, etc., amplían de un modo insospechado, siempre revelador, el escenario geográfico y humano en que surgen los primeros brotes del Cristianismo, e inician su azaroso desarrollo en el ámbito del mundo romano.",
+	"contributor": null,
+	"date": "2015-03-15T21:43:45",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 421517,
+	"unique_words": 33533,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7188430864164552,
+		"slope": 0.6761757619441113,
+		"std_error_intercept": 0.16431153640540075,
+		"std_error_slope": 0.013810799087855782
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f706350612971243ba0c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Nunez Alonso/El lazo de purpura (39702)/El lazo de purpura - Alejandro Nunez Alonso.epub",
+	"creator": "Alejandro Núñez Alonso",
+	"title": "El lazo de púrpura",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Benasur de Judea es el prodigioso personaje central de esta extraordinaria y apasionante novela. Sus amores, intrigas políticas y negocios tienen por marco el mundo romano de Tiberio, que el autor reconstruye de un modo certero y vivo. En muchos aspectos, El lazo de púrpura resulta sorprendente por las revelaciones que contiene sobre la vida en la antigüedad, con la que nuestro mundo actual guarda insospechadas similitudes: las especulaciones inmorales, las luchas por el dominio de las flotas y de las minas, las guerras, las revoluciones, los atentados, la conquista del poder y de la hegemonía económica, etc.El lazo de púrpura no es únicamente una novela documental sino un documento histórico, vivo y palpitante, pleno de interés por su vigorosa trama, la humanidad de sus personajes y la reconstrucción fidedigna de las más destacadas ciudades de la antigüedad y de su vida cotidiana: Roma, Gades, Garama, Alejandría y Jerusalén, entre otras. Un impresionante y vigoroso fresco de la “verdadera vida de Roma y su imperio”.",
+	"contributor": null,
+	"date": "1956-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 326170,
+	"unique_words": 27126,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5643521149303776,
+		"slope": 0.6858764823037445,
+		"std_error_intercept": 0.17590338039438902,
+		"std_error_slope": 0.01507836084110112
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f719350612971243ba0d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Nunez Alonso/Estrella solitaria (39109)/Estrella solitaria - Alejandro Nunez Alonso.epub",
+	"creator": "Alejandro Núñez Alonso",
+	"title": "Estrella solitaria",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Semíramis, movida por irreprimible ambición, llega hasta las fronteras del Bajo Egipto, pero renuncia a la conquista del imperio de los faraones. Empiezan los años oscuros de la patesi, y Adadnirari se posesiona del poder supremo de Asiria y Babilonia. Es la época de la estrella solitaria y de la decadencia del imperio. El valido Beltarsiluma, relegado a Borsippa, organiza una revolución comprometiendo en ella al profesorado y a los estudiantes de la escuela de escribas de Nabu, y el hijo de un aventurero, que después habrá de ser rey de Babilonia, se levanta contra la patesi.",
+	"contributor": null,
+	"date": "1973-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 187141,
+	"unique_words": 20521,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8008345912504844,
+		"slope": 0.6721916687721412,
+		"std_error_intercept": 0.14498386055119022,
+		"std_error_slope": 0.012978849793505675
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f72e350612971243ba0e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Nunez Alonso/La piedra y el Cesar (23102)/La piedra y el Cesar - Alejandro Nunez Alonso.epub",
+	"creator": "Alejandro Núñez Alonso",
+	"title": "La piedra y el César",
+	"subject": "Histórico",
+	"publisher": null,
+	"identifier": "9c4a9c79-c6d3-4194-931c-b995fbac3745",
+	"description": "En la piedra y el Cesar, el autor nos muestra la instauración de la iglesia universal en Roma, uno de los momentos históricos más importantes del cristianismo. San Pablo llega a Roma tras una misión llena de aventuras, y se encuentra con que San Pedro ha llegado antes. Para instaurar la iglesia, San Pedro y San Pablo tienen que luchar contra viento y marea para superar los numerosos obstáculos que encuentran en su camino, entre otros: los primeros brotes de rebeldía que surgen en el interior de las comunidades nazarenas, los judíos y los cristianos, el pensamiento y la religión paganos, los tipos de vida de una sociedad disoluta, las autoridades del imperio que por diversas razones persiguen a los dos apóstoles y a los seguidores de cristianos. Además de la ficción que ofrece la novela también va implícito en este libro, el testimonio que el autor quiere ofrecer de los hechos históricos. Lesbos, Delfos y Corinto son los nuevos lugares que se unen a los ya conocidos y Benasur, sigue siendo protagonista y testigo de los acontecimientos que se desarrollan durante el reinado de los emperadores Claudio y Nerón.",
+	"contributor": null,
+	"date": "2015-03-15T21:43:45",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 303266,
+	"unique_words": 28010,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6463597085598114,
+		"slope": 0.6844349181707119,
+		"std_error_intercept": 0.13261337249237154,
+		"std_error_slope": 0.011431656281111676
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f73c350612971243ba0f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Nunez Alonso/La reina desnuda (23573)/La reina desnuda - Alejandro Nunez Alonso.epub",
+	"creator": "Alejandro Núñez Alonso",
+	"title": "La reina desnuda",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Urartu, el tenaz enemigo de Asiria y el más firme oponente a su expansión territorial, cae bajo las armas asirias comandadas por Semíramis. Esta conquista, que colma intensas y tradicionales ambiciones asirias, es vista y vivida en muchos de sus aspectos por Malda, una niña urartia que, celosa de su madre, la abandona en la noche de huida y vuelve al pueblo nativo convertido en campamento de la tropa invasora. Concluida la conquista, Semíramis hace levantar en Shaldi una ciudad real a la que llama Bit Sammuramat (Casa de Semíramis). Desde ese minúsculo reino, la patesi asiste como testigo interesada, y no pocas veces entrometida, a los reinados de sus nietos Salmanasar IV, Asurdán III, Asurnirari V y Teglatphalasar. Las atenciones políticas las alterna con amores, excentricidades y extravíos que dan fama a Bit Sammuramat de recinto de escándalo y terror. Dañada por la incurable dolencia de la inmortalidad, Semíramis distrae su tedio despertando violentas pasiones cuando ya su longevidad se hace centenaria.",
+	"contributor": null,
+	"date": "1974-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 182528,
+	"unique_words": 18819,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2249592377519019,
+		"slope": 0.7148869567115802,
+		"std_error_intercept": 0.21972618573619387,
+		"std_error_slope": 0.019708509446267567
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f755350612971243ba10"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Nunez Alonso/Las columnas de fuego (23103)/Las columnas de fuego - Alejandro Nunez Alonso.epub",
+	"creator": "Alejandro Núñez Alonso",
+	"title": "Las columnas de fuego",
+	"subject": "Histórico",
+	"publisher": null,
+	"identifier": "b4bb41f4-0dd4-4018-9131-11a210b1eeac",
+	"description": "En esta apasionante novela la evangelización de España por el apóstol San Pablo tiene humano y dramático relieve. Tarraco y Cesaraugusta son reconstruidas con el singular verismo con que Núñez Alonso resucita el mundo antiguo. El incendio de Roma, la persecución de los cristianos, la delación y el martirio son los temas centrales de Las columnas de fuego. Una sólida documentación sobre lugares, personas y sucesos que informan estos dos episodios históricos dan a la narración un valor de impresionante testimonio. La conspiración de Pisón, la muerte de Séneca y Petronio; la incontenible hemorragia abierta por el César y su prefecto Tigelino invade y ahoga Roma. Y tras la muchedumbre de cristianos sacrificados, los martirios de San Pedro y San Pablo. Benasur de Judea está presente en muchos de estos sucesos que culminan con la erupción del Vesubio y destrucción de Pompeya.",
+	"contributor": null,
+	"date": "2015-03-15T21:43:45",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 291617,
+	"unique_words": 27111,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4337050217597953,
+		"slope": 0.7012322202885607,
+		"std_error_intercept": 0.1542901856042183,
+		"std_error_slope": 0.013340649373355433
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f780350612971243ba11"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Nunez Alonso/Semiramis - Sol de Babilonia (17743)/Semiramis - Sol de Babilonia - Alejandro Nunez Alonso.epub",
+	"creator": "Alejandro Núñez Alonso",
+	"title": "Semíramis - Sol de Babilonia",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Ciclo de SemíramisTetralogía situada en el siglo IX a. C., que gira alrededor de la legendaria reina Semíramis. Tras la muerte de su marido, el rey asirio Shamshiadad V, Semíramis logra hacerse con el poder en toda Mesopotamia. Obsesionada por la eterna juventud, parte a la guerra a la India para lograr un suministro estable de la planta de Gilgamesh, que, según ha descubierto un médico egipcio, otorga la longevidad. Aunque la reina tiene inclinaciones lésbicas, su gran amor es un misterioso vagabundo consagrado al dios Enlil, Dungui. Los años pasan y la reina, que vuelve victoriosa de la India, no envejece. Su hijo, Adad-nirari III, alcanza la mayoría de edad e intenta disputarle el poder, pero Semíramis se impone y lo envía a la guerra a Urartu. El valido de Semíramis, Beltarsiluma, un hombre maduro descreído e ingenioso, que había sido también su preceptor, cae en desgracia y es relegado a tareas académicas en la ciudad de Borsippa. Desde allí organiza una rebelión estudiantil contra la reina, que es a la vez política y religiosa, pues pretende convertir al dios de la sabiduría, Nabu, en el rey de los dioses. La reina se impone por la fuerza y obliga a su antaño preceptor al suicidio. Cada vez más inhumana, Semíramis se retira a un segundo plano dejando que su nieto Tiglatpileser III gobierne, pero manteniendo su poder en la sombra. Finalmente, alguien intentará dar muerte a la reina, cuya eterna juventud asombra y horroriza a quienes conocen su secreto.Semíramis (1965). Sol de Babilonia (1967)Estrella solitaria (1973)La reina desnuda (1974)",
+	"contributor": null,
+	"date": "1967-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 425453,
+	"unique_words": 33731,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7264767651539636,
+		"slope": 0.6740895418180525,
+		"std_error_intercept": 0.09797041446338486,
+		"std_error_slope": 0.008228832239815895
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f782350612971243ba12"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Ordonez/Ojala te enamores (78278)/Ojala te enamores - Alejandro Ordonez.epub",
+	"creator": "Alejandro Ordóñez",
+	"title": "Ojalá te enamores",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Y nuevos textos de. Por escribir\nOjalá la encuentres. Lo digo en serio. Ojalá encuentres a esa persona que haga volar las horas, que te pinte un mundo a todo color y te lo haga vivir. Alguien a quien no le importe el pasado y que se empeñe en crear un presente mágico con tintes de futuro. Alguien que entienda cómo eres, que te quiera así y que no trate de cambiar nada en ti.",
+	"contributor": null,
+	"date": "2017-04-10T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 20189,
+	"unique_words": 3636,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5978058629316783,
+		"slope": 0.6650274185397914,
+		"std_error_intercept": 0.042475746631736,
+		"std_error_slope": 0.004535873323900186
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f785350612971243ba13"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Padron/Yo fui embajador de Chavez en Libia (68959)/Yo fui embajador de Chavez en Libia - Alejandro Padron.epub",
+	"creator": "Alejandro Padrón",
+	"title": "Yo fui embajador de Chávez en Libia",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "Un día, poco antes de que se jubilara como profesor de la Universidad de los Andes, el narrador, ensayista y economista Alejandro Padrón fue informado por el entonces ministro de Energía y Minas que acababa de ser nombrado embajador de Venezuela en Libia. Así comenzó una aventura de dos años que lo lanzaría a la experiencia, inédita para un académico como él, de formar parte de la diplomacia venezolana en la era Chávez.Antes de que los sucesos de abril de 2002 lo llevaran a la decisión irrevocable de renunciar a seguir representando a un gobierno en el que no creía, Padrón tuvo ocasión de ver en qué se parecen Libia y Venezuela, en qué consiste la actividad de un embajador de la República Bolivariana, y qué clase de hombre es Muamar Gadafi, el jefe sin cargo oficial de un desierto que flota sobre petróleo, donde decide sobre las vidas de los demás rodeado de amazonas, de vehículos de lujo, de armas y de un séquito digno de las Mil y una Noches.",
+	"contributor": null,
+	"date": "2011-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 49641,
+	"unique_words": 9058,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.526872728932934,
+		"slope": 0.7024195532189328,
+		"std_error_intercept": 0.05322632196199229,
+		"std_error_slope": 0.005298303119458635
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f788350612971243ba14"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Paez Romero/Atte_ tu amor (53985)/Atte_ tu amor - Alejandro Paez Romero.epub",
+	"creator": "Alejandro Páez Romero",
+	"title": "Atte: tu amor",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Atte: tu amor es un drama romántico que transcurre en Sevilla, para muchos la ciudad más bella del mundo. La historia es la crónica de un amor verdadero entre dos personas desconocidas completamente. Mario, un florista de 26 años conoce a Adriana, una abogada defensora de los animales. ¿Qué ocurre cuando el amor llama a tu puerta? Hay personas que no buscan ni quieren enamorarse, pero ¿y si el amor decide que lo hagas? Por amor se es capaz de cualquier cosa, ¿o no?",
+	"contributor": null,
+	"date": "2016-07-15T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 46575,
+	"unique_words": 5134,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9853289827376377,
+		"slope": 0.6096595219109779,
+		"std_error_intercept": 0.08124218011875377,
+		"std_error_slope": 0.008128367773992728
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f789350612971243ba15"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Paez Varela/Corazon de Kalashnikov (53782)/Corazon de Kalashnikov - Alejandro Paez Varela.epub",
+	"creator": "Alejandro Páez Varela",
+	"title": "Corazón de Kaláshnikov",
+	"subject": "Realista",
+	"publisher": null,
+	"description": "En el norte, todos los corazones femeninos pueden ser una AK-47.Ciudad Juárez, Chihuahua. Jessica, Violeta y Juanita no tienen nada en común excepto el narcotráfico y la muerte, cadáveres en ácido, prótesis de silicón como evidencia y una ciudad desierta de alegría pero tremendamente vasta en miedo y violencia. Algunas sorpresas del destino, también. Jessica aparece y se desvanece rápidamente en el trayecto de una bala. Le sobreviven el hombre que la amó y el que la asesinó. De Violeta encontraremos a su mascota marina y a un hombre rudo con alma de poeta a cuyo alrededor giran otros tantos. Juanita es la voz de una dulzura que se fue mezclando con el salvajismo de los burdeles fronterizos.Con una voz casi testimonial, Alejandro Páez Varela rinde un himno homenaje a aquellas mujeres que enfrentan el reto de sobrevivir, pero desde una trinchera de rencor, maldad, amargura y odio. También da inicio a un relato extenso de cómo el norte se ha ido carcomiendo por esa mancha llamada narcotráfico.",
+	"contributor": null,
+	"date": "2009-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 35345,
+	"unique_words": 6446,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.400479391237703,
+		"slope": 0.7016864438054202,
+		"std_error_intercept": 0.05620230696441748,
+		"std_error_slope": 0.005747490968062807
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f78c350612971243ba16"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Palomas/A pesar de todo (74076)/A pesar de todo - Alejandro Palomas.epub",
+	"creator": "Alejandro Palomas",
+	"title": "A pesar de todo",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "A partir de la larga convivencia con un hombre mayor que él, un 'triunfador' bregado en el arte de la manipulación, el narrador de este relato se pregunta sobre lo que él mismo considera su 'adicción' a cierto tipo de relaciones enfermizas. Se pregunta si la extraña enfermedad física que ha acabado contrayendo -síndrome de fatiga crónica- es el efecto o el síntoma de est'adicción', y cuál es realmente la posición y la responsabilidad de la 'víctima' en el mantenimiento de este desquiciante orden. En la reconstrucción de su experiencia y en la búsqueda de una salida, brotan recuerdos particulares de incidencias sexuales y de miserias domésticas, pero también reflejos de la intimidad alienante y tempestuosa que se esconde en la normalizada vida de otras parejas. {A pesar de todo} supone una desmitificación del patrón glamouroso y carente de autocrítica que rige muchas representaciones del mundo gay; y va ciertamente más allá de la supuesta especificidad de las relaciones homosexuales al mostrar cómo en ellas se establecen y perpetúan situaciones de dependencia suficientemente conocidas en el más extenso ámbito de las relaciones heterosexuales. Poético, doliente, esperanzado y sarcástico a la vez, este libro borra de algún modo la frontera que alguien puede todavía pensar que divide ambos ámbitos.",
+	"contributor": null,
+	"date": "2017-09-11",
+	"original_language": "es",
+	"epub_type": "text",
+	"language": "es",
+	"word_count": 48903,
+	"unique_words": 7802,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5706181205631358,
+		"slope": 0.6866102944485731,
+		"std_error_intercept": 0.09207214426550753,
+		"std_error_slope": 0.009176097281006813
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f790350612971243ba17"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Palomas/El alma del mundo (16468)/El alma del mundo - Alejandro Palomas.epub",
+	"creator": "Alejandro Palomas",
+	"title": "El alma del mundo",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Otto Stephens y Clea Ross ingresan en un asilo para ancianos ricos y solicitan que una cuidadora en particular, Ilona, se ocupe de ambos. Clea, de noventa años, en su juventud una brillante violonchelista, sacrificó su carrera para permanecer a la sombra de su marido, un célebre director de orquesta. Otto, de edad semejante, es un anciano seductor que conserva el encanto y el glamour de su juventud.",
+	"contributor": null,
+	"date": "2011-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 94120,
+	"unique_words": 10139,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8468914240004846,
+		"slope": 0.6468955963223676,
+		"std_error_intercept": 0.09360317438235288,
+		"std_error_slope": 0.008851333029843348
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f793350612971243ba18"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Palomas/El secreto de los Hoffman (57145)/El secreto de los Hoffman - Alejandro Palomas.epub",
+	"creator": "Alejandro Palomas",
+	"title": "El secreto de los Hoffman",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Los sueños y anhelos de una familia rota por un secreto oculto durante años. Constanza acaba de morir y en torno a su tumba se agolpan los recuerdos. Allí se reúnen su hija, sus nietos y su marido, Rodolfo, un afamado cantante que huyó a Argentina veinte años atrás, después de un terrible acontecimiento que desbarató el futuro de todos ellos. Al ver próximo el fin de sus días, Rodolfo, decide que ha llegado el momento de recuperar lo que habían perdido y destapa el secreto que cambió para siempre sus vidas. Esta historia de sentimientos cautiva con el retrato de unos personajes que navegan juntos para sobreponerse al dolor y la soledad.",
+	"contributor": null,
+	"date": "2010-06-21T03:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 60355,
+	"unique_words": 7642,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7267477510942,
+		"slope": 0.6567046641791839,
+		"std_error_intercept": 0.04402163181990072,
+		"std_error_slope": 0.00431404492290953
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f79c350612971243ba19"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Palomas/El tiempo que nos une (17080)/El tiempo que nos une - Alejandro Palomas.epub",
+	"creator": "Alejandro Palomas",
+	"title": "El tiempo que nos une",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Mencía tiene noventa años, y aunque está cansada y la edad no perdona, sigue en guardia, rabiosamente empeñada en velar “por los suyos” a cualquier precio, hasta que el tiempo y las fuerzas se lo permitan. Menorca, Madrid, Barcelona, Copenhague…, ningún lugar es demasiado lejos si hay que acudir en ayuda de la callada Lía para que acepte la muerte de su hija mayor y librarla por fin de la culpa que no la deja vivir, o de la arisca Flavia, para que apueste por su propia felicidad en el otro extremo del mundo y conozca por fin un amor que la haga grande. Nada ni nadie será capaz de poner freno a la inconmensurable Mencía cuando, sacando fuerzas de flaqueza, decida salvar a su nieta Inés de un triste final y la recupere para la vida, ni cuando se empeñe en labrar para Bea y su pequeña Gala un futuro mejor por el que nadie parece apostar.",
+	"contributor": null,
+	"date": "2011-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 160594,
+	"unique_words": 13599,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7278412393530325,
+		"slope": 0.654589537159538,
+		"std_error_intercept": 0.17608309430768787,
+		"std_error_slope": 0.015954879461091618
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f79c350612971243ba1a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Palomas/Las dos orillas (71542)/Las dos orillas - Alejandro Palomas.epub",
+	"creator": "Alejandro Palomas",
+	"title": "Las dos orillas",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Después del éxito cosechado con la publicación de Un perro, Alejandro Palomas y el ilustrador Fernando Vicente se unen en un spin off de la historia que ya ha enamorado a miles de lectores (con tres ediciones y más de 14.000 ejemplares impresos). En lo que será el primer libro ilustrado de las historias de Palomas, nos sumergiremos en la mente de Rulfo durante la celebración del cumpleaños de Fer. Gracias al amor infinito de Rulfo hacia Fer, éste podrá superar por fin la muerte de Max, el gran danés que tuvo antes de adoptarlo a él. Una historia tierna, entrañable y preciosa que seducirá a todos los seguidores de Alejandro Palomas y que contará con las ilustraciones de uno de los ilustradores de mayor proyección en nuestro país, Fernando Vicente.",
+	"contributor": "Fernando Vicente",
+	"date": "2018-02-16",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 8722,
+	"unique_words": 1977
 }]
 
