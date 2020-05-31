@@ -43643,5 +43643,1806 @@
 		"std_error_intercept": 0.04664201573098017,
 		"std_error_slope": 0.004942689665467352
 	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2ce350612971243b985"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Carneiro/Cuentos de Artifex (40883)/Cuentos de Artifex - Alejandro Carneiro.epub",
+	"creator": "Alejandro Carneiro",
+	"title": "Cuentos de Artifex",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Recopilación de los cuentos publicados por el autor en la “Antología Artifex” durante la década 2000-2010. Un variado muestrario donde la fantasía, la aventura y el humor surrealista forman la ligazón de una serie de historias que suceden en diferentes épocas y lugares para desgracia de sus personajes. “El hombrecillo de la Maceta”: Premio Domingo Santos. Las andanzas de un liliputiense urbano y su atolondrada casera. “Desde el tercer círculo del Infierno”: Finalista del premio Ignotus. Un capitán de la Guardia Civil, fallecido en acto de servicio, nos describe su viaje por un infierno dantesco bastante animadillo. “En una bañera cualquiera”: Finalista del premio Ignotus. Una Space Opera en un universo muy peculiar. “Barrotes Celestiales”: Caen misteriosas jaulas del cielo que atrapan a las personas. Un detective está dispuesto a descubrir el misterio. “El buey de Domicio”: El buey de un centurión retirado empieza a soltar profecías, para desespero de su dueño y pasmo del imperio romano. “Huitzilopochtli Tonight”: Mención especial en el Premio Melocotón Mecánico. ¿Quién no quiere ser sacrificado en el concurso más exitoso de la historia?. “Al-Iksir”: En plena batalla de Estalingrado, un grupo de soldados alemanes se ve metido en una extraña misión. “Una valla en la Eternidad”: Finalista del Premio Ignotus. La Santa Compaña se topa en su camino eterno con las obras de una autopista. Nada bueno puede salir de semejante encuentro.",
+	"contributor": null,
+	"date": "2014-07-04T03:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 108057,
+	"unique_words": 15150,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.232635786099442,
+		"slope": 0.7266166597104737,
+		"std_error_intercept": 0.07494914841143542,
+		"std_error_slope": 0.007009316522576966
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2d7350612971243b986"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Carneiro/Los gomorritas (80996)/Los gomorritas - Alejandro Carneiro.epub",
+	"creator": "Alejandro Carneiro",
+	"title": "Los gomorritas",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Un treintañero platónico en una ciudad de provincias.Una noche de juerga con sus nuevos y misteriosos vecinos.Un hostelero vestido de condottiero.Un grupo que los persigue.La policía detrás de todos.Una conspiración neonazi y...Teomaquias de cafetería, mitos griegos, monstruos locales, luchas homéricas esperpénticas e incluso un viaje al Averno.Porque una noche da para mucho.Todo cabe en Los Gomorritas, donde los hombres, como en las obras clásicas, no son más que peones de dioses caprichosos, pero esta vez, muy poco épicos.",
+	"contributor": null,
+	"date": "2015-09-22T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 119451,
+	"unique_words": 15964,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6745667761459573,
+		"slope": 0.6888554501085595,
+		"std_error_intercept": 0.1492083420051834,
+		"std_error_slope": 0.013842544001208018
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2dd350612971243b987"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Carneiro/Tempus vesanicum (78376)/Tempus vesanicum - Alejandro Carneiro.epub",
+	"creator": "Alejandro Carneiro",
+	"title": "Tempus vesanicum",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Un científico compostelano, ególatra y solitario, viajando al pasado para recuperar unos papiros perdidos.Una patricia romana secuestrada por bárbaros.Un grupo de legionarios marginales enviado a rescatar a la patricia.Una máquina caprichosa con ideas propias.Y mucha, mucha mala leche.Alejandro Carneiro, autor ganador del premio Domingo Santos, nos presenta en Tempus Vesanicum una obra coral donde el científico es el hilo que poco a poco unifica las historias, hasta un final sorprendente y divertido en una novela de fantasía, humor y aventuras con un ligero toque ci-fi, que gira alrededor del tema clásico de la máquina del tiempo.Si te gustan los calamares a la romana con tinta fantástica, esta es tu novela.",
+	"contributor": null,
+	"date": "2014-01-17T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 114355,
+	"unique_words": 15137,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.962209180675439,
+		"slope": 0.6598295072096543,
+		"std_error_intercept": 0.12269152757916907,
+		"std_error_slope": 0.011422262811276698
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2de350612971243b988"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Casona/Corona de amor y muerte (12599)/Corona de amor y muerte - Alejandro Casona.epub",
+	"creator": "Alejandro Casona",
+	"title": "Corona de amor y muerte",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Obra teatral basada en la tragedia de Inés de Castro, que reinó después de muerta.",
+	"contributor": null,
+	"date": "1955-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 23623,
+	"unique_words": 4666,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.544482271965171,
+		"slope": 0.6842784386764419,
+		"std_error_intercept": 0.04456379168316826,
+		"std_error_slope": 0.004702295412569372
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2e2350612971243b989"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Casona/El caballero de las espuelas de oro (81249)/El caballero de las espuelas de oro - Alejandro Casona.epub",
+	"creator": "Alejandro Casona",
+	"title": "El caballero de las espuelas de oro",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "La obra se centra en la vida del escritor español Francisco de Quevedo, de la que refleja dos momentos esenciales: En primer lugar, el esplendor de su madurez, con su ambición y su ingenio intactos, así como sus famosos enfrentamientos con Luis de Góngora. Y en segundo lugar, el ocaso de la vejez, ya cercana la muerte, tras su salida de prisión.Poseedor de una técnica consumada para la adaptación de obras clásicas, Alejandro Casona (1903-1965) presenta en El caballero de las espuelas de oro, una de sus últimas producciones, una visión de don Francisco de Quevedo en la que lo histórico se entrevera de lirismo.Es tal la maestría del escritor, que textos quevedianos en prosa y verso se hacen vida dramática al servicio de una lección: la de que, como don Francisco, uno debe permanecer fiel a sí mismo, a una verdad. Cumpliendo la enseñanza, Casona permanece aquí fiel a su modo de hacer teatro, que conjuga de continuo fantasía y realidad como componentes inseparables de la vida.Este libro incluye El retablo jovial, cinco farsas en un acto.",
+	"contributor": null,
+	"date": "1964-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 56288,
+	"unique_words": 8862,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.02624603802655,
+		"slope": 0.7376253692768966,
+		"std_error_intercept": 0.06390774018066267,
+		"std_error_slope": 0.006297980305060436
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2e4350612971243b98a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Casona/Flor de leyendas (13677)/Flor de leyendas - Alejandro Casona.epub",
+	"creator": "Alejandro Casona",
+	"title": "Flor de leyendas",
+	"subject": "Infantil",
+	"publisher": null,
+	"identifier": "f5531750-1a63-421e-89d2-b0046f4fa417",
+	"description": "El año 1932 recibe Alejandro Casona el premio Nacional de Literatura por Flor de Leyendas conjunto de catorce narraciones en las que recoge mitos y leyendas de las más diversas tradiciones escritas (india, árabe, girega, germana, escandinava, etc.) con la intención de acercar lo más granado de la literatura legendaria universal a la siempre ávida curiosidad infantil y juvenil. Con su elección, Casona ilustra el paralelismo que según él existe entre las fases intelectuales del niño y la historia espiritual de los pueblos: al ciclo primitivo (el mito, lo maravilloso, lo fantástico) pertenecerían relatos como El anillo de Sakúntala o Las mil y una noches; al ciclo épico (o de acción), Los Nibelungos o Guillermo Tell; al último ciclo (lo simbólico, la alegoría), Dioses y Gigantes.",
+	"contributor": null,
+	"date": "2013-11-11T01:50:05",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 37908,
+	"unique_words": 6851,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4165708550854885,
+		"slope": 0.7030563315375677,
+		"std_error_intercept": 0.019669829199387836,
+		"std_error_slope": 0.0020004298005716764
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2e5350612971243b98b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Casona/La barca sin pescador (18124)/La barca sin pescador - Alejandro Casona.epub",
+	"creator": "Alejandro Casona",
+	"title": "La barca sin pescador",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Una barca sin pescador enfrentará dos mundos: el complicado de las finanzas, hecho de cálculo y artificio, y el mundo sencillo de los pescadores, donde el hombre se realiza en su trabajo directo, en contacto con la naturaleza, que, aunque a veces agrede, es el único ambiente posible para el ser humano, al que salva el amor.El teatro de Casona trata de crear en el espectador un revulsivo ético basado en la moral occidental y en los mandamientos cristianos laicizados: sus obras pueden considerarse autos, no sacramentales, cargados de enfrentamientos entre virtudes y pecados capitales, dentro de la más depurada concepción evangelizadora. De ahí esa sensación que el lector o espectador posee, a veces, de hallarse en una clase de teología sin theos, en una clase de antropología filosofal a pequeña escala. La barca sin pescador es un buen ejemplo de crítica de aquellos que siempre están dispuestos a saltarse las normas morales para conseguir sus objetivos.",
+	"contributor": null,
+	"date": "1945-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 19477,
+	"unique_words": 3932,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9951316432077557,
+		"slope": 0.6371203594609943,
+		"std_error_intercept": 0.060441771344582985,
+		"std_error_slope": 0.0064718662757109
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2e6350612971243b98c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Casona/La dama del alba (8290)/La dama del alba - Alejandro Casona.epub",
+	"creator": "Alejandro Casona",
+	"title": "La dama del alba",
+	"subject": "Drama",
+	"publisher": null,
+	"identifier": "2cf133f0-8464-47f9-8695-42c5482eec97",
+	"description": "La dama del alba es la mejor obra de Casona, y la más querida del escritor, llena de valores líricos y dramáticos que tienen el mérito de entroncar con la mejor tradición del teatro español del siglo XX, el de Valle-Inclán y García Lorca. Escrita con extraordinaria habilidad, tiene una trama perfecta que va dosificando el misterio y provocando constantes sorpresas en el espectador, manteniendo siempre la atención de éste, de forma que cuando parece resolverse un enigma, siempre se encuentra otro…",
+	"contributor": null,
+	"date": "2013-08-02T19:07:20",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 25793,
+	"unique_words": 4216,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7332776460241262,
+		"slope": 0.6513076671254778,
+		"std_error_intercept": 0.02228987536962841,
+		"std_error_slope": 0.002336163362095135
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2e7350612971243b98d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Casona/La sirena varada (36739)/La sirena varada - Alejandro Casona.epub",
+	"creator": "Alejandro Casona",
+	"title": "La sirena varada",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "La Sirena Varada es una obra que profundiza en una de las aspiraciones más ambicionadas por el hombre: la de escapar a su realidad. Narra la locura de un grupo de personas que deciden abandonarse a vivir en un mundo de sueños, donde el sentido común deja de existir. Es entonces cuando aparece el personaje principal de la obra, identificado únicamente como 'Sirena'. La historia de amor entre este personaje y el fundador de la comuna en la que vivían, y la imposibilidad del amor en un mundo irreal les lleva a enfrentarse a la realidad, por dura que esta sea.",
+	"contributor": null,
+	"date": "1934-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 15355,
+	"unique_words": 2945,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.6836592414293073,
+		"slope": 0.7582923869955424,
+		"std_error_intercept": 0.07745177669091437,
+		"std_error_slope": 0.008440733848734503
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2e9350612971243b98e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Casona/Los arboles mueren de pie (15823)/Los arboles mueren de pie - Alejandro Casona.epub",
+	"creator": "Alejandro Casona",
+	"title": "Los árboles mueren de pie",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "El señor Balboa (abuelo) tenía un nieto desalmado al que, en su día, tuvo que echar de casa (hecho que ocultó a su esposa). Desde entonces él mismo se hacía llegar cartas que en teoría se las mandaba su nieto a la abuela (su esposa). El nieto real decide volver a su hogar (en busca de dinero) pero el barco en el que venía naufraga. Balboa contrata a un imitador y hacedor de ilusiones benéficas (Mauricio) en conjunto con una linda muchacha (Isabel), para que finja ser el nieto perdido y «su feliz esposa» ante la abuela; los alecciona y logra que den el pego.Pero... llega por sorpresa el malvado y verdadero nieto, que no ha muerto como se creía. Por fin, la abuela se entera del engaño, pero decide no comentarlo al imitador ni a la muchacha, como agradecimiento por los días felices que le han hecho vivir y, en definitiva, con el mismo objetivo que la pareja y la institución de Mauricio habían ido a realizar allí: hacer realidad ilusiones.Alejandro Casona juega con la fantasía y la realidad en el teatro. Estamos, y queda desvelado desde el primer momento, ante una escenificación del teatro dentro del teatro, no al modo pirandelliano, sino instrumentando elementos del vodevil. Esta obra nos ofrece un mundo tocado de fantasía y unos personajes que ejemplifican una idea moral. Desde la escena pretenden mostrar y demostrar al espectador el bien, la belleza, la vida en su expresión más genuina, bondadosa y maravillosa. Su función es orientar hacia el sendero de las fuentes cristalinas y limpias de una vida mejor.Estrenada en el Teatro Ateneo de Buenos Aires (Argentina), el 1 de abril de 1949, la obra podría fundamentarse en la misión de la propia institución que se representa: sembrar ilusión y que, según palabras del propio autor puestas en el protagonista, es: «Una misión tan digna por lo menos como sembrar trigo.»",
+	"contributor": null,
+	"date": "1949-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 29045,
+	"unique_words": 4846,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.998350958096506,
+		"slope": 0.6328895191190907,
+		"std_error_intercept": 0.06052282200895184,
+		"std_error_slope": 0.006285238792462118
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2ea350612971243b98f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Casona/Prohibido suicidarse en primavera (14687)/Prohibido suicidarse en primavera - Alejandro Casona.epub",
+	"creator": "Alejandro Casona",
+	"title": "Prohibido suicidarse en primavera",
+	"subject": "Otros",
+	"publisher": null,
+	"identifier": "db10c308-5ee8-4299-a732-5453e93c08bc",
+	"description": "Casona, crítico siempre de los males de la sociedadcivilizada -del mundo urbano- utiliza el tema del suicidio como telón de fondodel asunto central: la felicidad e infelicidad en dos hermanos, en dos seres aquien el destino se muestra con doble faz, como Jano. La justicia o injusticianada tiene que ver con el corazón ni con los sentimientos que presiden lasrelaciones entre los humanos. En la obra todo sirve a una idea central: laexaltación de la vida, el rechazo del suicidio. No hay nada que lo justifiqueporque fuera está la naturaleza, encarnada en la primavera, con toda supotencia, con toda su savia que reanima los deseos de gozar.",
+	"contributor": null,
+	"date": "2013-12-07T04:25:16",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 24192,
+	"unique_words": 4128,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6433049112249276,
+		"slope": 0.6638249058795423,
+		"std_error_intercept": 0.10938812820280683,
+		"std_error_slope": 0.0115214836705901
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2f0350612971243b990"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Castroguer/El manantial (22551)/El manantial - Alejandro Castroguer.epub",
+	"creator": "Alejandro Castroguer",
+	"title": "El manantial",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Quince años después de la Noche del Desastre, solo quedan las ratas y la apuesta por la supervivencia (stop). La Enfermedad ha resultado peor que el mismísimo Diluvio bíblico (stop). Los vivos bastante tienen con conservar el pellejo (stop).En un instituto medio abandonado en mitad de una ciudad fantasma sobreviven Abel y Verona (stop).Eran unos críos cuando sucedió el Desastre (stop).Quince años después se han convertido en dos verdaderos hijos de puta (stop).Advertencia: Si eres sensible o impresionable, deja que sean otros los que lean por ti esta novela.El juego de la supervivencia los ha convertido en dos carniceros.",
+	"contributor": null,
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 115433,
+	"unique_words": 13114,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7873911089050247,
+		"slope": 0.6619754181809527,
+		"std_error_intercept": 0.08969886083516097,
+		"std_error_slope": 0.008344449328624192
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2f6350612971243b991"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Castroguer/El ultimo refugio, Z (78819)/El ultimo refugio, Z - Alejandro Castroguer.epub",
+	"creator": "Alejandro Castroguer",
+	"title": "El último refugio, Z",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "A comienzos de 2010, la Guerra de la Doble Muerte asoló el país. La ira de los Hambrientos arrinconó a los supervivientes en campamentos, levantados para preservar la vida. Uno de esos grupos se ha atrincherado en lo más alto de la Sierra de Montserrat: Francesc Maciá, Italia, Ino Guerau y el resto de sus compañeros resisten parapetados en torno a la basílica. A más de mil kilómetros de distancia, el grupo de J.B., Mamashe Correa y Úrsula se ha hecho fuerte en Finisterre gracias a los infelices que creen en sus mentiras. Mientras tanto, en la ciudad de Sevilla —completamente devastada— Judith y Jonás buscan un lugar donde morir con dignidad, cansados de esa maldición que les mantiene aún en pie. Pero... ¿podrán conseguir su propósito? ¿Resistirán los supervivientes el empuje de los Hambrientos? ¿Qué secreto esconde el grupo de Finisterre en el interior del Hostal Comala? Esta es la historia de todos ellos, en la búsqueda desesperada del que habrá de ser el último refugio.",
+	"contributor": null,
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 118616,
+	"unique_words": 14687,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.593533314658263,
+		"slope": 0.6876976360301033,
+		"std_error_intercept": 0.10659288964617813,
+		"std_error_slope": 0.009894474220462092
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f2fa350612971243b992"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Castroguer/Glenn (64789)/Glenn - Alejandro Castroguer.epub",
+	"creator": "Alejandro Castroguer",
+	"title": "Glenn",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "Premio Jaén de Novela 2015. Tocar era su pasión. Vivir, algo secundario. La genial historia del mejor pianista de todos los tiempos. A sus cincuenta años, el pianista canadiense Glenn Gould, afamado y ensalzado en todo el orbe, medita dar un nuevo rumbo a su vida. Ha llegado el momento, pues el consuelo que antes obtenía tocando, ahora no es sino un pálido recuerdo. Lleva demasiado tiempo luchando contra el progresivo deterioro de su cuerpo y negando las distintas pérdidas que ha ido sufriendo. Glenn se reconoce como el ermitaño más contumaz de todo Canadá. Como un conductor poco prudente, capaz de guiar el coche con una sola mano y los pies cruzados sobre los pedales. Como alguien capaz de consumir horas y horas frente al televisor. Adora a los animales, pero odia al público más bovino que abarrota sus conciertos. Idolatra el recuerdo de su madre y, por el contrario, defenestra todo lo que tiene que ver con su padre. Entre la primera grabación de las Variaciones Goldberg de Bach, de 1955, y la segunda, de 1981 -dos auténticos hitos-, se ha comportado como un niño mimado a veces, otras como un verdadero payaso. Sin embargo, su genio latirá vivo hasta el último momento. Único, irrepetible. Alejandro Castroguer evoca la figura del pianista más admirado del pasado siglo en una novela prodigiosa, ganadora del Premio Jaén de Novela 2015, imprescindible en especial para todo aquel que albergue o ejerza una vocación artística. El aliento y las contradicciones del creador se reflejan aquí con insólita agudeza, desde una perspectiva que sorprenderá y seducirá al lector.",
+	"contributor": null,
+	"date": "2015-06-01T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 67397,
+	"unique_words": 10185,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7576471217193625,
+		"slope": 0.6747374746643172,
+		"std_error_intercept": 0.09119390338904498,
+		"std_error_slope": 0.008857984454710524
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f300350612971243b993"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Castroguer/La guerra de la doble muerte (65028)/La guerra de la doble muerte - Alejandro Castroguer.epub",
+	"creator": "Alejandro Castroguer",
+	"title": "La guerra de la doble muerte",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "Las crónicas reales de la Guerra Zombi en España. A mediados de diciembre de 2009, los primeros asesinatos de Hornachuelos saltan a los titulares de los periódicos y de los telediarios. Aunque en un principio el Gobierno lanza una cortina de humo en torno a la violencia de los ataques que rozan el canibalismo, la Crisis de la Doble Muerte estalla en toda Andalucía sin que nadie sepa responder con la suficiente rapidez. Febrero de 2010. La crisis económica mundial apenas puede disimular la gravedad de lo ocurrido en Andalucía en el plazo del último mes. Se barajan varias hipótesis como desencadenantes de la resurrección de la carne, pero lo cierto es que el Hambre ha cundido por las 8 provincias. La Guerra de la Doble Muerte es la historia de Judith, Salvador y Jonás, la lucha de estos tres resucitados que, habiendo perdido la práctica totalidad de sus recuerdos, se enfrentan a un mundo que no entienden y del que habrán de huir aunque desconozcan cómo y hacia dónde. Mientras tanto la propaganda desplegada por el ejército español habla de la Ciudad Negra como única posibilidad de salvación y de una supuesta cura de la enfermedad.«Mi estómago es una rata negra, me castiga con unos bocados ásperos. La siento dentro, inquieta en la ratonera de la barriga. Tengo hambre.»",
+	"contributor": null,
+	"date": "2010-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 120205,
+	"unique_words": 15006,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6516484823163708,
+		"slope": 0.6818096116706893,
+		"std_error_intercept": 0.09063472794543001,
+		"std_error_slope": 0.008404236535812723
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f302350612971243b994"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Cernuda/Amor de poeta (70325)/Amor de poeta - Alejandro Cernuda.epub",
+	"creator": "Alejandro Cernuda",
+	"title": "Amor de poeta",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Lord Dunsay un guerrero de mil batallas llega a un reino y se hace con una princesa. Su primera intención es matarla para vengarse del rey que le arrebató a su amada, pero algo ocurre en el corazón del caballero cuando conoce a la princesa Albiona.",
+	"contributor": null,
+	"date": "2015-07-01T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 39101,
+	"unique_words": 6350,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4190537319152265,
+		"slope": 0.696910810001597,
+		"std_error_intercept": 0.10872412584448123,
+		"std_error_slope": 0.01103012438141229
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f304350612971243b995"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Cernuda/Bajo la luz del vitral (81156)/Bajo la luz del vitral - Alejandro Cernuda.epub",
+	"creator": "Alejandro Cernuda",
+	"title": "Bajo la luz del vitral",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "Mario, quien vive en una casa de putas, no hace otra cosa que leer un libro que le faltan páginas. Su alma está condenada y su cuerpo padece el mal de la sensualidad. Esta casona de Mirta está llena de historias que confluyen en los pasillos. Mario y Driana se aman pero no se enteran. Mirta y Fernando (que es homosexual) también se aman pero… a quién se le ocurre. El sentido común, más que las convenciones sociales se interpone a la naturaleza humana. Son cosas que solo pueden ser resueltas gracias a un libro que le faltan páginas.",
+	"contributor": null,
+	"date": "2014-04-26T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 48481,
+	"unique_words": 8002,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.337211956499092,
+		"slope": 0.7127011629694737,
+		"std_error_intercept": 0.11962888846655585,
+		"std_error_slope": 0.011930729075308753
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f30b350612971243b996"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Chafuen/Raices cristianas de la economia de libre mercado (19097)/Raices cristianas de la economia de libre  - Alejandro Chafuen.epub",
+	"creator": "Alejandro Chafuen",
+	"title": "Raíces cristianas de la economía de libre mercado",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "En esta obra, Alejandro A. Chafuen nos muestra cómo los primeros teóricos de la economía de libre mercado no fueron los autores ilustrados del siglo XVIII, sino los escolásticos tardíos, principalmente españoles, de los siglos XVI y XVII.La reivindicación de que no hay libertad real que no incluya la libertad económica entronca así con la auténtica tradición intelectual cristiana.",
+	"contributor": "Alejandro Chafuen",
+	"date": "1986-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 98509,
+	"unique_words": 11587,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6971041740557478,
+		"slope": 0.6654367965447875,
+		"std_error_intercept": 0.10751096114748616,
+		"std_error_slope": 0.010129411791452506
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f313350612971243b997"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Corral/El cielo de Nueva York (65604)/El cielo de Nueva York - Alejandro Corral.epub",
+	"creator": "Alejandro Corral",
+	"title": "El cielo de Nueva York",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Nueva York, ahora. Un financiero sale de un hospital psiquiátrico tras haber permanecido ingresado a causa de una traumática experiencia personal. Fuera del centro médico se encontrará con los tipos más conflictivos de los bajos fondos de la Gran Manzana: hampones sin escrúpulos, mafiosos crueles, drogadictos y prostitutas. Dividido entre el amor de dos mujeres y sumido en un conflicto personal irresoluble, Hank Williams vivirá una experiencia inquietante e insospechada. En El cielo de Nueva York realidad y ficción conviven en universos paralelos donde nada ni nadie es lo que parece.",
+	"contributor": null,
+	"date": "2017-07-16T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 149045,
+	"unique_words": 16389,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9341938424871281,
+		"slope": 0.6553627124892876,
+		"std_error_intercept": 0.08229257554520271,
+		"std_error_slope": 0.007500872146698765
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f318350612971243b998"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Crespo/150 videojuegos a los que tienes que jugar al menos una vez en la vida (37088)/150 videojuegos a los que tienes que jugar - Alejandro Crespo.epub",
+	"creator": "Alejandro Crespo",
+	"title": "150 videojuegos a los que tienes que jugar al menos una vez en la vida",
+	"subject": "Deportes y juegos",
+	"publisher": null,
+	"description": "¿Sabías que Alekséi Pázhitnov programó el famosísimo Tetris en un ordenador Electrónika 60 en una sola tarde? ¿Que Mario Bros. hizo su primera aparición en el mercado de los videojuegos como un personaje secundario del mítico Donkey Kong? ¿O que Pac-Man se vio obligado a modificar su nombre original - Puck-Man- para evitar las bromas fáciles y obscenas que se podrían producir al asociar la palabra japonesa puck con la palabra inglesa fuck? Este libro te propone un recorrido por los 150 principales videojuegos de siempre, auténticas obras maestras de su género. Un viaje adictivo por los juegos más laureados de todos los tiempos desde su nacimiento, en la década de los cincuenta, hasta la actualidad. Anécdotas, curiosidades, datos desconocidos sobre su creación, jugabilidad, gráficos… Redescubre de una manera diferente todos aquellos títulos que te han mantenido horas y horas pegado al sillón de casa y adéntrate por primera vez en un mundo que siempre has querido conocer.",
+	"contributor": null,
+	"date": "2010-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 89453,
+	"unique_words": 11371,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4198289209087889,
+		"slope": 0.6952177392286651,
+		"std_error_intercept": 0.04788457081390699,
+		"std_error_slope": 0.004546622276524508
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f320350612971243b999"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro de Afrodisias/Acerca del alma & Acerca del destino (71290)/Acerca del alma & Acerca del destino - Alejandro de Afrodisias.epub",
+	"creator": "Alejandro de Afrodisias",
+	"title": "Acerca del alma & Acerca del destino",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "En este volumen se incluyen sus dos obras más emblemáticas: los tratados Acerca del alma y Acerca del destino. El tratado Acerca del alma aborda una interpretación de la obra homónima de Aristóteles, y contiene el análisis y la discusión de las cuestiones más controvertidas de la psicología peripatética, como es el caso del tipo de implicación que tiene el denominado intelecto agente en el proceso cognitivo humano. El tratado Acerca del destino contiene una profunda reflexión desde un punto de vista aristotélico de dos temas de enorme presencia en la filosofía helenística, el tema del destino y el de la libertad personal.",
+	"contributor": "José Manuel García Valverde",
+	"date": "0209-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 138543,
+	"unique_words": 10077,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.726729789535436,
+		"slope": 0.5439177097929618,
+		"std_error_intercept": 0.1420881545932109,
+		"std_error_slope": 0.01302675739499564
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f322350612971243b99a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro De-Bernardi/La isla del tesoro Z (9923)/La isla del tesoro Z - Alejandro De-Bernardi.epub",
+	"creator": "Alejandro De-Bernardi",
+	"title": "La isla del tesoro Z",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "El joven Jim Hawkins escribe el fantástico relato de su viaje a una isla desierta donde se halla escondido el tesoro del capitán Flint, un relato que llama, sencillamente, “La isla del tesoro”. Sin embargo, años más tarde, convertido ya en un anciano enfermo, Hawkins decide escribir el verdadero relato de sus aventuras en aquella isla, puesto que el primero que publicó ocultaba celosamente el terrible secreto de aquel viaje.",
+	"contributor": "Rocio Orroca",
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 46762,
+	"unique_words": 6705,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6038963827001258,
+		"slope": 0.6715838400650023,
+		"std_error_intercept": 0.0616479526732347,
+		"std_error_slope": 0.00616595311875092
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f326350612971243b99b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dolina/Bar del Infierno (8017)/Bar del Infierno - Alejandro Dolina.epub",
+	"creator": "Alejandro Dolina",
+	"title": "Bar del Infierno",
+	"subject": "Humor",
+	"publisher": null,
+	"identifier": "e7997b32-1115-423d-b50a-82a53b142dd1",
+	"description": "El cafetín es un laberinto. Nuestro destino es extraviarnos en sus encrucijadas. Pero algunos presienten una verdad aún más terrible: no se puede salir del bar, no por la falta de puertas, sino porque no hay otra cosa que el bar. El afuera no existe.El hombre a quien llaman el Narrador de Historias está obligado a contar un cuento cada noche, cuando el reloj da las doce. Nadie le presta atención. Anda siempre con unos libros grasientos. En ellos hay —según se dice— infinitos relatos.Amores imposibles de la provincia de Buenos Aires, ciudades lejanas gobernadas por jaurías, santos levitadores, mendigos impiadosos y seres insaciables que se devoran a sí mismos integran el curioso repertorio.Pero el Narrador es también personaje de otra historia que lo muestra involucrado en una conspiración para salir del bar, del tiempo o del lenguaje. Otros sujetos vendrán —a su turno— a duplicar o a triplicar los relatos: el coro, que traduce cada suceso a una obtusa lengua poética, y los loros heréticos, cuya misión es tergiversar.Un lector melancólico podría hallar en estos textos unas ponencias intimidatorias:• No tenemos tiempo de ser nadie. Todos los destinos son el mismo.• Expresados en fórmulas, los episodios más dramáticos de nuestra vida son irremediablemente banales.• No importa lo que hagamos. Se llega al infierno por casualidad.• Toda comunicación es imposible. Nadie ha conocido a nadie.Pero si uno alcanza a leer con la luz adecuada, el libro dice que para salir del infierno hay que amar más allá de las meras preferencias filisteas.O acaso lo que dice es que la única esperanza es cantar bien.",
+	"contributor": null,
+	"date": "2013-08-02T19:05:33",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 79869,
+	"unique_words": 14713,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2704067078800902,
+		"slope": 0.7409820195799551,
+		"std_error_intercept": 0.11519897250947844,
+		"std_error_slope": 0.011038158915010634
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f32e350612971243b99c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dolina/Cartas marcadas (12918)/Cartas marcadas - Alejandro Dolina.epub",
+	"creator": "Alejandro Dolina",
+	"title": "Cartas marcadas",
+	"subject": "Fantástico",
+	"publisher": null,
+	"identifier": "fdd0b454-8356-4388-9175-980f09d22e36",
+	"description": "Cartas marcadas es un libro envuelto en niebla. La cerrazón que cubre las calles de Flores se tiende también sobre los capítulos de la novela provocando confusiones y obligándonos a marchar despacio. Por otra parte, la acción perversa de los Conspiradores ha llenado el texto de tachaduras, episodios falsos y agregados fraudulentos, para no hablar de páginas y capítulos enteros que han sido robados. La niebla no sólo dificulta la percepción, sino que tiene, como los vapores oraculares, un efecto alucinatorio. Vemos poco y lo poco que vemos es dudoso. Los muertos se pasean por el barrio, las pesadillas se hacen realidad y los sujetos se vuelven inconstantes. El lector anda a tientas entre personajes que tratan de ocultar un secreto. El humo le inspira al principio una fe poética que lo convence de que debe dejarse guiar por las intuiciones del amor y del arte. Hasta que comprende que las manos de Virgilio y Beatriz, que han venido orientándolo, no son más que otro engaño, el más perfecto, de un universo que es pura ausencia.",
+	"contributor": null,
+	"date": "2013-10-12T13:44:20",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 131623,
+	"unique_words": 19128,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6020621238377795,
+		"slope": 0.7031500609148996,
+		"std_error_intercept": 0.14547193250998092,
+		"std_error_slope": 0.013391616645706862
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f32f350612971243b99d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dolina/Cronicas del angel gris (75299)/Cronicas del angel gris - Alejandro Dolina.epub",
+	"creator": "Alejandro Dolina",
+	"title": "Crónicas del ángel gris",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Se compone de diversas historias que giran en torno al Ángel Gris, un personaje difuso que reparte sueños en el barrio porteño de Flores, donde transcurre la acción. La mayoría de los personajes pueden reunirse en dos grandes grupos: los Hombres Sensibles y los Refutadores de Leyendas. Entre los primeros, sentimentales, honestos y algo atolondrados, se encuentran el polígrafo Manuel Mandeb, el poeta Jorge Allen, el músico Ives Castagnino y el “Ruso” Salzman, jugador compulsivo. Los Refutadores de Leyendas son personajes suspicaces y necios, representantes de las instituciones, que se dedican a negar los episodios fantásticos que ocurren en el barrio. Opuestos a los Hombres Sensibles, los Refutadores desean un mundo racional y científico.",
+	"contributor": null,
+	"date": "1988-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 29768,
+	"unique_words": 7102,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.8185820780209282,
+		"slope": 0.7829958847667738,
+		"std_error_intercept": 0.09024706015586004,
+		"std_error_slope": 0.009353990909093222
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f333350612971243b99e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dolina/El libro del fantasma (23397)/El libro del fantasma - Alejandro Dolina.epub",
+	"creator": "Alejandro Dolina",
+	"title": "El libro del fantasma",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "Dice Alejandro Dolina: 'Los fantasmas prosperan con las arquitecturas perseverantes y las memorias leales. Castillos milenarios y ofensas imprescriptibles los engordan. El progreso y el olvido, que son hábitos de estos tiempos y de estas tierras, no los auspician. Por eso son tan escasos los fantasmas criollos...El que habita este libro es, me temo, uno de los menos atrayentes. Pertenece quizás a esa raza de espectros que son una verdadera decepción para los amantes de los prodigios. Me refiero a los fantasmas interiores, a las creaciones alucinatorias e individuales de honrados burgueses incapaces ya de ver un espanto hecho y derecho. Los textos recopilados a pedido de esta modesta aparición han sido escritos en épocas diferentes. Algunos tienen más de veinte años. Los escritores suelen mentir que prefieren que prefieren sus obras más recientes, acaso para producir sensación de progreso artístico. Yo sólo puedo decir que con el tiempo crecen los territorios de mis desagrados y me voy arrepintiendo de casi todo cuanto he escrito. El lector podrá rechazar estos trabajos por distintas razones, por ser variada la naturaleza de sus defecto' De esta manera Dolina nos presenta un libro de cuentos cortos que subrayan lo propio del habitante de Buenos Aires.",
+	"contributor": null,
+	"date": "1999-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 44229,
+	"unique_words": 10356,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0029750694141848,
+		"slope": 0.7724837372642865,
+		"std_error_intercept": 0.06970617527160144,
+		"std_error_slope": 0.007002983792306897
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f338350612971243b99f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Amaury (79715)/Amaury - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Amaury",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "La novela se abre con un grupo de aristócratas que conversan en una tertulia. Uno de ellos hace la pregunta: ¿Se muere de amor? En respuesta, muestra un manuscrito que pretende ser el diario y las cartas de la familia del difunto señor d’Avrigny, viudo y médico de la corte del rey, que cuentan la romántica historia de Amaury de Léoville, un joven rico y huérfano que vive con el doctor d’Avrigny, y sus dos amores: Madeleine y Antoinette. Una historia interesante, ya que bascula entre la visión del padre y el amante, a través de los pasajes de sus diarios, en contraste con la versión de Antoinette, a través de las cartas que intercambió con Amaury.",
+	"contributor": "Florencio S. de Yarza",
+	"date": "1843-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 104640,
+	"unique_words": 12423,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.017674123249386,
+		"slope": 0.642226055675616,
+		"std_error_intercept": 0.08020088540807413,
+		"std_error_slope": 0.007519774934690759
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f345350612971243b9a0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Angel Pitou (14875)/Angel Pitou - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Angel Pitou",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "La Revolución Francesa ha comenzado, el hambre ha hecho que el pueblo tome las armas para destruir todo lo que considera causante de sus desgracias, como el acaparamiento del trigo que produce escasez de pan y, por tanto, lo encarece. Existe, además, una creciente antipatía por María Antonieta, a quien llaman despectivamente “la Austriaca”....",
+	"contributor": "Editorial Lorenzana",
+	"date": "1853-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 241025,
+	"unique_words": 21848,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.630344894712519,
+		"slope": 0.6743865923654201,
+		"std_error_intercept": 0.04444986739484915,
+		"std_error_slope": 0.0039007691860696433
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f349350612971243b9a1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Cecilia de Marsilly (38821)/Cecilia de Marsilly - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Cecilia de Marsilly",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "En 1792, los integrantes de la familia de Marsilly, muy cercana al depuesto rey, tienen que emigrar a Inglaterra disfrazados de campesinos. El Barón de Marsilly muere defendiendo a la familia real en las Tullerías, mientras ellos se refugian en la Convención.Cecilia, de sólo cuatro años, su madre, la baronesa de Marsilly, y su abuela, la marquesa de Roche-Berthound, se establecen en una aldea cerca de Londres y ahí pasan diez largos años sufriendo limitaciones y alejadas del mundo, con la esperanza de regresar a Francia algún día.Ya joven, Cecilia recibe una esmerada educación de su madre, lo que, unido a su belleza física, la convierte en una encantadora dama. Tras la muerte de su madre y ya agotados los recursos financieros que proporcionaba la venta de las joyas de la abuela, deciden regresar a su país y probar fortuna en la corte imperial de Bonaparte. Antes de partir, Cecilia conoce al joven Enrique, otro descendiente de empobrecidos inmigrantes, y quedan prendados. En Francia, hacen planes para su boda. Él parte para la isla Guadalupe a hacer fortuna como comerciante; ella se queda en París bordando su vestido de novia. Pero un final inesperado cambia la historia.",
+	"contributor": null,
+	"date": "1844-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 74240,
+	"unique_words": 9168,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5502690921672575,
+		"slope": 0.6769774341431399,
+		"std_error_intercept": 0.14127133369015824,
+		"std_error_slope": 0.01361604157077986
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f34e350612971243b9a2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Crimenes celebres (2a ed.) (50727)/Crimenes celebres (2a ed.) - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Crímenes célebres (2ª ed.)",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "Rastreando en legajos olvidados y haciéndose eco de las historias que la tradición popular había convertido en verdaderas leyendas, Alexandre Dumas fue entregando a la imprenta la reconstrucción fidedigna de todos aquellos crímenes históricos que habían llegado a ser célebres, ya fuera por lo macabro y sangriento de su ejecución, o por el horror de la propia justicia de la época, que aplicaba la tortura más inhumana para conseguir las confesiones de los condenados. El misterio, el horror, las escenas de pesadilla, la tortura, el desenfreno de las pasiones... son los elementos de los que se nutre la literatura gótica, y que Dumas recogió de la realidad para dar cumplido testimonio a sus lectores del tenebroso corazón de los hombres. De esta diversidad de «dramas judiciarios», tan del gusto de un público romántico ávido de horrores, hemos escogido cuatro casos que destacan por su truculencia e intensidad dramática: Los Cenci, La Marquesa de Brinvilliers, Urbano Grandier y Vaninka.",
+	"contributor": "M. Busquets",
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 108646,
+	"unique_words": 12878,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.001175051390754,
+		"slope": 0.6443584805289869,
+		"std_error_intercept": 0.046742830910492104,
+		"std_error_slope": 0.004369514453962487
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f352350612971243b9a3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Crimenes celebres. Los Borgia (52494)/Crimenes celebres. Los Borgia - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Crímenes célebres. Los Borgia",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "La historia de la familia Borgia es sinónimo de crueldad, corrupción y ambición de poder. Dumas nos presenta a sus principales personajes en su rica y detallada descripción, llena de anécdotas que ilustran sus vidas desde 1492 hasta 1507.Rodrigo Borgia, que se convirtió en Papa por sus influencias políticas en 1492 con el nombre Alejandro VI; tuvo una vida disipada, con amantes y varios hijos ilegítimos, que representaron un papel importante en su papado. Su hijo César Borgia, famoso por su belleza y crueldad, es descrito como el reponsable de varias muertes, entre ellas la de su hermano y la de uno de los esposos de su hermana Lucrecia. Pero a la vez, fue un hábil hombre de estado, que estableció alianzas entre sus vecinos y recuperó muchos territorios para los estados pontificios.Lucrecia Borgia, símbolo de corrupción sexual, con sus relaciones incestuosas con su hermano César, e incluso con su padre. Tuvo varios esposos, algunos de los cuales terminaron asesinados.Esta novela, que aparece dentro de la colección Crímenes Célebres, se ha publicado independiente con mucho éxito.",
+	"contributor": "Julieta Carmona Lombardo",
+	"date": "1839-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 84740,
+	"unique_words": 10850,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8343204276912872,
+		"slope": 0.6597765026537027,
+		"std_error_intercept": 0.1327415264444814,
+		"std_error_slope": 0.01265860948964523
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f354350612971243b9a4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Crimenes celebres. Los Medicis (52478)/Crimenes celebres. Los Medicis - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Crímenes célebres. Los Médicis",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "En sus «Crímenes célebres» Dumas recrea la historia de personajes notorios como los Borgia, los Cenci, María Estuardo y el mariscal Murat. El presente libro describe cómo la historia de los Médicis y de su ciudad, Florencia, transcurre paralela a la de las casas reinantes europeas que dominaron la escena política en los siglos XV al XVIII.Con Juan de Médicis, nacido en 1360, se configura un linaje de personajes excepcionales, del que destacan Cosme, llamado el Padre de la patria, Lorenzo el Magnífico y el gran duque Cosme I.Al ambicioso camino —marcado por conjuras, como la célebre de los Pazzi, asesinatos y estratégicas alianzas— hacia la consecución y consolidación de su poder, se suma en los Médicis una faceta diferencial, que les confiere un valor único: su amor y dedicación a las artes, las letras y las ciencias, que se transmite, como si de una herencia genética se tratara, de generación en generación.Alrededor de los Médicis brillaron, entre otros muchos, Bramante, Brunelleschi, Donatello, Masaccio, Mantegna, Miguel Ángel, Leonardo da Vinci, Maquiavelo, Pico della Mirandola, Cellini y Galileo.Nunca, en ningún otro país, se concentró en un reducido espacio y en un tiempo limitado tanta excelencia en el campo del saber.",
+	"contributor": "Mar Benavides Amate",
+	"date": "1845-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 49367,
+	"unique_words": 7704,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4977422398205664,
+		"slope": 0.6889848844853581,
+		"std_error_intercept": 0.07223923349066724,
+		"std_error_slope": 0.007194140969500795
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f355350612971243b9a5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Crimenes Celebres. Murat (56315)/Crimenes Celebres. Murat - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Crímenes Célebres. Murat",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Murat vive escondido en los alrededores de esa ciudad francesa, gracias a la caridad de algunos amigos y familiares, hasta que enterado de la derrota definitiva de Napoleón, se pone en manos de los austriacos que le conceden un salvoconducto, para unirse a su familia en este país centroeuropeo y vivir una existencia discreta.Dumas, a partir de ahí, novela la peripecia del Duque de Berg que, ayudado por unos cuantos conocidos, embarca hacia Córcega, donde, ante su sorpresa, es recibido con agasajos por la población y, contra el consejo de los más prudentes que le instan a que haga valer los documentos que porta y se ponga bajo la protección de Austria, se deja llevar por los cantos de sirena de unos cuantos veteranos allí refugiados, comenzando un periplo que le llevará a las costas italianas, con la pretensión de recuperar el reino perdido.Dumas, viajero empedernido, hace un jugoso relato, tanto de la travesía del continente a Córcega, como de esta isla hasta Italia, con tormentas y tempestades incluidas, todo muy efectista, pero cargado de cierta épica.",
+	"contributor": "Antonio Redondo Magaña",
+	"date": "1838-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 18378,
+	"unique_words": 3880,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3898192428334692,
+		"slope": 0.6985061676133558,
+		"std_error_intercept": 0.054779294972955854,
+		"std_error_slope": 0.005891104522064489
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f35f350612971243b9a6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/De Paris a Cadiz (52071)/De Paris a Cadiz - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "De París a Cádiz",
+	"subject": "Viajes",
+	"publisher": null,
+	"description": "«Madame, En elmomento de mi partida me hizo usted prometer que le escribiría, no una cartasino tres o cuatro volúmenes de cartas. Tenía razón. Ya conocía el ardor conque me entrego a las grandes cosas, mi tendencia a olvidar las pequeñas, migusto por dar, y que no me gusta dar a cambio de poco. Lo prometí; y ya lo ve,al llegar a Bayona empiezo a cumplir mi promesa. No me hagoel modesto, Madame, y no disimulo que las cartas que le envío serán impresas.Confieso además, con la impertinente ingenuidad que, según sea el carácter dequienes me rodean, me hace tan buenos amigos de los unos y tan fervientesenemigos de los otros; confieso, decía, que las escribo con esa convicción;pero esté tranquila, tal convicción no cambiará en nada la forma de misepístolas. El público, desde que entré en relación con él hace ya quince años,siempre ha querido acompañarme por las diversas sendas que he recorrido y enocasiones trazado, en medio de ese vasto laberinto de la literatura, desiertosiempre árido para unos, eterna selva virgen para los otros. También esta vez,así lo espero, el público me acompañará con su habitual benevolencia por elcamino familiar y caprichoso al cual lo llamo a seguirme, y en el que retozarépor primera vez. Por lo demás, nada perderá por ello el público: un viaje comoéste que emprendo, sin itinerario trazado, sin ningún plan a seguir, un viajesometido, en España, a las exigencias de las rutas y, en Argelia, al caprichode los vientos; un viaje semejante se encontrará maravillosamente a gusto en lalibertad epistolar, una libertad casi ilimitada, que permite descender a losdetalles más vulgares y alcanzar los temas más elevados». Alexandre Dumas",
+	"contributor": "Ariel Dilon & Patricia Minarrieta",
+	"date": "1847-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 186002,
+	"unique_words": 19211,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5317926433819233,
+		"slope": 0.689495262890037,
+		"std_error_intercept": 0.1307701294820763,
+		"std_error_slope": 0.011712067810949868
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f364350612971243b9a7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El caballero de Harmental (16608)/El caballero de Harmental - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El caballero de Harmental",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Una brillante novela de capa y espada, en la tradición de Los tres mosqueteros, surgida de la poderosa imaginación y de la pasión narrativa de uno de los más grandes genios de la novela de aventuras de la literatura francesa. Tras la muerte de Luis XIV, un grupo de nobles fieles a la antigua corte, entre los que se cuentan el cardenal de Polignac, el marqués de Pompadour, el conde de Laval y el embajador de España, deciden sustituir a Felipe de Orléans por el duque del Maine, favorable a los intereses del rey español Felipe V. El hombre elegido para llevar a cabo la acción principal en esta conspiración, el secuestro del duque de Orléans, es Raoul de Harmental, un joven valiente y apasionado que ha sido injustamente desposeído de su cargo en el ejército y que se involucra en este oscuro plan movido por su sed de gloria y su espíritu siempre dispuesto a emprender nuevas gestas. Con la ayuda de otro conspirador, el abate Brigaud, Raoul se hace pasar por un estudiante de provincias y alquila una buhardilla desde la que poder actuar con la necesaria discreción. Allí conoce a una joven y bella huérfana de origen noble, Bathilda, que vive en condiciones muy modestas bajo el amparo de un funcionario de pocas luces pero de gran corazón. A partir de entonces los siniestros planes de Raoul se entremezclan con el romance que nace entre ambos jóvenes. La intriga, la acción y el amor fluyen magistralmente de la prosa de Dumas en una historia que posee toda la emoción de las mejores novelas de aventuras.",
+	"contributor": "Círculo de Amigos de la Historia",
+	"date": "1842-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 89220,
+	"unique_words": 11312,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4797230832981372,
+		"slope": 0.6915535981545593,
+		"std_error_intercept": 0.09075010483167216,
+		"std_error_slope": 0.008618502295504066
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f368350612971243b9a8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El caballero de la casa roja (14999)/El caballero de la casa roja - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El caballero de la casa roja",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Este libro es la continuación cronológica del anterior, La Condesa de Charny. Si bien aquí ya no nos encontramos con los personajes anteriores, a excepción de María Antonieta, sus hijos y cuñada; no deja de ser una historia bastante amena, tanto así que podría leerse de un tirón. Si por momentos, en las historias anteriores, las intrigas llegaban a cansar; en esta novela una vez empezada no se le podrá dejar de leer, es como estar viendo una película. Todo transcurre entre los intentos por liberar a María Antonieta de la pena capital.Mauricio Lindey y Maximiliano Lorin son dos amigos que se consideran casi hermanos, ambos militares republicanos muy estimados por sus superiores por su excelente desenvolvimiento en la revolución. Una noche Mauricio, teniente de la Guardia Nacional, le presta ayuda a una desconocida que era arrestada por no tener su certificado de civismo; Mauricio le conduce hasta donde ella se lo pide y promete además no buscarla, ¡ni siquiera conoce su nombre!; con sólo verla una vez queda tan impresionado de su belleza que no puede negarle nada y la deja marchar. Esto nos recuerda la forma en que Bussy conoce a Diana en La Dama de Monsoreau. Este hecho da inicio a una serie de tentativas por hallar a la desconocida para posteriormente Mauricio pasar a sen un infidente, sin saberlo, de los pormenores de la reclusión de la reina, que ayudarían en los intentos de fuga; el amor le ciega de tal manera que es incapaz de darse cuenta que está siendo utilizado. El fin de esta relación sería similar al fin de la relación de Diana y el tribuno Marcelo Galio en El Manto Sagrado de Lloyd C. Douglas; aunque Douglas podría haberse inspirado en el final de la obra de Dumas por ser anterior. Por otro lado, el caballero del título hace todo lo posible por liberar a María Antonieta, ofreciendo si vida y fortuna por ello. Fue escrita con la colaboración de Auguste Maquet.",
+	"contributor": "Editorial Lorenzana",
+	"date": "1853-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 86051,
+	"unique_words": 10725,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8782937331135807,
+		"slope": 0.652316210366908,
+		"std_error_intercept": 0.09768862448455869,
+		"std_error_slope": 0.009304434278180687
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f36c350612971243b9a9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El castillo de Eppstein (38255)/El castillo de Eppstein - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El castillo de Eppstein",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "El castillo de Eppstein, una novela escrita en el más puro estilo gótico que hacía furor en el siglo XIX con sus imprescindibles dosis de secretos familiares, maquiavélicos villanos, doncellas en peligro, amores apasionados y espectros vengadores.Una macabra leyenda pesa sobre la familia Eppstein desde tiempos inmemoriales: todas las mujeres que mueren en el castillo la noche del 24 de diciembre no encuentran el reposo eterno y regresan del más allá para atormentar a sus moradores. Y Albina, la bella esposa del malvado conde Maximiliano, no será una excepción.",
+	"contributor": null,
+	"date": "1843-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 92088,
+	"unique_words": 10650,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8454022805229318,
+		"slope": 0.6514257177691316,
+		"std_error_intercept": 0.08981651476134213,
+		"std_error_slope": 0.008508169649328667
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f37d350612971243b9aa"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El collar de la Reina (8050)/El collar de la Reina - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El collar de la Reina",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "La situación en Francia para finales del Siglo XVIII era insostenible económicamente, el pueblo moría de hambre y frío, mientras que el clero, la nobleza y en especial la Reina María Antonieta de Austria, se daban la gran vida.El Cardenal de Rohan en un intento por comprar el favor de la Reina se ve estafado, y el pueblo francés pierde la confianza en sus políticos, que gastan millones en joyas, mientras ellos mueren de hambre.El asunto del collar de la reina, que por si solo ya tenía tintes novelescos, es tomado por Alejandro Dumas, que le da su particular toque, lleno de aventuras, intrigas y por supuesto, una que otra historia de amor.En este libro, podremos observar desde adentro todas las maquinaciones que dieron al traste con una de las estafas más famosas y costosas de la historia, conoceremos los personajes mucho más a fondo (inclusive a los propios Reyes), pero sobre todo, pasaremos un buen rato con una fantástica novela, hecha por uno de los más grandes escritores de todos los tiempos.",
+	"contributor": "Mª Luisa Villar de Francos Legrain",
+	"date": "1849-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 284125,
+	"unique_words": 23362,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2185077404329387,
+		"slope": 0.7070854294640772,
+		"std_error_intercept": 0.16033966194635796,
+		"std_error_slope": 0.01389174557777955
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f39a350612971243b9ab"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El conde de Montecristo (7023)/El conde de Montecristo - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El conde de Montecristo",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "El conde de Montecristo (Le comte de Montecristo) es una novela de aventuras clásica de Alexandre Dumas (padre) y Auguste Maquet. Éste último no figuró en los títulos de la obra ya que Alexandre Dumas pagó una elevada suma de dinero para que así fuera. Maquet era un colaborador muy activo en las novelas de Dumas, llegando a escribir obras enteras, reescribiéndolas Dumas después. Se suele considerar como el mejor trabajo de Dumas, y a menudo se incluye en las listas de las mejores novelas de todos los tiempos.Edmundo Dantés ha pasado veinte años encarcelado en el castillo de If. Allí conoce al padre Faria que le desvela la existencia de un tesoro oculto en la isla de Montecristo. Dantés huye de la prisión y encuentra el tesoro. A partir de ahora su objetivo es vengarse de las personas que lo encarcelaron. Tras un año en Oriente, regresa a Francia con una nueva identidad: el Conde de Montecristo.",
+	"contributor": "E. V.",
+	"date": "1845-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 542861,
+	"unique_words": 32122,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0225737754329796,
+		"slope": 0.6365485500952804,
+		"std_error_intercept": 0.1696391997139038,
+		"std_error_slope": 0.013988644026610512
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f3ba350612971243b9ac"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El Conde de Montecristo (trad. Ruiz Ortega) (65365)/El Conde de Montecristo (trad. Ruiz Ortega - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El Conde de Montecristo (trad. Ruiz Ortega)",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "El conde de Montecristo, es, en principio, la historia de una venganza. Edmond Dantès es un joven marino que, en el día de su compromiso con la bella Mercedes, es víctima de un complot y encarcelado en el castillo de If, de donde no deberá salir jamás. Gracias al abate Faria, a quien conoce en la prisión, adquiere una educación y averigua la existencia de un maravilloso tesoro escondido en la isla de Montecristo. Fingiendo su muerte, logra escapar de la fortaleza y se enrola con unos piratas en busca de una fabulosa fortuna. Su siguiente objetivo, convertido ya en un rico y poderoso noble, será llevar a cabo la más despiadada venganza nunca imaginada.Se trata de una sólida novela de aventuras, con una rica y compleja trama y multitud de personajes, a través de los que Dumas se adentra en las pasiones más profundas del ser humano, en su codicia y en sus ansias de poder, pero en la que también se habla de amor, lealtad y justicia.",
+	"contributor": "Pilar Ruiz Ortega",
+	"date": "1845-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 585521,
+	"unique_words": 31880,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0487418385452467,
+		"slope": 0.6285770012902372,
+		"std_error_intercept": 0.091476669260648,
+		"std_error_slope": 0.007500673014165558
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f3c6350612971243b9ad"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El drama de 1793. Escenas revolucionarias (71283)/El drama de 1793. Escenas revolucionarias - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El drama de 1793. Escenas revolucionarias",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Según el propio autor, este libro pudo haberse titulado Luis XVI y la Revolución, pues se narran los sucesos revolucionarios a partir del enfrentamiento del rey con los revolucionarios. Es una novela histórica sobre la Revolución francesa centrada fundamentalmente en la figura del rey.",
+	"contributor": "J. P. S.",
+	"date": "1856-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 200817,
+	"unique_words": 20660,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7774247606734694,
+		"slope": 0.6703270047131931,
+		"std_error_intercept": 0.09687636828564519,
+		"std_error_slope": 0.00862418310320562
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f3cd350612971243b9ae"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El hombre de la mascara de hierro (9505)/El hombre de la mascara de hierro - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El hombre de la máscara de hierro",
+	"subject": "Aventuras",
+	"publisher": null,
+	"identifier": "a7edb3fa-91af-4557-a244-c40bf021f006",
+	"description": "Diversos historiadores y escritores han relatado cómo fue la misteriosa vida de «El hombre de la máscara de hierro». El principal fue Voltaire, quien estando en la Bastilla en calidad de reo, recibió narraciones de presos más antiguos que hablaban de la existencia del misterioso personaje. Según la leyenda, el personaje murió en 1703 y fue enterrado en el cementerio de San Pablo, en París, con el pseudónimo de Marchiali, pero su verdadero nombre y las razones por las cuales había sido encerrado eran considerados secreto de Estado. Algunos le consideran origen de una unión entre Ana y el Cardenal Mazarino, o como hijo fuera del matrimonio de Carlos II, de Inglaterra. Con el tiempo, tales argumentos contribuyeron a abonar el mito de su existencia. Alejandro Dumas narra que el hombre de la máscara de hierro probablemente era un hermano de Luis XIV, de Francia, nacido gemelo, o de relaciones extramatrimoniales de Ana de Austria con el conde de Buckingham, lo que le añadió la imaginación popular al asunto. Además es ésta la obra en la se ven juntos por última vez a los célebres D’Artagnan, Athos, Porthos y Aramis.",
+	"contributor": "M. Angelon & E. de Inza",
+	"date": "2013-08-02T19:15:42",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 147190,
+	"unique_words": 14914,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2042502009512057,
+		"slope": 0.7073604932619697,
+		"std_error_intercept": 0.08488024009574127,
+		"std_error_slope": 0.007744481922657613
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f3d7350612971243b9af"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El paje del duque de Saboya (14086)/El paje del duque de Saboya - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El paje del duque de Saboya",
+	"subject": "Aventuras",
+	"source": "Le page du duc de Savoie",
+	"publisher": null,
+	"description": "Una novela cuya trama se ubica en la época de Enrique II en Francia, María Tudor en Inglaterra, y Carlos V en España, Alemania, Flandes, Italia y las dos Indias. El personaje central del libro es Manuel Filiberto de Saboya, general de los ejércitos imperiales.Una historia paralela, verdadero tema de la novela, es la relación del duque de Saboya con su hermano de leche y escudero Reinaldo, quien por su fuerza descomunal es apodado Scianca-Ferro y con su paje, León, a quien había salvado la vida y que guarda un secreto que sólo ellos conocen y que está relacionado con el origen de una poderosa familia caída en desgracia. León cuida con esmero de su amo y tiembla ante la posibilidad de una alianza matrimonial, cuestión que pudiera estar relacionada con su secreto.",
+	"contributor": null,
+	"date": "1855-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 184299,
+	"unique_words": 19962,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7731634969758063,
+		"slope": 0.6733070718883934,
+		"std_error_intercept": 0.13408106400340913,
+		"std_error_slope": 0.01201732095668868
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f3db350612971243b9b0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El tulipan negro (8026)/El tulipan negro - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El tulipán negro",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Los hermanos De Witt, protegidos del gran rey Luis de Francia, encontrarán la muerte a manos de la enloquecida población de La Haya, que les cree culpables de conspiración. Pero antes de morir dejarán a su ahijado Cornelius unos comprometedores documentos que le llevarán a la cárcel, donde, en compañía de la joven Rosa, se afanará en conseguir lo que más desea en el mundo: el bulbo del tulipán negro.Con su habitual talento narrativo, Alejandro Dumas despliega en esta novela de intriga todos los ingredientes necesarios para atrapar al lector desde la primera página y sumergirlo en la tumultuosa sociedad holandesa de finales del siglo XVII.",
+	"contributor": "Manuel Rossell Pesant",
+	"date": "1850-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 85482,
+	"unique_words": 10627,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.535763049820758,
+		"slope": 0.6825334588803619,
+		"std_error_intercept": 0.11206703142236717,
+		"std_error_slope": 0.010679588696210556
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f405350612971243b9b1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El vizconde de Bragelonne (8280)/El vizconde de Bragelonne - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El vizconde de Bragelonne",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Alexandre Dumas corona su trilogía con una auténtica obra maestra en la que por primera vez presenta al hombre de la máscara de hierro.Han pasado diez años desde el momento en que se cerraba Veinte años después, y Dumas nos presenta los días finales del cardenal Mazarino, siendo ya D’Artagnan capitán de mosqueteros. El objetivo del ya no tan joven mosquetero, junto con sus fieles compañeros, es llevar a Carlos II a recuperar el trono que su difunto padre perdió. Sin embargo, sus caminos se han bifurcado: Porthos intenta por todos los medios a su alcance ascender en la escala social francesa; Athos pugna por evitar la incipiente relación de su hijo Raúl con la bella Louise de La Vallière (quien a su vez ha quedado prendada del joven rey Luis XIV), y Aramis, cabeza visible de los jesuitas, ha descubierto un asombroso secreto: la existencia de un hermano oculto del joven monarca.Sin embargo, hay cosas que parecen no cambiar pese al paso de los años: la corte de Carlos II no es tan distinta de la de Luis XIV: las aventuras pasionales, los secretos de alcoba, los celos, las envidias, las tramas más pérfidas corretean por los pasillos de palacio a la velocidad del viento. Aun así, los mosqueteros ponen a prueba su valor, su ingenio y su desparpajo en otro tipo de aventuras, y ceden el paso en los escarceos galantes a la generación que representa Raúl. Tampoco el ardor, la pasión y el profundo sentido de la amistad se han visto alterados lo más mínimo por el transcurso de los años.",
+	"contributor": null,
+	"date": "1848-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 776297,
+	"unique_words": 40130,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.937291480444478,
+		"slope": 0.6401529187004892,
+		"std_error_intercept": 0.07196687856180815,
+		"std_error_slope": 0.0057789270083989435
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f40d350612971243b9b2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Georges (76487)/Georges - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Georges",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Georges es considerada la primera obra maestra en el género novelesco de Alejandro Dumas. La novela recrea el periodo entre 1810 a 1824 en la isla Mauricio, colonia de Francia en el océano indico, que junto con otras islas del mar caribe, se dedicaban a las plantaciones agrícolas y donde fueron introducidos como esclavos muchos negros provenientes de África. En esta novela se pueden reconocer rasgos del gran novelista detrás de sus protagonistas, porque Dumas utiliza como tema central el racismo, acentuado en las colonias con la existencia de la esclavitud. Aunque este es un tema que sufrió el propio autor, por sus antecedentes familiares, es raramente utilizado en sus obras.",
+	"contributor": null,
+	"date": "1843-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 136417,
+	"unique_words": 13867,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0019939473860076,
+		"slope": 0.6398656724873508,
+		"std_error_intercept": 0.09709014943094828,
+		"std_error_slope": 0.008912322370997155
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f41a350612971243b9b3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Historia de una cortesana (71284)/Historia de una cortesana - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Historia de una cortesana",
+	"subject": "Realista",
+	"publisher": null,
+	"description": "Laprotagonista de esta novela, lady Hamilton, narra su vida, poco antes demorir, al sacerdote que la asiste después de haber vivido romances con variospersonajes de la alta sociedad inglesa, hasta caer en desgracia, abandonada ypobre. Gracias a su belleza llegó a convertirse en la favorita de la reinaMaría Carolina de Nápoles donde conoció al almirante Nelson en 1793 con quientuvo una hija.",
+	"contributor": "Antonio Astort",
+	"date": "1865-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 249302,
+	"unique_words": 24164,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.61626650891848,
+		"slope": 0.6837673195143444,
+		"std_error_intercept": 0.07818483878569778,
+		"std_error_slope": 0.0068431757054456584
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f435350612971243b9b4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Joseph Balsamo - Memorias de un medico (14876)/Joseph Balsamo - Memorias de un medico - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Joseph Balsamo - Memorias de un médico",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "El personaje que da nombre a esta novela –primera del ciclo titulado Memorias de un médico que Dumas consagró a la Revolución francesa– no es otro que el célebre aventurero y adivino conocido como conde Cagliostro. Enmarcada en los años que median entre la llegada de María Antonieta a Francia y la muerte de Luis XV (1770-1774), Joseph Balsamo (1846-1848) constituye un relato vivo, trepidante, a la altura de las mejores obras de su autor. Dumas teje una intriga densa en la que tienen un papel destacado personajes históricos como madame Du Barry, Richelieu, el cardenal de Rohan o el propio Rousseau. Balsamo, experto en magia y magnetismo, acompañado por el siniestro alquimista Althotas, encabeza una sociedad secreta cuya finalidad es derrocar las monarquías e instaurar un gobierno basado en la soberanía popular.",
+	"contributor": "Selecciones Editoriales",
+	"date": "1846-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 502121,
+	"unique_words": 33660,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9944002831112206,
+		"slope": 0.6453578483841272,
+		"std_error_intercept": 0.12768579823342147,
+		"std_error_slope": 0.01059106254619962
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f438350612971243b9b5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/La bola de nieve (53694)/La bola de nieve - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "La bola de nieve",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Alexandre Dumas padre, autor de inolvidables novelas de aventuras, compartió con otros creadores románticos el gusto de los europeos occidentales de entonces por los viajes a países exóticos. Los habitantes y costumbres de Darguestán, sin duda le inspiraron este hermoso relato que aborda las aventuras y desventuras de un joven intrépido y valiente, Iskander, capaz de las más arriesgadas gestas para lograr dos de los más preciados objetivos del ser humano: el amor y el reconocimiento. Una de las fases más importantes de la vida de las personas es sin duda el paso de la infancia a la vida adulta, los años de adolescencia y juventud. Y precisamente éstos son los años del joven Iskander, quien ve ante sí la posibilidad de decidir su destino al aceptar una empresa de alto riesgo: hacerse con la bola de nieve. El valor de Iskander, la colaboración de sus amigos y la esperanza permanente de unirse a la bella Kassim, quien también contribuye activamente al feliz desenlace del relato, constituyen el hilo que teje este divertido y emocionante cuento.",
+	"contributor": null,
+	"date": "1862-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 51590,
+	"unique_words": 8272,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7872718615733576,
+		"slope": 0.6670465314568687,
+		"std_error_intercept": 0.046654304973789605,
+		"std_error_slope": 0.004629871947952073
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f457350612971243b9b6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/La Condesa de Charny (14870)/La Condesa de Charny - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "La Condesa de Charny",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Ambientada en las jornadas revolucionarias que llevan a la ejecución de Luis XVI. Los hechos de esta novela transcurren seguidamente a los ocurridos en la novela 'Angel Pitou'. Los sangrientos sucesos posteriores a la toma de la Bastilla continúan. El niño que había sido arrancado de los brazos de su madre vuelve a encontrarse con ella después de 15 años, produciendo sentimientos encontrados en ambos. Mientras tanto, la familia real es trasladada de Versalles a París, a las Tullerías más exactamente, escoltada por el pueblo que había asaltado el palacio queriendo tomar represalias.",
+	"contributor": "Editorial Lorenzana",
+	"date": "1853-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 572439,
+	"unique_words": 36254,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3132487875785084,
+		"slope": 0.6927024634178313,
+		"std_error_intercept": 0.05353521199450156,
+		"std_error_slope": 0.004397068009464273
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f46b350612971243b9b7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/La dama de Monsoreau (10516)/La dama de Monsoreau - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "La dama de Monsoreau",
+	"subject": "Aventuras",
+	"publisher": null,
+	"identifier": "7b7da650-868c-4ff9-affe-f47f0ca2a89d",
+	"description": "Esta historia es la continuación de La Reina Margot ambientada en París en el año 1578. Carlos IX ha muerto, ahora reina su hermano Enrique III quien tiene como más fiel aliado y servidor a su bufón Chicot quien siempre estará atento para velar por su rey. A su vez el Duque de Anjou, hermano del rey, tiene como mano derecha al valiente Bussy d'Ambroise quien al salir de la boda del favorito del rey San Lucas es atacado por los restantes favoritos del rey Maugiron, Quelus, Schomberg, Epernon y O, luego de luchar solo contra ellos, se salva al entrar en una casa y ser ayudado por una joven, a la que en medio de su delirio debido a las heridas que tenia, cree una visión. Después de recuperado se enterará que dicha joven llamada Diana de Meridor esta prácticamente secuestrada por el señor de Monsoreau con la excusa de protegerla del duque de Anjou interesado en ella, pero Diana sabe que Monsoreau esta obsesionado por ella. Por otro lado el Duque de Guisa planea junto con sus hermanos el Cardenal de Lorena, el duque de Mayena y la señora de Montpensier destronar al rey de Francia preparando un complot para que él mismo firme su carta de abdicación. Para ello cuentan con la ayuda del duque de Anjou al cual le han prometido que será el sucesor de Enrique III y a buena parte del pueblo católico que forma una agrupación secreta llamada «La Liga» que desea una nueva Noche de San Bartolome. La acción de esta historia continua en Los Cuarenta y Cinco.",
+	"contributor": null,
+	"date": "2013-08-02T20:16:48",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 319641,
+	"unique_words": 22832,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8642566124150077,
+		"slope": 0.6470038400446603,
+		"std_error_intercept": 0.1060915392832952,
+		"std_error_slope": 0.009108304460381392
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f46c350612971243b9b8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/La dama palida (38826)/La dama palida - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "La dama pálida",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "(…) los largos cabellos negros, cayéndose sobre la espalda, goteaban sangre; vestía como de costumbre, pero tenía descubierto el pecho y dejaba ver su ensangrentada herida. Todo estaba muerto, todo era cadáver… carne, ropas, figura… Solamente los ojos, aquellos terribles ojos, estaban vivos.La dama pálida, de Alejandro Dumas (también traducida como La bella vampirizada y El vampiro de los Cárpatos), es una de las narraciones fantásticas más perfectamente estructuradas de la historia de la literatura. Esta obra encierra magistrales pasajes en los que el horror se eleva a su máxima expresión, gracias tanto a las tenebrosas y góticas descripciones del paisaje y los personajes como a la intensa y poderosa trama que nos conduce con sorprendente habilidad hasta el corazón palpitante del terror.Escrita en una época intermedia entre los dos clásicos de la literatura vampírica, El vampiro, de John William Polidori (1816), y la fabulosa y sensual Carmilla, de Sheridan Le Fanu (1872), La dama pálida (1849) deslumbra por su altura literaria y por la turbación y desasosiego que la lectura de sus páginas produce en el lector.",
+	"contributor": "Desconocido",
+	"date": "1846-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 16024,
+	"unique_words": 3802,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8777624772815664,
+		"slope": 0.6554383749939261,
+		"std_error_intercept": 0.07583831080597435,
+		"std_error_slope": 0.008239227780891875
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f473350612971243b9b9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/La hija del marques (60373)/La hija del marques - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "La hija del marqués",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "La novela «Creación y redención» fue publicada en 1870 como una sola obra, y luego en 1872, póstumamente, fue separada por los editores en dos volúmenes con títulos distintos: «El médico misterio» y «La hija del marques».Dejamos a Jacques Mérey, «El médico misterioso» en los albores de una nueva etapa en la Revolución Francesa. El joven convencional finalmente encontró a su amada Eva, pero en trágicas circunstancias en que ha de verse comprometida su felicidad. Entre la muerte de Marat y la desgracia de Robespierre, los dos amantes experimentarán el exilio y la prisión, correrán riesgo de muerte, se codearán con los personajes más sangrientos de ese momento de pasiones políticas.",
+	"contributor": null,
+	"date": "1870-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 129026,
+	"unique_words": 15334,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.497159124184064,
+		"slope": 0.694561358154154,
+		"std_error_intercept": 0.12290669964300313,
+		"std_error_slope": 0.011332387001070433
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f477350612971243b9ba"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/La Marquesa de Brinvilliers - Urbain Grandier - Vaninka (16628)/La Marquesa de Brinvilliers - Urbain Grand - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "La Marquesa de Brinvilliers - Urbain Grandier - Vaninka",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "Es una colección de 18 libros de Alejandro Dumas, algunos en colaboración con otros autores, sobre la vida de criminales famosos y sobre la muerte de prominentes personajes de la historia. Fueron publicados originalmente en Paris en 8 volúmenes entre 1839 a 1841.A continuación presentamos una muy breve síntesis de los libros aquí expuestos:La Marquesa de Brinvilliers: Durante los años del 1660 al 1672 se desarrolla esta historia, donde la marquesa, con la ayuda de su amante, envenena a sus padres y hermanos para heredar la fortuna de la familia. Descubierta y torturada para lograr una confesión, fue obligada a ingerir 16 pintas de agua y luego fue quemada en la hoguera.Urbain Grandier: Es la historia de un sacerdote católico francés que fue quemado en la hoguera en 1634. Es una historia de envidias e intrigas, donde el sacerdote fue injustamente acusado y sentenciado por presuntos pactos con el diablo y por inapropiada conducta sexual.Vaninka: La acción ocurre en 1800 en San Petersburgo, durante el Zar Pablo I, y su participación en la segunda coalición contra Francia. Vaninka, la hija de un general ruso, se ve involucrada en la muerte accidental de su enamorado y luego en otros crímenes para encubrir la misma.",
+	"contributor": "Marcial Busquets & M. Angelon & E. de Inza",
+	"date": "1840-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 93530,
+	"unique_words": 11478,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.562116969449014,
+		"slope": 0.6808433641725286,
+		"std_error_intercept": 0.03901882857482795,
+		"std_error_slope": 0.0036915868205318527
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f484350612971243b9bb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/La Reina Margot (8033)/La Reina Margot - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "La Reina Margot",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "'La reina Margot' constituye el primer volumen de una trilogía centrada en las guerras de religión en las que se vio envuelta Francia durante la segunda mitad del siglo XVI, y que completan 'La dama de Monsereau' y 'Los cuarenta y cinco'. En ella Dumas retrata con maestría las intrigas de la corte francesa utilizando como escenario de partida los esponsales de la infanta Margarita o Margot de Valois y uno de los episodios más sangrientos de la historia: la matanza de la Noche de San Bartolomé, que culminó con el asesinato en masa de hugonotes.La entonces joven infanta es la protagonista de la novela, quien atrapada en las ambiciones de su madre, Catalina, y su hermano, Francisco, se verá envuelta en una turbulenta historia de amor con el soldado protestante La Mole. Una obra que ha dejado una imagen imborrable de la reina Margot en la que mito, leyenda y realidad son indistinguibles.",
+	"contributor": "Teresa Clavel",
+	"date": "1845-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 241471,
+	"unique_words": 19408,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.90329513271045,
+		"slope": 0.644706923359005,
+		"std_error_intercept": 0.09152634428320995,
+		"std_error_slope": 0.00803089312415484
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f495350612971243b9bc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Las dos Dianas (8032)/Las dos Dianas - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Las dos Dianas",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Al cumplir los 18 años, Gabriel, un sencillo burgués, se entera de que es el heredero del conde Montgomery, desaparecido en extrañas circunstancias. Criado desde los seis años en la humilde casa de su nodriza para escapar de las posibles amenazas de los enemigos de su padre se ha vuelto tan diestro con las armas como valiente y noble de corazón. Gabriel está decidido a averiguar que pasó con su padre y a vengarlo si fuera posible.Por otro lado, Diana, una niña abandonada, con quien Gabriel compartió su infancia, de pronto se encuentra casada contra su voluntad y en camino a la corte de Paris. Ambos ven tristemente que sus vidas siguen rumbos diferentes…En realidad Dumas cuenta la historia novelada de Gabriel, conde de Montgomery, que involuntariamente hirió de muerte en un torneo al rey Enrique II de Francia. Las dos Dianas del título, se refiere a la favorita de Enrique II, Diana de Poitiers, y su hija, Diana de Castro. La obra incluye también, el relato novelado de la historia de Martin Guerre.",
+	"contributor": "Selecciones Editoriales",
+	"date": "1847-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 330838,
+	"unique_words": 24766,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5916361453101606,
+		"slope": 0.6742982910814497,
+		"std_error_intercept": 0.11929336702143731,
+		"std_error_slope": 0.010214577203924028
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4a9350612971243b9bd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Las lobas de Machecoul (17384)/Las lobas de Machecoul - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Las lobas de Machecoul",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Esta historia empieza en el año 1791. Nos cuenta en primer lugar las aventuras del marqués de Souday, quien luchó junto al ejercito de Charrette de lado del ejercito realista, el cual quería volver al rey Luís XVII a su trono, luego de los sucesos de la Bastilla. Reencontraría por esos lares a su antiguo amigo, un aldeano hijo de uno de los colonos de su padre llamado Jean Oullier, juntos lucharían, hasta que una traición por parte de uno de un espía termina con la vida de Charrette. Teniéndose que refugiar, se despide de su amigo y se muda a la Bretaña, donde vive de bar en bar, sin ningún propósito. Un día conoce a una joven costurera de nombre Eva, que reconoce en él una persona noble. Ella le pide que la aleje de ese peligroso mundo. Por lo que comienzana vivir juntos, ella se encarga de todos sus menesteres, y eventualmente queda embarazada. Al dar a luz fallece, teniendo dos niñas gemelas, cuyos nombres serán María y Berta. El marqués regresa a su castillo en Machecoul, donde criará a sus hijas, que por sus costumbres poco ortodoxas serán conocidas con el poco apropiado nombre de las Lobas de Machecoul.",
+	"contributor": "Editorial Lorenzana",
+	"date": "1859-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 266028,
+	"unique_words": 22454,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8439672202034778,
+		"slope": 0.6546512914643309,
+		"std_error_intercept": 0.084496844743181,
+		"std_error_slope": 0.00735828775306283
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4b1350612971243b9be"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Los companeros de Jehu (18909)/Los companeros de Jehu - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Los compañeros de Jehú",
+	"subject": "Histórico",
+	"source": "Les Compagnons de Jéhu",
+	"publisher": null,
+	"description": "Este librodebe su título a una organización secreta, La Compañía de Jehú, formada porjóvenes aristócratas, que a expensas del dinero del Directorio, financian larestauración de la monarquía, en contra de las ansias de poder, cada vez máscrecientes de Napoleón Bonaparte. Los protagonistas, Rolandde Montrevel y Sir John Tanley, se ven inmersos en intrigas políticas, amorosasy en la historia de Francia en ese periodo. El 9 de octubre de 1799 llegaNapoleón a París, procedente de Egipto, acompañado de Roland de Montrevel, suayudante de campo, quien comienza a liderar la lucha contra la compañía deJehú, y la secta secreta que se encuentra detrás de ellos. La situación militarmejora tras varias victorias sobre los aliados europeos. La República, sinembargo, en ese momento estaba en bancarrota y el Directorio, corrupto eineficiente estaba en su nivel más bajo de popularidad. Napoleón organizóentonces un golpe de Estado junto a algunos miembros del Directorio y el 9 denoviembre, tropas dirigidas por él, tomaron el control de París y dispersaron alos consejos legislativos, con lo que Bonaparte quedó, junto a Sieyes y Ducos,como Cónsul al frente del gobierno. Luego con la nueva Constitución del año X, Napoleón Bonaparte logró el poder absoluto y senombró Primer Cónsul Vitalicio. Más adelante en ePubLibre.org habrá más novelashistóricas de Alexandre Dumas.",
+	"contributor": null,
+	"date": "1857-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 133529,
+	"unique_words": 14637,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8590004330084204,
+		"slope": 0.6569142606248359,
+		"std_error_intercept": 0.09505210987630641,
+		"std_error_slope": 0.008740106847551265
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4c0350612971243b9bf"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Los cuarenta y cinco (10908)/Los cuarenta y cinco - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Los cuarenta y cinco",
+	"subject": "Aventuras",
+	"publisher": null,
+	"identifier": "c9168900-27ea-41e8-9511-9237f78f3693",
+	"description": "Historia ambientada en el año 1585. Enrique III sigue siendo rey de Francia, es el día de la ejecución del señor de Salcedo acusado de atentar contra la vida del príncipe el Duque de Anjou. Todo parece indicar que fue enviado por la casa de Guisa. Las puertas de París se han cerrado, pero unos cuantos hombres con sus acompañantes pueden entrar con un pase especial, el total de hombres es cuarenta y cinco. Uno de ellos, Ernanton de Carmaignes conoce a una misteriosa mujer que disfrazada de muchacho se le acerca para pedirle ser su paje y así entrar. Cerca del patíbulo ella hace señales a Salcedo para que no releve nombres, luego huye. Los cuarenta y cinco hombres son presentados ante el Rey por el Coronel General de Infantería d’Epernon, ellos serán parte de una escolta especial que protegerá al rey en todo momento de cualquier ataque.",
+	"contributor": null,
+	"date": "2013-08-15T04:02:17",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 286653,
+	"unique_words": 23292,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5388143707140634,
+		"slope": 0.6805808676860143,
+		"std_error_intercept": 0.12699337555561088,
+		"std_error_slope": 0.010995078305236092
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4c2350612971243b9c0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Los hermanos corsos (54530)/Los hermanos corsos - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Los hermanos corsos",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Los hermanos corsos, 1844, ambientada en Córcega y Francia en el año 1841, y narrada en primera persona por el mismo Alexandre Dumas, cuenta sus experiencias en un viaje a esa isla, cuando, al alojarse en la casa de los de Franchi, conoció a la señora Savilia y a su hijo Lucien, joven alegre y extrovertido, inclinado a la vida de campo, quien le cuenta que tiene un hermano gemelo llamado Louis que vive en París y es, por el contrario, tranquilo y sosegado. Al nacer, ambos estaban unidos por el costado y, aunque fueron separados, esa unión se mantuvo para siempre haciendo sentir a uno el dolor del otro y viceversa, sin importar la distancia que los separase... A través de la vida de esta familia corsa y de la mirada extranjera de un ilustre espectador, el lector se acercará a las costumbres de Córcega en el siglo XIX, especialmente a las relativas a las famosas vendettas, y a las del París de la época, con sus fiestas y sus retos a duelo.El argumento y las sugerentes imágenes de la novela han propiciado que haya sido llevada al cine en numerosas ocasiones.",
+	"contributor": "Javier Albiñana",
+	"date": "1844-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 35975,
+	"unique_words": 6027,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7940101843485001,
+		"slope": 0.6590811564477453,
+		"std_error_intercept": 0.06486282950476487,
+		"std_error_slope": 0.006623922803566574
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4d3350612971243b9c1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Los tres mosqueteros (7022)/Los tres mosqueteros - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Los tres mosqueteros",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "La acción se sitúa durante el reinado de Luis XIII, en Francia. D’Artagnan es un joven de 18 años, hijo de un noble gascón, antiguo mosquetero, de escasos recursos económicos. Se dirige a París con una carta de su padre para el señor de Treville, jefe de los Mosqueteros del Rey. En una posada, durante su ruta, D’Artagnan desafía a un caballero que acompaña a una bella y misteriosa dama.",
+	"contributor": "Mauro Armiño",
+	"date": "1844-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 270775,
+	"unique_words": 20399,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9622788015306878,
+		"slope": 0.6346730460561691,
+		"std_error_intercept": 0.03616490702239638,
+		"std_error_slope": 0.0031450425455759215
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4e5350612971243b9c2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Los tres mosqueteros (trad. Torcuato Tasso) (65040)/Los tres mosqueteros (trad. Torcuato Tasso - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Los tres mosqueteros (trad. Torcuato Tasso)",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Francia, abril de 1625. En la polvorienta villa de Meung se cruzan los destinos de un joven gascón, una hermosa mujer y un misterioso hidalgo. Comienza así una de las mayores aventuras jamás escritas. Una carta de recomendación extraviada es la responsable de que el impulsivo D'Artagnan se adentre, sin saberlo, en un mundo de intrigas palaciegas, luchas intestinas, traiciones, celos, capas y espadas en el que perseguirá su sueño de gloria. Roger Nimier, uno de los más eminentes intelectuales del siglo XX francés, firma la introducción que abre el presente volumen. La sigue este clásico insoslayable del feuilleton en la espléndida y canónica traducción que realizara en su día Torcuato Tasso Serra, vigente aún hoy como una de las más palpitantes versiones en lengua castellana.Robert Louis Stevenson dijo...«No digo que no exista un personaje tan bien dibujado en la obra de Shakespeare como D'Artagnan. Solo digo que no hay ningún otro que me guste tanto».",
+	"contributor": "Torcuato Tasso Serra",
+	"date": "1844-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 274294,
+	"unique_words": 22145,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.084315573528849,
+		"slope": 0.6336069293228638,
+		"std_error_intercept": 0.04364343196014793,
+		"std_error_slope": 0.0037915960834092417
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4ef350612971243b9c3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Mil y un fantasmas (22990)/Mil y un fantasmas - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Mil y un fantasmas",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "Mil y un fantasmas recuerda por su título,intencionadamente, a Las mil y una noches: la estructura de la narraciónes la misma. Incluye los relatos : Un día en Fontenay-aux-Roses (1849), Una comida en casa de Rossini (1849), La mujer del collar de terciopelo(1851). Un día en Fontenay-aux-Roses Una partida de caza que lleva al protagonista (no podía serotro que el propio Dumas) a presenciar y firmar el atestado de un crimen.Cuando varios vecinos sentados a la mesa vuelvan a recordar los motivosaducidos por el criminal, cada comensal relatará un hecho sobrecogedor,protagonizado por él mismo o vivido muy de cerca: historias de espanto con undenominador común, la aparición y los efectos que causan los seres una vezdesaparecidos. Muertos que se vengan pasados incluso cientos de años, muertosque mantienen una última conversación con su enamorada, muertos que se vengan oayudan, pero que siempre hacen correr el sudor más frio por las frentes de laspersonas visitadas. Historias de vampirismo, historias que alcanzan casi latensión de la necrofilia, historias, en definitiva, capaces de hacersobresaltarse al lector más sereno. Una comida en casa de Rossini En 1849,Alejandro Dumas, asistió a una de las famosas comidas de Rossini. Durante lasobremesa, cuando Dumas dijo que, en Italia no había historias de terror, un jovenpoeta le replicó que eso no era cierto y le prometió entregarle una historiaque sucedió en su propia familia.Setrataba de dos grandes amigos, que juran seguir siéndolo, incluso, después dela muerte.«El que se vaya antes, contará al otro, cómo es el más allá». Mientrasestaban haciendo el juramento, uno de ellos, recibió el anuncio de que su padrese encontraba gravemente enfermo. Decidió partir, pero le pidió a su amigo queno lo acompañase. La preocupación, embargó al que se quedó. Soñaba que suamigo, iba a tener un destino trágico. Decidió ir a buscarlo. A partir de esemomento, el fantasma de su amigo, lo dirigió para indicarle donde se encontrabasu cuerpo, y cómo vengarse de los que le habían matado. Lamujer del collar de terciopelo Poco antes de morir, Charles Nodier, el eruditobibliotecario de El Arsenal, le refiere a Dumas, la historia de La mujer delcollar de terciopelo, con el fin de que quede constancia para la posteridadde un asombroso embrollo en que se vio envuelto E. T. A. Hoffmann durante suestancia en el turbulento París de los días del Terror... una estancia llena desobresaltos y aventuras en un París donde los museos y bibliotecas estáncerrados, pero la plaza de la Revolución permanece abierta y la guillotinadispuesta y donde Hoffmann está a punto de perder el cuello gracias a losencantos de la bella Arsenia, bailarina de la ópera y amante de Danton.",
+	"contributor": "A. Blanco Prieto",
+	"date": "1885-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 135428,
+	"unique_words": 15886,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.489193451213792,
+		"slope": 0.6934101858085642,
+		"std_error_intercept": 0.06042841711225896,
+		"std_error_slope": 0.005550178362908668
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4f6350612971243b9c4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Napoleon (54380)/Napoleon - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Napoleón",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "La historia de Napoleón ha dado lugar a una producción bibliográfica oceánica que ha invadido la literatura y la mitología más allá del campo específico de la historia. Verdaderamente, lo mismo entonces que después, el Emperador es un personaje que ha hecho soñar y ha inspirado a numerosos escritores y novelistas. Uno de ello es Alexandre Dumas, el autor de Los tres mosqueteros o El conde de Montecristo, cuyo padre fue general del propio Emperador, como fue el caso también de Victor Hugo. Con su biografía sobre Napoleón, escrita de forma esquemática, Dumas, anticipándose al regreso a Francia de las cenizas del Emperador en 1840, supo captar mejor que nadie la cresta de la ola del entusiasmo napoleónico para, de una forma breve, sencilla y fácil de leer, escribir en el momento justo el libro apropiado.",
+	"contributor": "Damián V. Solano Escolano",
+	"date": "1840-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 92477,
+	"unique_words": 12765,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1353482896184737,
+		"slope": 0.7295657984767122,
+		"std_error_intercept": 0.15468709242819947,
+		"std_error_slope": 0.014648318211116127
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4fb350612971243b9c5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Terror en Fontenay (55857)/Terror en Fontenay - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Terror en Fontenay",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "Como el terror. Unaparte no desdeñable de la producción de Dumas está llena de espectros... losespectros de su propia realidad social, los aparecidos que atormentaban en suépoca. Una galería importante de ellos se halla reunida en este libro: lacabeza guillotinada que sigue sintiendo, viviendo y sufriendo después deseparada del cuerpo, el ajusticiado que regresa de la tumba para cobrar tributode su ajusticiador, la venganza de la realeza tras la profanación de las tumbasreales en el reinado del terror, el ajusticiado que reconquista la gracia deDios tras su lucha contra el demonio, el vampirismo y la posesión, encarnados enel desolado paisaje de los Cárpatos…En total, sieterelatos magistrales de terror, unidos entre sí por una jornada de caza de laque es protagonista el propio escritor, y en los que Alejandro Dumas se nosmuestra, como en sus más célebres novelas, un consumado maestro de lanarrativa.",
+	"contributor": "Domingo Santos",
+	"date": "1849-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 67474,
+	"unique_words": 9524,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.711336409576339,
+		"slope": 0.6707976070408554,
+		"std_error_intercept": 0.06139382548180428,
+		"std_error_slope": 0.005962886666771245
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f4fe350612971243b9c6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Un Gil Blas en California (22896)/Un Gil Blas en California - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Un Gil Blas en California",
+	"subject": "Viajes",
+	"publisher": null,
+	"description": "En julio de 1851 Alexandre Dumas pasa unos días en una hostería de la localidad de Montmorency. Allí se encuentra con un joven viajero que acaba de regresar de la lejana California (cuando todavía no existía el Canal de Panamá). Era la época de la fiebre del oro.Dumas se encierra con el joven y, con el apoyo de un prolijo diario del viaje, escribe esta apasionante crónica que, como si de una novela de Jules Verne se tratara, va narrando las peligrosas peripecias de una vida de aventura en esa nueva tierra prometida. De la mano de Dumas, el lector navegará por los mares del Atlántico sur, buscará oro en las Montañas Rocosas, cazará ciervos, jaguares y osos en los bosques de la sierra Nevada y vivirá peligrosos incendios en las casas de madera de la naciente ciudad de San Francisco.",
+	"contributor": "Esteban Hernández y Fernández",
+	"date": "1852-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 49799,
+	"unique_words": 8873,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0573555573993252,
+		"slope": 0.7455560524262008,
+		"std_error_intercept": 0.16382701888513,
+		"std_error_slope": 0.016303810991031783
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f51a350612971243b9c7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/Veinte anos despues (8279)/Veinte anos despues - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "Veinte años después",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Veinte años después continúa con las aventuras del grupo de amigos que conocimos en Los tres mosqueteros. El tiempo ha transcurrido y las cosas han cambiado mucho, la situación del país es distinta, hay un nuevo rey-niño y un nuevo ministro que vive bajo la sombra que ha dejado Richelieu. La situación política que nos encontramos ha cambiado mucho, los enemigos que habíamos conocido en el primer libro han cambiado y los personajes han seguido distintos caminos durante esos años. En la novela veremos el reencuentro del grupo y cómo vuelven a estar en medio de las intrigas políticas, tanto de Francia como de Inglaterra.",
+	"contributor": null,
+	"date": "1845-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 309999,
+	"unique_words": 23362,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7675499272431776,
+		"slope": 0.6574244028816554,
+		"std_error_intercept": 0.06453338506256595,
+		"std_error_slope": 0.00555352909094425
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f51b350612971243b9c8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/El Conde de Montecristo (trad. Pollux Hermunyez) (71637)/El Conde de Montecristo (trad. Pollux Herm - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "El Conde de Montecristo (trad. Pollux Hermunyez)",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "El conde de Montecristo es una sólida novela de aventuras. Naufragios, mazmorras, fugas, ejecuciones, asesinatos, traiciones, envenenamientos, suplantaciones de personalidad, un niño enterrado vivo, una joven resucitada, catacumbas, contrabandistas, bandoleros, tesoros, amoríos, reveses de fortuna, golpes de teatro, todo para crear una atmósfera irreal, extraordinaria, fantástica, a la medida del superhombre que se mueve en ella. Y todo ello arropado en una novela de costumbres, digna de medirse con las contemporáneas de Balzac. Pero, además, toda la obra gira en torno a una idea moral: el mal debe ser castigado. El conde, desde esa altura que le da la sabiduría, la riqueza y el manejo de los hilos de la trama, se erige en «la mano de Dios» para repartir premios y castigos y vengar su juventud y su amor destrozados. A veces, cuando hace milagros para salvar al justo de la muerte, el lector se sobrecoge de emoción. Otras, cuando asesta los implacables hachazos de la venganza, nos sentimos estremecidos. En definitiva, una novela que nos atrapa de principio a fin.",
+	"contributor": "Pollux Hermúñez",
+	"date": "1844-12-31T23:00:00+00:00",
+	"original_language": "es"
+},
+{
+	"_id": {
+		"$oid": "5ed3f526350612971243b9c9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Dumas/La guerra de las mujeres (23026)/La guerra de las mujeres - Alejandro Dumas.epub",
+	"creator": "Alejandro Dumas",
+	"title": "La guerra de las mujeres",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "En medio de la guerra civil emprendida por la aristocracia francesa durante la minoría de edad de Luis XIV, dos mujeres se enfrentan con todas sus armas: en la lucha por el poder, ponen en liza su belleza, su gran capacidad para la intriga, su amor y sus celos, sin renegar del coraje ni de sus dotes militares.Alexandre Dumas (1802-1870), autor de algunas obras maestras del espíritu romántico como El conde de Montecristo, recrea una estampa de la guerra de La Fronda, con dos personajes que quieren ser los equivalentes femeninos de sus célebres mosqueteros: la astuta y encendida amante del duque Epernón, Nanón de Lartigues, fiel a una Ana de Austria y a un cardenal Mazarino que tratan de salvaguardar la corona para quien luego sería el Rey Sol, Luis XIV; y la rubia y valerosa Claire de Cambes, que sostiene la rebelión de los príncipes de Condé con su inteligencia y su astucia.Estas dos mosqueteras con faldas, como se las ha llamado, se convierten en eje de una narración que contiene los mismos ingredientes de Los tres mosqueteros, la novela más célebre de Dumas: acción, intriga y rapidez descriptiva; pero aquí el autor privilegia un aspecto: el amoroso, con su inevitable acompañamiento de celos y rivalidad femenina, pues las dos protagonistas se enamorarán del mismo hombre.",
+	"contributor": null,
+	"date": "1845-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 203219,
+	"unique_words": 16752,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9406956906171489,
+		"slope": 0.6389842254322191,
+		"std_error_intercept": 0.07449113628832241,
+		"std_error_slope": 0.006625183960599539
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f52b350612971243b9ca"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Ebrat Picart/Declaracion de la renta 2012 para dummies (40541)/Declaracion de la renta 2012 para dummies - Alejandro Ebrat Picart.epub",
+	"creator": "Alejandro Ebrat Picart",
+	"title": "Declaración de la renta 2012 para dummies",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "¿Te conviene más hacerla conjunta o individual? ¿Sabes que algunas veces te puede interesar más dejar de cobrar unos intereses bancarios? Y tu sueldo, ¿te has planteado cobrarlo de otra manera que te beneficie más? Esta guía práctica y fácil te explica con abundantes ejemplos qué significa cada casilla para que puedas tomar las decisiones más inteligentes que te ayuden a ahorrar tiempo y dinero y a rebajar lo que pagas a Hacienda. Además, en nuestra página web www.paradummies.es encontrarás las deducciones específicas de cada comunidad autónoma, las escalas de tramos y la declaración de patrimonio.\n• Conoce qué tienes que declarar y qué no — algunas indemnizaciones y pensiones, la lotería nacional o el trabajo en el extranjero, entre otros, están exentos.\n• Asegúrate de que no te olvidas nada — Alejandro Ebrat te da los mejores consejos para que no tengas problemas con Hacienda.\n• Abuelos y niños — si tienes mayores o menores a tu cargo, hazlo constar en el apartado adecuado.\n• La crucecita para la Iglesia — puedes marcar las dos casillas a la vez, la de la Iglesia y la de otros fines sociales.",
+	"contributor": null,
+	"date": "2013-03-25T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 64731,
+	"unique_words": 6982,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.5161629051289647,
+		"slope": 0.5721783336555478,
+		"std_error_intercept": 0.03619399080355182,
+		"std_error_slope": 0.003527091136772088
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f52d350612971243b9cb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Fabbri/El nacimiento de una pasion (32459)/El nacimiento de una pasion - Alejandro Fabbri.epub",
+	"creator": "Alejandro Fabbri",
+	"title": "El nacimiento de una pasión",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "¿En qué momento la leyenda se convirtió en un engaño? ¿Por qué se modificó una fecha de fundación de un club de fútbol? ¿Cuándo se decidió cambiar radicalmente los colores de una institución? ¿Y la mudanza de un barrio a otro a varios kilómetros del lugar de nacimiento? Son preguntas que intentan tener respuesta en este trabajo del periodista Alejandro Fabbri, que unifica fundaciones, camisetas primitivas y colores elegidos.Cuesta entender la razón por la que las autoridades de River en algún momento decidieron que el club se había fundado tres años antes de la fecha original, lo mismo que Colón de Santa Fe, con una existencia que arranca, en realidad, varios años después de la supuesta creación del club. ¿Huracán era una marca de útiles y Vélez Sársfield una estación de tren? ¿Lo del taladro vino de un diario nazi y los calamares nacieron porque las camisetas se embarraban enseguida y se cargaban de tinta? Todo vale, todo sirve, colores, barrios divididos por pasiones genuinas que se fueron modificando, apodos que crecieron hasta eclipsar a otros. Vale la pena meterse en aquella Argentina que se apropió del fútbol que trajeron los ingleses hasta cambiarlo, vestirlo de otra manera y largarlo al mundo con camiseta albiceleste. Es el fútbol argentino. Con identidad única. Fabbri, que ha recorrido casi todas sus canchas, puede contarlo.",
+	"contributor": null,
+	"date": "2009-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 58207,
+	"unique_words": 8712,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8029542797880411,
+		"slope": 0.6631487568336429,
+		"std_error_intercept": 0.060770772296129524,
+		"std_error_slope": 0.005972786922432406
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f531350612971243b9cc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Fabbri/Historias negras del futbol argentino (13350)/Historias negras del futbol argentino - Alejandro Fabbri.epub",
+	"creator": "Alejandro Fabbri",
+	"title": "Historias negras del fútbol argentino",
+	"subject": "Deportes y juegos",
+	"publisher": null,
+	"identifier": "5575d11f-fee1-4548-ac1d-21a64eacee99",
+	"description": "Hinchas que pretenden ahorcar a un árbitro, dirigentes que practican el soborno a repetición, maniobras para evitar descensos, sobre todo cuando afectan a equipos de los llamados grandes, silencios cómplices, negociados con el poder de turno que implican privilegios, referís que se defienden de la furia de futbolistas y público a punta de pistola, jugadores que se rebelan contra la autoridad arbitral y se sientan en el campo mientras sus adversarios los golean. Todos estos desmanes forman parte de la historia del profesionalismo en el fútbol argentino. Episodios recuperados a partir de una intensa investigación y narrados con una prosa eficaz por Alejandro Fabbri, construye un abrumador y por momentos divertido panorama del costado oscuro de nuestro deporte más popular.Como sostiene Víctor Hugo Morales en el prólogo a este trabajo imprescindible: «Esclarecedor, documentado, de prosa hábilmente despojada para que sean los hechos los protagonistas, este libro nos acerca una vez más a la capacidad de su autor para internarse en la historia con el rigor inclaudicable de quien, paradojalmente, lo hace desde el amor por el fútbol.»",
+	"contributor": null,
+	"date": "2013-10-26T18:57:51",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 68310,
+	"unique_words": 10067,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7960509604825692,
+		"slope": 0.6693889823223204,
+		"std_error_intercept": 0.15034534169356967,
+		"std_error_slope": 0.014587867554698007
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f534350612971243b9cd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Fabbri/Nuevas historias negras del futbol argentino (36706)/Nuevas historias negras del futbol argenti - Alejandro Fabbri.epub",
+	"creator": "Alejandro Fabbri",
+	"title": "Nuevas historias negras del fútbol argentino",
+	"subject": "Deportes y juegos",
+	"publisher": null,
+	"description": "Denuncias por sobornos, partidos con resultados mentirosos, otros consensuados a tal punto que el jugador que mete un gol, en vez de gritarlo, se agarra la cabeza, y en vez de abrazos recibe las maldiciones de sus compañeros.Arbitrajes vergonzosos, y hasta patéticos. Dirigentes que sacan y ponen jueces. Oportunos cortes de luz. Barras brava que amenazan a sus jugadores para que vayan «para atrás» y el reconocimiento de éstos: «teníamos que perder» para seguir con vida. Insólitas entregas físicas, maratones de estimulantes, jeringas y pastillas de colores.Bengalas perdidas y asesinas, petardos como proyectiles, la sangre derramada en las tribunas. Hinchas desaforados que entran libremente al campo a la caza de rivales y árbitros. Víctimas amputadas, golpeadas salvaje, cobardemente. Muertes sospechosas, por encargo, por inseguridad y una triste ola de suicidios.La verdadera razón de los descensos por promedio, el referí sorprendido por una cámara cantando lo mismo que «la Doce» mientras dirigía, la tarde que una hinchada fue detenida por cantar una canción que no se debía y el día que el genocida Luciano Benjamín Menéndez le quiso «dar una alegría» al pueblo cordobés… y no pudo por culpa de Bochini.Estas Nuevas historias negras del fútbol argentino contienen un muestrario de lo que ha ocurrido en nuestro deporte más querido durante los últimos cuarenta años. No hace un recuento cronológico de todas las situaciones irregulares sino que selecciona distintos casos, alternando escándalos, curiosidades e historias increíbles. A partir de una profunda investigación y una prosa eficaz, Alejandro Fabbri nos vuelve a sorprender contándonos lo peor del fútbol de la mejor manera posible: con amor y pasión.",
+	"contributor": null,
+	"date": "2015-06-26",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 78532,
+	"unique_words": 10648,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6776763005623454,
+		"slope": 0.6749038947756327,
+		"std_error_intercept": 0.05126089395811713,
+		"std_error_slope": 0.00491836970660603
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f535350612971243b9ce"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Fernandez Pombo/El dia que se cayo Brosca (54912)/El dia que se cayo Brosca - Alejandro Fernandez Pombo.epub",
+	"creator": "Alejandro Fernández Pombo",
+	"title": "El día que se cayó Brosca",
+	"subject": "Juvenil",
+	"publisher": null,
+	"description": "Brosca es la perra de Arturo, un chico que vive en un bloque nuevo construido a las afueras de la ciudad. El edificio queda algo aislado y sus vecinos apenas se conocen. Sin embargo, debido a un accidente de Brosca, tendrán la oportunidad de hacerse amigos y de demostrar su solidaridad.",
+	"contributor": "Manolo Uhía",
+	"date": "1991-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 10388,
+	"unique_words": 2198,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1805241044652854,
+		"slope": 0.7046614901677762,
+		"std_error_intercept": 0.04996612456055585,
+		"std_error_slope": 0.005598642792232172
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3f539350612971243b9cf"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Gamen/Asi fue como perdi la luz del sol (42081)/Asi fue como perdi la luz del sol - Alejandro Gamen.epub",
+	"creator": "Alejandro Gamen",
+	"title": "Así fue como perdí la luz del sol",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Bruno, un joven médico sin demasiadas aspiraciones, se reencuentra con un amigo de la infancia por casualidad. Ese encuentro le hará volver al pasado, para encontrar allí puntos ciegos, huecos en su memoria que no puede entender. Hay algo en su pasado que algo o alguien intentó borrar, pero no se puede borrar un recuerdo sin dejar un agujero, un espacio vacío imposible de ignorar. Bruno intentará reconstruir su historia, volver a los fatídicos eventos de su infancia que lo llevaron a olvidar parte de su vida y a recorrer el resto como un fantasma de sí mismo. Lo que está enterrado quiere salir, aunque haya quienes no quieran que algunas cosas salgan a la luz... Así fue como perdí la luz del Sol es una novela intimista disfrazada de thriller metafísico, cuyos temas son tan universales como el olvido y la culpa, y tan familiares que llevan al lector a un lugar incómodo, a una realidad en la que lo que ocurre en la novela podría suceder, o quizás haya sucedido ya en otro mundo, otra época, y cuyas tragedias sólo sean, a la manera de Marx, una farsa que refleja las tragedias de nuestra historia.",
+	"contributor": null,
+	"date": "2015-03-07T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 63371,
+	"unique_words": 8990,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.533305077973075,
+		"slope": 0.6873515542865463,
+		"std_error_intercept": 0.10386679540259526,
+		"std_error_slope": 0.010139035875360497
+	}
 }]
 
