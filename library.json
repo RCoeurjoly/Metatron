@@ -26997,5 +26997,1792 @@
 		"std_error_intercept": 0.11848011622674186,
 		"std_error_slope": 0.010688432872077571
 	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e4f3350612971243b6c9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ai Mi/Amor bajo el espino blanco (37783)/Amor bajo el espino blanco - Ai Mi.epub",
+	"creator": "Ai Mi",
+	"title": "Amor bajo el espino blanco",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Estamos en plena Revolución Cultural china, un mundo al revés en el que los ricos están condenados por serlo y los más humildes son también los más ilustres. Jing Qiu es hija de una familia conservadora y, para probar su lealtad al régimen, tiene que viajar a una aldea para aprender de los campesinos y ser reeducada a través del trabajo en el campo. Allí conoce a Lao San, que proviene de una familia comunista, pero es desafiante y crítico con el Gobierno. A pesar de las diferencias ideológicas que los separan, los jóvenes no pueden contener su atracción y se enamoran completamente.El espino es una canción rusa que Lao San toca con su acordeón, pero también un árbol encumbrado en la aldea que simboliza el dolor del pueblo chino a manos de los japoneses. El amor de Jing Qiu y Lao San crecerá lentamente bajo su sombra, pero, al igual que tantos soldados, los jóvenes acabarán sintiendo el terrible sufrimiento de la separación y de la muerte.Esta novela biográfica está basada en un blog que Ai Mi comenzó a postear en 2007 inspirándose en los conmovedores testimonios de uno de sus protagonistas. Este relato desgarrador, llevado al cine por el prestigioso director Zhang Yimou, nos muestra el amor hasta las últimas consecuencias.",
+	"contributor": "Damià Alou",
+	"date": "2007-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 128193,
+	"unique_words": 12063,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.991482735237063,
+		"slope": 0.6312845178916143,
+		"std_error_intercept": 0.05046347165712374,
+		"std_error_slope": 0.004655285042290791
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e4fb350612971243b6ca"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida Berliavsky/Doron Benatar y el libro de los nombres muertos (66549)/Doron Benatar y el libro de los nombres mu - Aida Berliavsky.epub",
+	"creator": "Aida Berliavsky",
+	"title": "Dorón Benatar y el libro de los nombres muertos",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Mientras investiga un supuesto caso de cuernos Dorón Benatar acepta investigar el robo de un ejemplar único de la versión toledana del Necronomicón del siglo XVII, un libro que se creía desaparecido y que guarda entre sus páginas un secreto oculto que muchos buscan. Una secta satánica, unos pandilleros y un poderoso lobby empresarial de los que se dice que quita y pone presidentes en muchas partes del mundo se entrecruzan con el mismo objetivo: el libro.",
+	"contributor": null,
+	"date": "2008-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 136888,
+	"unique_words": 15850,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8009682363438722,
+		"slope": 0.6686143677140145,
+		"std_error_intercept": 0.09022788453240926,
+		"std_error_slope": 0.008280100549963938
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e500350612971243b6cb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida Cogollor/El mejor verano de nuestras vidas (75073)/El mejor verano de nuestras vidas - Aida Cogollor.epub",
+	"creator": "Aida Cogollor",
+	"title": "El mejor verano de nuestras vidas",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Hace tiempo recibí un manuscrito sin remitente. Entre sus páginas encontré amor, risas, lágrimas, diversión y, sobre todo, amistad. Amistad de esa que solo ocurre una vez en la vida. Amistad de recuerdos que permanecen imborrables en el tiempo. Esta historia trata sobre el caprichoso destino, ese en el que la mayoría no creemos y, sin embargo, está presente en cada paso que damos hacia una dirección, y no otra, a lo largo de nuestra existencia. Es la historia de India, Adriana y Luna. Y del mejor verano de sus vidas.",
+	"contributor": null,
+	"date": "2018-03-04T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 66018,
+	"unique_words": 8466,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9647396789267884,
+		"slope": 0.6403992673994662,
+		"std_error_intercept": 0.10765123458853096,
+		"std_error_slope": 0.010474004153285973
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e508350612971243b6cc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida Cogollor/Helena (75716)/Helena - Aida Cogollor.epub",
+	"creator": "Aida Cogollor",
+	"title": "Helena",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Helena es feliz, tiene un buen trabajo y un novio maravilloso. Pero cuando él rompe la relación todo su mundo se tambalea. Hasta que una noche decide seguir con su vida y sale de fiesta. Conoce a Sylvia. Y también conocerá a alguien más. Alguien con los ojos del azul de los Mares del Norte que va a cambiar su vida, para siempre. ¿Acompañarás a Helena?",
+	"contributor": null,
+	"date": "2012-10-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 136626,
+	"unique_words": 10348,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.946224001834903,
+		"slope": 0.6176160414695914,
+		"std_error_intercept": 0.04874885683250619,
+		"std_error_slope": 0.004474302677645246
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e510350612971243b6cd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida Cogollor/Henry (75710)/Henry - Aida Cogollor.epub",
+	"creator": "Aida Cogollor",
+	"title": "Henry",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Han pasado dos años desde que Helena lo dejara plantado el día de su boda. Ahora Henry tendrá que tomar una importante decisión que le llevará a empezar 'una nueva vida'. Pero sus planes sufrirán un revés cuando conozca a Emily. ¿Acompañarás a Henry?",
+	"contributor": null,
+	"date": "2013-09-24T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 103372,
+	"unique_words": 9161,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8622494368633864,
+		"slope": 0.6286586799810928,
+		"std_error_intercept": 0.02911230384324358,
+		"std_error_slope": 0.0027322923724119146
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e517350612971243b6ce"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida Cogollor/La doble vida de Becca (41613)/La doble vida de Becca - Aida Cogollor.epub",
+	"creator": "Aida Cogollor",
+	"title": "La doble vida de Becca",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Rebecca Collins es una chica normal, con una vida normal y un trabajo normal. Pero los viernes Rebecca conduce hasta Nueva Orleans dejando la normalidad en Lafayette. Becca tiene un trabajo muy distinto en la ciudad del jazz. Y dentro de su compleja doble vida, ni Rebecca, ni Becca quieren enamorarse, pero es que conocer a alguien como Charlie tampoco entraba en sus planes. ¿Bailamos?",
+	"contributor": null,
+	"date": "2015-03-23T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 73668,
+	"unique_words": 8126,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.23137564402969,
+		"slope": 0.604331242745884,
+		"std_error_intercept": 0.025994799284643936,
+		"std_error_slope": 0.0025070044174031027
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e51d350612971243b6cf"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida Cogollor/Shooter (75708)/Shooter - Aida Cogollor.epub",
+	"creator": "Aida Cogollor",
+	"title": "Shooter",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Maya Sinclair es una profesora de infantil que vive una vida aparentemente tranquila en Chicago. O eso es lo que parece. En su tiempo libre es May/76, una asesina a sueldo sin escrúpulos que trabaja para una sociedad que elimina a traficantes, violadores y asesinos de inocentes. Su vida como Maya dará un giro de 180 grados cuando conozca a Alfonso, el tío de su nueva alumna. Su manera de ver la vida, tan auténtica, despertará en ella algo que jamás había sentido. Pero sus dos vidas colapsarán en una sola el día que reciba el sobre que le marca a un objetivo al que ella cree inocente. ¿Podrá Maya romper por fin con la asesina? ¿O será May/76 la que acabe con la profesora?",
+	"contributor": null,
+	"date": "2014-09-24T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 80332,
+	"unique_words": 8959,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9791892621877214,
+		"slope": 0.6303296751931219,
+		"std_error_intercept": 0.03197862280243458,
+		"std_error_slope": 0.0030626959741762274
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e527350612971243b6d0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida del Pozo/Cazadores de ambiciones (74988)/Cazadores de ambiciones - Aida del Pozo.epub",
+	"creator": "Aída del Pozo",
+	"title": "Cazadores de ambiciones",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "«Hemos nacido en una sociedad que necesita de la existencia de personas como nosotros, capaces de llevar sus riendas y de ser sus guías. Le proporcionamos estabilidad y, a cambio, ella nos otorga privilegios por hacer girar el complejo engranaje que permite que funcione. Manejamos los hilos y tomamos lo que nos corresponde por realizar tan importante labor. Los que hemos nacido líderes debemos aceptar, sin modestia ni rubor algunos, nuestro premio».«Usted desconoce su potencial, querida. El sexo, el juego, el alcohol o las drogas no son nada más que un simple divertimento entre todos los placeres de los que podría gozar si ingresara en nuestro club. No se imagina el inmenso placer y la lujuriosa carga de adrenalina que llega a invadir nuestras venas cuando hacemos algo prohibido por ser considerado depravado, cruel e indigno de un ser humano. Experimentar qué se siente al cruzar los límites de lo ético es, en definitiva, maravilloso. ¡Sentirte libre, desnudo de prejuicios y convencionalismos, dueño de tus actos, señor de tus deseos más ocultos y hacerlos realidad! La liberación es total cuando traspasamos esos límites y engancha más que la droga más adictiva. La libertad en estado puro. ¡Arriba, a las nubes, ser un semidiós! ¡Usted ha nacido para ser diosa, pero aún no lo sabe!».Si te hallaras ante una encrucijada moral, ¿qué harías? ¿Cruzarías la línea para proteger a quien quieres? Y si lo hicieras, ¿cuál sería tu límite? Ahora, María deberá decidir cruzarla o no… Jugar o huir.",
+	"contributor": null,
+	"date": "2017-07-01T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 133690,
+	"unique_words": 13434,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0543277767815478,
+		"slope": 0.6340784627110158,
+		"std_error_intercept": 0.1053343214521327,
+		"std_error_slope": 0.009684678393391932
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e52b350612971243b6d1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida del Pozo/El silbido de la serpiente (43191)/El silbido de la serpiente - Aida del Pozo.epub",
+	"creator": "Aída del Pozo",
+	"title": "El silbido de la serpiente",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "Llevo años sintiendo que soy un caparazón vacío. Me levanto cada mañana con la necesidad de hacerme con lo que los demás poseen y de lo que yo carezco: ese halo invisible que dota a las personas de sentimientos y distingue a los seres humanos de las bestias. Hace mucho tiempo que llegué a la conclusión de que no tengo alma. ¿Nací sin ella? Quizás la tuve pero me la robaron cuando mi padrastro se metió en mi cama con el tácito consentimiento de mi madre. Sin embargo, Candy, la mujer con la que convivo, se empeña en convencerme de que la poseo. Insiste en que la mía es un alma atormentada y llena de recovecos oscuros y profundos secretos, pero que está atrapada en este cuerpo que ella venera, clamando para que yo deje de creer que tan solo soy una carcasa. Quiso mostrármela a través del retrato que me hizo hace unas semanas. Entonces creí verla por un instante… Sin embargo, en mis amaneceres aún no existen días de primavera. Más allá de mis cuatro paredes todo me parece una cloaca y la gente me importa poco pues de los zombis que pululan a mi alrededor, solo necesito una cosa: sus almas. Y ahora debo salir a cazar. Tengo tanta hambre…",
+	"contributor": null,
+	"date": "2015-01-18T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 78088,
+	"unique_words": 9915,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0668992575857468,
+		"slope": 0.6368043992782864,
+		"std_error_intercept": 0.14499991329169049,
+		"std_error_slope": 0.0139188478372331
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e530350612971243b6d2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida Ramos/Regalame un instante (78957)/Regalame un instante - Aida Ramos.epub",
+	"creator": "Aida Ramos",
+	"title": "Regálame un instante",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Lo miró embriagándose de la magia que escondían sus ojos. Nunca pudo imaginar que bastaría aquel instante para empezar a escribir su historia. Alessia abandona Madrid para irse a vivir con su hermano Nico a Cudillero. Ambos tienen que superar aún la muerte de su padre y en ese tortuoso camino los dos hermanos encuentran el amor. Alessia conoce a Isaac, quien fue en un tiempo inseparable de Nico, aunque ahora apenas se soportan. Alessia deberá lidiar con la enemistad de los dos hombres más importantes de su vida, la sobreprotección de su hermano y sus propios temores. Un camino lleno de tropiezos pero alumbrado por un faro con el que es difícil perderse.",
+	"contributor": null,
+	"date": "2017-02-15T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 82906,
+	"unique_words": 9863,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8557370459326714,
+		"slope": 0.6485668565170726,
+		"std_error_intercept": 0.025832463158320378,
+		"std_error_slope": 0.002467796431987323
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e533350612971243b6d3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aida Sandoval/La luz de mi propia sombra (82781)/La luz de mi propia sombra - Aida Sandoval.epub",
+	"creator": "Aida Sandoval",
+	"title": "La luz de mi propia sombra",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "“Ella sabía a mar, a lágrimas, a saliva, a alegría, a olvido, a ganas, a muchas ganas de seguir besándola toda la noche…” ¿Pero qué les pasa a estas mujeres con el pasado? Se pregunta Lucas que no es capaz a recordar el suyo porque lo anestesió con ginebra. Retirado del mar y de la bebida, calma su soledad en un pequeño pueblo de Asturias tomando mostos. Le acompaña una muchacha de la que solo sabe que está más perdida que él y a la que observa constantemente jugar con las pulseras que ocultan sus cicatrices Otras dos mujeres, enemigas desde la infancia en una guerra sin sentido, provocan el despertar de sus sentimientos. Helena, con sus kilos de más, le fascina desde el primer momento, pero ella está más interesada en descubrir su pasado. Miranda, famosa y guapa, conoce ese pasado y lo está escribiendo en una novela que publica por entregas. Los secretos del pueblo son desvelados. Sus vidas se hacen públicas.",
+	"contributor": null,
+	"date": "2015-08-20T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 56139,
+	"unique_words": 10499,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.505411561319928,
+		"slope": 0.7102321796653234,
+		"std_error_intercept": 0.048341914802698484,
+		"std_error_slope": 0.004764976824902841
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e536350612971243b6d4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aileen Diolch/Fuego rojo (68051)/Fuego rojo - Aileen Diolch.epub",
+	"creator": "Aileen Diolch",
+	"title": "Fuego rojo",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Esa es la pregunta que Álex se lleva haciendo desde que León la sorprendió desprevenida mientras realizaba una entrega en la CTBA, una entrega para la revista de la que es dueño su hermano. Eso y... un fugaz y ardiente encuentro en un ascensor del que es imposible olvidarse. León forma parte de un pasado que está decidida a olvidar, un pasado plagado de dolor y de malas decisiones con el que lleva conviviendo bastantes años y del que no habría levantado cabeza de no ser por el apoyo incondicional de su hermano y sus amigas. Pero cuando las cosas parecen complicarse a su alrededor y otras salen a la luz, solo le queda plantearse una cuestión: ¿ocurrió todo como lo recuerda o hubo mucho más?",
+	"contributor": null,
+	"date": "2014-03-14T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 45101,
+	"unique_words": 6482,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.171444693404864,
+		"slope": 0.618205534687627,
+		"std_error_intercept": 0.05487340345923595,
+		"std_error_slope": 0.005504247876588397
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e538350612971243b6d5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ailen Diolch/_Por que no_ (41201)/_Por que no_ - Ailen Diolch.epub",
+	"creator": "Ailen Diolch",
+	"title": "¿Por qué no?",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "La vida de Em gira alrededor de pasteles, tartas y dulces. Una vida tranquila que se trastoca cuando recibe una llamada: su hermana se casa y quiere que esté a su lado No conoce al novio. ¡No sabía qué tenía un novio! Pero lo peor no es eso, sino que puede reencontrarse con Saúl. Em contará hasta tres, hasta diez hasta cincuenta y se mentalizará de que no hay ningún problema porque ya no siente nada por el chico que le rompió el corazón en su juventud. Lástima que Saúl no esté de acuerdo con ella.",
+	"contributor": null,
+	"date": "2014-06-15T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 19563,
+	"unique_words": 3554,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.959106059477845,
+		"slope": 0.6297917964974193,
+		"std_error_intercept": 0.03986730337069275,
+		"std_error_slope": 0.004267354332755036
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e53f350612971243b6d6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ailin Skye/Nam Nam Numi Numi (41032)/Nam Nam Numi Numi - Ailin Skye.epub",
+	"creator": "Ailin Skye",
+	"title": "Ñam Ñam Ñumi Ñumi",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "«En Siempreverde todo es diversión, risas y cotilleos, especialmente cuando las gemelas Folyen entran en acción». Edén Folyen es feminista, cínica, encantadora, sensual, divertida, dueña de una mente ágil y perversa, dispuesta a meterse en cualquier lio para salirse con la suya. Acostumbrada a obtener lo que quiere en el momento que lo necesita. Es además una de las mujeres con más influencia en Siempreverde y copropietaria de “Cómetelo Sexshop”. Su mundo es perfecto. Hasta que lo conoce. El tipo más odioso, mal educado, brabucón y difícil de provocar, dueño de los ojos más azules que jamás ha visto. Capaz de resistirse a sus encantos, y para más inri, es el único que despierta sus instintos y deseos más ocultos en cada encuentro que tienen. Una guerra descarnada será declarada por la salvaje señorita Folyen donde solo hay un ganador. ¿Será el amor lo suficiente para blandir la bandera de la paz? ¿Podrá resistirse a ese hombre con sangre escocesa y a la sensual batalla para tenerla entre sus brazos?",
+	"contributor": null,
+	"date": "2015-05-10T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 79391,
+	"unique_words": 9538,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0158160333912147,
+		"slope": 0.6335235621666141,
+		"std_error_intercept": 0.04088459292198284,
+		"std_error_slope": 0.00391937470998251
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e54b350612971243b6d7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ailin Skye/Si fuera un caballero (77542)/Si fuera un caballero - Ailin Skye.epub",
+	"creator": "Ailin Skye",
+	"title": "Si fuera un caballero",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "Si fuera un caballero, Joe jamás posaría los ojos en la suculenta mujer que chocó contra él un día cualquiera. Si fuera un caballero, tendría continuamente presente las razones por las que él no es la persona adecuada para una mujer ejemplar, viviendo en un pueblo pequeño. Si fuera un caballero, simplemente, se ceñiría al plan inicial, en su intento por sanar a su hermana y olvidarse de lo que él fue en un tiempo, no muy remoto. Si fuera un caballero... Pero él no lo es, y eso sera un gran problema para Lynette, quien descubrirá lo que, verdaderamente, no hace un caballero. ¿Y tú? ¿Estás lista para conocer esta historia?",
+	"contributor": null,
+	"date": "2017-09-26T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 91407,
+	"unique_words": 10773,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.819123504113429,
+		"slope": 0.6555323194942528,
+		"std_error_intercept": 0.06648698878047635,
+		"std_error_slope": 0.0063019741764147544
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e556350612971243b6d8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ailin Skye/Tres no son multitud (42608)/Tres no son multitud - Ailin Skye.epub",
+	"creator": "Ailin Skye",
+	"title": "Tres no son multitud",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "Una mudanza sorpresa. Un casero doblemente sexy y misterioso. Una abuela muy singular. Y Vero en medio de todo esto, metida en un berenjenal. Se dan cita en esta alocada, sensual y divertida historia. Donde no todo es lo que parece. ¿Descubrirá Verónica Holmes el secreto de tan sexy hombre? ¿Será capaz de resisitirse a su sexy casero? ¿Podrá sobrevivir a todo peculiar y escandaloso regalo de su abuela?¿A qué esperas para descubrirlo?",
+	"contributor": null,
+	"date": "2015-09-20T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 95510,
+	"unique_words": 10523,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.937984826850607,
+		"slope": 0.6411797642746401,
+		"std_error_intercept": 0.12238102481267109,
+		"std_error_slope": 0.01155906040014655
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e55b350612971243b6d9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ailina Shebelle/En algun lugar de tu mente (68073)/En algun lugar de tu mente - Ailina Shebelle.epub",
+	"creator": "Ailina Shebelle",
+	"title": "En algún lugar de tu mente",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Cuando Amelia entra en esa casa fría y oscura siempre lo hace con incertidumbre y desconfianza, pero todo cambia cuando se atreve a ir más allá y habla por primera vez con Jackson, el chico de sus sueños. Su mente la adentrará en un mundo en el que, con ayuda de Jackson, tendrá que salir o quedarse atrapada para siempre. Historias de amor se entrelazan con el maravilloso y extraño mundo de los sueños... ¿Te atreves a soñar?",
+	"contributor": null,
+	"date": "2016-01-23T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 56513,
+	"unique_words": 7882,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7462656572499957,
+		"slope": 0.659183900284419,
+		"std_error_intercept": 0.039431868282522625,
+		"std_error_slope": 0.0038846901398441876
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e55c350612971243b6da"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aimar Rollan/Aprende a meditar (82489)/Aprende a meditar - Aimar Rollan.epub",
+	"creator": "Aimar Rollán",
+	"title": "Aprende a meditar",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "Plan de 8 semanas. En este breve libro aprenderás a meditar desde cero, en tu casa, sentado en una silla a la occidental. Aprenderemos la teoría básica y algunas técnicas sencillas pero profundas de meditación, basadas en el mindfulness, el yoga y el zen. Consolidaremos el hábito mediante un programa de 8 semanas, especialmente diseñado para fomentar en nosotros el hábito de meditar todos los días en un rincón de nuestra casa. No son necesarios conocimientos previos, ni poder sentarse con las piernas cruzadas, ni ser religioso o amante de las tradiciones orientales. La meditación es una técnica universal que nos ayudará a controlar nuestra mente, a reducir el estrés y a conocernos mejor. Empezaremos meditando un minuto al día y al concluir las 8 semanas seremos capaces de meditar 20 minutos seguidos. La idea es que la meditación forme parte de nuestra rutina diaria para que nos pueda ayudar a llevar una vida más plena y feliz.",
+	"contributor": null,
+	"date": "2016-03-31T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 13639,
+	"unique_words": 2638,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.738536651160341,
+		"slope": 0.6463546851498922,
+		"std_error_intercept": 0.10236123169401129,
+		"std_error_slope": 0.011251787928309434
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e57a350612971243b6db"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aimee Bouquet/Abandono en Paris (55531)/Abandono en Paris - Aimee Bouquet.epub",
+	"creator": "Aimée Bouquet",
+	"title": "Abandono en París",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Porque un abandono puede ser tu mejor regalo. Basada en una historia real y escrita en un iPodTouch Aimée, sin dinero, sin maleta y sin modo de moverse, es acogida por unos amigos a las afueras de París. Carlo le envía un mensaje diciendo que se equivocó y quiere que lo acompañe a Londres. Aimée se pregunta: ¿Volver con Carlo o continuar viajando sola? Claramente ella decide volver con el «amor de su vida», sin embargo, una serie de «incidentes», la hacen ir a otro lado: Italia. Ahí inicia un recorrido por la mítica bota donde conoce a la estilista de Miss Universo, a las famosas escritoras del Club de Julieta y hasta Luca Spaghetti, el mejor amigo de la escritora Elizabeth Gilbert y protagonista de la famosa novela «Comer, Rezar, Amar». Cuando Hellen, la ex novia de Carlo se entera de la aventura de Aimée, la contacta para burlarse de ella y su viaje de reencuentro consigo misma «a la Julia Roberts». Luca Spaghetti dice que para hacer un viaje «a la Roberts», hay que hacerlo «alla grande» con él, pues es él el que le enseñó Roma a Elizabeth Gilbert, quien ocho años antes llegara, al igual que Aimée, con el corazón partido para reencontrarse a sí misma. Aimée se descubre «a la Roberts», pero encuentra que detrás del abandono de Carlo se esconde algo que ella está dispuesta a descubrir para ofrecernos un final inesperado.",
+	"contributor": null,
+	"date": "2016-07-26T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 295434,
+	"unique_words": 19832,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6847295259771864,
+		"slope": 0.6542427366209244,
+		"std_error_intercept": 0.08813379744190772,
+		"std_error_slope": 0.0076127874157217905
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e57f350612971243b6dc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aimee Carson/Cita perfecta (61413)/Cita perfecta - Aimee Carson.epub",
+	"creator": "Aimee Carson",
+	"title": "Cita perfecta",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "¿Sería un enfrentamiento con final feliz? En un rincón del cuadrilátero, representando a los hombres, está Cutter Thompson, el ex piloto más sexy de Miami. Él cree que los hechos hablan más que las palabras. Participar como famoso en un concurso de coqueteo en el que cada mensaje es analizado con lupa supone la peor de las pesadillas para él. Agitando la bandera de las chicas está Jessica Wilson. Tras su divorcio ha logrado reconstruir su vida y ha creado una empresa de contactos con la premisa de que la comunicación es la clave de la felicidad. Tal vez Cutter piense que no necesite ayuda para coquetear con éxito, pero el radar profesional de Jessica indica otra cosa. Esta batalla de sexos se ve complicada por una intensa y profunda atracción.",
+	"contributor": null,
+	"date": "2011-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 52936,
+	"unique_words": 7424,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.890547149691273,
+		"slope": 0.6474503027162078,
+		"std_error_intercept": 0.0782131956846162,
+		"std_error_slope": 0.007745688398915416
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e585350612971243b6dd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aimee Carter/Aprendiz de diosa (20906)/Aprendiz de diosa - Aimee Carter.epub",
+	"creator": "Aimée Carter",
+	"title": "Aprendiz de diosa",
+	"subject": "Fantástico",
+	"publisher": null,
+	"identifier": "d459f4c1-abd7-459d-a3d6-8d9251d005a7",
+	"description": "Todas las chicas que habían hecho la prueba habían muerto. Ahora es el turno de Kate.Kate siempre había vivido sola con su madre, y esta se estaba muriendo. ¿Su último deseo? Regresar al lugar donde había pasado su infancia. Así que Kate iba a empezar el curso en un instituto nuevo, sin amigos, sin familia y con el temor a que su madre muriera antes de que acabara el otoño. Entonces conoció a Henry.Misterioso, atormentado. Y fascinante. Aseguraba ser Hades, el dios del Inframundo y, si Kate aceptaba el trato que le ofrecía, mantendría a su madre con vida mientras ella intentaba superar siete pruebas. Kate pensó que estaba loco… hasta que lo vio resucitar a una chica. De pronto, salvar a su madre le pareció posible. Y si superaba las pruebas, se convertiría en la esposa de Henry. En una diosa inmortal...",
+	"contributor": "Victoria E. Horrillo Ledesma",
+	"date": "2014-11-15T13:27:05",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 93462,
+	"unique_words": 9683,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9502685154620785,
+		"slope": 0.6320912544403458,
+		"std_error_intercept": 0.02935290675332642,
+		"std_error_slope": 0.002777240348646162
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e58f350612971243b6de"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aimee Molloy/La madre perfecta (78192)/La madre perfecta - Aimee Molloy.epub",
+	"creator": "Aimee Molloy",
+	"title": "La madre perfecta",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Se hacen llamar las madres de mayo, porque es el mes en el que nacieron sus hijos. Desde entonces, se han reunido dos veces por semana en el Prospect Park de Brooklyn para compartir experiencias y preocupaciones sobre sus recién nacidos. Una noche deciden salir un poco de la rutina, alejarse por unas horas de su estrenado papel de madres responsables y salir de copas, reírse un rato, pasarlo bien. Pero algo se tuerce irremisiblemente cuando Midas, el hijo de Winnie, desaparece mientras duerme sin que la canguro sepa dar explicación alguna y sin dejar rastro. ¿Qué peor pesadilla puede existir para una madre que no saber dónde está su hijo de apenas seis semanas? Lo que sigue es una carrera contrareloj para encontrar a Midas en la que todas las madres del grupo tendrán que decidir cuánto están dispuestas a arriesgar para dar con el pequeño, aunque eso signifique exponer sus secretos, desafiar sus miedos, poner a prueba las vidas que tan cuidadosamente han construido e incluso cuestionarse a sí mismas.",
+	"contributor": null,
+	"date": "2018-06-13T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 114379,
+	"unique_words": 11467,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0561664542828852,
+		"slope": 0.6281364817828794,
+		"std_error_intercept": 0.07532229214763707,
+		"std_error_slope": 0.007012177351256819
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e592350612971243b6df"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aina Castillo/Amo oscuro_ Sumisa entregada al senor del crimen (82779)/Amo oscuro_ Sumisa entregada al senor del - Aina Castillo.epub",
+	"creator": "Aina Castillo",
+	"title": "Amo oscuro: Sumisa entregada al señor del crimen",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Evan Morrow es un auténtico monstruo. El peor hombre que he conocido nunca. Sádico, insensible, dominante y letal. Y maneja su mafia con puño de hierro. Yo era su próxima víctima. Muerta de miedo. Ya tenía las cadenas en las muñecas. El collar en el cuello. Y ninguna esperanza. Era el fin de mi vida. Secuestrada. Esclava. Y entonces vi sus zapatos de cuero negro. Su traje a medida. Sus hombros anchos. Y sus ojos de un frío hielo, devorándome. Ladró a sus hombres y me liberaron. Me subieron a su coche. Me llevaron a su mansión. Y me encerraron en un cuarto. Una jaula con sábanas de seda. Morrow apareció al día siguiente. Me dio dos opciones. Sin más. Podía irme, recuperar mi vida, y olvidarlo todo. O podía quedarme. Ahí. Con él. Morrow era un monstruo sin conciencia. Y vio en mi su última oportunidad. La única capaz de redimirle. Elegí quedarme.",
+	"contributor": null,
+	"date": "2018-07-14T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 30457,
+	"unique_words": 5251,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9220878315351817,
+		"slope": 0.6403959360809192,
+		"std_error_intercept": 0.10220546774508103,
+		"std_error_slope": 0.010574705213848127
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e595350612971243b6e0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aina Castillo/Eres solo una esclava_ Reina (82735)/Eres solo una esclava_ Reina - Aina Castillo.epub",
+	"creator": "Aina Castillo",
+	"title": "Eres sólo una esclava: Reina",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "«Romance Oscuro Sometida por el Alfa» Louise Walker era una Reina. La Alfa al mando de una ciudad. Al cargo de su corte de Betas. Y la masa obrera de Omegas. Hasta que llegué a destronarla. Con mis propias manos. Un alfa de verdad. Yo. “Goliath”. Porque esa z*rra nos ha engañado… Ella era una Omega. Por nacimiento. Por habilidad. Por naturaleza. Por derecho, puedo reclamar la ciudad. Y de paso, enseñarle cuál es su sitio. Voy a poner a Walker de rodillas. A mis pies. Y voy a adiestrarla. Su vida ya no es la de una Reina. Es la de mi Omega particular. Mi Sumisa. Mi Juguete. Mi Esclava. Pero ella es, por naturaleza, una Omega. Abrazará con gusto su destino… … y reinará a mis pies. A mi lado. Juntos.",
+	"contributor": null,
+	"date": "2018-11-21T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 30178,
+	"unique_words": 5036,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8135908090959527,
+		"slope": 0.6475234597592625,
+		"std_error_intercept": 0.09824945499901076,
+		"std_error_slope": 0.010172701287587939
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5a3350612971243b6e1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aina S. Erice/La invencion del reino vegetal (63387)/La invencion del reino vegetal - Aina S. Erice.epub",
+	"creator": "Aina S. Erice",
+	"title": "La invención del reino vegetal",
+	"subject": "Ciencias naturales",
+	"publisher": null,
+	"description": "Los hombres le damos un uso práctico a los vegetales desde hace miles de años. Nos sirven de alimento y de medicina, los usamos en la construcción y en los tejidos… Pero estamos ligados a ellos a niveles más profundos. La primera gran revolución que vivimos —la cultural— se produjo cuando plantamos el primer grano de maíz; y hemos sabido crear belleza a través de los jardines. Al mismo tiempo, hemos sido testimonios de luchas de poder originadas por flores. Sin olvidar la dimensión religiosa que ciertas culturas han encontrado en árboles, plantas y flores. De la mano de José Antonio Marina, Aina S. Erice, se adentra en nuestra relación con el mundo vegetal, y nos regala un libro único. Nos desvela misterios de la historia, compara la mentalidad de distintas civilizaciones y, cuando hace falta, nos deslumbra con datos científicos. Un canto a la naturaleza marcado por la sabiduría y el respeto.",
+	"contributor": null,
+	"date": "2015-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 152248,
+	"unique_words": 21274,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1552303776311663,
+		"slope": 0.7363816632829734,
+		"std_error_intercept": 0.08448021746707324,
+		"std_error_slope": 0.007687295071249952
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5ad350612971243b6e2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aingeru Epaltza/Casta de bastardos (57480)/Casta de bastardos - Aingeru Epaltza.epub",
+	"creator": "Aingeru Epaltza",
+	"title": "Casta de bastardos",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Siglo XVI, Navarra se desangra: las luchas intestinas, la conquista castellana, los intentos de reunificar el reino, las guerras religiosas… En mitad de todo ello pervive a duras penas la saga de los Mailu; concebidos con sangre de reyes, descendientes de los Albret y de los Borbón y, pese a ello, por dos veces bastardos, su destino los convertirá en defensores del reino… aunque no siempre sepan qué defienden.Casta de bastardos es la primera novela de la trilogía «El Reino y la Fe», que aúna la grandeza épica del relato histórico con la fina ironía del observador contemporáneo, un Aingeru Epaltza que entrelaza con maestría la fidelidad a los hechos históricos y un relato de ficción apasionante que captura la atención del lector hasta su sorprendente final.",
+	"contributor": "Ángel Erro Jiménez",
+	"date": "2006-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 106330,
+	"unique_words": 13560,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6410038216061995,
+		"slope": 0.6815881343331162,
+		"std_error_intercept": 0.06103686859121831,
+		"std_error_slope": 0.0057156075059701435
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5ba350612971243b6e3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aingeru Epaltza/Nuestra Jerusalen perdida (70569)/Nuestra Jerusalen perdida - Aingeru Epaltza.epub",
+	"creator": "Aingeru Epaltza",
+	"title": "Nuestra Jerusalén perdida",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Pamplona, la capital perdida. Es esta ciudad, cuya reconquista ha soñado mil veces desde que era niño, el lugar donde pasea sus emocionados ojos un maduro Joanes Mailu. No ha llegado a ella por propia iniciativa, sino enviado por el rey, Enrique de Navarra. Su misión, alzar a los habitantes del reino perdido contra el conquistador castellano. Las perspectivas parecen buenas, pero la realidad se parece poco a lo que le han contado.La última entrega de la trilogía «El Reino y la Fe» de Aingeru Epaltza se presenta llena de aventuras: sangrientas batallas y apasionados amores, salas palaciegas e infectas mazmorras, venganzas y traiciones, conspiraciones y sabotajes que nos llevan desde Lapurdi hasta el Mediterráneo, y de aquí a París, pasando por Gipuzkoa, Bretaña y, sobre todo, la capital navarra, la gran protagonista de esta historia. Junto a la aventura, un halo de melancolía empapa toda la trama. Joanes Mailu envejece vapuleado por todos mientras se va percatando de su absoluta soledad. Hay también una reivindicación de la narración a través de Axular, quien, en un guiño a los actuales lectores, ejerce de rival y al mismo tiempo de admirador de Mailu.",
+	"contributor": "Ángel Erro Jiménez",
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 149465,
+	"unique_words": 17554,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6700209982971637,
+		"slope": 0.6808819836807862,
+		"std_error_intercept": 0.06608590170853358,
+		"std_error_slope": 0.006022323686434303
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5c5350612971243b6e4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aingeru Epaltza/Yo, que fui rey de Navarra (57481)/Yo, que fui rey de Navarra - Aingeru Epaltza.epub",
+	"creator": "Aingeru Epaltza",
+	"title": "Yo, que fui rey de Navarra",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "París y la suntuosa corte del rey francés son escenario de los mayores excesos y de las más sutiles intrigas: las fintas diplomáticas y las luchas a espada a pie de calle, los enrevesados juegos de cama o el sinuoso uso del veneno. Enrique, príncipe de Navarra y jefe de los hugonotes, parte a la grandiosa capital para desposar a Margarita de Valois, hermanísima del católico rey de Francia. Se acompaña por Joanes Mailu, el más fiel de sus servidores y, aunque doblemente bastardo, sangre de su sangre. Sin buscarlo, Joanes se verá envuelto en las argucias de una corte extranjera en la que tendrá que aprender a sobrevivir a base de ingenio y astucia. Entre medio, la sangrienta noche de San Bartolomé y de fondo, la eterna lucha de poder. Yo que fui rey de Navarra es la excelente continuación de Casta de bastardos, dentro de la serie «El Reino y la Fe», la ambiciosa trilogía iniciada por Aingeru Epaltza y que recrea con talento sin par unos hechos históricos que todavía hoy continúan siendo fascinantes.",
+	"contributor": "Ángel Erro",
+	"date": "2009-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 119612,
+	"unique_words": 14485,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.36626939604661,
+		"slope": 0.7041621976811276,
+		"std_error_intercept": 0.06263938007668815,
+		"std_error_slope": 0.0058106292682852485
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5c8350612971243b6e5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ainhara Silva Ruiz/Vivir no es sobrevivir (78697)/Vivir no es sobrevivir - Ainhara Silva Ruiz.epub",
+	"creator": "Ainhara Silva Ruiz",
+	"title": "Vivir no es sobrevivir",
+	"subject": "Divulgación",
+	"rights": "Donbuk Editorial",
+	"publisher": null,
+	"description": "¿Alguna vez has regresado al pasado para encontrar respuestas a tu presente? Todo aquello que fuiste ha ido moldeando la realidad que hoy conoces. El porqué de tus respuestas, las decisiones que tomas, el modo de liberar tus emociones; quizás estas sean incógnitas posibles de despejar. ¿Me acompañas en este viaje para analizar todo aquello que me condujo a la anorexia años atrás? Esa sensación tan común de completo descontrol y exceso de dudas me ha movido a rebuscar en cada hueco de mi mente, y gracias a ello he perdido parte de mi miedo. Con mi historia te invitaré a entender el mundo desde mis ojos, e intentaré que comprendas que nunca es tarde para aprender a vivir un poquito mejor.",
+	"contributor": null,
+	"date": "2017-07-25T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 44046,
+	"unique_words": 5816,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.148929996334246,
+		"slope": 0.6108075132205836,
+		"std_error_intercept": 0.09679582378513318,
+		"std_error_slope": 0.009727682847149106
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5ca350612971243b6e6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ainhoa Boix/Valencia de cerca 2a Ed_ (51369)/Valencia de cerca 2a Ed_ - Ainhoa Boix.epub",
+	"creator": "Ainhoa Boix",
+	"title": "Valencia de cerca 2ª Ed.",
+	"subject": "Referencia",
+	"rights": "© Editorial Planeta",
+	"publisher": null,
+	"description": "Bienvenidos a Valencia Valencia es algo más que paella, horchata y Fallas. Esta ciudad se está reivindicando y lo hace con sus mayores tesoros: su arquitectura, su gastronomía y su gente. Aquí, construcciones góticas y modernistas comparten protagonismo con edificios ultramodernos, y los platos tradicionales lo hacen con propuestas culinarias de autor. Y sus ciudadanos, como antaño, gustan de la tertulia y de las celebraciones compartidas.",
+	"contributor": null,
+	"date": "2014-03-10T23:00:00+00:00",
+	"original_language": "es"
+},
+{
+	"_id": {
+		"$oid": "5ed3e5d2350612971243b6e7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ainhoa Campos Posada/Breve historia de la Belle Epoque (80924)/Breve historia de la Belle Epoque - Ainhoa Campos Posada.epub",
+	"creator": "Ainhoa Campos Posada",
+	"title": "Breve historia de la Belle Époque",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "El final del siglo XIX es una de esas épocas que te dejan sin aliento. Así se sintieron las personas que vivieron la Belle Époque. Entre 1890 y 1914 asistieron al profundo y rotundo cambio económico, social y político que transformó Occidente y que trajo consigo la modernidad.Breve historia de la Belle Époque nos transporta a una realidad muy similar a la nuestra, en la que las personas sienten el vértigo del cambio y nadie queda indiferente. En la que las ideas políticas avivan la llama. En la que los jóvenes se convierten en protagonistas de su tiempo. Y en la que el avance científico proyecta sus luces y sus sombras en la vida de las personas.La vida cotidiana, los hábitos y costumbres de los protagonistas de la etapa y los cambios que experimentaron son los protagonistas de esta obra, que tampoco pierde de vista los fenómenos políticos nacionales e internacionales que caracterizaron la Belle Époque.",
+	"contributor": null,
+	"date": "2017-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 91110,
+	"unique_words": 13730,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2285929301690153,
+		"slope": 0.7266502417233142,
+		"std_error_intercept": 0.07970468776230914,
+		"std_error_slope": 0.007556789651237647
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5d2350612971243b6e8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ainhoa Escarti/La muchacha de la ventana (17607)/La muchacha de la ventana - Ainhoa Escarti.epub",
+	"creator": "Ainhoa Escarti",
+	"title": "La muchacha de la ventana",
+	"subject": "Juvenil",
+	"publisher": null,
+	"description": "'El la miró, ella simplemente estaba asomada' La casualidad hizo que la viera. La obsesión que quisiera conocerla. Y la realidad... es todo lo que queda por leer.",
+	"contributor": null,
+	"date": "2010-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 8288,
+	"unique_words": 1992
+},
+{
+	"_id": {
+		"$oid": "5ed3e5d6350612971243b6e9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ainhoa Rebolledo/Tricot (46240)/Tricot - Ainhoa Rebolledo.epub",
+	"creator": "Ainhoa Rebolledo",
+	"title": "Tricot",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Unas chicas desencantadas se reúnen para aprender a tricotar y asi calmar su angustia. sin comerlo ni beberlo terminan fundando en Barcelona un club de tertulia literaria y calceta creativa: las Tejedoras del Metal. Sin embargo, en un ajuste de cuentas, Leopoldina Roble, Crisis Carballo y Elena Rebollo deciden fundar La Liga de las Mujeres Extraordinarias con el único y ambicioso plan de sobrevivir con elegancia. Tricot es la historia de su fracaso.",
+	"contributor": null,
+	"date": "2012-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 43457,
+	"unique_words": 7859,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4909229142074008,
+		"slope": 0.7008135776619671,
+		"std_error_intercept": 0.09937929392354329,
+		"std_error_slope": 0.009997941404932799
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5d8350612971243b6ea"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Airiel Marcelo Gastaldi/Amores de un corsario_ El corsario de la rosa (61455)/Amores de un corsario_ El corsario de la r - Airiel Marcelo Gastaldi.epub",
+	"creator": "Airiel Marcelo Gastaldi",
+	"title": "Amores de un corsario: El corsario de la rosa",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "En el siglo XVII las rutas marítimas que unían el viejo continente con las Américas estaban en constante amenaza por corsos o piratas de toda estirpe, asaltado o saqueando todo aquello que llevara oro y riquezas en sus bodegas provenientes de las costas americanas. Las grandes dificultades de la vida en Europa, hizo que deslumbrados por las riquezas de América, muchos europeos emprendieran un viaje a aquellas lejanas tierras buscando enriquecerse.\nAmores de un corsario. Dos amores, la aventura del altamar o el amor de una joven que conquisto su corazón",
+	"contributor": null,
+	"date": "2016-04-24T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 17250,
+	"unique_words": 4124,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2069554646538698,
+		"slope": 0.7291017884051281,
+		"std_error_intercept": 0.08283524629526193,
+		"std_error_slope": 0.00895027981646354
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5e3350612971243b6eb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aitor Anduaga Egana/Scientia in Vasconia (80148)/Scientia in Vasconia - Aitor Anduaga Egana.epub",
+	"creator": "Aitor Anduaga Egaña",
+	"title": "Scientia in Vasconia",
+	"subject": "Ensayo",
+	"rights": "All rights reserved",
+	"publisher": null,
+	"description": "Scientia in Vasconia es un libro inusual, único, en la bibliografía vasca. Recopila alfabéticamente las biografías de ochenta científicos e ingenieros vascos que, entre los siglos XVI-XX, contribuyeron activamente a los avances de su época. La tecnología y la ciencia han constituido y constituyen un ingrediente básico de la sociedad vasca de ayer y hoy. Sin embargo, y paradójicamente, la historia de la ciencia y de la tecnología ha sido especialmente maltratada y ha estado expuesta al desinterés y al desconocimiento general. Son pocos los científicos e ingenieros que, pese a sus grandes logros, han conseguido superar la barrera del silencio y del olvido. Marinos, militares, hacendados, sabios incomprendidos, matemáticos personalidades muy diversas que realizaron aportaciones de indiscutible valor. Scientia in Vasconia viene a cubrir un hueco en la historia de la actividad científico-técnica vasca. Este ensayo biográfico, escrito en tono ameno y con carácter divulgativo por el historiador Aitor Anduaga, tiene por objeto identificar, seleccionar y estudiar a personalidades vascas comprometidas con la innovación y la modernización.",
+	"contributor": null,
+	"date": "2014-05-04T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 132389,
+	"unique_words": 15493,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.750512595571438,
+		"slope": 0.6737005627437308,
+		"std_error_intercept": 0.15745433631654027,
+		"std_error_slope": 0.014487970254907731
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5e5350612971243b6ec"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aitor Bertomeu/Azul (72742)/Azul - Aitor Bertomeu.epub",
+	"creator": "Aitor Bertomeu",
+	"title": "Azul",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Lucía tiene una vida corriente, con un novio normal y un trabajo rutinario… Pero Azul tiene otros planes para ella. Su procedencia es un misterio, sus reglas muy distintas, y su llegada lo pone todo patas arriba. A través de un extraño cortejo, Lucía verá convertida su apacible existencia en un caos tan emocional como irreal. Por lo menos, el chico es guapo. ¿Quién es Azul? ¿De dónde viene? ¿Qué pretende? ¿Por qué es tan difícil resistirse? Y, sobre todo, ¿quieres hacerlo? Un relato fantástico, humorístico, paranoico, algo romántico y bastante erótico. Ven y sucumbe a tus sueños. Mmm, oh, sí… Este relato independiente es uno de los cinco que conforman 'Trancemónium: Cuentos lunáticos'. Si te ha gustado, ¡prueba a leer los otros! Aún quedan muchos misterios por descubrir...",
+	"contributor": null,
+	"date": "2018-01-06T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 19589,
+	"unique_words": 4236,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0291620402743922,
+		"slope": 0.7414039039235041,
+		"std_error_intercept": 0.07817326090488391,
+		"std_error_slope": 0.008366716171507308
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5f4350612971243b6ed"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aitor Hernandez Franco/Ku Klux Klan (82968)/Ku Klux Klan - Aitor Hernandez Franco.epub",
+	"creator": "Aitor Hernández Franco",
+	"title": "Ku Klux Klan",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "El brazo armado del Partido Demócrata\nHay historias que comienzan como la Bella Durmiente y acaban como el monstruo de Frankenstein. Una de ellas es la que se desarrolló en los Estados Unidos entre 1864 y 1877, entre la aprobación de la 13ª Enmienda, que abolía la esclavitud en todo el territorio nacional, y la traición de un gobierno y un país que va a permitir la imposición de un nuevo sistema servil en los mismos estados en los que había sido abolido pocos años antes. En medio se alza una de las épocas más complicadas de la historia de los Estados Unidos. Y uno de sus mayores tabúes. Porque es la historia de cómo el Partido Demócrata, el histórico defensor de la esclavitud y de la supremacía blanca durante la primera mitad del siglo XIX, va a encabezar una sangrienta contrarrevolución para recuperar el poder perdido en una guerra civil que ellos mismos han provocado. Un statu quo amenazado por el ala radical del Partido Republicano que desde el Congreso federal está decidido a aprobar y hacer cumplir leyes que aseguren la igualdad ante la ley de blancos y negros liquidando desde la base el antiguo régimen sureño. Pero la mayor parte de los nativos blancos del Sur no desean compartir el poder con sus antiguos esclavos, a los que no reconocen ni derechos ni inteligencia, sólo saben que mientras los afroamericanos voten masivamente al Partido Republicano sus esperanzas de acabar con la revolución en marcha son escasas. La violencia será la respuesta. El Ku Klux Klan se convierte así en el más conocido brazo paramilitar del Partido Demócrata en los antiguos estados confederados.",
+	"contributor": null,
+	"date": "2017-07-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 158441,
+	"unique_words": 24969,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2454214202737506,
+		"slope": 0.7424485173479971,
+		"std_error_intercept": 0.07369283474838378,
+		"std_error_slope": 0.006684456006597605
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e5ff350612971243b6ee"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aitor Martin/Tras la cortina (81474)/Tras la cortina - Aitor Martin.epub",
+	"creator": "Aitor Martín",
+	"title": "Tras la cortina",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Biel Montañana, un periodista, ahora dueño de una librería, y su empleado, Juan Eduardo Acosta, ambos amantes del misterio, se interesan por el asesinato de un famoso empresario al que han ejecutado con un estilete de oro. Gracias a su curiosidad, descubren que otro empresario español fue ajusticiado meses atrás con el mismo procedimiento en Boston. Biel denuncia el hallazgo ante una conocida del pasado, la inspectora Carla Sandemetrio, con la que mantuvo un noviazgo en la universidad. Los libreros y Carla pronto averiguan que las víctimas están relacionadas entre sí, y se lanzan a un arriesgado periplo que los lleva a indagar en las calles de Madrid y en las localidades de La Velilla, Tapia de Casariego y Salduero. Así, se internan en una tenebrosa trama, hasta dar con la organización IT5, uno de los baluartes de Occidente. Inmersos en la investigación, se adentran tras la cortina que oculta el mundo artificial en el que viven, en el salvaje reverso de la civilización.",
+	"contributor": null,
+	"date": "2018-10-22T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 140142,
+	"unique_words": 18113,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.557241194769834,
+		"slope": 0.6976124357082734,
+		"std_error_intercept": 0.05861393358999294,
+		"std_error_slope": 0.005368878443125074
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e604350612971243b6ef"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aitor Zarate/La trampa del oso (34154)/La trampa del oso - Aitor Zarate.epub",
+	"creator": "Aitor Zárate",
+	"title": "La trampa del oso",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Tras haber perdido su empresa por una triquiñuela legal de sus socios, el joven empresario Stefano Catenei busca la ayuda de un conseguidor, un experto en ingeniería financiera que, sin salirse de la ley, consigue que el protagonista recupere su dinero y se vengue de los traidores. La trampa del oso es un thriller actual que ofrece una lección sobre el mundo de las finanzas, un laberinto donde nada es lo que parece y casi cualquier cosa es posible.",
+	"contributor": null,
+	"date": "2014-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 61535,
+	"unique_words": 8369,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6841051799422484,
+		"slope": 0.6684430210594481,
+		"std_error_intercept": 0.06184332431738982,
+		"std_error_slope": 0.006051142252296133
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e608350612971243b6f0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aixa de la Cruz/De musica ligera (36539)/De musica ligera - Aixa de la Cruz.epub",
+	"creator": "Aixa de la Cruz",
+	"title": "De música ligera",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Un encuentro fortuito. Una charla que se anima al calor de la cerveza. Los mapas de dos vidas se despliegan. ¿Se vislumbra un romance?Madrid. Cualquier pub irlandés. Cerveza y cerveza. De fondo suena el contradictorio imaginario musical de dos generaciones. Él es profesor de piano. Cuarentón. Escapó del autismo gracias a la música. Ella es una de sus ex alumnas. Veinteañera. Acaba de firmar una hipoteca con un rockero de tercera.",
+	"contributor": null,
+	"date": "2009-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 65423,
+	"unique_words": 11061,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4133465746267566,
+		"slope": 0.7143745000756968,
+		"std_error_intercept": 0.05691715245716202,
+		"std_error_slope": 0.005541815640554218
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e609350612971243b6f1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ajahn Sumedho/Las cuatro nobles verdades (52090)/Las cuatro nobles verdades - Ajahn Sumedho.epub",
+	"creator": "Ajahn Sumedho",
+	"title": "Las cuatro nobles verdades",
+	"subject": "Espiritualidad",
+	"publisher": null,
+	"description": "Este libro fue recopilado y editado a partir de charlas ofrecidas por el Venerable Ajahn Sumedho sobre la enseñanza central de Buda: que la infelicidad de la humanidad puede ser superada a través de medios espirituales.La enseñanza fue trasmitida por medio de las Cuatro Nobles Verdades, expuesta por primera vez en el año 528 a. C. en el parque de los venados en Sarnath, cerca de Varanasi y mantenida viva en el mundo budista desde entonces.",
+	"contributor": "Pablo Catalán Fernández & Hugo Vega",
+	"date": "1992-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 24858,
+	"unique_words": 3871,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3723351238675854,
+		"slope": 0.6823395242719967,
+		"std_error_intercept": 0.1131407944317535,
+		"std_error_slope": 0.011891902216623574
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e60e350612971243b6f2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Akahige Namban/Los placeres del samurai (68992)/Los placeres del samurai - Akahige Namban.epub",
+	"creator": "Akahige Namban",
+	"title": "Los placeres del samurai",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "El barco en que viaja Rosamund, una joven e inocente monja inglesa, naufraga frente a las costas de Japón. Corre el siglo XVII. El samurai Jiro, la bailarina Okiku y el médico nómada Goemon inician a Rosamund en los más refinados placeres sexuales, y emprenden junto con ella un viaje que los lleva por monasterios budistas, castillos feudales y guaridas de bandidos. En cada uno de esos lugares se celebran orgías descomunales, que harían palidecer de envidia a los más licenciosos gozadores occidentales. «El equivalente erótico de Shogun».",
+	"contributor": "Pomertext",
+	"date": "1989-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 77057,
+	"unique_words": 9944,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6121051370397392,
+		"slope": 0.6767002527663867,
+		"std_error_intercept": 0.05259675906007321,
+		"std_error_slope": 0.005054243105540504
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e615350612971243b6f3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Ake Edwardson/Bailar con un angel (65269)/Bailar con un angel - Ake Edwardson.epub",
+	"creator": "Åke Edwardson",
+	"title": "Bailar con un ángel",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Lassucesivas apariciones de cadáveres de jóvenes, en residencias de estudiantes deLondres y Gotemburgo, reúnen en la investigación a dos policías atípicos: elsueco Erik Winter, que viste Armani y camisas compradas en Jermyn Street, yadora a John Coltrane, el fútbol y los puros, y su colega londinense SteveMcDonald, rockero con coleta y gafas oscuras que no se separa de su cazadora decuero. ¿Qué lleva a alguien a practicar la tortura dejando en el suelo losrastros de lo que parece un baile macabro sobre la sangre de las víctimas? ¿Esposible que tales escenas estén siendo filmadas para nutrir de películas snuff el insaciable mercado pornográfico? Bailarcon un ángel, novela negra de intriga psicológica y llena de suspense, abordael tema de la degradación de las grandes urbes y su influencia sobre eldesasosiego y la alienación, sobre la violencia y el crimen. Con esta primeranovela de la serie del comisario Winter, Åke Edwardson recibió el premio de laAcademia Sueca de Novela Negra y logró en su país un éxito inmediato,corroborado luego por los siguientes títulos. «Una de las mejoreshistorias de detectives que he leído» (J. Mártenson, Sydsvenska Dagbladet). «Unalectura que incluso en un día de verano verdaderamente caluroso me provocaescalofríos en la columna…» (H. Avellan, Hufvudstadsbladet).«¡Una historia detectivesca verdaderamente buena! ¡Léala!» (K. Ove Cederqvist,DagbladetSundsvall). «Vibración desde el principio al final» (M. Bengtsson, Vadstena Tidning). «Entre losautores que han renovado el género de la novela negra, por la profundidad desus análisis de individuos complejos y de la sociedad, y por su investigaciónde causas y efectos, Edwardson es un nombre reconocido. Así que asegúrese deque recuerda su nombre» (G. Andersson, Jönköpings-Posten).«Sentido del matiz, buen gusto, escenas de la vida y diálogos excelentes…» (B.Hedén, Helsingborgs Dagblad).«Las historias de Edwardson provocan reflexiones que le llevarán mucho más alláde su trama. Leer su prosa es un auténtico deleite» (E. Johansson, Västerviks-Tidningen).",
+	"contributor": "Cristina Cerezo Silva & Martin Lexell",
+	"date": "1997-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 130365,
+	"unique_words": 12950,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7397469644570953,
+		"slope": 0.656820034356207,
+		"std_error_intercept": 0.025277984212111696,
+		"std_error_slope": 0.0023287867681672614
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e619350612971243b6f4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Akhil Sharma/Vida de familia (62519)/Vida de familia - Akhil Sharma.epub",
+	"creator": "Akhil Sharma",
+	"title": "Vida de familia",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Ajay Mishra tiene ocho años cuando, a finales de la década de los setenta, él, su hermano mayor y sus padres dejan Delhi para instalarse en Queens, Nueva York, porque a su padre le han ofrecido un trabajo.El aterrizaje de esta familia india de clase media en el paraíso del consumo y los canales de televisión que emiten las veinticuatro horas les genera un choque cultural que sus miembros digieren en el empeño de adaptarse a su nuevo país. Tienen grandes esperanzas puestas en el hijo mayor, cuyas excelentes notas le van a permitir estudiar en un prestigioso instituto. Pero un accidente en una piscina que le deja graves secuelas cambia radicalmente el destino de los Mishra y sobre todo el del joven Ajay, a través de cuyos ojos se relata la historia. El paraíso muestra entonces su cara menos grata, el acoso al diferente en la escuela, la presión económica, la incomprensión del entorno..., y la familia está a punto de desmoronarse.El padre deberá afrontar su alcoholismo, la madre tendrá que plantearse aceptar un trabajo por debajo de su cualificación y Ajay soportar la presión de ser tan brillante en los estudios como su hermano. Para él la literatura se acabará convirtiendo en un refugio y en un instrumento para entender y explicar la realidad.Con dramatismo, pero también con humor, esta intensa novela habla del amor y el dolor, de la lucha por abrirse camino en un entorno nuevo y por vencer la adversidad.",
+	"contributor": "Jaime Zulaika",
+	"date": "2014-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 58318,
+	"unique_words": 8784,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6812428593164688,
+		"slope": 0.6742649627663396,
+		"std_error_intercept": 0.029827944581209485,
+		"std_error_slope": 0.0029311341340602075
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e619350612971243b6f5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Akhnaton Ibanez/Cartas desde el Sahara (34222)/Cartas desde el Sahara - Akhnaton Ibanez.epub",
+	"creator": "Akhnatón Ibáñez",
+	"title": "Cartas desde el Sahara",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Cartas desde el Sahara 1975 es un breve relato sobre la pérdida del Sahara Español, la traición, la huida y la dignidad en la adversidad. Un texto emocionante que atrapa de principio a fin. 5 de noviembre de 1975, la invasión del Sahara Español por parte de Marruecos está a punto de comenzar. Esa noche un soldado español de las Tropas Nómadas monta la última guardia del puesto fronterizo de Mahbes. Esto será el comienzo de una huida hacia delante que lo guiara a través del desierto, de la invasión, de lealtades cruzadas y de la dignidad mientras que el mundo que conoce se desmorona a su alrededor. Es una visión en cercana y humana de la guerra, lejos de la gloria y los grandes discursos, donde héroes humildes luchan, sangran, aman o mueren olvidados por la historia. Es Eneas dejando Troya ardiendo a su espalda y es Héctor retando al Destino con las manos ensangrentadas. Las mismas personas y las mismas batallas en otros lugares y en otros tiempos.",
+	"contributor": null,
+	"date": "2013-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 8305,
+	"unique_words": 2291
+},
+{
+	"_id": {
+		"$oid": "5ed3e627350612971243b6f6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aki Shimazaki/El quinteto de Nagasaki (78549)/El quinteto de Nagasaki - Aki Shimazaki.epub",
+	"creator": "Aki Shimazaki",
+	"title": "El quinteto de Nagasaki",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Ganadora del Premio Ringuet de la Academia de las Letras de Quebec, del Premio Literario Canadá-Japón y del Premio Gouverneur-Général. «Las mujeres viven más tiempo que los hombres. Quizá sea mejor así que al revés. […] Los hombres se deprimen con facilidad una vez que pierden a su compañera. Puede que sean más románticos que las mujeres.» Durante toda su vida, Yukiko vivió con un terrible secreto: la mañana del 9 de agosto de 1945, antes de que se lanzara la bomba sobre Nagasaki, ella mató a su padre. En una carta que le deja a su hija después de morir, confiesa el crimen y revela que tiene un hermanastro. Pronto se descubrirá que no es solo Yukiko quien guardaba secretos inconfesables. Las historias personales se entrelazan con los acontecimientos históricos: la Segunda Guerra Mundial en Japón, los conflictos con Corea, el terremoto de 1923. Las generaciones se suceden mientras emerge un retrato lúcido de una sociedad, la japonesa, llena de contradicciones y vinculada a sus tradiciones. En el fondo, la naturaleza, presencia constante y discreta, delicada y elegante como la escritura de Aki Shimazaki: el viento que acaricia una mejilla, las nubes en un sofocante cielo de verano, las luciérnagas volando sobre un arroyo, la hierba azul de Wasurenagusa, las camelias en el bosque de Nagasaki. Frases cortas de una refinada simplicidad, unas veces delicadamente poéticas, otras sensuales, que afrontan dramas privados y universales y a través de las cuales hasta la historia más oscura termina por resolverse con la ligereza que Shimazaki es capaz de infundirle.",
+	"contributor": "Alana Pauls",
+	"date": "2003-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 97662,
+	"unique_words": 9765,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7852417360664772,
+		"slope": 0.6453698992378536,
+		"std_error_intercept": 0.05222331322395239,
+		"std_error_slope": 0.004923755875222786
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e62b350612971243b6f7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aki Shimazaki/Hozuki, la libreria de Mitsuko (72485)/Hozuki, la libreria de Mitsuko - Aki Shimazaki.epub",
+	"creator": "Aki Shimazaki",
+	"title": "Hôzuki, la librería de Mitsuko",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Mitsuko tiene una librería de lance especializada en obras filosóficas. Allí pasa los días serenamente con su madre y Tarô, su hijo sordomudo. Cada viernes por la noche, sin embargo, se convierte en camarera en un bar de alterne de alta gama. Este trabajo le permite asegurarse su independencia económica, y aprecia sus charlas con los intelectuales que frecuentan el establecimiento. Un día, una mujer distinguida entra a la tienda acompañada por su hija pequeña. Los niños se sienten inmediatamente atraídos entre ellos. Ante la insistencia de la señora y por complacer a Tarô, a pesar de que normalmente evita hacer amistades, Mitsuko aceptará volver a verlos. Este encuentro podría poner en peligro el equilibrio de su familia. Aki Shimazaki sondea aquí la naturaleza del amor maternal. Con gran sutileza, cuestiona la fibra y la fuerza de los lazos.",
+	"contributor": null,
+	"date": "2016-02-18T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 25630,
+	"unique_words": 4208,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5272208899978346,
+		"slope": 0.6714572140314303,
+		"std_error_intercept": 0.07962047183995379,
+		"std_error_slope": 0.008348940247850012
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e633350612971243b6f8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Akif Pirincci/Felidae (13244)/Felidae - Akif Pirincci.epub",
+	"creator": "Akif Pirinçci",
+	"title": "Felidae",
+	"subject": "Policial",
+	"publisher": null,
+	"identifier": "27fe8fc5-db31-4d81-ab15-e180e4d499cb",
+	"description": "Francis es nuevo en el barrio. Se ha mudado con su «abrelatas», es decir su dueño, a una casa cuyos extraños ruidos y peculiaridades ambientales le hacen sospechar que allí hay algo que no anda bien. Y cuando, al hacer su primera inspección, tropieza con un miembro de su especie asesinado de manera brutal, no puede impedir que su curiosidad lo impulse a investigar lo sucedido. A partir de ese momento se desenvuelve con velocidad felina una historia de sorpresas y horror que llevará al lector a continuar dando vueltas las páginas para seguir las silenciosas pisadas de un gato empeñado en descubrir la verdad. Sus hallazgos entretejen la trama de una fábula realista e inteligente hecha con ironía y sentido del humor, cuyas resonancias siguen vigentes hoy en día.",
+	"contributor": "Irene Dun de Leal",
+	"date": "2013-10-26T18:56:48",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 106878,
+	"unique_words": 14012,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.814102502972292,
+		"slope": 0.6714458633525794,
+		"std_error_intercept": 0.1647960270585132,
+		"std_error_slope": 0.015425441144220774
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e636350612971243b6f9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Akiles de Castro/El tesoro de Estrasburgo (82867)/El tesoro de Estrasburgo - Akiles de Castro.epub",
+	"creator": "Akiles de Castro",
+	"title": "El tesoro de Estrasburgo",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Eugenio y Helena, cuyas vidas reunían todos los elementos para desarrollar una novela inmortal, vivieron juntos una de las más bellas historias de amor – con un trágico desenlace. Un amor ibérico, un amor prohibido, vivido en medio de guerras, intrigas y luchas de poder en tiempos medievales.",
+	"contributor": null,
+	"date": "2015-09-21T21:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 16306,
+	"unique_words": 3956,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.022143299932372,
+		"slope": 0.7463980044339869,
+		"std_error_intercept": 0.07795948313473042,
+		"std_error_slope": 0.00845858539383535
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e63f350612971243b6fa"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Akinari Ueda/Cuentos de lluvia de primavera (78591)/Cuentos de lluvia de primavera - Akinari Ueda.epub",
+	"creator": "Akinari Ueda",
+	"title": "Cuentos de lluvia de primavera",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "El rencor de una ambiciosa cortesana que trasciende la muerte, un pirata poeta que surca los mares para polemizar con un sabio erudito, unas damas con cara de zorro en un bosque encantado, una geisha de trágico destino y un criminal redimido por la luz de Buda son algunos de los personajes de 'Cuentos de lluvia de primavera' (1808), la última obra de Ueda Akinari, un escritor que iba contracorriente. Los diez relatos que componen 'Cuentos de lluvia de primavera' son precisamente como la lluvia primaveral: sorpresivos e inesperados, pero siempre bien recibidos. Hilados por una aparente falta de estructura, poseen el sello inconfundible de ser testamento de un maestro de las letras comprometido con la cultura de su tiempo. Un viejo escritor casi ciego, que espera la hora final con su taza de té en una mano y su pincel en la otra para dejar ese testimonio sincero y lúcido que solo se alcanza cuando uno tiene la certeza de enfrentar sus últimos días.",
+	"contributor": null,
+	"date": "2013-06-29T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72255,
+	"unique_words": 11389,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1949432905284763,
+		"slope": 0.7309891594911668,
+		"std_error_intercept": 0.1002178321428751,
+		"std_error_slope": 0.009680314552875937
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e645350612971243b6fb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Akiyuki Nosaka/La tumba de las luciernagas - Las algas americanas (6859)/La tumba de las luciernagas - Las algas am - Akiyuki Nosaka.epub",
+	"creator": "Akiyuki Nosaka",
+	"title": "La tumba de las luciérnagas - Las algas americanas",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Este libro, publicado en octubre de 1967, levantó gran expectación al publicarse, y en 1968 ganó el premio Naoki. Con un talento fuera de lo común, complejo y desasosegado, Nosaka esconde en su estilo una mirada que no rehúye los aspectos más sórdidos y crudos de la existencia.En La tumba de las luciérnagas, ambientada al final de la Segunda Guerra Mundial, Seita y Setsuko son hijos de un oficial de la marina japonesa, del que llevan tiempo sin noticias. Un día, durante un bombardeo, no consiguen llegar a tiempo al búnker donde su madre los espera. Cuando después buscan a su madre, la encuentran malherida en la escuela, que ha sido convertida en un hospital de urgencia. Tras la muerte de su madre y una breve estancia en casa de su tía, los niños vagarán sin casa y sin rumbo. Durísimo, despiadado, Nosaka nos deja la huella de la fibra auténtica y sin concesiones.En Las algas americanas, a Toshio, propietario de una modesta agencia de publicidad, su mujer, Kyōko, le anuncia un buen día que pronto van a recibir la visita de un matrimonio de jubilados estadounidenses que ella había conocido en un viaje a Hawái. En Toshio la visita despierta sentimientos encontrados. En el riguroso celo que los japoneses muestran en el desempeño de su papel de anfitriones, interfieren inevitablemente los recuerdos que el protagonista guarda de los años de guerra y aquellos bombardeos «made in USA» que reventaron de manera inmisericorde su primera adolescencia, obligándole, como a todos los japoneses de su generación, a hacerse adulto antes de tiempo. Y, luego, el tiempo de la ocupación estadounidense tras la rendición japonesa, que Nosaka describe sin tapujos ni concesiones, como no podía ser de otro modo tratándose de él, aunque en esta ocasión la tragedia y la crudeza de La tumba de las luciérnagas queda sustituida por una descarnada sátira sobre el humillante proceso de «reeducación» a que se vio sometida la población japonesa en tiempos de paz.",
+	"contributor": "Lourdes Porta",
+	"date": "1967-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 40931,
+	"unique_words": 7232,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0461432004309779,
+		"slope": 0.7400056942655822,
+		"std_error_intercept": 0.06649729155585954,
+		"std_error_slope": 0.00672181793296919
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e64e350612971243b6fc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Al Alvarez/El dios salvaje (55049)/El dios salvaje - Al Alvarez.epub",
+	"creator": "Al Álvarez",
+	"title": "El dios salvaje",
+	"subject": "Ensayo",
+	"rights": "Copyright © Editorial Hueders",
+	"publisher": null,
+	"description": "Ensayo sobre el suicidio\nDespués del suicidio de su admirada amiga, la poeta Sylvia Plath, y como una forma de entender su propia experiencia de suicida frustrado, el ensayista, crítico y poeta Al Alvarez recorre la historia de la autoaniquilación desde Roma hasta el psicoanálisis. Observa el castigo social hacia el suicida y muestra, a través de la literatura, que puede significar muchas cosas: un grito de ayuda desesperado, un rechazo radical del mundo, el mayor acto de libertad, una confesión de fracaso. Alvarez construye un estudio incomparable sobre un tema todavía poco pensado, y sigue el hilo negro para proponer una nueva teoría del arte y sobre todo reflexionar vitalmente sobre las fuerzas oscuras que nos acechan.",
+	"contributor": null,
+	"date": "1977-01-17T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 98634,
+	"unique_words": 15341,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.382935593750444,
+		"slope": 0.7186295228381553,
+		"std_error_intercept": 0.06579738122631518,
+		"std_error_slope": 0.006198627484331881
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e655350612971243b6fd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Al M. Serrato/Los pies descalzos de Laura (61293)/Los pies descalzos de Laura - Al M. Serrato.epub",
+	"creator": "Al M. Serrato",
+	"title": "Los pies descalzos de Laura",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Laura, una profesora de treinta y nueve años madre de una hija de diecinueve, se acaba de divorciar tras veinte años de matrimonio y dos siendo engañada sin saberlo. El mismo día de su divorcio sale con su amiga Marta para olvidar todo y conoce a Alberto, un joven veinte años menos que tiene una fijación por los pies de las mujeres. Con él empezará una salvaje relación basada meramente en el placer y en el sexo, una relación obsesiva, destructiva y en la que ambos se entregaran mutuamente a los deseos del otro en un juego de dominación y sumisión mutuo de consecuencias imprevistas.",
+	"contributor": null,
+	"date": "2015-07-19T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 101363,
+	"unique_words": 10144,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.035733511515805,
+		"slope": 0.6243525570910805,
+		"std_error_intercept": 0.08868268913280013,
+		"std_error_slope": 0.008336281564619028
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e65f350612971243b6fe"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Al-Chahiz/Dos epistolas (75277)/Dos epistolas - Al-Chahiz.epub",
+	"creator": "Al-Cháhiz",
+	"title": "Dos epístolas",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Nacido hacia el año 159/775, es uno de los escritores árabes medievales que merecen ser destacados para el lector culto, no sólo por su fecundidad, que no es un hecho aislado en la literatura árabe, sino por su originalidad, su gusto por el saber y la fuerza de un estilo variado y extremadamente libre. Al-Cháhiz une el sentido común, la observación y el razonamiento a una inteligencia inquieta, una sagacidad penetrante y un espíritu siempre atento. Todo ello hará que no deje ningún campo por investigar, ni ningún tema por cuestionar. Se interesará por todo y escribirá sobre todo: literatura, retórica, etnografía, zoología, teología, etc., y nada ni nadie conseguirá hacerle admitir aquello que su razón rehusa comprender. Una tradición, obviamente espúrea, pretende que la muerte del autor (255/868) se debió a que se le cayeron encima todos los libros que guardaba apilados a su alrededor. Sea como fuera no podría imaginarse un final más adecuado para un hombre que dedicó su vida entera a leer, aprender y escribir.",
+	"contributor": null,
+	"date": "0868-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 147077,
+	"unique_words": 17206,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.59203340738861,
+		"slope": 0.687328979534681,
+		"std_error_intercept": 0.09825968139334396,
+		"std_error_slope": 0.008965747446664224
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e668350612971243b6ff"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Al-Tifasi/Esparcimiento de corazones (58779)/Esparcimiento de corazones - Al-Tifasi.epub",
+	"creator": "Al-Tifasi",
+	"title": "Esparcimiento de corazones",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "«En este libro he reunido diversas referencias y anécdotas así como hechos curiosos y extraordinarios que bien podrían suplantar las conversaciones de las veladas nocturnas y el tañido de los laúdes habida cuenta de la gracia y delicia que llevan dentro. Además, he incluido un sinfín de ejemplos y relatos de los que se pueden extraer, a pesar de lo zafio y burdo de su aspecto, beneficios muy apreciables. En efecto, no habréis de encontrar capítulo alguno del que no podáis deducir enseñanzas dignas y provechosas, recogidas por mí mismo en el occidente y oriente árabes o relatadas por quienes tuvieron ocasión de vivirlas y accedieron gentilmente a contárnoslas. Las noticias aquí expuestas alegran los corazones y embelesan los oídos, reconfortan el espíritu de los desdichados y hacen olvidar las dulces melodías de las esclavas cantoras. Sólo me queda pedirle a Dios que me perdone por los excesos que haya podido cometer mi pluma a lo largo de este libro».Al-Tifasi",
+	"contributor": "Ignacio Gutiérrez de Terán",
+	"date": "1253-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 109756,
+	"unique_words": 15955,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4359853443854809,
+		"slope": 0.7127169202206302,
+		"std_error_intercept": 0.14451371305206123,
+		"std_error_slope": 0.01349815625706094
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e67c350612971243b700"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alaa Al-Aswany/El automovil club de Egipto (79878)/El automovil club de Egipto - Alaa Al-Aswany.epub",
+	"creator": "Alaa Al-Aswany",
+	"title": "El automóvil club de Egipto",
+	"subject": "Drama",
+	"rights": "Penguin Random House Grupo Editorial",
+	"publisher": null,
+	"description": "A finales de los años cuarenta del siglo pasado, los pachás y los miembros de la monarquía coquetean con los diplomáticos y la aristocracia europea bajo las aspas de los ventiladores del Automóvil Club de Egipto. La extravagancia y la magnificencia de sus miembros inunda los lujosos salones y, mientras el despótico rey de Egipto y Sudán honra con su presencia la mesa de póquer, la plantilla de sirvientas y empleados del club vive atemorizada bajo la autoridad inflexible del ayuda de cámara del monarca.Entre los trabajadores se encuentra Abdelassís Hamam, un burgués arruinado del Alto Egipto que llegó a El Cairo con la esperanza de asegurar la educación de sus hijos. Al igual que sus compañeros, ha soportado hasta ahora el despotismo y la injusticia del orden establecido sin ser consciente de que una minoría ha empezado a plantar la semilla de la insurgencia dentro y fuera de las paredes del club. Serán los hijos de Abselassís quienes deberán luchar por su futuro y tomar partido en un país donde la opresión británica tiene los días contados.",
+	"contributor": null,
+	"date": "2015-09-16T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 195931,
+	"unique_words": 17472,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0951919615108627,
+		"slope": 0.6340287221272418,
+		"std_error_intercept": 0.1954727751693469,
+		"std_error_slope": 0.017435301888214686
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e688350612971243b701"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alafair Burke/La caricia del angel (34099)/La caricia del angel - Alafair Burke.epub",
+	"creator": "Alafair Burke",
+	"title": "La caricia del ángel",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "En una ciudad llena de víctimas. . . es difícil elegir sólo una. La joven universitaria Chelsea Hart está muy emocionada de pasar las últimas horas de sus vacaciones de primavera en la sala VIP de un club de élite de Nueva York, tanto es así que se separa de su grupo de amigas cuando éstas deciden regresar al hotel. A la mañana siguiente, mientras sus amigas esperan preocupadas en el vestíbulo del hotel, unos corredores encuentran el cuerpo de Chelsea en el East River Park, con el pelo, rubio y ondulado, brutalmente cortado. La detective Ellie Hatcher se hace cargo del caso y sus principales sospechosos son el grupo de hombres que fue visto por última vez en compañía de la joven bebiendo alcohol. Pero antes de que ella pueda reunir las pruebas preliminares del macabro asesinato, éste llama la atención de los medios de comunicación y aparece en titulares, algo que no gusta al departamento de policía. Cuando Ellie construye el caso, precipitadamente, contra Jake Myer, un joven gerente de fondos de cobertura, los altos mandos del departamento y la oficina del fiscal de distrito están eufóricos: el caso pronto se disipa, los medios de comunicación promocionan el trabajo rápido del departamento, y Ellie será testigo en el juicio contra Myers. Pero Ellie tiene sus dudas. El asesinato de Chelsea es inquietantemente similar a otras tres muertes que ocurrieron hace casi una década: las víctimas eran jóvenes, mujeres y, en cada caso , el asesino había cortado el pelo como recuerdo. La investigación de Ellie la arrastra a un mundo nocturno de los clubes exclusivos, el lujo, y el consumo hedonista. Y su búsqueda de la verdad no sólo la enfrenta a sus compañeros policías, también la coloca bajo la atenta mirada de un psicópata deseoso de añadir a la joven detective a su lista.",
+	"contributor": null,
+	"date": "2008-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "pt",
+	"word_count": 108196,
+	"unique_words": 12394,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1279562762210484,
+		"slope": 0.6302859889923991,
+		"std_error_intercept": 0.07188428399723805,
+		"std_error_slope": 0.006721969773635999
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e68f350612971243b702"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Badiou/El siglo (37319)/El siglo - Alain Badiou.epub",
+	"creator": "Alain Badiou",
+	"title": "El siglo",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "El siglo XX ha sido juzgado y condenado: siglo del terror totalitario, de las ideologías utópicas y criminales, de las ilusiones vacías, de los genocidios, de las falsas vanguardias, de la abstracción como sustituto ubicuo del realismo democrático. No deseo abogar por un acusado que sabe defenderse solo. Tampoco quiero, como Frantz, el héroe de la pieza de Sartre Los secuestrados de Altona, proclamar: «Me eché el siglo al hombro y dije: ¡Responderé por él!». Sólo quiero examinar lo que este siglo maldito, desde el interior de su propio devenir, ha dicho que era. Quiero abrir el legajo del siglo, tal como se constituye en el siglo y no por el lado de los sabios jueces ahítos que pretendemos ser. Para hacerlo, utilizo poemas, fragmentos filosóficos, pensamientos políticos, obras teatrales. Todo un material, que algunos presumen anticuado, a través del cual el siglo declara en pensamientos su vida, su drama, sus creaciones, su pasión. Y veo entonces que a contrapelo de todo el juicio pronunciado, esa pasión, la del siglo XX, no fue en modo alguno la pasión por lo imaginario o las ideologías. Y menos aún una pasión mesiánica. La terrible pasión del siglo XX fue, contra el profetismo del siglo XIX, la pasión de lo real. La cuestión era activar lo Verdadero, aquí y ahora. A. B.",
+	"contributor": "Horacio Pons",
+	"date": "2005-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 81574,
+	"unique_words": 11071,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0427768151725223,
+		"slope": 0.6454985517224663,
+		"std_error_intercept": 0.09336929921141855,
+		"std_error_slope": 0.008931261897576028
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e691350612971243b703"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Badiou/Elogio del amor (61556)/Elogio del amor - Alain Badiou.epub",
+	"creator": "Alain Badiou",
+	"title": "Elogio del amor",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "“Hoy en día, la opinión general es que cada uno sigue solo su interés. El amor es la prueba palpable de que esto no es así.”Desde los moralistas franceses hasta Levinas, pasando por Schopenhauer, los filósofos a menudo han maltratado el amor, cuando se interesaron por sus problemáticas, aunque más habitualmente lo obviaron como tema de sus reflexiones. No es el caso de Alain Badiou, quien nos muestra en este libro formidable que el amor es una dimensión esencial del ser humano que hay que defender de las amenazas que le plantea el paradigma de vida actual. Para este autor, el amor se encuentra amenazado por los partidarios del mercado liberal —para quienes todo es interés—, pero también por sus opositores, para quienes el amor es puro hedonismo.Vivimos en un mundo en el que el amor “riesgo cero” es un correlato en el espacio íntimo de la guerra 'muerte cero'. Esta es, entonces, la primera amenaza que el amor actual enfrenta: la “amenaza aseguradora”. Por medio de un tranquilizador arreglo de antemano, se evita toda casualidad, todo encuentro y, finalmente, toda poesía existencial, en nombre de la categoría fundamental de la ausencia de riesgos.La segunda amenaza que se cierne sobre el amor es la que le niega toda importancia, afirmando que se trata de una variante de las distintas formas del goce.Este libro es un poderoso antídoto contra estas amenazas y un placer de leer, placer que nos reconducirá al amor y a su reinvención.",
+	"contributor": "Ana Ojeda",
+	"date": "2009-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 20478,
+	"unique_words": 3631,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.9633780491318437,
+		"slope": 0.7237889414916613,
+		"std_error_intercept": 0.1663809093908049,
+		"std_error_slope": 0.017748390891742127
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e693350612971243b704"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Badiou/Heidegger. El nazismo, las mujeres, la filosofia (52268)/Heidegger. El nazismo, las mujeres, la fil - Alain Badiou.epub",
+	"creator": "Alain Badiou",
+	"title": "Heidegger. El nazismo, las mujeres, la filosofía",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "¿Las convicciones políticas de un filósofo son pertinentes para juzgar su obra? En el caso de Martin Heidegger, adulado por unos y vilipendiado por otros, el interrogante se plantea con particular virulencia debido a sus convicciones nazis. A juicio de Alain Badiou y Barbara Cassin, esta polémica ha sido mal centrada y es menester aceptar la siguiente paradoja: sí, Heidegger fue un nazi común y corriente, pequeño burgués y provinciano, y sí, Heidegger es uno de los pensadores más importantes del siglo pasado. Sumergiéndose en su correspondencia, los dos filósofos examinan de manera inesperada la figura de Heidegger, su relación con la política, claro está, pero también con las mujeres: con la suya, Elfride, con la cual formó una pareja indestructible y atormentada, a la manera de Sartre y De Beauvoir, pero también con todas aquellas, en especial Hannah Arendt, de las que fue amante en el transcurso de su larga existencia.",
+	"contributor": "Horacio Pons",
+	"date": "2010-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 16400,
+	"unique_words": 3685,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.6263209573514577,
+		"slope": 0.7808572379023426,
+		"std_error_intercept": 0.04365329036081902,
+		"std_error_slope": 0.004734452273337356
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e695350612971243b705"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Badiou/La filosofia frente al comunismo (49037)/La filosofia frente al comunismo - Alain Badiou.epub",
+	"creator": "Alain Badiou",
+	"title": "La filosofía frente al comunismo",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "La filosofía frente al comunismo pone en escena la intensa labor intelectual que Alain Badiou, uno de los pensadores más destacados e influyentes de nuestra época, ha desplegado en los últimos años en torno a los problemas de la filosofía, el sujeto y la política. Entendiendo al comunismo como representación intelectual que provee una perspectiva crítica sobre las políticas existentes, el autor renueva la apuesta y explica por qué, pese a los abusos del «comunismo de Estado», que deben repudiarse, sigue siendo necesario adoptar esta visión frente al recurrente contexto de las crisis sociales, en un arco que va del Manifiesto Comunista a la situación actual en Medio Oriente.Si el capitalismo reduce a meras categorías de consumidor y de competidor económico la noción de sujeto, que es el principal impulsor de ideas y acontecimientos nuevos, ¿qué tiene la filosofía para decir al respecto? Atento a los cambios en las expresiones políticas, estéticas y mediáticas, Badiou propone releer en clave polémica a Sartre y Lacan, decisivos para su propia formación, pero también a Lévi-Strauss, Kierkegaard, Hegel, Marx y Platón. Así, este libro ágil y provocador pasa revista a los principales debates vigentes desde la segunda mitad del siglo XX, en lo que es una formidable actualización del pensamiento filosófico, y propone intensificar los nuevos núcleos de reflexión y emancipación hacia formas de organización alternativas a la «representación» opresiva.",
+	"contributor": "Román Setton",
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 27152,
+	"unique_words": 3745,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.279120520720744,
+		"slope": 0.6792446045839179,
+		"std_error_intercept": 0.0733865370388538,
+		"std_error_slope": 0.007661048013321802
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6a8350612971243b706"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Badiou/La Republica de Platon (61598)/La Republica de Platon - Alain Badiou.epub",
+	"creator": "Alain Badiou",
+	"title": "La República de Platón",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "“Podemos, debemos escribir para nuestros contemporáneos obras como La república o El banquete”, declaraba Badiou en Condiciones (1992), después de haber afirmado, al menos desde los años ochenta y a contracorriente de su época, su filiación platónica. A ese imperativo responde su República de Platón, que es una recreación, tanto filosófica como literaria, del famoso diálogo, poblada de referencias que van desde la antigua Grecia hasta nuestros días y nos instalan, súbitamente, en un teatro-ágora donde el pensamiento se despliega a través de un lenguaje tan sutil como vivaz.Asistimos en él a una suerte de “enfrentamiento fraterno” entre el filósofo griego y su innovador discípulo, tal vez el sello de la mayor fidelidad en una relación de maestría. Sobre el pilar de una sólida conceptualización, Badiou sostiene y reformula con brío las ideas primordiales de Platón, así como objeta otras por boca de los personajes (entre ellos, la esplendente Amaranta) o por medio de la parodia y el humor que escanden la puesta en escena. “Nunca es triste el canto del concepto”, dice aquí un Sócrates que conjuga la elaboración de un comunismo por venir con la anábasis del Sujeto que, liberado de la caverna de un cine cósmico, nace a los primeros destellos de luz.La República de Platón es también una invitación a la polémica, y quien asista a este teatro-ágora en que se invoca a una multitud de personajes (Sófocles, Freud, Calderón, Mao Tse-Tung, Mallarmé, Lacan y tantos otros) se verá tentado de ser partícipe y testigo de un debate filosófico que ha sabido franquear, si no diluir, las fronteras del tiempo. Alain Badiou, filósofo, dramaturgo y narrador, pone aquí en juego su vehemencia y su peculiar inventiva para transmitirles a los lectores —a todos por igual— ese deseo. “En eso consiste —nos dice— la eternidad de un texto”.MARÍA DEL CARMEN RODRÍGUEZ",
+	"contributor": "María del Carmen Rodríguez",
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 188931,
+	"unique_words": 17835,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6523554968851701,
+		"slope": 0.669836972013643,
+		"std_error_intercept": 0.08916767059518417,
+		"std_error_slope": 0.007976224438479325
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6ac350612971243b707"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Badiou/San Pablo_ La fundacion del universalismo (61614)/San Pablo_ La fundacion del universalismo - Alain Badiou.epub",
+	"creator": "Alain Badiou",
+	"title": "San Pablo: La fundación del universalismo",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "¿Por qué San Pablo? ¿Por qué requerir a este «apóstol», tanto más sospechoso cuanto que, con toda evidencia, se autoproclamó tal, y su nombre está comúnmente asociado a las dimensiones más institucionales y menos abiertas del cristianismo? ¿Y qué uso pretendemos hacer del dispositivo de fe cristiana, de la cual parece claramente imposible disociar la figura y los textos de Pablo? ¿Por qué invocar y analizar esta fábula?Lo que nos llama la atención de la obra de Pablo es esa conexión paradójica, de la cual es el inventor, entre un sujeto sin identidad y una ley sin soporte, que funda en la historia la posibilidad de una predicación universal. El gesto inaudito de Pablo es sustraer la verdad del control comunitario, trátese de un pueblo, de una ciudad, de un imperio, de un territorio o de una clase social.Volver a pensar este gesto y su fuerza instituyente, desplegar sus enredos, es, sin duda, una necesidad contemporánea. Porque la cuestión de Pablo es exactamente la nuestra: ¿cuáles son las condiciones de una singularidad universal?",
+	"contributor": "Danielle Reggiori",
+	"date": "1997-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 55415,
+	"unique_words": 7064,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.668720792430416,
+		"slope": 0.6614379571485023,
+		"std_error_intercept": 0.19508480431332373,
+		"std_error_slope": 0.019249303742589464
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6ae350612971243b708"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Badiou/_Que representa el nombre de Sarkozy_ (26256)/_Que representa el nombre de Sarkozy_ - Alain Badiou.epub",
+	"creator": "Alain Badiou",
+	"title": "¿Qué representa el nombre de Sarkozy?",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "La utilización política del miedo se ha impuesto progresivamente a escala mundial. Prueba de ello serían, en el caso mismo de España, ciertos eslóganes de la última campaña electoral (“Si tú no vas, ellos vuelven”) o, más generalmente, el discurso que insiste sobre el “problema” de la inmigración, la amenaza del terrorismo y la crisis económica. Ahora bien: “Propongamos un teorema: toda cadena de miedos conduce a la nada y el voto es la operación de esa nada. Si esta operación no es entonces política, como yo sostengo, ¿cuál es su naturaleza?” El filósofo francés Alain Badiou analiza y denuncia este uso del miedo en el seno de unas democracias sometidas a la economía de mercado, así como la desorientación de los ciudadanos ante el voto y sus mecanismos “apolíticos”. Apelando a la necesidad de un verdadero compromiso ideológico del individuo, ¿Qué representa el nombre de Sarkozy? nos permite comprender las estrategias políticas actuales mediante un lúcido, directo e irónico análisis de la figura de Sarkozy y de la política francesa contemporánea.",
+	"contributor": null,
+	"date": "2007-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 35895,
+	"unique_words": 5834,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8990043684403763,
+		"slope": 0.6467558129515765,
+		"std_error_intercept": 0.058045823485418806,
+		"std_error_slope": 0.005928810141194083
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6b3350612971243b709"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Bombard/Naufrago voluntario (33525)/Naufrago voluntario - Alain Bombard.epub",
+	"creator": "Alain Bombard",
+	"title": "Náufrago voluntario",
+	"subject": "Viajes",
+	"publisher": null,
+	"description": "En 1952, Alain Bombard realizó la increíble hazaña de atravesar el Atlántico en una balsa hinchable sin agua dulce ni víveres. ¿Qué le impulsó a lanzarse a esa peligrosa aventura? Bombard, médico y navegante, sabía que, todos los años, morían en todo el mundo unas doscientas mil personas a causa de los naufragios y que, además, una cuarta parte de éstas, que sobrevivían al naufragio y eran rescatadas, morían poco después, no a causa de su estado físico o fisiológico, sino por la desesperación provocada por la tremenda experiencia vivida! Bombard, consciente de que el mar, a pesar de los peligros que encierra, es una reserva inagotable de vida que puede proporcionar agua dulce y alimento a los náufragos, quiso encontrar la forma de utilizar en la práctica esta reserva vital y quiso experimentarla él mismo. Su hazaña contribuyó posteriormente a salvar decenas de miles de vidas humanas, ya que permitió establecer un verdadero código de supervivencia en alta mar. Pero Bombard no sólo tuvo que superar la dura prueba de su experiencia en el mar, sino que tuvo que soportar las humillaciones y las burlas de todos los «especialistas» que lo trataban de loco, como ha ocurrido con tantos pioneros en el campo científico y de los descubrimientos geográficos. Este libro apasionante empieza a la manera de un buen reportaje, pero no tarda en derivar hacia aguas imprevistas: hacia ese océano interior, ese infinito desierto líquido donde, desde los Tiempos de la lejana infancia, divagan nuestros compañeros de elección: Robinson Crusoe, Arthur Gordon Pym, el pequeño Jim de La Isla del Tesoro... Éste es el libro de un visionario, de un «loco» generoso que, enfrentándose a la hostilidad de un medio implacable y a la incomprensión de sus contemporáneos, supo luchar por su idea y hacerla realidad.",
+	"contributor": null,
+	"date": "1954-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 82539,
+	"unique_words": 11318,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.851971955019228,
+		"slope": 0.6637075562952149,
+		"std_error_intercept": 0.1536635255911848,
+		"std_error_slope": 0.014684865364334087
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6bf350612971243b70a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Boureau/La papisa Juana (54766)/La papisa Juana - Alain Boureau.epub",
+	"creator": "Alain Boureau",
+	"title": "La papisa Juana",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "Según cuenta la leyenda, la usurpación del trono terrenal de Pedro por parte de una mujer obligó en sucesivas ocasiones, con el fin de impedir semejante ultraje impostor en lo venidero, a comprobar mediante un tacto testicular que el sexo del elegido se correspondía con tan alto honor.Para ello, y según la fábula, se utilizaba una silla perforada, como las antiguas sillas romanas de los baños que quizá utilizaran los papas en su descanso, que permitía la curiosa exploración. Las dos frases que abren este libro están relacionadas con esta famosa silla.Esta historia dentro de la historia a lo largo de la historia ha tenido tantos detractores como seguidores, y tantas «pruebas» que la acreditaban como que la desacreditaban. Hay varias versiones sobre la existencia de la Papisa, y aún más explicaciones de por qué pudo surgir el mito. En líneas generales, no obstante, actualmente ganan por mayoría, y por evidencias, los críticos que niegan su existencia aduciendo, entre otras cosas, que no hay hueco cabal en la medición temporal que permita dar por lícita su veracidad y darle pábulo por tanto para figurar en el «Liber Pontificalis», por más que Platina —humanista e historiador serio del siglo XV, secretario del papa vigente y bibliotecario del Vaticano— se viera obligado a incluirla en su «Vidas de los Papas» por la fuerza de la tradición.",
+	"contributor": "Guadalupe Rubio de Urquía",
+	"date": "1989-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 192247,
+	"unique_words": 21831,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.383366421183721,
+		"slope": 0.703788592295679,
+		"std_error_intercept": 0.08364280721732305,
+		"std_error_slope": 0.007471732942460762
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6c3350612971243b70b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain de Benoist/Comunismo y nazismo (13313)/Comunismo y nazismo - Alain de Benoist.epub",
+	"creator": "Alain de Benoist",
+	"title": "Comunismo y nazismo",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "El fenómeno totalitario, propio del siglo XX, se encarna en el comunismo y el nazismo. Aunque ambos regímenes ya pertenecen al pasado, la cuestión de su identidad sigue estando candente y suscitando vivas polémicas. En este ensayo, Alain de Benoist compara las dos ideologías totalitarias, lo cual no significa asimilarlas, sino pensarlas conjuntamente, como dos especies distintas de un mismo género, dos casos singulares dentro de una misma categoría. Comunismo y nazismo: el loco sueño de un mundo puro, sin diversidad ni contradicciones. Más allá del balance de sus crímenes, más allá de los parecidos formales de sus regímenes, comunismo y nazismo expresaron sobre todo la misma esperanza de un mundo purificado de su diversidad y de las contradicciones que se derivan de ella. Tal anhelo sigue estando presente en nuestro horizonte, en el de estas postrimerías de una modernidad caracterizada por la movilización total de los hombres y las cosas, por la dominación que ejerce la razón instrumental, por la voluntad de establecer una sociedad universal plenamente transparente a sí misma, por la sumisión de los individuos atomizados a unos poderes que ni controlan ni eligen. Frente a estas nuevas amenazas, la lucidez, la libertad y la clarividencia del espíritu crítico son más indispensables que nunca. Suponen, en particular, que el nazismo y el comunismo se midan no con la vara de una memoria selectiva y traumática, sino con la mirada de una historia que prosigue su andar.",
+	"contributor": "José Javier Esparza",
+	"date": "1998-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 46948,
+	"unique_words": 7654,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6450942512919569,
+		"slope": 0.677583528305629,
+		"std_error_intercept": 0.08195568067349102,
+		"std_error_slope": 0.008194596999882186
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6c6350612971243b70c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain de Botton/Como pensar mas en el sexo (32322)/Como pensar mas en el sexo - Alain de Botton.epub",
+	"creator": "Alain de Botton",
+	"title": "Cómo pensar más en el sexo",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": ".No pensamos demasiado en el sexo, sencillamente pensamos en él de la forma equivocada Alain de Botton sostiene que el sexo en el siglo XXI está predestinado a ser un acto de equilibrio entre el amor y el deseo, entre la aventura y el compromiso.Tratando temas que incluyen la lujuria, el fetichismo, el adulterio, la pornografía y la impotencia, articula con franqueza los dilemas de la sexualidad moderna, ayudándonos a pensar con mayor profundidad y sabiduría sobre el sexo que practicamos o dejamos de practicar.",
+	"contributor": null,
+	"date": "2012-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 32267,
+	"unique_words": 6817,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2538082565248188,
+		"slope": 0.728335317476908,
+		"std_error_intercept": 0.03634919411896664,
+		"std_error_slope": 0.003743937066783488
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6cc350612971243b70d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain de Botton/Del amor. Un mapa de los sentimientos amorosos (50046)/Del amor. Un mapa de los sentimientos amor - Alain de Botton.epub",
+	"creator": "Alain de Botton",
+	"title": "Del amor. Un mapa de los sentimientos amorosos",
+	"subject": "Ensayo",
+	"source": null,
+	"rights": null,
+	"relation": null,
+	"publisher": null,
+	"description": "Este libro apela a cualquiera a quien el amor haya turbado o a todo aquel que haya amado alguna vez. Botton cartografía los avatares de la relación sentimental narrándonos la historia de dos jóvenes amantes, desde el primer beso hasta el comienzo de la ansiedad y las palpitaciones. A través del relato, reconocemos la inquietud que siempre nos provoca la decisión de en qué momento decirle a nuestro amor «te quiero», o las discrepancias con nuestra pareja en torno a nuestros gustos sobre el calzado. Y sin duda nos descubrimos en uno u otro episodio, gracias a la agudeza con que se diseccionan las emociones que cualquiera de nosotros ha sentido pero que tal vez jamás haya entendido tan bien.",
+	"coverage": null,
+	"contributor": null,
+	"date": "2013-06-27T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 78424,
+	"unique_words": 11539,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6155448075266439,
+		"slope": 0.6873563210758017,
+		"std_error_intercept": 0.05710521186658064,
+		"std_error_slope": 0.005479725014493799
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6d1350612971243b70e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain de Botton/El arte de viajar (25988)/El arte de viajar - Alain de Botton.epub",
+	"creator": "Alain de Botton",
+	"title": "El arte de viajar",
+	"subject": "Viajes",
+	"publisher": null,
+	"description": "En este libro, Alain de Botton emprende un recorrido por las satisfacciones y desilusiones que producen los viajes. Entre otros temas, se ocupa de los aeropuertos, romances y minibares de hotel. Esta obra, cargade de humor, revela motivaciones ocultas, las expectativas y las complicaciones de nuestros derroteros por el ancho mundo. Esta obra es el antídoto perfecto para esas guías que nos dicen qué hacer cuando llegamos a un lugar, pues trata de explicar, en primer lugar, qué impulso nos llevó hasta alli´y, modestamente, sugiere cómo podríamos ser más felices en nuestros viajes. Género: Humor, viajes, filosofía, autoayuda",
+	"contributor": null,
+	"date": "2002-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 58481,
+	"unique_words": 11578,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1885030168297424,
+		"slope": 0.7463104297266968,
+		"std_error_intercept": 0.0989926131146165,
+		"std_error_slope": 0.009725648650837217
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6d6350612971243b70f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain de Botton/Las consolaciones de la filosofia (33329)/Las consolaciones de la filosofia - Alain de Botton.epub",
+	"creator": "Alain de Botton",
+	"title": "Las consolaciones de la filosofía",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "¿Cómo podemos conseguir que la filosofía forme parte de nuestra vida cotidiana? Alain de Botton demuestra que ésta es una inagotable fuente de consuelo, capaz de inspirarnos y motivarnos a diario.En un fascinante recorrido a través de 2.400 años de filosofía occidental, el autor recurre a la vida y obra de seis filósofos fu ndamentales para examinar otros tantos problemas comunes. Sócrates ilustra la impopularidad y Epicuro la falta de dinero. La trayectoria de Séneca es un ejemplo ante la frustración. Montaigne se enfrenta a la ineptitud y Schopenhauer al corazón partido. Por último, Nietzsche nos enseña qué hacer ante las dificultades.Con una singular combinación de ingenio, sabiduría e invención, esta obra es una guía práctica para resolver problemas cotidianos y una deslumbrante introducción a la historia y los usos de la filosofía.Vana es la palabra de aquel filósofo que no remedia ninguna dolencia humana. Pues así como ningún beneficio hay de la medicina que no expulsa las enfermedades del cuerpo, tampoco lo hay de la filosofía si no expulsa la dolencia del alma.EpicuroReseña:Alain de Botton ha devuelto a la filosofía su propósito más importante: ayudarnos a vivir mejor.Christina Hardyment,The Independent",
+	"contributor": null,
+	"date": "2001-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 78818,
+	"unique_words": 14308,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3063573060291818,
+		"slope": 0.7340809782352089,
+		"std_error_intercept": 0.05089021525540331,
+		"std_error_slope": 0.004881367752260022
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6d9350612971243b710"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Demouzon/Crimenes imperfectos (79940)/Crimenes imperfectos - Alain Demouzon.epub",
+	"creator": "Alain Demouzon",
+	"title": "Crímenes imperfectos",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Colección \"El Séptimo Círculo\" 339",
+	"contributor": null,
+	"date": "1980-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 58080,
+	"unique_words": 10431,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.392660744843517,
+		"slope": 0.7179372202628866,
+		"std_error_intercept": 0.07239695185452225,
+		"std_error_slope": 0.007116689096126566
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6e3350612971243b711"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Demurger/Auge y caida de los templarios (33937)/Auge y caida de los templarios - Alain Demurger.epub",
+	"creator": "Alain Demurger",
+	"title": "Auge y caída de los templarios",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "La Orden del Temple surgió a principios del siglo XII, con el fín de salvaguardar la tumba de Cristo y proteger a los peregrinos. Su inmenso patrimonio le atribuyó durante cerca de doscientos años un inmenso poder y gloria. Su dramática desaparición coincide con el fracaso de las cruzadas y responde a causas muy complejas.",
+	"contributor": null,
+	"date": "1985-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "en",
+	"word_count": 154319,
+	"unique_words": 17145,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.7917513266675646,
+		"slope": 0.7534120130230538,
+		"std_error_intercept": 0.16000675985654791,
+		"std_error_slope": 0.014544158371070606
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6e5350612971243b712"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Finkielkraut/La derrota del pensamiento (24054)/La derrota del pensamiento - Alain Finkielkraut.epub",
+	"creator": "Alain Finkielkraut",
+	"title": "La derrota del pensamiento",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "El apasionado alegato de Alain Finkielkraut, su manifiesto contra 'la cultura zombi' a contracorriente de la moda intelectual, del conformismo posmoderno, ha despertado en Francia un apasionado interés. Finkielkraut se indigna por el estado moral de una sociedad a la que le da igual un cómic que una novela de Nabokov, un slogan publicitario que un poema de René Char, un partido de fútbol que un ballet, o un videoclip que una ópera de Verdi. El autor se interroga sobre las 'razones' que conducen a bautizar como culturales aquellas actividades en las que el pensamiento está ausente y se remonta a la filosofía del Siglo de las Luces para mostrar cómo se ha producido el derrumbe de los ideales europeos. Finkielkraut afirma que los ideales de razón, de humanismo cosmopolita y de poesía sin fronteras están sucumbiendo ante la exaltación nacionalista y la concepción étnica de la sociedad (contra la concepción electiva), herederas del romanticismo alemán y de su Volkgeist. La filosofía de la descolonización, instrumento para la emancipación de los países del Tercer Mundo, acaba por desembocar en el nacionalismo más sectario: mientras, una 'nueva derecha' cultiva el fantasma de una Europa asediada por famélicos inmigrantes...",
+	"contributor": null,
+	"date": "1987-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 37903,
+	"unique_words": 7045,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1496479360211913,
+		"slope": 0.7312164785885128,
+		"std_error_intercept": 0.05888543248883313,
+		"std_error_slope": 0.005988785157556211
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3e6e8350612971243b713"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alain Finkielkraut/La ingratitud (39067)/La ingratitud - Alain Finkielkraut.epub",
+	"creator": "Alain Finkielkraut",
+	"title": "La ingratitud",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "El hombre contemporáneo ha dejado ya de pensarse como un heredero. Quiere liberarse de lo dado. Únicamente cede a las conminaciones de la memoria para consignar la superioridad de la conciencia actual sobre un pasado tenebroso, tejido de prejuicios y crímenes. Pero al desligar así el ser de la herencia, ¿es realmente más lúcido? Esta conversación, conducida por Antoine Robitaille, intenta responder a esta pregunta.",
+	"contributor": "Francisco Díez del Corral",
+	"date": "1999-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "fr",
+	"word_count": 62675,
+	"unique_words": 10442,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.2953292464616009,
+		"slope": 0.8166488154635029,
+		"std_error_intercept": 0.30286665155002673,
+		"std_error_slope": 0.02959066523209151
+	}
 }]
 
