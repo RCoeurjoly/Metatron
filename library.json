@@ -53708,5 +53708,2405 @@
 		"std_error_intercept": 0.08000001813119564,
 		"std_error_slope": 0.007667753536214769
 	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc4d350612971243bb2e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander McCall Smith/Codigo de conducta para chicas guapas (25357)/Codigo de conducta para chicas guapas - Alexander McCall Smith.epub",
+	"creator": "Alexander McCall Smith",
+	"title": "Código de conducta para chicas guapas",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "La famosa 1ª Agencia de Mujeres Detectives tiene problemas económicos, y Precious Ramotswe decide trasladar las oficinas al negocio de coches de su prometido, míster J.L.B. Maketoni. Pero, lo que parece una idílica solución, acaba por convertirse en un inconveniente: el pobre Maketoni tiene serias dificultades personales, y necesita de toda la ayuda de Precious. Además, a la agencia comienzan a llegar casos de lo más desconcertantes: un destacado hombre del Gobierno cuya cuñada está intentando asesinar a su hermano, un concurso de misses que no son tan bellas como aparentan y la extraña aparición de un joven salvaje oliendo intensamente a león. ¿Podrá Precious resolver todos los misterios sin dejar de atender a las extravagantes necesidades de su encantador y difícil novio? «Échale el lazo a cualquiera de las novelas de la 1ª Agencia de Mujeres Detectives. Todas son, en realidad, cartas de amor… a la gente y la cultura surafricanas. Una gran escapada.» Elle",
+	"contributor": null,
+	"date": "2001-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 73130,
+	"unique_words": 9132,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5474036700705085,
+		"slope": 0.6761284158312796,
+		"std_error_intercept": 0.054393618096375856,
+		"std_error_slope": 0.0052489087320873725
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc50350612971243bb2f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander McCall Smith/El arca de la vida (75267)/El arca de la vida - Alexander McCall Smith.epub",
+	"creator": "Alexander McCall Smith",
+	"title": "El arca de la vida",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Mma Ramotswe, la primera mujer detective de Botswana, sigue prometida a J.L.B. Matekoni. La boda parece que no va a celebrarse nunca, pero si algo tiene esta mujer inteligente y bondadosa es paciencia. En la espera, se le acumula el trabajo: una mujer muy rica, propietaria de una cadena de peluquerías, está buscando marido. Pero no tiene nada claro que sus muchos pretendientes no vayan sólo detrás de su dinero. Mma Ramotswe, con su capacidad de observación y sus dotes como hábil conversadora, es la persona ideal para sacarla de dudas. A través de las pequeñas y grandes historias de la vida cotidiana, Alexander McCall vuelve a llevarnos al corazón de Botswana, un lugar donde el concepto del tiempo, del dinero y de la vida misma es muy distinto al de Occidente. Allí nos espera, preparando el té, uno de los personajes más encantadores e interesantes de la literatura actual.",
+	"contributor": null,
+	"date": "2003-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 70369,
+	"unique_words": 8099,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9440700478679938,
+		"slope": 0.6333330169414255,
+		"std_error_intercept": 0.05265259979185296,
+		"std_error_slope": 0.0050966484530578
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc54350612971243bb30"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander McCall Smith/El club filosofico de los domingos (76046)/El club filosofico de los domingos - Alexander McCall Smith.epub",
+	"creator": "Alexander McCall Smith",
+	"title": "El club filosófico de los domingos",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Isabel Dalhousie es una filósofa de mediana edad que no necesita trabajar para vivir gracias a su herencia. Su existencia transcurre tranquilamente en Edimburgo, entre sus colaboraciones con una revista filosófica semi desconocida, sus clases en la universidad y su sobrina de veintitantos años, quien es su más querida compañía. Sólo tiene un pequeño defecto: meterse en aquéllo que no le importa. Una noche, tras asistir a un concierto de música clásica, ve como desde el palco situado encima del suyo, un hombre se precipita al vacío. Por curiosidad, se empieza a interesar por la identidad de este chico y va descubriendo demasiadas cosas sospechosas como para que ella se pueda creer que se trata de un simple accidente.",
+	"contributor": null,
+	"date": "2004-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 81215,
+	"unique_words": 9848,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.705536354724858,
+		"slope": 0.6650723965708808,
+		"std_error_intercept": 0.10343313450117284,
+		"std_error_slope": 0.009897437292034187
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc57350612971243bb31"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander McCall Smith/Escuela Kalahari (75265)/Escuela Kalahari - Alexander McCall Smith.epub",
+	"creator": "Alexander McCall Smith",
+	"title": "Escuela Kalahari",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Una nueva entrega de las aventuras de mma Ramotswe, la primera detective de Botsuana. En el corazón de África, junto al desierto del Kalahari, esta mujer sagaz, bondadosa e intuitiva continúa haciendo lo que mejor sabe: ayudar a sus vecinos a resolver los grandes y pequeños problemas que surgen en sus vidas. Pero ahora se enfrenta a una nueva situación, cuando por primera vez aparece la competencia. Un arrogante ex-policía acaba de instalarse en la capital, y se considera mucho mejor preparado que una simple mujer para ser el detective privado de la ciudad. Por supuesto, mma Ramotswe cuenta con sus armas de siempre: su enorme sentido común, la capacidad para escuchar y entender a los demás, la paciencia y el respeto... los signos de identidad de las generaciones que hicieron de Botsuana un lugar pacífico y hermoso en el que la gente disfruta de la vida. Pero va a estar muy ocupada: mientras se ocupa de los nuevo» casos que van surgiendo y espera que el bondadoso J.L.B. Matekoni se decida a casarse con ella, mma Ramotswe ha de ayudar a los dos huérfanos que adoptó a encontrar su propio camino en la vida. Y también tendrá que echarle una mano a su ayudante mma Makutsi, una mujer inteligente, decidida e impulsiva que por fin parece haber dado con un negocio propio, algo que tiene que ver con hombres y máquinas de escribir...",
+	"contributor": null,
+	"date": "2002-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 63371,
+	"unique_words": 7739,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5404066466860113,
+		"slope": 0.673538809280507,
+		"std_error_intercept": 0.09094328707564117,
+		"std_error_slope": 0.00887749791872154
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc5a350612971243bb32"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander McCall Smith/La primera detective de Botsuana (39028)/La primera detective de Botsuana - Alexander McCall Smith.epub",
+	"creator": "Alexander McCall Smith",
+	"title": "La primera detective de Botsuana",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "an de abrir la primera agencia de detectives de Botsuana. Su fundadora es mma Precious Ramotswe, una oronda mujer orgullosa de sus curvas que ha vendido las cabezas de ganado heredadas de su padre para embarcarse en la investigación criminal. Con la única ayuda de una guía sobre cómo ser detective, su secretaria mma Makutsi y una taza de té, mma Ramotswe consigue resolver los más pintorescos casos que llegan a su agencia.Entrañable, original, divertida, tremendamente humana y con unos personajes inolvidables, La primera detective de Botsuana es la primera entrega de una serie que ha robado el corazón de millones de lectores y ha convertido a su autor, Alexander McCall Smith, en uno de los escritores más solicitados del mundo.",
+	"contributor": "Marta Torent López de Lamadrid",
+	"date": "2017-02-09",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72673,
+	"unique_words": 9351,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.775346507366485,
+		"slope": 0.6594448070844947,
+		"std_error_intercept": 0.05778280406167198,
+		"std_error_slope": 0.005578781908416538
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc5e350612971243bb33"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander McCall Smith/Las lagrimas de la jirafa (75259)/Las lagrimas de la jirafa - Alexander McCall Smith.epub",
+	"creator": "Alexander McCall Smith",
+	"title": "Las lágrimas de la jirafa",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Cuando mma Ramotswe repasa sus cuentas a final de año, descubre que no se está haciendo rica, pero tampoco ha perdido dinero; ha tenido suerte y ha estado muy ocupada; una situación bastante parecida a su idea de la felicidad. La fama de su agencia de detectives ha llegado a oídos de la embajada de Estados Unidos, que la recomienda a una de sus ciudadanas: la señora Curtain, cuyo hijo desapareció en el desierto de Kalahari, hace más de diez años. Michael Curtain trabajaba en la mejora de la agricultura en el árido suelo africano, cuando se esfumó sin dejar rastro. A pesar de las dificultades y del tiempo transcurrido, mma Ramotswe acepta el caso, porque sabe muy bien lo que significa perder a un hijo. La solidaridad, la complicidad y la comprensión entre Precious Ramotswe y la señora Curtain es muy similar a la que se produce entre su prometido, J.L.B Matekoni, un hombre honrado y cariñoso, y dos niños del orfanato local a los que Matekoni siente el irrefrenable deseo de proteger. Mma Ramotswe, la dueña de la primera agencia femenina de detectives de Botsuana, no sólo tendrá un negocio y un marido, sino una familia completa de quien ocuparse. Al fin y al cabo, en África todos somos 'hermanos y hermanas' y ese es el mensaje de esta emocionante novela, que ofrece mucho más que la mera solución de un misterio, de la mano de un personaje que ha cautivado a millones de lectores en todo el mundo. «Ocurrentes y tiernas, las páginas de esta novela nos divierten, nos sorprenden y nos llegan al corazón, todo al mismo tiempo.» Los Angeles Times.«Precious Ramotswe es la Miss Marple de Botsuana.». Times Literary",
+	"contributor": null,
+	"date": "2000-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 70716,
+	"unique_words": 8669,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5364156324009368,
+		"slope": 0.6754734672260422,
+		"std_error_intercept": 0.08003149706518535,
+		"std_error_slope": 0.007743845024655255
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc61350612971243bb34"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander McCall Smith/Un marido bueno, un buen marido (26819)/Un marido bueno, un buen marido - Alexander McCall Smith.epub",
+	"creator": "Alexander McCall Smith",
+	"title": "Un marido bueno, un buen marido",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "La llegada de la primavera ya se percibe en el rojo de la tierra, en las acacias y en las lentas y verdes aguas de los ríos de Botsuana, aunque en Zebra Drive, donde viven Mma Ramotswe y su querido esposo J.L.B. Matekoni, no se respira la tranquilidad habitual. En La Primera Agencia de Mujeres Detectives el ritmo de trabajo es el acostumbrado —con casos tan dispares como el de los constantes robos de la galería de arte Teenie Magama’s y las sospechosas muertes del hospital Mochudi—, aunque se percibe cierto descontento entre las trabajadoras. Ya es malo que Charlie, el aprendiz de Mr. Matekoni, esté fuera en otra aventura y que la inminente boda de Mma Makutsi esté amenazando sus gratas relaciones laborales con Mma Ramotswe. Y cuando J.L.B. Matekoni, tratando de demostrarse a sí mismo que es un marido esforzado, decide hacer un trabajillo detectivesco, se avecina el desastre…",
+	"contributor": null,
+	"date": "2007-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72225,
+	"unique_words": 8613,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7104755049050975,
+		"slope": 0.6574109458906715,
+		"std_error_intercept": 0.02371615778947239,
+		"std_error_slope": 0.0022908773781636824
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc64350612971243bb35"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander McCall Smith/Zapatitos azules y felicidad (75263)/Zapatitos azules y felicidad - Alexander McCall Smith.epub",
+	"creator": "Alexander McCall Smith",
+	"title": "Zapatitos azules y felicidad",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "CONTINÚAN LAS AVENTURAS DE LA PRIMERA AGENCIA DE MUJERES DETECTIVES EN EL CORAZÓN DE ÁFRICA. Precious Ramotswe, la detective privada más famosa de África y fundadora de la Primera Agencia de Mujeres Detectives, creyó que su vida se volvería más tranquila después de casarse con J. L. B. Matekoni, su pretendiente de toda la vida. Pero nada más lejos de la realidad... Parece ser que los incidentes se agolpan a las puertas de su agencia, instalada en las dependencias del taller mecánico de su marido. Con la ayuda de su asistente, Mma Makutsi, y del señor Polopetsi, recorrerán Botsuana en busca de pistas y respuestas para sus casos. Eso si, los problemas parecen solucionarse más fácilmente ante unos donuts y una taza de té roiboos, algo que no ayuda mucho a la dieta que intenta hacer Mma Ramotswe, una mujer de «complexión tradicional». El tiempo en Gaborone pasa más despacio, pero sus costumbres y pensamientos no distan tanto de los nuestros. Planteándose en todo momento cuestiones de naturaleza filosófica, nuestra detective decide que la felicidad está en las pequeñas cosas de la vida: un nuevo par de zapatos azules, un trozo de tarta o una puesta de sol en el Kalahari.",
+	"contributor": null,
+	"date": "2006-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 76400,
+	"unique_words": 8620,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.794857656121092,
+		"slope": 0.6474945033853095,
+		"std_error_intercept": 0.03565969542342446,
+		"std_error_slope": 0.003429048360670994
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc6d350612971243bb36"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander Soderberg/El amigo andaluz (12959)/El amigo andaluz - Alexander Soderberg.epub",
+	"creator": "Alexander Söderberg",
+	"title": "El amigo andaluz",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Lars Vinge es un policía que acaba de ser ascendido a una unidad de investigación criminal. Todo iría bien de no ser porque su nueva jefa es una persona corrupta y despiadada y sus nuevos colegas lo humillan constantemente, despertando en él unos deseos de venganza que le hacen recuperar sus viejos hábitos de automedicación, nefastos para su ya de por sí maltrecha salud mental. Una de las investigaciones los conduce hasta Héctor Guzmán, un andaluz residente en Estocolmo que, tras la fachada de un editor de libros, resulta ser un capo dedicado al tráfico de drogas y otros negocios sucios en el país. Inesperadamente, Guzmán tiene un accidente y lo que en principio parece un mero atropello fortuito al final parece ser un intento de asesinato. Una serie de circunstancias hacen que Héctor se cruce en el destino de Jens, un pequeño traficante de armas, que se verá envuelto en una conspiración que le viene muy grande...",
+	"contributor": "Martin Simonson",
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 176101,
+	"unique_words": 15141,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9765100261837814,
+		"slope": 0.6365796768432299,
+		"std_error_intercept": 0.11588477336504471,
+		"std_error_slope": 0.010423878514023634
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc71350612971243bb37"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander Trocchi/El libro de Cain (73398)/El libro de Cain - Alexander Trocchi.epub",
+	"creator": "Alexander Trocchi",
+	"title": "El libro de Caín",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "El libro de Caín es el diario de Joe Necchi, un drogadicto que, como el mismo Trocchi, ha abandonado Glasgow, su ciudad natal, y luego París, para recalar en Nueva York, donde vive en una barcaza en el río Hudson. El mundo de Joe es el de los marginales, un mundo de dosis furtivas inyectadas en los sórdidos picaderos de Harlem y persecuciones policiales en desiertas estaciones de metro. Pero esta espléndida novela autobiográfica es mucho más que una cruel crónica de la escena de la droga observada desde dentro. Porque Joe, para quien la heroína es un instrumento libremente elegido, es un personaje camusiano, un merodeador, un extranjero, un Caín que no reconoce más leyes que las que él mismo dicta, aunque le conduzcan a la terrible soledad de la libertad y la rebeldía ejercitadas sin respiro. Cuando esta provocativa y escandalosa obra maestra fue publicada por primera vez en 1960 en los Estados Unidos, Norman Mailer escribió que había en el libro verdad, arte y un valor a toda prueba, y que no le sorprendería que veinte años después aún se hablara de él. En Gran Bretaña fue prohibido y los ejemplares que había en las librerías confiscados y quemados en un auténtico auto de fe. Hoy, casi cuarenta años después, y sin haber sido nunca olvidado, porque El libro de Caín ha circulado siempre secreta, subterráneamente como un libro de culto, vuelve a deslumbrar a las nuevas generaciones, y escritores tan innovadores como Irvine Welsh o Alan Warner reconocen su deuda fundamental con Trocchi.",
+	"contributor": "Martín Lendínez",
+	"date": "1960-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 80426,
+	"unique_words": 11908,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3847860003871602,
+		"slope": 0.7097484753030123,
+		"std_error_intercept": 0.1077076264692688,
+		"std_error_slope": 0.010314579082869613
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc75350612971243bb38"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander Trocchi/La insurreccion invisible de un millon de mentes (73400)/La insurreccion invisible de un millon de - Alexander Trocchi.epub",
+	"creator": "Alexander Trocchi",
+	"title": "La insurrección invisible de un millón de mentes",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Trasladado a París desde 1952, Trocchi frecuentó los ambientes del existencialismo, participando en la edición de la famosa revista Merlin, en la que colaboraban autores como Samuel Beckett, Jean Genet, Jean-Paul Sartre y Henry Miller. Fue allí donde se hizo amigo íntimo de Guy Debord, que había quedado fascinado por la idea desplegada por Trocchi en su texto La insurrección invisible de un millón de mentes, acerca de un gran ejército en estado de incubación, aunque latente y dispuesto al ataque, perfeccionando el definitivo asalto a la sociedad de clases. Aquello conectaba con las ideas de subversión total de la vida y del arte reivindicadas por la Internacional Situacionista. El texto obtuvo el apoyo y reconocimiento de escritores, artistas e intelectuales tan diversos como Picasso y Salvador Dalí.La búsqueda de realidades alternativas mediante el consumo de heroína y otras sustancias le supuso una detención por posesión y supuesto tráfico de drogas. Un comunicado oficial de apoyo, suscrito por la totalidad de la Internacional Situacionista, llegó a afirmar que aquel individuo, que llegó a ser conocido como el «Burroughs escocés» era, sin duda, «el artista más creativo e inteligente de la Inglaterra de hoy».",
+	"contributor": "Antonio J. Rodríguez",
+	"date": "1991-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 89065,
+	"unique_words": 13774,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6962824911062089,
+		"slope": 0.6861827651291659,
+		"std_error_intercept": 0.06043352427515988,
+		"std_error_slope": 0.00574013953794734
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc79350612971243bb39"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander Weinberg/La conjura (81132)/La conjura - Alexander Weinberg.epub",
+	"creator": "Alexander Weinberg",
+	"title": "La conjura",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Trepidante, adictivo, terroríficamente posible. Traición, mentiras y acción desde el minuto uno, hacen de esta novela un thriller al más puro estilo Dan Brown. Año 2024. Tras dos mandatos presidenciales que casi han llevado el país a la quiebra, Robert Nolan logra alcanzar la presidencia de los Estados Unidos de América. El interés mediático es tal que la ciudad de Washington se llena de medios de comunicación venidos de todo el mundo. Y es que no sólo ha heredado una profunda crisis económica, además, debe convencer al congreso de que acepte su paquete de medidas anti-crisis o de lo contrario el sistema entrará en fallida. Paralelamente y de manera casual, enviada desde Londres por la BBC, Sandra Bocks descubrirá su oscuro plan B. Tras un encuentro fortuito con el capitán de las Fuerzas Especiales David Miller, se ve envuelta en una terrorífica conspiración orquestada por el Presidente y la CIA. Con la ciudad bajo el estrecho control de los militares y un grupo de mercenarios pisándoles los talones, Sandra y David deberán permanecer vivos el tiempo suficiente para desvelarle al mundo la atroz masacre que está a punto de llevarse a cabo y la horrorosa verdad que se esconde tras las medidas propuestas por el nuevo Presidente: “Si matamos a todo aquél que suponga un gasto, por cada bala que utilicemos ahorraremos 8.000 dólares.”",
+	"contributor": null,
+	"date": "2014-03-24T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 76948,
+	"unique_words": 11404,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6831942692398294,
+		"slope": 0.6836746696271644,
+		"std_error_intercept": 0.10162531086156788,
+		"std_error_slope": 0.009766703112626483
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc82350612971243bb3a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander Weinberg/Las manos de la venganza (49034)/Las manos de la venganza - Alexander Weinberg.epub",
+	"creator": "Alexander Weinberg",
+	"title": "Las manos de la venganza",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Diversas personas relacionadas con una revista literaria de Nueva York reciben una misteriosa carta en la que se les amenaza de muerte. En ella, su autor les anuncia que tienen el plazo de tres días para descubrir en qué le ofendieron o, de lo contrario, pagarán su agravio con su propia vida. Paralelamente, alguien empieza a limpiar las calles de mendigos. El modus operandi es extraño: las víctimas aparecen desnudas, con la cabeza afeitada y sin que presenten rastro alguno de violencia. A medida que las investigaciones avanzan, la policía comienza a sospechar que quizá ambos casos tengan una extraña relación y que los empleados de la revista no le estén contando toda la verdad. Es posible, incluso, que la venganza que alguien está llevando a cabo no sea del todo injustificada.",
+	"contributor": null,
+	"date": "2015-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 170332,
+	"unique_words": 18606,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.804964545074967,
+		"slope": 0.6683246048314275,
+		"std_error_intercept": 0.11296766483789634,
+		"std_error_slope": 0.010188318443804988
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc8a350612971243bb3b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander Weinberg/Norrington (81000)/Norrington - Alexander Weinberg.epub",
+	"creator": "Alexander Weinberg",
+	"title": "Norrington",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Norrington, un diminuto pueblo situado entre Bangor (Maine) y ninguna parte, se presenta como la alternativa perfecta para huir del estresante caos neoyorquino. Al menos así lo cree la brillante y adinerada empresaria Eve Wilson, quien acaba de adquirir una propiedad en la pequeña urbe. Sin embargo, no tardará mucho en darse cuenta de la singularidad del lugar: apenas hay gente por las calles, sus vecinos hacen demasiadas preguntas y..., en ocasiones, se oyen aterradores ruidos que eclipsan la paz y el silencio en los que se desenvuelve la vida allí...",
+	"contributor": null,
+	"date": "2017-08-22T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 163351,
+	"unique_words": 17615,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.010178705458536,
+		"slope": 0.6507964660546286,
+		"std_error_intercept": 0.1635074743643438,
+		"std_error_slope": 0.014795425916497292
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc9a350612971243bb3c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandr Fadeiev/La joven guardia (31667)/La joven guardia - Alexandr Fadeiev.epub",
+	"creator": "Alexandr Fadéiev",
+	"title": "La joven guardia",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Este libro se basa en hechos reales. En julio de 1942 las tropas fascistas ocuparon Krasnodón en Ucrania. Inmediatamente se pusieron a detener y fusilar gente. Pero en Krasnodón, lo mismo que en el resto de la tierra soviética invadida, los hitlerianos tropezaron con las fuerzas de la resistencia popular.",
+	"contributor": null,
+	"date": "1946-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 306187,
+	"unique_words": 24147,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8857913527865526,
+		"slope": 0.6523864518275196,
+		"std_error_intercept": 0.09740904237941243,
+		"std_error_slope": 0.008390709793689052
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fc9e350612971243bb3d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandr Projanov/El arbol en el centro de Kabul (30629)/El arbol en el centro de Kabul - Alexandr Projanov.epub",
+	"creator": "Alexandr Projánov",
+	"title": "El árbol en el centro de Kabul",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Novela que retrata las vivencias de un reportero soviético en el Afganistán revolucionario de los años 80, donde se encuentra con el amor, el internacionalismo, la violencia y el odio.",
+	"contributor": null,
+	"date": "1984-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 83730,
+	"unique_words": 12049,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7630963583372796,
+		"slope": 0.675990344220123,
+		"std_error_intercept": 0.09738679521935417,
+		"std_error_slope": 0.009296095238572102
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fca1350612971243bb3e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Adornetto/El ladron de sombras (15211)/El ladron de sombras - Alexandra Adornetto.epub",
+	"creator": "Alexandra Adornetto",
+	"title": "El ladrón de sombras",
+	"subject": "Juvenil",
+	"publisher": null,
+	"identifier": "05e764bc-8ba6-471b-b0fe-dd516267227c",
+	"description": "Mili Zuecos y Ernesto Pericalvo son dos amigos que están hartos de vivir en villacana, donde nunca pasa nada. Hasta que pasa: ambos son secuestrados, encerrados en la espeluznante Casa Cebón y adoptados por los insoportables señores Alcalde.",
+	"contributor": "José Miguel Pallarés",
+	"date": "2014-01-04T14:33:11",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 58937,
+	"unique_words": 10787,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.301132702420153,
+		"slope": 0.728549022490217,
+		"std_error_intercept": 0.04719644033669749,
+		"std_error_slope": 0.004633965987637541
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fca7350612971243bb3f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Adornetto/Hades (16035)/Hades - Alexandra Adornetto.epub",
+	"creator": "Alexandra Adornetto",
+	"title": "Hades",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "¿Puede un ángel sobrevivir en el infierno? Es la noche de Halloween en Venus Cove. Después de los acontecimientos del curso pasado, Bethany y Xavier continúan su relación y están más unidos que nunca. ¡Tanto que incluso las amigas de Beth dudan de que sea sano! Hasta han conseguido que Ivy y Gabriel acepten a Xavier como para tenerlo cenando en casa noche sí y noche también.Además, las fuerzas demoníacas parecen controladas por la familia angelical… hasta que en la fiesta que se organiza en una casona abandonada la noche de las brujas, se pone en marcha una sesión de espiritismo a la que asiste Beth.Asustada, una de las componentes del círculo huye cuando comparece un espíritu, dejando libre a la aparición y a los hermanos Church con un problema enorme: el mal ha vuelto para instalarse en Venus Cove.",
+	"contributor": "Carol Isern",
+	"date": "2011-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 132305,
+	"unique_words": 13542,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0142225115981445,
+		"slope": 0.6385311258414251,
+		"std_error_intercept": 0.10771157152536968,
+		"std_error_slope": 0.009911434008919306
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcaf350612971243bb40"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Adornetto/Halo (15848)/Halo - Alexandra Adornetto.epub",
+	"creator": "Alexandra Adornetto",
+	"title": "Halo",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Un ángel enamorado. Una relación imposible. Un amor que traspasa las barreras del Cielo y el Infierno. La llegada inesperada de los hermanos Church, Gabriel, Ivy y Bethany, supone un revuelo en la pequeña población de Venus Cove. Son extremadamente bellos, inteligentes y misteriosos. ¿De dónde vienen? ¿Dónde están sus padres y por qué sobresalen sea la que sea la actividad que emprenden?Los tres son en realidad ángeles con la misión de salvar al mundo de su inminente destrucción. Tienen instrucciones claras: no deben formar vínculos demasiado fuertes con ningún humano y deben esforzarse en ocultar sus cualidades sobrehumanas. Pero Beth, la más inexperta, rompe una de las reglas sagradas: se enamora de Xavier Woods, el chico más guapo del colegio e incluso llega a revelarle su secreto. Y será entonces cuando deba tomar una decisión definitiva: desafiar la voluntad del Cielo y entregarse a él completamente o no, además de enfrentarse a las fuerzas oscuras que pretenden tomar Venus Cove como primer paso para su plan de destruir a la humanidad.Ivy, Gabriel y Xavier deberán unir sus fuerzas para salvarla y utilizar sus poderes para hacer el bien para contrarrestar a las poderosas fuerzas de la oscuridad.",
+	"contributor": "Santiago del Rey",
+	"date": "2010-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 146982,
+	"unique_words": 16173,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0207657745043996,
+		"slope": 0.6471064298374002,
+		"std_error_intercept": 0.09305352115448394,
+		"std_error_slope": 0.00849116406093756
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcb5350612971243bb41"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Adornetto/Heaven (16036)/Heaven - Alexandra Adornetto.epub",
+	"creator": "Alexandra Adornetto",
+	"title": "Heaven",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Un amor que consigue enfrentarse al Cielo y al Infierno. Bethany, un ángel enviado a la tierra, y su novio mortal, Xavier, han estado en el Infierno y han conseguido volver. Sin embargo, ahora su amor se someterá al examen más duro, ya que desafiarán las leyes del Cielo al casarse. No se lo cuentan ni siquiera a los hermanos arcángeles de Beth, Gabriel e Ivy, pero la corte celestial lo averiguará muy pronto y el castigo será terrorífico: la Séptima Orden, los ángeles caídos que están empeñados en separar a Beth y Xavier, destruir a Gabriel e Ivy y llevar al lado oscuro el poder angélico de los cielos.Lo único que pueden hacer Bethany y Xavier para evitar a los Séptimos es esconderse a plena luz y mezclarse con mortales de su misma edad. Gabriel e Ivy los envían a la universidad, donde no podrán revelarle a nadie su relación y donde, de todas maneras, se encontrarán con el peligro en cada esquina.¿Llamarán a Bethany desde el Cielo para obligarla a quedarse ahí para siempre?¿Tendrá que enfrentarse a la terrible posibilidad de tener que dejar al amor de su vida?",
+	"contributor": "Carol Isern",
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 130638,
+	"unique_words": 12567,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.021633764979204,
+		"slope": 0.6322704627509905,
+		"std_error_intercept": 0.11001424168723133,
+		"std_error_slope": 0.0101336162347104
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcbf350612971243bb42"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Bracken/Caminante (74663)/Caminante - Alexandra Bracken.epub",
+	"creator": "Alexandra Bracken",
+	"title": "Caminante",
+	"subject": "Novela",
+	"source": "RBA",
+	"publisher": null,
+	"description": "Etta Spencer no sabía que era una viajera hasta el día en que apareció a miles de kilómetros de su casa y a años de su época. Ahora se encuentra de nuevo a la deriva, sola, obligada a cuestionar todo lo que sabía sobre su vida y a elegir un camino que, quizás, acabe transformando su futuro. Nicholas pretende dar con Etta, pero un terrible error le aleja de su búsqueda y le conduce a descubrir un aterrador poder ancestral. Un poder que amenaza con destruir la línea temporal que les une. Conclusión de la bilogía Pasajera.",
+	"contributor": null,
+	"date": "2018-03-07T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 194437,
+	"unique_words": 16352,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9393897905958102,
+		"slope": 0.6397376843803266,
+		"std_error_intercept": 0.09022385464874079,
+		"std_error_slope": 0.008052424496932203
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcc9350612971243bb43"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Bracken/El legado mas oscuro (82584)/El legado mas oscuro - Alexandra Bracken.epub",
+	"creator": "Alexandra Bracken",
+	"title": "El legado más oscuro",
+	"subject": "Novela",
+	"source": "RBA",
+	"publisher": null,
+	"description": "Han pasado cinco años. Los campos de rehabilitación en los que Zu fue encerrada con sus amigos han sido destruidos. Aun así, sigue luchando por proteger los derechos de los Psi frente a la oleada de prejuicios y falsas informaciones. Cuando la acusan de cometer un espantoso atentado, se ve obligada a huir de nuevo para salvar la vida. Decidida a limpiar su nombre, Zu viaja en busca de respuestas, y no tarda en descubrir un siniestro secreto que amenaza la supervivencia de los Psi. Rodeada de enemigos, ¿en quién podrá confiar en su lucha por la libertad y por salvar a los amigos que en otros tiempos fueron sus protectores?",
+	"contributor": null,
+	"date": "2018-10-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 199781,
+	"unique_words": 17759,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9175412858020033,
+		"slope": 0.6475633263299692,
+		"std_error_intercept": 0.12618939337076934,
+		"std_error_slope": 0.0112382771171954
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fccf350612971243bb44"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Bracken/El monstruoso relato de Prosper Redding (79521)/El monstruoso relato de Prosper Redding - Alexandra Bracken.epub",
+	"creator": "Alexandra Bracken",
+	"title": "El monstruoso relato de Prosper Redding",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "«Os diría que es un placer conoceros, Prosperity Oceanus Redding, pero sinceramente, ardo en deseos de destruir vuestra felicidad».Hacer un pacto con el diablo no es tan fácil como lo pintan: por un lado, obtienes fama y fortuna durante más de 800 años, pero por otro, tienes a un ser vengativo dispuesto a condenarte a una eternidad de servidumbre.Prosper intentará evitarlo devolviendo al demonio Alastor a su mundo antes de que destruya a su familia, aunque para ello deberá superar todo tipo de trampas, engaños y el malvado sentido del humor de esta criatura infernal con la única ayuda de su tío Barnabás, una aprendiza de bruja y un gato con alas de murciélago. ¿Qué podría salir mal?",
+	"contributor": "Montse Triviño",
+	"date": "2017-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 105438,
+	"unique_words": 12066,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8798657460491688,
+		"slope": 0.6528665532552633,
+		"std_error_intercept": 0.08037467265720377,
+		"std_error_slope": 0.00753151490166381
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcd1350612971243bb45"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Bracken/La princesa, el contrabandista y el granjero (60130)/La princesa, el contrabandista y el granje - Alexandra Bracken.epub",
+	"creator": "Alexandra Bracken",
+	"title": "La princesa, el contrabandista y el granjero",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Alrededor de la batalla de Yavin. ESTA HISTORIA COMIENZA COMO MUCHAS OTRAS: HACE MUCHO TIEMPO… EN UN LUGAR MÁS ALLÁ DE LAS ESTRELLAS QUE BRILLAN EN TU CIELO NOCTURNO. En los tiempos de la Antigua República, cientos de sistemas estelares vivían juntos en paz y prosperidad, protegidos por una orden de antiguos guerreros: los Jedi. De pronto, una ola de oscuridad, tan terrorífica como imparable, cubrió la galaxia. Incluso los soldados más poderosos fueron derrotados. Ahora reina un imperio malvado, que poco a poco extingue los rastros de luz y esperanza. Esta es la historia de tres personajes que comparten el mismo destino: estar en el lugar equivocado el momento indicado. Juntos demostrarán que valen más de lo que parece… Y puede que sean la única esperanza de la galaxia.",
+	"contributor": null,
+	"date": "2015-08-31T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 55686,
+	"unique_words": 7873,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0349299163174956,
+		"slope": 0.6367252169985791,
+		"std_error_intercept": 0.08631915428016176,
+		"std_error_slope": 0.008513922598239113
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcda350612971243bb46"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Bracken/Mentes poderosas (17833)/Mentes poderosas - Alexandra Bracken.epub",
+	"creator": "Alexandra Bracken",
+	"title": "Mentes poderosas",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "El día de su décimo cumpleaños Ruby se despertó y se dio cuenta de que algo había cambiado. Algo tan estremecedor como para que sus padres la encerraran en el garaje, llamaran a la policía y acabaran trasladándola a Thurmond, un brutal campo de refugiados del gobierno. Sin despedidas ni explicaciones, Ruby ha sido repudiada, evaluada, clasificada y encarcelada. Tal vez haya conseguido sobrevivir a la misteriosa enfermedad que ha acabado con la vida de la mayoría de los niños norteamericanos, pero ella y los demás supervivientes han desarrollado algo que es mucho más temido: unas mentes poderosas imposibles de controlar. Ahora, después de pasar seis años encerrada, Ruby se ha convertido en uno de los elementos más peligrosos… y finalmente, con dieciséis años, ha logrado huir.",
+	"contributor": "Isabel Murillo",
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 166091,
+	"unique_words": 16391,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0017929795485054,
+		"slope": 0.6429426737990749,
+		"std_error_intercept": 0.05980611860650617,
+		"std_error_slope": 0.005404573826481674
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fce4350612971243bb47"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Bracken/Nunca olvidan (18544)/Nunca olvidan - Alexandra Bracken.epub",
+	"creator": "Alexandra Bracken",
+	"title": "Nunca olvidan",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "Ruby nunca hizo preguntas sobre las habilidades que casi le cuestan la vida, pero ahora debe recurrir a ellas a diario, en peligrosas misiones para derribar un Gobierno corrupto. Los chavales de la Liga la llaman Líder, pero ella sabe mejor que nadie lo que es en realidad: un monstruo. Cuando le confían un arriesgado secreto, Ruby deberá embarcarse en su misión más peligrosa: partir en busca de la información acerca de la enfermedad que acabó con la vida de los jóvenes estadounidenses y que convirtió a los pocos supervivientes en seres marginados, temidos y odiados. La verdad se encuentra a salvo en un solo lugar: en manos de Liam Stewart, el chico que una vez supuso el futuro soñado para Ruby y que ahora es incapaz de reconocerla. ¿Y si ganar la guerra significa perderse a sí misma?",
+	"contributor": "Manuel Manzano",
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 174228,
+	"unique_words": 16461,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8732181291291512,
+		"slope": 0.6508966339628602,
+		"std_error_intercept": 0.08046965761562756,
+		"std_error_slope": 0.007244401048958506
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fced350612971243bb48"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Bracken/Pasajera (73098)/Pasajera - Alexandra Bracken.epub",
+	"creator": "Alexandra Bracken",
+	"title": "Pasajera",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Etta Spencer es una joven promesa del violín que en una sola noche lo pierde todo, y a partir de ese momento deberá encontrar la forma de sobrevivir en un mundo extraño y peligroso. Nicholas Carter carga con un oscuro secreto y un pasado que creía enterrado, pero la aparición de Etta sacará todo a la luz y lo obligará a escoger entre su libertad y salvar la vida de la chica que viene de un futuro misterioso. Perdidos en el espacio y en el tiempo, no tardarán en descubrir que solo se tiene el uno al otro. ¿Será suficiente para sobrevivir cuando la traición, las mentiras y el ansia de poder se interponga en su camino?",
+	"contributor": null,
+	"date": "2018-03-21T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 170605,
+	"unique_words": 15157,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.063241235005279,
+		"slope": 0.6295558250333687,
+		"std_error_intercept": 0.08416088616569618,
+		"std_error_slope": 0.007589342596599824
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcf7350612971243bb49"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Bracken/Una luz incierta (36914)/Una luz incierta - Alexandra Bracken.epub",
+	"creator": "Alexandra Bracken",
+	"title": "Una luz incierta",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "El tiempo se agota. Mientras miles de chicos languidecen encerrados en los campos, Ruby y el grupo que sobrevivió a los últimos ataques se reagrupan en el norte para retomas su objetivo inicial: liberar a los demás. Solo cuentan con un arma y es de doble filo: la prueba de la conspiración del gobierno para encubrir el origen de la misteriosa plaga que acabó con la vida de tantos jóvenes y que convirtió a los pocos supervivientes en unos seres extraños y temidos. Ahora, un nuevo riesgo se suma a la persecución mortal que sufren Ruby y los demás por parte del gobierno: las tensiones aumentan en el seno del grupo cuando empiezan a correr rumores sobre una posible cura. Con el destino de una generación en sus manos, Ruby sabe que todo pende de un hilo… Cualquier paso en falso podría ser la chispa que desatara el caos. Llega el explosivo final de una saga trepidante. La luz volverá a brillar… o se apagará para siempre.",
+	"contributor": "Manuel Manzano",
+	"date": "2014-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 188282,
+	"unique_words": 17052,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1511477044306053,
+		"slope": 0.6263082476964128,
+		"std_error_intercept": 0.07897243746266595,
+		"std_error_slope": 0.007066157096302134
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcfb350612971243bb4a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Cuadrat Capdevila/Asesinato en el archivo (36493)/Asesinato en el archivo - Alexandra Cuadrat Capdevila.epub",
+	"creator": "Alexandra Cuadrat Capdevila",
+	"title": "Asesinato en el archivo",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Messina Limosi, archivera de la Orden de Malta, aparece asesinada dentro del estado soberano más pequeño del mundo: el Palazzo di Malta, situado en una de las calles más transitadas de Roma. Frey Dimarco, comendador de la Orden y encargado de llevar a cabo la investigación, se topa con varias dificultades: ¿Cómo ha podido entrar el asesino? ¿Qué hacía Messina Limosi todas las noches en el archivo? ¿Por qué estaba desnuda? Y, lo más inquietante, ¿por qué sonreía? Dimarco, que no tiene experiencia en delitos de sangre, cuenta con el ayuda de Roberto Ciaccometti, caballero de la Orden y ahijado suyo, para intentar desentrañar el misterio. Además, por parte de la policía de Roma, intervienen el comisario Leone y la inspectora Rovente, de la UASV, unidad especial de investigación del crimen. La muerte de la archivera se entrelaza con la de un niño mendigo, asesinado brutalmente, y se siguen investigaciones paralelas, apareciendo diversos sospechosos: mafias inmobiliarias que acosan a propietarios del Trastevere, una secta muy antigua a la que perteneció el pintor Caravaggio, un taxista, un notario y un asesino en serie.",
+	"contributor": "Montse Triviño",
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 87373,
+	"unique_words": 11178,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6996306083818833,
+		"slope": 0.6723576681737494,
+		"std_error_intercept": 0.12818972403928222,
+		"std_error_slope": 0.012194580569908456
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcfc350612971243bb4b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Danell/Tenias que ser tu (73234)/Tenias que ser tu - Alexandra Danell.epub",
+	"creator": "Alexandra Danell",
+	"title": "Tenías que ser tú",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Nunca pensé que existieran los flechazos. Pero eso fue lo que sentí al ver a Mishelle. Mi vida, monótona y caótica, dio un giro y ella se convirtió en más que “la chica de mis sueños”. Pero nunca imaginé que mi relación con ella pudiera hacerle tanto daño a mi mejor amiga y que la vida me pondría en una encrucijada para decidir si apoyaba a Elizabeth cuando me necesitaba, la mujer que mejor me conocía, o si me entregaba en cuerpo y alma a la joven que me había robado el corazón. La vida me tenía preparada más de una sorpresa y, a veces, el amor está más cerca de lo que podemos creer. Pero no todos somos capaces de verlo…",
+	"contributor": null,
+	"date": "2017-06-05T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 29246,
+	"unique_words": 5148,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.391231750096203,
+		"slope": 0.6963119729180701,
+		"std_error_intercept": 0.03584623009805463,
+		"std_error_slope": 0.0037205398827836827
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcfd350612971243bb4c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Danell/Un amor en el aire (73084)/Un amor en el aire - Alexandra Danell.epub",
+	"creator": "Alexandra Danell",
+	"title": "Un amor en el aire",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Amanda consigue, por fin, trabajar en lo que quiere. Pero formar parte de la tripulación, le traerá más problemas de los que imagina. Enamorarse del comandante le pasará factura. Martín no será solo una historia de amor pasajera, pero tampoco simple. Él, casado. Ella, más que enamorada. Un amor a tres bandas en una loca aventura aérea.",
+	"contributor": null,
+	"date": "2017-05-20T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 22348,
+	"unique_words": 3835,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8663405505785131,
+		"slope": 0.6382592705818705,
+		"std_error_intercept": 0.0707410399731313,
+		"std_error_slope": 0.007496251572554927
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcfe350612971243bb4d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Danell/Un lugar para olvidarte (67145)/Un lugar para olvidarte - Alexandra Danell.epub",
+	"creator": "Alexandra Danell",
+	"title": "Un lugar para olvidarte",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Sin pensárselo, Susan termina su relación con Joel, un arquitecto que se desvive por ella. Pero lo que creía que era amor, se había convertido en simple cariño y ella no era feliz. Decidida a seguir con su vida, coge con más fuerza que nunca las riendas de su restaurante. Aquel precioso lugar y cada uno de sus empleados la harán vivir momentos inolvidables. Eric, un apuesto joven, aparece de repente, sacándola de quicio y enamorándola a partes iguales. ¿Será Eric esa chispa que Susan necesita para volver a sentir? Sumérgete en esta intensa historia donde cada personaje te hará creer que eres parte de ella.",
+	"contributor": null,
+	"date": "2017-05-04T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 23928,
+	"unique_words": 3627,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9964168307757384,
+		"slope": 0.6155021780969417,
+		"std_error_intercept": 0.07168906518610046,
+		"std_error_slope": 0.007557052868084933
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fcff350612971243bb4e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Dannenmann/El gatito Minki (38937)/El gatito Minki - Alexandra Dannenmann.epub",
+	"creator": "Alexandra Dannenmann",
+	"title": "El gatito Minki",
+	"subject": "Infantil",
+	"publisher": null,
+	"description": "Un divertido cuento para dormir dirigido a nuestros más jovencitos. Acompañamos al gatito Minki al despertarse por la mañana, jugando con amigos en el jardín hasta que se duerme por la noche.El gatito Minki es un libro para leer en voz alta a niños a partir de 2 años, ilustrado cuidadosamente.",
+	"contributor": null,
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 75,
+	"unique_words": 61
+},
+{
+	"_id": {
+		"$oid": "5ed3fd02350612971243bb4f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra David-Neel/Iniciaciones e iniciados en el Tibet (33253)/Iniciaciones e iniciados en el Tibet - Alexandra David-Neel.epub",
+	"creator": "Alexandra David-Néel",
+	"title": "Iniciaciones e iniciados en el Tíbet",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "Ofrecer al público de Occidente una idea clara del misticismo tibetano es tarea ímproba, porque parece haber un abismo entre las diversas concepciones religiosas y filosóficas, al punto que el mismo sentido de misticismo precisa en tal caso una evaluación pertinente. La autora es una de las pocas que dotadas de perspicacia y penetración para el fenómeno religioso, sabe relacionarlo en ambos mundos culturales y extraer del cotejo las conclusiones más precisas y las objetivaciones más reveladoras.",
+	"contributor": null,
+	"date": "1930-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 70125,
+	"unique_words": 10098,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6812348265947963,
+		"slope": 0.6776036741858432,
+		"std_error_intercept": 0.13666262840759255,
+		"std_error_slope": 0.013232298894442707
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd05350612971243bb50"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra David-Neel/Inmortalidad y reencarnacion (33636)/Inmortalidad y reencarnacion - Alexandra David-Neel.epub",
+	"creator": "Alexandra David-Néel",
+	"title": "Inmortalidad y reencarnación",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "La autora, una gran investigadora de las tradiciones espirituales orientales y sobre todo de los misterios del Tibet, nos introduce en esta obra en el conocimiento de las sabidurías milenarias del Taoísmo chino, del Hinduismo y del Budismo Tibetano, incluyendo las enseñanzas del Bardo Todol. Los hechos imponen al ser humano la constatación del carácter transitorio de todo lo que lo rodea, pero esta constatación, que le es penosa, no merma su deseo innato de inmortalidad. Se obstina en ella, creando mitos, doctrinas y prácticas que tienden a reconfortarle, a confirmarle en la fe de la inmortalidad que tanto desea. Alexandra David-Néel.",
+	"contributor": null,
+	"date": "1961-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 42854,
+	"unique_words": 7997,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1688112245035855,
+		"slope": 0.7355878874672821,
+		"std_error_intercept": 0.11013530877727169,
+		"std_error_slope": 0.01109235262237314
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd0a350612971243bb51"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra David-Neel/Magos y misticos del Tibet (75593)/Magos y misticos del Tibet - Alexandra David-Neel.epub",
+	"creator": "Alexandra David-Néel",
+	"title": "Magos y místicos del Tíbet",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "«Inmediatamente después de la publicación del relato de mi viaje a Lasa, un gran número de personas manifestaron, bien mediante artículos referentes a mi libro, bien particularmente, el deseo de conocer cómo me destinaron a vivir entre los lamas y, por otra parte, informarse sobre las doctrinas y las prácticas de los místicos y los ocultistas del Tíbet. »Intento satisfacer aquí su sana curiosidad. De todos modos, esta tarea comporta algunas dificultades, dado el poco espacio de que dispongo. »Con el fin de responder a dos preguntas de cariz tan diferente como las que se me han formulado, he relatado al principio las circunstancias que me pusieron en contacto con el mundo religioso lamaísta y el de brujos de todo tipo que gravitan a su alrededor. »Después, me he dedicado a agrupar algunos rasgos sobresalientes referidos a las teorías ocultas o místicas y a las prácticas de entrenamiento psíquico de los tibetanos. Cada vez que he encontrado en lo más hondo de mis recuerdos un hecho con él relacionado, lo he incluido en su debido lugar. No se trata, pues, de un diario de viaje, ya que el tema no se presta a ello en lo más mínimo. »Igualmente, no hay nada más lejos de mi mente que la idea de hacer un curso de magia o de predicar cualquier doctrina sobre fenómenos psíquicos. Mi objetivo ha sido simplemente dar una idea de la forma en que se contemplan algunos hechos que entran en el campo de los estudios psicológicos en uno de los países menos conocidos del mundo.» Alexandra David-Néel",
+	"contributor": null,
+	"date": "1929-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 103655,
+	"unique_words": 14723,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.681461194627998,
+		"slope": 0.689285019464869,
+		"std_error_intercept": 0.12362828380270625,
+		"std_error_slope": 0.011600442398788829
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd0d350612971243bb52"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Gil/En el vientre de la yihad (73516)/En el vientre de la yihad - Alexandra Gil.epub",
+	"creator": "Alexandra Gil",
+	"title": "En el vientre de la yihad",
+	"subject": "Ensayo",
+	"source": "Penguin Random House Grupo Editorial, S.A.U.",
+	"publisher": null,
+	"description": "El testimonio de las madres de yihadistas\nEste libro presenta un conjunto de testimonios de familias que han vivido la radicalización y huida de sus hijos o hijas a territorios controlados por el autodenominado Estado Islámico. En 2015, alrededor de cinco mil ciudadanos europeos habían abandonado sus países para unirse al Estado Islámico. Muchas de sus familias han quedado rotas, víctimas de esa circunstancia pero vistas como culpables. En este libro conmovedor, Alexandra Gil se asoma a nueve casos: un padre, una hermana y siete madres de yihadistas abren en estas páginas las puertas de sus casas y las de sus historias. Michelle y Françoise son hoy abuelas de varios «bebés del califato» a los que solo han visto en fotografías. Omar visita cada quince días a su hijo en prisión, un yihadista retornado del Jabhat Al Nusra. Samira recuerda palabra por palabra la carta de despedida que le dejó su hija antes de huir a Siria, mientras Nathalie busca despejar todos los interrogantes sobre la radicalización de su único hijo y su muerte en territorio iraquí. Estas familias llevan una vida que no se parece en nada a la que tenían años atrás: teléfonos pinchados, interminables interrogatorios, la mirada acusadora del prójimo y sobre todo un miedo irrefrenable a encender la televisión después de un atentado y reconocer al culpable.",
+	"contributor": null,
+	"date": "2018-04-11T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 70493,
+	"unique_words": 8522,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.084245155306627,
+		"slope": 0.6228032877292909,
+		"std_error_intercept": 0.077462020281158,
+		"std_error_slope": 0.007497064757114676
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd0f350612971243bb53"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Granados/Amor en Escocia (55285)/Amor en Escocia - Alexandra Granados.epub",
+	"creator": "Alexandra Granados",
+	"title": "Amor en Escocia",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Payton Taylor es una joven periodista a la que se le ofrece el trabajo de sus sueños: ser la ayudante de un famoso escritor, que además la ayudará con su última novela. Evidentemente todo es una tapadera para que Payton descubra los trapos sucios del matrimonio fallido de Jhon Riley con la actriz más famosa del momento, Ashley Walker. Todo sería sencillo, si no fuera porque John, no es otro que el niño que le destrozó el corazón años atrás y que ahora se ha convertido en un atractivo escritor de éxito con una preciosa hija de cinco años, Faith. Llegados a este punto, ¿podrá seguir adelante con el artículo que sabe que destrozara el corazón a Jhon y la pequeña Faith? ¿Debería dejar atrás sus planes y darle una oportunidad al amor?",
+	"contributor": null,
+	"date": "2016-02-08T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 38032,
+	"unique_words": 5497,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.910918608339132,
+		"slope": 0.6360610186678968,
+		"std_error_intercept": 0.03753388713819363,
+		"std_error_slope": 0.003816210402722418
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd15350612971243bb54"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Granados/Deseos de amar (79776)/Deseos de amar - Alexandra Granados.epub",
+	"creator": "Alexandra Granados",
+	"title": "Deseos de amar",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Sophie no está muy de acuerdo en seguir siendo virgen a estas alturas. Así que decidida, sabe que esta noche, es la noche de poner remedio y decide salir de fiesta para conseguirlo. Se arregla, coquetea, baila, ríe… y ¿qué consigue? Encontrarse con un dichoso policía llamado Macklean en los baños con una rubia pechugona. Bufff… esto es justo lo que ella necesitaba para arreglar su noche. Lo que Sophie no sabe es que ese encuentro cambiará su vida y pondrá su mundo patas arriba cuando descubra que ese poli tan atractivo que se dedica a ligar con mujeres borrachas en realidad es un Protector. Alguien que la arrastrará en su aventura para salvar los nueve mundos.",
+	"contributor": null,
+	"date": "2018-04-22T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 128395,
+	"unique_words": 13025,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8686476906164822,
+		"slope": 0.6489939721223063,
+		"std_error_intercept": 0.09255609571642671,
+		"std_error_slope": 0.00853730202526201
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd19350612971243bb55"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Heminsley/Ex & the city (79096)/Ex & the city - Alexandra Heminsley.epub",
+	"creator": "Alexandra Heminsley",
+	"title": "Ex & the city",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "No eres nadie hasta que tu novio te abandona\nUn relato honesto y punzantemente divertido sobre los horrores de las rupturas y la búsqueda del amor. Si hubiera un reino de las mujeres a quienes han dejado, Alexandra Heminsley sería la reina. Han cortado con ella en restaurantes, en rellanos de escalera ¡e incluso en un cementerio! Heminsley comparte sus experiencias y nos guía en un viaje, repleto de carcajadas, desde el desamparo inicial hasta el rollete por despecho, pasando por todo tipo de relaciones condenadas al fracaso y rituales obligados para recuperarse y seguir adelante. Pero, sobre todo, revela una importante verdad: que rompan contigo no debería ser algo de que avergonzarse sino una medalla de honor. Porque si no estás dispuesta a arriesgarlo todo, nunca encontrarás el amor.",
+	"contributor": null,
+	"date": "2010-06-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 64810,
+	"unique_words": 10622,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3201647431095078,
+		"slope": 0.7185130643745331,
+		"std_error_intercept": 0.0871061692228594,
+		"std_error_slope": 0.008487612263770539
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd1f350612971243bb56"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Horowitz/En la mente de un perro (48183)/En la mente de un perro - Alexandra Horowitz.epub",
+	"creator": "Alexandra Horowitz",
+	"title": "En la mente de un perro",
+	"subject": "Psicología",
+	"publisher": null,
+	"description": "¿Qué piensan los perros? ¿Cómo se relacionan con el mundo que los rodea? ¿Cómo interaccionan con los humanos? ¿Qué les dicen sus sentidos? La autora de este libro, psicóloga cognitiva que lleva años trabajando con animales, se introduce en la mente de un perro y nos explica qué ve, huele, siente... Y las conclusiones son en muchos casos sorprendentes.Imprescindible para los amantes de los perros, pero también para cualquiera interesado por la ciencia, este fascinante ensayo nos explica por qué un perro siente el impulso irrefrenable de perseguir a un ciclista, cómo es capaz de oler no sólo la comida sino también la tristeza de los humanos e incluso el paso del tiempo, cómo su oído le permite escuchar la vibración de los insectos al volar o el zumbido de un fluorescente... En definitiva, cómo se ve el mundo desde la mente de un perro.",
+	"contributor": "Roc Filella Escolà",
+	"date": "2010-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 126817,
+	"unique_words": 14296,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.371184474661261,
+		"slope": 0.7034957504807533,
+		"std_error_intercept": 0.2998097398936955,
+		"std_error_slope": 0.027681495719598045
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd21350612971243bb57"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Howard/Amantes por casualidad (61449)/Amantes por casualidad - Alexandra Howard.epub",
+	"creator": "Alexandra Howard",
+	"title": "Amantes por casualidad",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Desde que decidió romper con el pasado, cortar por lo sano y dejarlo atrás, Nicole Benford vive con un solo sueño: trabajar en el mundo de la publicidad y hacerse famosa. Un hombre puede permitirle dar el gran salto: Kurt Cameron, el número uno, el genio del marketing. Para llegar hasta él, Nicole trama una estrategia complicada y peligrosa que envuelve a Thomas Barrrow, un hombre tremendamente guapo y misterioso, que también parece interesado en Nicole para obtener algo, utilizándola si llega el caso. Pero ninguno de los dos había previsto los avatares del azar; la casualidad y el destino se encargarán de interponer una tempestuosa pasión entre ellos, a la que Nicole y Thomas no consiguen renunciar, viéndose arrastrados a una vorágine de deseo y sensualidad",
+	"contributor": null,
+	"date": "1992-09-02T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 44199,
+	"unique_words": 6670,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.607028568997059,
+		"slope": 0.6733033735927912,
+		"std_error_intercept": 0.03453149629317945,
+		"std_error_slope": 0.003469351879541244
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd22350612971243bb58"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Howard/Otono magico (61176)/Otono magico - Alexandra Howard.epub",
+	"creator": "Alexandra Howard",
+	"title": "Otoño mágico",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Si el amor es solamente una excusa para practicar el sexo, ¿por qué no practicarlo sin necesidad del amor? Esta es la pregunta muy legítima que se hace Cindy Tilton, sexóloga y escritora, firmemente convencida que el amor sea algo inexistente. Y así, cuando se encontró con Rod Gibson, profesor universitario y crítico literario, no cree que la atracción surgida entre ellos sea algo diferente de la pura pasión. Pero Cindy sabe también que dejarse arrastrar por los sentidos es muy peligroso, sobre todo si esto ocurre en otoño...",
+	"contributor": null,
+	"date": "1996-09-02T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 40904,
+	"unique_words": 5931,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.855998202720825,
+		"slope": 0.6447768238528555,
+		"std_error_intercept": 0.07289846401138181,
+		"std_error_slope": 0.007369260440176046
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd27350612971243bb59"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Ivy/Cuando llegue la oscuridad (75342)/Cuando llegue la oscuridad - Alexandra Ivy.epub",
+	"creator": "Alexandra Ivy",
+	"title": "Cuando llegue la oscuridad",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Debería haber sido un sueño convertido en realidad. ¿Qué mujer no querría cambiar su trabajo monótono y su vida aburrida para convertirse en una diosa? ¿Una diosa que no solo es inmortal, sino que estará atada por toda una eternidad a un vampiro impresionantemente guapo? Desafortunadamente ser una diosa no es tan guay como parece, como Abby Barlow pronto descubre. De hecho, en pocas horas se encuentra huyendo de una horda de demonios, una panda de zombis, y un poderoso mago que tiene intención de sacrificarla a su Príncipe Oscuro. Y por si eso no fuera suficientemente malo ha perdido su trabajo, su alquiler ha vencido y resulta que ser la salvadora del mundo no viene con paga incluida.",
+	"contributor": null,
+	"date": "2007-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 96245,
+	"unique_words": 11551,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8781418264509178,
+		"slope": 0.6520694816863383,
+		"std_error_intercept": 0.03388707940959178,
+		"std_error_slope": 0.0031987054149305544
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd2d350612971243bb5a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Ivy/Pasion en la oscuridad (29084)/Pasion en la oscuridad - Alexandra Ivy.epub",
+	"creator": "Alexandra Ivy",
+	"title": "Pasión en la oscuridad",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Dos hombres… Darcy Smith siempre sintió que era diferente a todos los demás… ojalá supiera cuánto. Poseedora de una fuerza secreta suficiente para acabar con toda una raza de demonios, Darcy se convierte sin desearlo en un peón en una épica batalla ente vampiros y metamorfos cuando descubre un nuevo mundo repleto de éxtasis… y oscuras pasiones… Uno desea su amor… Consumido por la lujuria que Darcy le inspira, Styx, el Anaddo de los vampiros, hará todo cuento esté en su mano para mantenerla lejos de la guarida de Salvatore Giuliani, el mortífero líder de los metamorfos. Pero Styx podría pagar un enorme precio por proteger a la mujer a la que ama… El otro desea…. su vida. Salvatore Giuliani sabe que el tiempo se acaba para los metamorfos. Llevados al borde de la extinción, no se detendrá ante nada para hacer de Darcy su última conquista y convertirla en su reina… pues sólo ella tiene la clave de su supervivencia. Pero, ¿en cuál de estos hombres puede confiar verdaderamente Darcy? Pues tan solo se precisa un mordisco para arrastrarla a una vida de servidumbre… o a una existencia colmada de placer…",
+	"contributor": null,
+	"date": "2012-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 111035,
+	"unique_words": 11930,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.039677326694173,
+		"slope": 0.6324430249003569,
+		"std_error_intercept": 0.04394652821497812,
+		"std_error_slope": 0.004100975507826892
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd33350612971243bb5b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Ivy/Seducida por la oscuridad (75355)/Seducida por la oscuridad - Alexandra Ivy.epub",
+	"creator": "Alexandra Ivy",
+	"title": "Seducida por la oscuridad",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "¿Es él su enemigo mortal...?' Lady Shay es la última de su raza. Mitad humana, mitad Shalott, su sangre es un precioso afrodisíaco para los vampiros, que lo consideran más valioso que el oro. Aunque los Shalotts son conocidos por ser buenos asesinos, una maldición que pesa sobre Shay la lleva hasta una subasta de esclavos, donde su destino es incierto… '¿... o el hombre que lo arriesgará todo...?' Viper, el seductor jefe del letal clan de los vampiros, no puede explicar su ansia por poseer a la hermosa Shalott que una vez le salvó la vida, pero ahora es libre de hacer lo que desea con ella. Por extraño que parezca, aunque desea tanto la sangre como el cuerpo de Shay, lo que quiere es que ella se entregue por voluntad propia. '¿...para salvarle la vida?' Una antigua fuerza maligna ha estado acechando a Shay desde que se marchó del mercado de esclavos con Viper. Es una fuerza malévola que hace peligrar la existencia de la raza de Viper, y no hay motivo por el que Viper deba arriesgarse a ella solo por proteger a una Shalott. Pero el amor que siente por Shay basta para hacer que baje voluntariamente a los infiernos y regrese... si con ello consigue pasar la eternidad con ella ente sus brazos...",
+	"contributor": null,
+	"date": "2011-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 111376,
+	"unique_words": 12113,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.023613776510637,
+		"slope": 0.6366558883832378,
+		"std_error_intercept": 0.10724131059059769,
+		"std_error_slope": 0.010005014495992691
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd34350612971243bb5c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Lago Alba/Seduccion de hombres_ Amor, romance, pareja (49662)/Seduccion de hombres_ Amor, romance, parej - Alexandra Lago Alba.epub",
+	"creator": "Alexandra Lago Alba",
+	"title": "Seducción de hombres: Amor, romance, pareja",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "¿Existe una Ciencia de la seducción o todo está en juego en manos del azar? Después de leer esta deliciosa guía la incógnita quedará por fin despejada. Este libro se dirige a todas las mujeres que se han cansado de esperar el tren del amor y han decidido tomar el mando en sus vidas. Porque tú puedes cumplir tus sueños y sentir el poder que emana de ti si dejas libre la esencia femenina dormida en tu interior. Para ello la autora te revela las tácticas más sutiles de seducción y las estrategias más efectivas. Considera que estás frente a un curso intensivo de atracción que te enseñará a amarte por dentro y por fuera y cambiará radicalmente tu vida. Se acabaron las dudas, los remordimientos, las frustraciones. ¡Este es tu momento!",
+	"contributor": null,
+	"date": "2014-11-25T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 19041,
+	"unique_words": 4267,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1685014521577561,
+		"slope": 0.7300146017499698,
+		"std_error_intercept": 0.04703753187012271,
+		"std_error_slope": 0.005045080236791784
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd39350612971243bb5d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Manzanares Perez/Latidos de una bala (59271)/Latidos de una bala - Alexandra Manzanares Perez.epub",
+	"creator": "Alexandra Manzanares Pérez",
+	"title": "Latidos de una bala",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Unas vacaciones. Nápoles (Italia). Y Romeo Leone, un joven mafioso oscuro, frío y peligroso, perteneciente a Los Salvatore, una de las dos familias que manejan la ciudad a su antojo, bajo una tela de araña de corrupción y muerte. La vida de Romeo, hasta ahora dominada por las armas, los chantajes y las persecuciones, pasará a un segundo plano cuando se inmiscuya en su camino Berta, una estudiante universitaria española, que hará que su propia vida, regida hasta ese momento por el control y el poder, se convierta en una red donde los sentimientos hagan de él un ser inseguro y vulnerable.",
+	"contributor": null,
+	"date": "2013-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 105149,
+	"unique_words": 11477,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.775527416095661,
+		"slope": 0.6561357441628106,
+		"std_error_intercept": 0.069808306609509,
+		"std_error_slope": 0.006542827546060889
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd43350612971243bb5e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Manzanares Perez/Sangre y corazon (44598)/Sangre y corazon - Alexandra Manzanares Perez.epub",
+	"creator": "Alexandra Manzanares Pérez",
+	"title": "Sangre y corazón",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Subtítulo: Juicio de genes Más de cuatro millones de personas pasaron por Auschiwtz durante la II Guerra Mundial. Se estima que por lo menos tres millones murieron, miles enfermaron y cientos trabajaron para el III Reich. Detrás de una puerta de acero y rodeados por una alambrada electrificada estaban, entre otros, polacos, judíos, alemanes, hombres, mujeres, niños, gitanos, gays, discapacitados y desertores. Los supervivientes narran que el miedo, el sufrimiento y la incertidumbre eran los sentimientos que dominaban los barracones. En aquellos cuarenta kilómetros cuadrados el mundo de los seres humanos dio paso al de los animales. Un lugar donde los castigos formaron parte de la rutina diaria y la supervivencia se convirtió en la única meta. Preguntar estaba prohibido y en su lenguaje no existía la palabra esperanza. Los inconformistas intentaron escapar y acabaron en una fosa común y los resignados trataron de adaptarse al rol que les habían asignado viviendo en un mundo donde sólo el azar les dejaba seguir respirando. El amor se convirtió en debilidad. Así, de manera progresiva y sin darse cuenta, muchos lo cambiaron por el placentero odio. Sólo hubo dos rebeldes que se resistieron, dos adversarios, una carcelera y su preso, que contra todo pronóstico se enamoraron. Ésta es la historia de una mujer perdida que encontró su camino de la mano de su esclavo y un hombre que vio la luz en la oscuridad de una asesina. Es la manera de explicar cómo un corazón judío muerto volvió a latir impulsado por la sangre aria.",
+	"contributor": null,
+	"date": "2010-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 197269,
+	"unique_words": 15544,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.149029452450788,
+		"slope": 0.6162750062804255,
+		"std_error_intercept": 0.06552038710336765,
+		"std_error_slope": 0.005840985758245069
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd47350612971243bb5f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Marinina/Asesino a su pesar (54833)/Asesino a su pesar - Alexandra Marinina.epub",
+	"creator": "Alexandra Marínina",
+	"title": "Asesino a su pesar",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Nastia Kaménskaya lleva días desbordada por el trabajo. Está sin ordenador y su jefe Gordéyev, alias el Buñuelo, le ha pedido que prepare un informe analítico sobre todos los homicidios sin resolver de los últimos cinco años. Además, en el momento más inoportuno, recibe la inesperada visita de su hermanastro Sasha, a quien hace años que no ve.¿Por qué acude ahora a ella este joven atractivo, rico y casi un desconocido en su vida? Sospecha que Dasha, su bellísima amante, colabora con una peligrosa banda de delincuentes. ¿Qué explicación tiene si no que cada vez que la pareja visita la casa de algún amigo de Sasha, al día siguiente desaparezca la documentación del propietario del lugar? ¿En qué tremendo lío debe de estar envuelta esta aparentemente candorosa joven?Obligada por el vínculo familiar, Nastia inicia con desgana una sucinta investigación hasta que descubre que unos contrabandistas de prendas de piel andan pisando los talones de Dasha mientras que un hombre fornido y de apariencia respetable vigila muy de cerca a uno de sus perseguidores.Las pesquisas de Nastia la conducen a un entramado plagado de personajes variopintos y peligrosos, desde mafiosos a científicos, pasando por espías y asesinos sin escrúpulos. Acuciada por la falta de medios, Kaménskaya no tiene más remedio que pedir ayuda a Denísov, un jefazo mafioso que no duda en poner a sus esbirros al servicio de la criminóloga.",
+	"contributor": "Elena Panteleeva",
+	"date": "1995-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 93729,
+	"unique_words": 12057,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8157732509837319,
+		"slope": 0.6640803650072363,
+		"std_error_intercept": 0.07636202058469163,
+		"std_error_slope": 0.007223414250151947
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd51350612971243bb60"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Marinina/El sueno robado (39194)/El sueno robado - Alexandra Marinina.epub",
+	"creator": "Alexandra Marínina",
+	"title": "El sueño robado",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Vica es una hermosa secretaria de una gran empresa privada de Moscú, cuyo trabajo nada tiene que ver con las labores de secretariado: servir café y licores a los socios extranjeros cuando visitan la ciudad y, si la situación lo requiere, presta otros servicios aún más alejados de su trabajo. Ella, por su cuenta, busca en sus ratos libres otros compañeros con los que compartir alcohol y sueños. Nadie se asombra cuando Vica aparece estrangulada y torturada a muchos kilómetros de Moscú. La policía entonces, empujada por la mafia, asegura que se trata de un caso más del alarmante alcoholismo que se extiende por toda Rusia. Pero Anastasia Kaménskaya se hace con la investigación del caso. Los sueños no es sólo lo que le robaban a Vica.Historia de mafia, corrupción y engaños editoriales con raíces en el mundo soviético, cuando la corrupción no tenía freno y todo el mundo lo aceptaba en bien de la «Patria Grande». Con la Perestroika todo ese mundo construido sobre la falsedad —y la primera falsedad es que nos decían que era un mundo comunista— se hunde disparándose la corrupción hasta límites insospechados.",
+	"contributor": "Elena Panteleeva",
+	"date": "1994-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 158831,
+	"unique_words": 16433,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9319219864568196,
+		"slope": 0.6494561704842043,
+		"std_error_intercept": 0.042022041603791825,
+		"std_error_slope": 0.0038109550786101423
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd56350612971243bb61"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Marinina/Los crimenes del balneario (54832)/Los crimenes del balneario - Alexandra Marinina.epub",
+	"creator": "Alexandra Marínina",
+	"title": "Los crímenes del balneario",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Anastasia Kaménskaya, funcionaria de la policía criminal de Moscú, le toma la palabra a su jefe cuando éste le ofrece una estancia en un balneario de lujo, un lugar que ha prosperado gracias a Eduard Denísov, capo de la mafia rusa. Cuando un cliente del balneario aparece asesinado, el propio Denísov es el primer interesado en que se resuelva el crimen. Nastia Kaménskaya se verá atrapada entre la presión de Denísov y el recelo de los policías de Ciudad, a quienes no hace gracia que una moscovita se entrometa en su territorio.La comandante Anastasia Kaménskaya, también llamada Nastia, no es muy agraciada físicamente, no usa maquillaje y tiene un porte un poco desarrapado. Pero se hace querer y tiene una inteligencia agudísima. Tiene un crónico dolor de espalda. En sus ratos libres, para poder aumentar su mermado poder adquisitivo, hace traducciones del inglés o del francés. Además de estos dos idiomas, domina el italiano, español y portugués. Nastia tiene un novio de toda la vida, Liosa Chistikov, un intelectual matemático, con el que parece que acabará casándose.",
+	"contributor": "Elena Panteleeva",
+	"date": "1993-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 101292,
+	"unique_words": 12543,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.897966611667681,
+		"slope": 0.6558655124037264,
+		"std_error_intercept": 0.09602617240664649,
+		"std_error_slope": 0.009027092592474206
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd5c350612971243bb62"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Marinina/Los peones caen primero (54834)/Los peones caen primero - Alexandra Marinina.epub",
+	"creator": "Alexandra Marínina",
+	"title": "Los peones caen primero",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Anastasia Kaménskaya se va a casar finalmente con su eterno novio y está un poco harta de las bromas acerca de la inminente pérdida de su tan preciada libertad, o a propósito de su ineptitud para las tareas domésticas más elementales. Pero pronto un nuevo caso la hará olvidar esas pequeñeces: en los suburbios de Moscú, con espeluznante puntualidad, cada fin de semana aparece un joven muerto. Cuando la víctima resulta ser el nieto de un poderosísimo mafioso, éste inicia una investigación paralela, y su camino se cruza con el de Nastia. Ambos buscan al francotirador, que persigue un fin desconocido, puesto que no puede tratarse de un loco: es un profesional que actúa con método y sangre fría. ¿Qué pretende demostrar?...Por otro lado, también se cruza en la investigación un coronel del Departamento de Delitos Económicos, víctima de una acusación tan injusta como repentina, que se ve envuelto en otro asesinato. A través de él descubrimos que otro criminal anda suelto.",
+	"contributor": "Elena Panteleeva",
+	"date": "1995-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 120141,
+	"unique_words": 13273,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0293858202952966,
+		"slope": 0.6394233707400251,
+		"std_error_intercept": 0.06354403755314957,
+		"std_error_slope": 0.0058924601151698185
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd63350612971243bb63"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Marinina/Morir por morir (39189)/Morir por morir - Alexandra Marinina.epub",
+	"creator": "Alexandra Marínina",
+	"title": "Morir por morir",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Moscú, hacia 1990. Un chantajista amenaza a un matrimonio con revelar que su hijo de doce años es adoptado. ¿Cómo ha salido a la luz este secreto? La investigación se centra en un juez que confiesa que le han robado varios sumarios. Anastasia Kaménskaya, de la policía criminal, insuperable como siempre, sospecha que ese robo múltiple oculta otro asunto mucho más turbio, que ella descubre rápidamente. Un eminente científico degüella a su mujer, pierde la memoria y el juicio, y cuando parece que es capaz de recordar algo, también pierde la vida. ¿Qué misterio se esconde tras ese drama familiar y por qué han querido taparlo? ¡Un asesino demoníaco anda suelto! Una vez más la inefable Nastia, con sus cafés, sus cigarrillos, sus problemas de circulación y sus dolores de espalda, hallará la solución de todos estos misterios y se ganará la admiración de su público.«Bien estructurada, esta nueva investigación de Anastasia reserva muchas sorpresas hasta la última página. Con la guerra de Chechenia como telón de fondo, nos presenta científicos corruptos, académicos inútiles, jueces sin escrúpulos y servicios secretos que desprecian los derechos humanos. ¡Una auténtica novela negra rusa!», Claude Mesplède.",
+	"contributor": "Elena Panteleeva",
+	"date": "1995-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 140836,
+	"unique_words": 15222,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7538852327712167,
+		"slope": 0.6666002309464887,
+		"std_error_intercept": 0.0842767629581317,
+		"std_error_slope": 0.007716490830956671
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd69350612971243bb64"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Marinina/Muerte y un poco de amor (54830)/Muerte y un poco de amor - Alexandra Marinina.epub",
+	"creator": "Alexandra Marínina",
+	"title": "Muerte y un poco de amor",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Anastasia Pávlovna Kaménskaya, Nastia, trabaja como analista en la Dirección General de Interior en Petrovka, 38. Después de muchos años de relación, finalmente sucumbe a las presiones familiares y decide casarse con su novio de toda la vida, el matemático Liosha Chistiakov. Horas antes de la boda, recibe un anónimo en el que es amenazada de muerte si sigue adelante y termina casándose, pero no le da ninguna importancia. Cuando finaliza la ceremonia, y todavía en el registro civil, suena un disparo y una de las novias que esperaba su turno aparece asesinada en los servicios. Rápidamente, Kaménskaya, a pesar de que se encuentra de permiso, se hace cargo de la investigación.Ese mismo día, en el intervalo de dos horas, en otro registro civil de la capital rusa, ocurre una tragedia análoga. Al investigar estos misteriosos asesinatos, Anastasia Kaménskaya descubre que muchas de las novias, en la víspera de su boda, habían recibido cartas similares a la suya, pero por alguna razón ninguna de ellas se había dirigido a la policía.Por fin, y después de varios años de espera, vuelve a nuestro país la zarina de la novela negra rusa, Alexandra Marinina. Autora de más de treinta novelas y con más de 20 millones de ejemplares vendidos en todo el mundo, Marinina, galardonada en repetidas ocasiones dentro y fuera de su país, es sin duda la autora rusa contemporánea que goza de mayor popularidad en todo el mundo.",
+	"contributor": "Fernando Otero Macias & José Ignacio López Fernández",
+	"date": "1995-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 126770,
+	"unique_words": 12787,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.99514189081824,
+		"slope": 0.6354981965081304,
+		"std_error_intercept": 0.057307181119051184,
+		"std_error_slope": 0.005291333919773494
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd6d350612971243bb65"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Marinina/Retrato postumo (54829)/Retrato postumo - Alexandra Marinina.epub",
+	"creator": "Alexandra Marínina",
+	"title": "Retrato póstumo",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Alina Vaznis es una actriz que hasta hace un año protagonizaba películas de pequeño presupuesto. Tras mucho esfuerzo y vicisitudes había conseguido, por fin, el reconocimiento internacional. Y, repentinamente, alguien ha acabado con su vida.Anastasia Kaménskaya, comandante de la policía moscovita, se verá envuelta en la investigación de este extraño caso, y aunque en un principio parece que nadie podría tener motivos para acabar con Alina, poco a poco va descubriendo que la actriz tenía más enemigos de los que podía pensar: familiares, compañeros de reparto, la esposa del propietario de la productora de las películas de la fallecida, un talentoso director de cine cuya carrera había caído en picado hasta conocer a Alina e iniciar una relación con ella, e incluso un extraño admirador secreto podrían ser los asesinos.Anastasia, con la única ayuda de Yuri Korotkov, su compañero, e Iván Zatochny, un antiguo policía que ahora trabaja como jefe de seguridad de la productora, tendrá que unir las piezas de este inmenso rompecabezas en el que nada es lo que parece.Autora de más de treinta novelas, y con más de 20 millones de ejemplares vendidos en todo el mundo, Marínina, galardonada en repetidas ocasiones dentro y fuera de su país, es sin duda la autora rusa contemporánea que goza de mayor popularidad en todo el mundo.",
+	"contributor": "Fernando Otero Macías & José Ignacio López Fernández",
+	"date": "1995-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 83382,
+	"unique_words": 9963,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9246494672029735,
+		"slope": 0.6430240107001388,
+		"std_error_intercept": 0.05585789767175409,
+		"std_error_slope": 0.00533369168162544
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd72350612971243bb66"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Martin Fynn/De Inglaterra a Virginia (48383)/De Inglaterra a Virginia - Alexandra Martin Fynn.epub",
+	"creator": "Alexandra Martin Fynn",
+	"title": "De Inglaterra a Virginia",
+	"subject": "Novela",
+	"rights": "WORLD ALL LANGUAGES",
+	"publisher": null,
+	"description": "Anne McLeod, hija de un barón inglés, ha heredado unas vastas tierras en la lejana Virginia. Debido a una decepción amorosa la joven emprende la mayor aventura de su vida: un viaje cruzando el Atlántico para hacerse cargo del magnífico rancho «Eaglethorne» La propiedad ocasiona numerosos problemas a su nueva dueña, incluido un misterio que rodea a su poco fiable administrador. En su nuevo hogar, Anne conocerá a Harrison Bradley, un orgulloso vaquero de quien sin poder remediarlo se enamorará perdidamente.\n«Novela finalista del VI Certamen de Novela Romántica Vergara-RNR»",
+	"contributor": null,
+	"date": "2016-02-12T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 105774,
+	"unique_words": 11498,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0758479602549844,
+		"slope": 0.6315841710890022,
+		"std_error_intercept": 0.12893027311390773,
+		"std_error_slope": 0.012078285169866546
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd78350612971243bb67"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Martin Fynn/Pintar en las sombras (58445)/Pintar en las sombras - Alexandra Martin Fynn.epub",
+	"creator": "Alexandra Martin Fynn",
+	"title": "Pintar en las sombras",
+	"subject": "Novela",
+	"rights": "WORLD ALL LANGUAGES",
+	"publisher": null,
+	"description": "La Condesa Lobelia Hart está horrorizada: su sobrina Joanna, escudándose tras un nombre masculino, ha solicitado ser miembro del Círculo de Caballeros dedicados a las Artes. El padre de la joven, Lord Maximilian McLeod, le ha confiado a Lobelia la tarea de encontrar un marido para su hija, pero la muchacha no le facilita la misión a su tía. En casa de los Hart, Joanna sueña con convertirse en una pintora profesional y recorrer el mundo. Desafortunadamente, para una joven de alta sociedad de fines del siglo XVIII ese destino resulta tan imposible como tocar el sol. Desgarrada entre las ansias de dedicar su vida al arte y la obligación de honrar a su familia, Joanna vive una doble vida: de día se comporta de acuerdo a los estrictos parámetros sociales que le impone su tía y de noche se entrega a su pasión por la pintura. Mientras tanto, en el barrio más elegante de Londres, el Duque de Cunningstone, un solterón empedernido y reconocido mujeriego, acaba de adquirir el cuadro más excepcional de su vasta colección. Enciende aún más su interés que el autor se niegue a revelar su identidad, motivándolo a hacer lo imposible para desenmascarar al escurridizo artista. Él no sospecha que el pintor es, en realidad, una joven dama. Pintar en las sombras forma parte de una serie histórica que comenzó con De Inglaterra a Virginia, finalista en el VI Certamen Vergara-RNR. Cada novela de la serie puede leerse de forma independiente.",
+	"contributor": null,
+	"date": "2016-11-05T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 114211,
+	"unique_words": 13658,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.887877887933815,
+		"slope": 0.6582311660847772,
+		"std_error_intercept": 0.12704604538253791,
+		"std_error_slope": 0.01182885037591777
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd7c350612971243bb68"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Martinez/Un camino sin rumbo (82845)/Un camino sin rumbo - Alexandra Martinez.epub",
+	"creator": "Alexandra Martínez",
+	"title": "Un camino sin rumbo",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "'Un camino sin rumbo' de Alexandra Martínez, te llevará a vivir una espectacular aventura, en ella, su protagonista Ana, tras haber sido secuestrada por desconocidos, se encuentra perdida en un extraño y despiadado mundo, donde conoce a León, un chico que se convertirá en su amor y rival, durante una lucha a muerte, para finalmente descubrir un experimento científico terrible que logrará explicar cada uno de los desgarradores momentos y le conducirá a un desenlace en el cual la aventura apenas comienza: Un Camino Sin Rumbo.",
+	"contributor": null,
+	"date": "2018-05-03T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 82217,
+	"unique_words": 8930,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9343016507568331,
+		"slope": 0.630031971969924,
+		"std_error_intercept": 0.098741899160107,
+		"std_error_slope": 0.009439258947008818
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd82350612971243bb69"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Oliva/Estas sola (73825)/Estas sola - Alexandra Oliva.epub",
+	"creator": "Alexandra Oliva",
+	"title": "Estás sola",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Doce concursantes de variado talento y carácter compiten en un duro reality de supervivencia en una selva remota. Lo que comienza como un concurso bien planeado y supervisado pronto se convierte en algo mucho más oscuro y complicado con una protagonista excepcional e indiscutible: la concursante Zoo ha de defenderse ella sola en este entorno hostil, pero al mismo tiempo que sus reservas emocionales y físicas empiezan a flaquear, su habilidad para analizar lo que está viviendo será su triunfo o su derrota.Sofisticado y provocador, este impresionante thriller nos obliga a reflexionar sobre el papel que los medios de comunicación desempeñan en nuestra percepción de lo que es real y demuestra con qué facilidad nos dejamos influir por nuestros juicios y lo sencillo que resulta manipularnos.",
+	"contributor": "Gabriel Dols Gallardo",
+	"date": "2016-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 123696,
+	"unique_words": 14729,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.754083530490931,
+		"slope": 0.6707701088389254,
+		"std_error_intercept": 0.10850870564252904,
+		"std_error_slope": 0.010038614205723799
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd86350612971243bb6a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Petrovic Jimenez/Almas de papel_ liber primus (59243)/Almas de papel_ liber primus - Alexandra Petrovic Jimenez.epub",
+	"creator": "Alexandra Petrovic Jiménez",
+	"title": "Almas de papel: liber primus",
+	"subject": "Juvenil",
+	"publisher": null,
+	"description": "Este bello relato juvenil narra la historia de una joven estudiante que ignora su verdadero origen, el cual se remonta a una dinastía de gobernantes de una tierra fantástica a la que debe ir a luchar para garantizar su existencia. En medio de todo conocerá a dos hombres extraordinarios que despertarán sentimientos hasta entonces desconocidos para ella, el problema es que su mundo y el mundo real penden de un hilo y los sacrificios que todos tendrán que hacer harán que sus vidas tomen rumbos inciertos. Esta historia te atrapará desde el principio, con un estilo fresco la autora nos sumerge en una historia juvenil desarrollada en maravillosos mundos mágicos, cargada de romance y excitante aventura épica.",
+	"contributor": null,
+	"date": "2014-09-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 73696,
+	"unique_words": 9626,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0130554813332986,
+		"slope": 0.6390587155478039,
+		"std_error_intercept": 0.07339070220554615,
+		"std_error_slope": 0.007077777010102254
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd8e350612971243bb6b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Potter/Tu no vas a ser mi amor (75374)/Tu no vas a ser mi amor - Alexandra Potter.epub",
+	"creator": "Alexandra Potter",
+	"title": "Tú no vas a ser mi amor",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Cuando Lucy conoce a Nate en Venecia sabe al instante que él es su verdadero amor. Cuando se besan al atardecer en una góndola bajo el Puente de los suspiros parecen sellar —de acuerdo a la leyenda— el romance para siempre. Pero la vuelta a sus países de origen y la distancia hacen que todo se enfríe y Nathaniel, desde Norteamérica, deje a Lucy por teléfono anunciándole que se va a casar con otra. Diez años más tarde Lucy se muda a Nueva York y capta que no ha podido quitarse a Nate de la cabeza. Aún perdura en ella el influjo veneciano. ¿Cómo conseguirá deshacerse de él? Porque para siempre es muchísimo tiempo...",
+	"contributor": null,
+	"date": "2010-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 145820,
+	"unique_words": 14037,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.076659548708812,
+		"slope": 0.6301144903921483,
+		"std_error_intercept": 0.09627685166074043,
+		"std_error_slope": 0.008790841209235695
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fd9d350612971243bb6c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Ripley/La llama eterna (81501)/La llama eterna - Alexandra Ripley.epub",
+	"creator": "Alexandra Ripley",
+	"title": "La llama eterna",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Esta novela recrea la vida de Jose de Arimatea (el rico mercader que cargo la cruz de Jesus), y dibuja de manera esplendida la epoca en la que el Imperio Romano estaba en expansion, los druidas poblaban la actual Inglaterra y el Hijo de Dios aun paseaba por la tierra.",
+	"contributor": null,
+	"date": "1997-09-30T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 292293,
+	"unique_words": 26696,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.706956317413445,
+		"slope": 0.676313716201748,
+		"std_error_intercept": 0.0753137991190527,
+		"std_error_slope": 0.006510816014299709
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdb1350612971243bb6d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Ripley/Scarlett (39896)/Scarlett - Alexandra Ripley.epub",
+	"creator": "Alexandra Ripley",
+	"title": "Scarlett",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Si hubo alguna vez una mujer que dejara escapar al hombre de su vida, al único que la amó incondicional y ciegamente, esa mujer fue la frívola y caprichosa Scarlett O’Hara. Si hubo un hombre enamorado, que comprendiera y aceptara el carácter ambicioso, vulnerable y en ocasiones entrañablemente infantil de Scarlett, ese hombre fue Rhett Butler.La inolvidable protagonista de Lo que el viento se llevó inicia en esta novela una tenaz búsqueda de la felicidad. Tara, las ciudades ocupadas por los yanquis, la Irlanda de los O’Hara y los caminos del dolor y el desamor son los escenarios en que se desarrolla la lucha de Katie Scarlett por dar un nuevo sentido a su vida. La joven muchacha se transformará en una hermosa mujer, independiente y ambiciosa como en su juventud, pero más humana y segura de sí misma. Una lectura obligada para los fans de Lo que el viento se llevó.",
+	"contributor": "Josep Ferrer I Aleu",
+	"date": "1991-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 364293,
+	"unique_words": 26930,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7661109348505366,
+		"slope": 0.6621739168303822,
+		"std_error_intercept": 0.13150949102712875,
+		"std_error_slope": 0.011177549296369804
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdb8350612971243bb6e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Risley/Bajo el cielo de Cawnpore (75623)/Bajo el cielo de Cawnpore - Alexandra Risley.epub",
+	"creator": "Alexandra Risley",
+	"title": "Bajo el cielo de Cawnpore",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Cawnpore, India, 1857. Después de cien años de dominación, Inglaterra aún sigue saqueando las inmensas riquezas de la India. Los cipayos –el ejército de nativos que los británicos usan para someter a otros nativos, para despojarlos de sus tierras, para enfrentarlos a sus ancestrales tradiciones– están a punto de rebelarse con el apoyo de los majarás destituidos. A esa tierra maravillosa y convulsionada, crispada y fascinante, llega Abigail Fortescue para casarse con Henry Wilcotts, el hombre que conoció en su adolescencia, por el que guarda un profundo afecto, a quien hace años que no ve. Allí también conocerá al capitán Ballard, el hombre capaz de evitar el paso de la rebelión al baño de sangre, con quien tendrá una inesperada complicidad que dará paso a un vínculo apasionado. Amo la India desde que puse un pie aquí: la simplicidad de su gente, el Ganges, las insólitas montañas, pero no todos podemos amar algo que es tan vulnerable, porque corremos el riesgo de volvernos vulnerables también. En su tercera novela, Alexandra Risley vuelve a narrar con maestría las miserias de un imperio decadente en la historia de Abigail y de Simon, dos personas capaces de inventar su propio destino.",
+	"contributor": null,
+	"date": "2014-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 143120,
+	"unique_words": 16975,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.810975468896813,
+		"slope": 0.6699902674679328,
+		"std_error_intercept": 0.12084277658797755,
+		"std_error_slope": 0.011050338873008417
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdbf350612971243bb6f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Risley/El bosque de Laurel (60246)/El bosque de Laurel - Alexandra Risley.epub",
+	"creator": "Alexandra Risley",
+	"title": "El bosque de Laurel",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Laurel Kirkeby, la vizcondesa de Colvile, es la mujer más deseada de toda Inglaterra. Aristócratas y burgueses sucumben miserablemente ante su belleza y arrogancia, hasta que caen en la cuenta de que está completamente loca. La enfermedad que ha acompañado a Laurel desde la niñez es un secreto a voces en el seno de la alta sociedad británica: una mezcla insólita de inocencia, egocentrismo, inadaptabilidad a las normas sociales más elementales y el temperamento de alguien que ha sido poseído por el mismísimo demonio. Su locura es la agonía de su madre, la razón de la apatía de su padre y, más recientemente, de las burlas crueles de su marido. Luego de su matrimonio de “conveniencia mutua”, Laurel ha sido arrojada a una vida que no le pertenece, pero que al menos le permite dar rienda suelta a sus excentricidades. No obstante, esa vida se verá truncada una vez se convierta en la única testigo de un crimen. La amenaza de ser internada en un manicomio le obligará a luchar en contra de sus más terribles miedos, y un viaje forzoso la llevará a través de senderos desconocidos, de sentimientos novedosos y de la posibilidad de descubrirse a sí misma a través del amor.",
+	"contributor": null,
+	"date": "2016-12-01T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 134195,
+	"unique_words": 15146,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8643582500267153,
+		"slope": 0.6613098219061999,
+		"std_error_intercept": 0.1530059171504745,
+		"std_error_slope": 0.014063415490765428
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdc8350612971243bb70"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Risley/El deseo de Harmony (41084)/El deseo de Harmony - Alexandra Risley.epub",
+	"creator": "Alexandra Risley",
+	"title": "El deseo de Harmony",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Harmony George ha vivido la mitad de su vida bajo el cuidado de un par de tíos apáticos y mezquinos. Su único refugio, un libro censurado por la buena sociedad que narra los periplos de una intrépida viajera, le inspira a buscar su destino en otras fronteras, una vez cumpla la mayoría de edad y tenga acceso a su modesta herencia. Por desgracia, sus tíos han ideado un futuro muy distinto para ella concertándole un matrimonio con el jockey más obsceno y chocante de toda Inglaterra. Cuando se sabe comprometida con semejante truhan y se entera además de que su tío ha utilizado su herencia para pagar viejas deudas, su acariciado sueño comienza a desmoronarse. Horrorizada ante un negro porvenir, Harmony se determina a escapar, en pleno baile de Navidad, para emular a su heroína, Ida Pfeiffer, quien con tan solo un puñado de libras emprendió el viaje de su vida. Devlin Sawyer, el duque de Waldegrave, no consigue olvidar a Victory, la baronesa Lovelance, quien le ha abandonado para correr tras su verdadero amor, por ello ha recurrido a la bebida y a una actitud repelente con el resto del mundo. Mientras se emborracha entre las sombras del jardín de Felton House, sus ojos distinguen a una muchacha que trepa denodadamente por la verja, la huraña y poco atractiva sobrina del hombre que recién le ha estafado. Devlin jamás sospechó que ir tras ella le cambiaría la vida para siempre. Alexandra Risley nos trae su historia más romántica y refrescante, que inicia en la vibrante Inglaterra del último cuarto del siglo XIX, donde la magia de los nuevos inventos y el frenesí industrial de un imperio se conjuga con las viejas tradiciones, el esplendor de la Navidad en Londres, los bailes y castillos señoriales, pero que también padece el rigor de una sociedad intolerante con la mujer que atreve a soñar.",
+	"contributor": null,
+	"date": "2015-06-15T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 156152,
+	"unique_words": 15977,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.116887002594527,
+		"slope": 0.6356846628508089,
+		"std_error_intercept": 0.14187619784726566,
+		"std_error_slope": 0.012884087554042127
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdce350612971243bb71"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Risley/El pianista recostado en el opio (33335)/El pianista recostado en el opio - Alexandra Risley.epub",
+	"creator": "Alexandra Risley",
+	"title": "El pianista recostado en el opio",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "A fines del siglo XIX, los nacionalismos europeos resurgen: se unifican Alemania e Italia, las provincias balcánicas claman por ser liberadas de la opresión de siglos a manos de los turcos. Inglaterra se erige como árbitro en muchas de estas contiendas. Envía a diplomáticos y espías a mediar por los intereses imperiales británicos. Harry Zittlemann, un complejo pianista trashumante, conoce a la burguesía búlgara, tiene vínculos con los conservadores ingleses, habla ruso fluidamente. De repente, es el hombre que Gran Bretaña necesita para mediar en los conflictos bélicos del Imperio Otomano. Harry carga con el peso de los acontecimientos, con la certeza de que lo obligarán a desmembrar a un imperio corrupto para beneficiar a otro igual. Cuando la traición estalle, se abandonará al opio: recostado en un fumadero apenas recordará que lo ha perdido todo. Desde la campiña inglesa hasta Constantinopla, desde el Mar Negro hasta la ambivalencia de Bulgaria, desde los opiómanos hasta el nacimiento del psicoanálisis, la guerra, la ambición política, la música, todo se conjuga en esta novela que cuenta la historia de Europa, de un hombre y sus adicciones y de la mujer que podía salvarlo. Alexandra Risley recrea con maestría el clima de fin del siglo XIX en Europa en una ficción que refleja las tribulaciones de una época.",
+	"contributor": null,
+	"date": "2012-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 124480,
+	"unique_words": 14274,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.804152898260173,
+		"slope": 0.6636523361244977,
+		"std_error_intercept": 0.060914206958362374,
+		"std_error_slope": 0.0056325975380373625
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdd2350612971243bb72"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Risley/El reino de las almas robadas (67732)/El reino de las almas robadas - Alexandra Risley.epub",
+	"creator": "Alexandra Risley",
+	"title": "El reino de las almas robadas",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Érase una vez un reino en el que todas las almas vivían eternamente. Y la eternidad era su castigo. La muerte está a punto de irrumpir en la existencia de la joven Raven Davis. Shadow, su enigmática compañera de habitación en el internado, aparece desangrada en el baño el día antes del baile. Todo indica que se ha suicidado. Un año después, Raven llega a Christchurch con la intención de pasar unas tranquilas vacaciones. Pero una mañana es atropellada por una camioneta y, tras experimentar una extraña sensación, comprende que ella también ha muerto. Mientras atraviesa el umbral que separa la vida de la muerte, Raven vuelve a ver a Shadow, alejada del camino luminoso por donde transitan otras almas. En vano, Raven trata de acercarse a ella, pero solo consigue perderse en un bosque oscuro y nebuloso. Ahora está atrapada en un mundo que no es el suyo. Pronto descubre que se encuentra en un reino donde todas las almas han sido condenadas a vivir eternamente y a luchar entre ellas por el poder y la tierra. ¿Hay alguna posibilidad de escapar? Y no menos importante: ¿brillará, entre las tinieblas de la muerte, la luz del amor?",
+	"contributor": null,
+	"date": "2014-11-03T03:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 90107,
+	"unique_words": 10936,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9916553398801393,
+		"slope": 0.6406114773650453,
+		"std_error_intercept": 0.033807841688049685,
+		"std_error_slope": 0.0032081559667070728
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdd9350612971243bb73"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Risley/Un verano en Chatsworth (80972)/Un verano en Chatsworth - Alexandra Risley.epub",
+	"creator": "Alexandra Risley",
+	"title": "Un verano en Chatsworth",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Mientras la mayoría de las jóvenes de su edad sueñan con enamorarse y lograr un matrimonio conveniente, Fanny Thorton apunta mucho más alto: desea ingresar a una prestigiosa universidad para cursar la carrera de medicina. Aunque los muros que el mundo académico ha erigido para las mujeres se derrumban en una era de avances y trasformaciones, Fanny sufre al no poder concretar sus objetivos… hasta que un golpe de suerte la pone a un solo paso de ellos. Es invitada a asistir al prestigioso retiro intelectual de Chatsworth House, una temporada vacacional reservada para los alumnos más destacados de la Universidad de Cambridge, que se celebra cada año en la magnífica mansión campestre del duque de Devonshire. En aquel exclusivo entorno de recreación y erudición pero también de rechazo de parte de quienes la consideran una arribista con suerte, Fanny reafirmará su determinación de estudiar y de demostrar que una mujer es tan capaz como un hombre de convertirse en médico. En Chatsworth House conocerá a dos brillantes y atractivos estudiantes que compartirán su pasión por la medicina: el enigmático Gabriel Seymour, cuyo talento es minimizado por su terrible reputación, y el arrogante lord Everett Sinclair, quien pone en duda la tenacidad de una mujer para ejercer la medicina. Gabriel y Everett revivirán viejas rencillas y crearán nuevas cuando ambos pongan sus ojos en la resuelta jovencita que aspira matricularse en Cambridge a como dé lugar y convertirse en médico. Alexandra Risley continúa escudriñando en la flamante era victoriana y se detiene en los inicios de la medicina moderna, en el limitado acceso a la educación para la mujer y en su denodada lucha por lograr la igualdad.",
+	"contributor": null,
+	"date": "2017-06-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 133959,
+	"unique_words": 17009,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7565431248637797,
+		"slope": 0.678708679646181,
+		"std_error_intercept": 0.10996937384378978,
+		"std_error_slope": 0.010109207977355188
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fde1350612971243bb74"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Roma/Aura cambia las zapatillas por zapatos de tacon (63438)/Aura cambia las zapatillas por zapatos de - Alexandra Roma.epub",
+	"creator": "Alexandra Roma",
+	"title": "Aura cambia las zapatillas por zapatos de tacón",
+	"subject": "Juvenil",
+	"publisher": null,
+	"description": "Mi nombre es Aura Núñez. Tengo 18 años y este año he abandonado el seno familiar, dejando atrás al santo de mi padre, la maniática de la limpieza de mi madre y el zopenco de mi hermano, para venir a Madrid a estudiar en la Universidad. La meta la tengo clara: quiero crecer, evolucionar, quemar etapas hasta dejar atrás mis converse usadas y calzar unos buenos tacones con los que pasear por la Castellana como la mujer de éxito que aspiro a ser.Pero la experiencia no es tan sencilla como imaginaba. La independencia, mis compañeras de piso, las clases, mis sueños, dudas, y, lo más importante, encontrarme a mí misma en el caos de mi existencia, aprender a vivir.Para complicarlo todo un poco más, conozco a dos chicos, Víctor e Ismael, con los que mi universo cambia irremediablemente. Un cantautor solitario, atractivo, repleto de tatuajes y enigmático, capaz de tocar en lo más profundo de mi corazón con cada nota que arranca a su guitarra y un actor popular, sexy, con una sonrisa arrebatadora y provocador que me asegura que es el protagonista de mi «Para siempre» de cuento de hadas. Y mi mundo se tambalea al descubrir que amar a alguien con los cinco sentidos no siempre es fácil, sumergida en un amor tan intenso, profundo y único que temo que mi pobre corazón no sea capaz de soportarlo, ¿me acompañas en la aventura de mi vida?",
+	"contributor": null,
+	"date": "2015-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 154509,
+	"unique_words": 17115,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.717582100132672,
+		"slope": 0.6747540165848394,
+		"std_error_intercept": 0.1119384833272313,
+		"std_error_slope": 0.010173899778729135
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdea350612971243bb75"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Roma/Aura tira los tacones y echa a volar (63439)/Aura tira los tacones y echa a volar - Alexandra Roma.epub",
+	"creator": "Alexandra Roma",
+	"title": "Aura tira los tacones y echa a volar",
+	"subject": "Juvenil",
+	"publisher": null,
+	"description": "Ha pasado ya un año desde que llegué a Madrid. Durante ese tiempo he experimentado la independencia, he hecho nuevos amigos y me he enamorado hasta el límite de que amar más era imposible. Sin embargo, septiembre ha llegado y con él una nueva etapa repleta retos, emociones, ilusiones y sentimientos.Voy a empezar a estudiar periodismo, el grado que siempre he soñado, como una idealista cuya única meta es el cielo a pesar de que no tenga alas y existan claras posibilidades de que acabe mi viaje por las alturas, cayendo de golpe al suelo, a la altura de la cola del paro para ser concretos. Por lo menos contaré con la ayuda de Sara, Vilma, Ana y Dani que me acompañarán por el complicado mundo de los «becarios-precarios» y muchas experiencias más, y un nuevo ente que llega a mi vida para ponerlo todo patas arriba, Christian, mi hermano.Y, por supuesto, también está Víctor, ese cantautor que invadió con la tinta de sus tatuajes mi corazón al completo y al que voy a visitar a Londres con la firme propuesta de abrirme en canal para confesarle toda la verdad y asumir su respuesta, para bien o para mal. E Ismael que regresa dispuesto a recuperar el tiempo perdido y darme todo lo que yo necesitaba, esa relación por la que un día quise que se viniera el suelo de mi cuarto abajo. ¿Me acompañas en el último tramo de esta historia, ayudándome, sufriendo, riendo y sintiendo conmigo? ¿Ponemos juntas el punto y final?",
+	"contributor": null,
+	"date": "2015-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 171151,
+	"unique_words": 17444,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.75380912254276,
+		"slope": 0.6678723047338978,
+		"std_error_intercept": 0.09791664852075599,
+		"std_error_slope": 0.008827543639727386
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdf0350612971243bb76"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Roma/Capture tu mirada en una fotografia (48328)/Capture tu mirada en una fotografia - Alexandra Roma.epub",
+	"creator": "Alexandra Roma",
+	"title": "Capturé tu mirada en una fotografía",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Una fotografía y los ojos color caramelo de un desconocido fueron los ingredientes que Bianca necesitó para comenzar a escribir un guion cinematográfico. Lo que ella no se podía imaginar es que una productora aceptaría hacer la película y, mucho menos aún, que el día en que se lo comunicasen, el destino volvería a colocar a ese hombre en su camino y que acabaría descubriendo que era actor. Demasiadas casualidades, ¿no? Bianca decide acabar con el azar y hacer TODO lo posible para conseguir que él sea el protagonista del filme. Lo malo es que acabará topando con el hermano mayor de éste, Matteo, un hombre misterioso, enigmático y con unos profundos ojos azules, que logra sacarla de sus casillas cada vez que se ven. Una bonita, dulce e intensa historia de amor al ritmo de «silencio, cámara y acción» en la que la protagonista descubrirá que a veces el verdadero amor está al alcance de la mano y que hay que hacer caso a los sentimientos Una novela con la que nos reiremos, lloraremos, reflexionaremos y, sobre todo, nos enamoraremos hasta la locura.",
+	"contributor": null,
+	"date": "2016-01-18T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 121282,
+	"unique_words": 13317,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.136028965295141,
+		"slope": 0.6311626724592808,
+		"std_error_intercept": 0.10558136823244411,
+		"std_error_slope": 0.009783184373107063
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fdf9350612971243bb77"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Roma/El club de los eternos 27 (79600)/El club de los eternos 27 - Alexandra Roma.epub",
+	"creator": "Alexandra Roma",
+	"title": "El club de los eternos 27",
+	"subject": "Juvenil",
+	"publisher": null,
+	"description": "Julien Meadow era el chico de la eterna sonrisa, el que cantaba en el garaje con su hermano y el que se enamoró de unos ojos valientes ocultos tras una mecha rosa, los de Crysta.Nunca hubiera esperado que, a raíz de un vídeo subido a YouTube, le llegaría la fama. De repente, su voz inundaba el mundo y su cara protagonizaba las noticias.Julien debe hacer frente a un nuevo universo lleno de altibajos, lujo, descontrol y poder. Uno en el que te vuelves adicto a focos que queman y a palabras que muerden. Uno en el que echas de menos un abrazo de un gigante o que te besen con brochazos de pintura.Todo el mundo sabe que Julien Meadow es el cantante con más éxito del plantea. Solo algunos recuerda que fue una persona.",
+	"contributor": null,
+	"date": "2018-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 170499,
+	"unique_words": 18178,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9528439194719691,
+		"slope": 0.6537494846519717,
+		"std_error_intercept": 0.08052124744908934,
+		"std_error_slope": 0.0072614966176870735
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe03350612971243bb78"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Roma/Hasta que el viento te devuelva la sonrisa (71272)/Hasta que el viento te devuelva la sonrisa - Alexandra Roma.epub",
+	"creator": "Alexandra Roma",
+	"title": "Hasta que el viento te devuelva la sonrisa",
+	"subject": "Juvenil",
+	"publisher": null,
+	"description": "¿Qué pasa con la reina del baile cuando termina el instituto?April lo tenía todo: el chico de sus sueños, una beca para una prestigiosa universidad y un prometedor futuro en Nueva York. Pero a veces la vida golpea y zarandea, y solo hicieron falta dos faros cegadores y un hombre desesperado para que le arrebataran su soñado final de cuentos de hadas.Su presente está en ruinas. April se aferra a los recuerdos y a un futuro incierto. Sin embargo, justo cuando menos se lo espera, regresa un fantasma del pasado. Alguien que se ha roto y recompuesto tantas veces que puede tener la fórmula para que ella también lo logre.",
+	"contributor": null,
+	"date": "2017-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 204511,
+	"unique_words": 19539,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9764437951948801,
+		"slope": 0.649101704591901,
+		"std_error_intercept": 0.1352245047840229,
+		"std_error_slope": 0.012020788113247607
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe0b350612971243bb79"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Roma/Un oceano entre tu y yo (40614)/Un oceano entre tu y yo - Alexandra Roma.epub",
+	"creator": "Alexandra Roma",
+	"title": "Un océano entre tú y yo",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Hugo Molina fue relegado de su puesto como oficial en la Unidad de Drogas y Crimen Organizado (UDYCO). Los antepasados de Adriana Sierra ci­mentaron su fortuna gracias al narcotrá­fico en Vilagarcía de Arousa. Su padre, alcalde de la ciudad, pasa los días tra­tando de probar que la corrupción no se lleva en los genes. Dicha actitud pone a su familia en peligro, por lo que la joven se ve obligada a aceptar la protección de un guardaespaldas. Hugo no tiene problemas para reprimir sus sentimientos hacia Adriana siem­pre que se mantengan a una distancia prudencial, pero cuando ella le hace participar en la investigación de la muerte de su hermana, el control se le escapará de las manos. A pesar de que la primera regla de un escolta es no intimar con sus protegidos, el amor no entiende de normas y los protagonistas de esta trepidante novela se verán consumidos por las devastadoras llamas de la pasión.",
+	"contributor": null,
+	"date": "2015-02-04T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 125826,
+	"unique_words": 14688,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.840964538070988,
+		"slope": 0.6620730242144428,
+		"std_error_intercept": 0.08555155806898825,
+		"std_error_slope": 0.007903940801633168
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe0e350612971243bb7a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Schwetz/Pasion Rouge (43339)/Pasion Rouge - Alexandra Schwetz.epub",
+	"creator": "Alexandra Schwetz",
+	"title": "Pasión Rouge",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "En el corazón de Paris, una adolescente rebelde y soñadora sufre la pérdida de su ser más querido — su padre. Sucumbida al rencor, se queda sin rumbo, hasta que lo conoce a él — un hombre en el que se refugia, y que no sabe cómo resistir al desastre natural que ella representa en su vida. Juntos, desatan una pasión que crece, que se transforma, que no conoce de fronteras y que cruza los límites de lo permitido…",
+	"contributor": null,
+	"date": "2015-09-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 56823,
+	"unique_words": 7277,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0723366137975954,
+		"slope": 0.6231709197258223,
+		"std_error_intercept": 0.06331893081234578,
+		"std_error_slope": 0.006235182754041571
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe10350612971243bb7b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandre Arnoux/El reino de la felicidad (40681)/El reino de la felicidad - Alexandre Arnoux.epub",
+	"creator": "Alexandre Arnoux",
+	"title": "El reino de la felicidad",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "¿Cómo sería una Humanidad de la que hubiesen desaparecido las grandes ciudades, los tranvías, los automóviles, los periódicos, la banca, la bolsa, la televisión y las huelgas? De la que hubiese desaparecido la Civilización, en una palabra…. Esto es lo que nos describe Alexandre Arnoux en este libro, cuya acción transcurre en un París futuro, reconquistado por la naturaleza y convertido en selva…presentándonos al propio tiempo una sociedad bucólica, que no conoce la desdicha -pero tampoco la risa-, sosegada y satisfecha de su suerte… mas en cuyo seno subsisten los gérmenes del antiguo dolor y rebeldía humanos, que al fin vuelven por sus fueros.",
+	"contributor": null,
+	"date": "1962-05-16T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 48417,
+	"unique_words": 9831,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3397824040870954,
+		"slope": 0.7308626610580186,
+		"std_error_intercept": 0.10909758934923139,
+		"std_error_slope": 0.010881559433849459
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe14350612971243bb7c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandre Dumas (hijo)/La dama de las camelias (7021)/La dama de las camelias - Alexandre Dumas (hijo).epub",
+	"creator": "Alexandre Dumas (hijo)",
+	"title": "La dama de las camelias",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Marguerite vive para el amor y muere por el amor. Su joven amante, arrebatado por su belleza, está pronto a desoír las voces que quieren imponerse a su corazón.Toda la vida de la Francia fastuosa del Segundo Imperio se arrastra por los salones de este París, que como monstruo insaciable, consume las víctimas puestas al alcance de sus garras.",
+	"contributor": "Alphonse Mucha",
+	"date": "1848-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72595,
+	"unique_words": 8704,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0202096415430004,
+		"slope": 0.629927539912198,
+		"std_error_intercept": 0.03706954159371903,
+		"std_error_slope": 0.003579290179852084
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe16350612971243bb7d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandre Gii/Predecible - Impredecible (42936)/Predecible - Impredecible - Alexandre Gii.epub",
+	"creator": "Alexandre Gii",
+	"title": "Predecible - Impredecible",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "¿Alguna vez te has sentido muerta incluso cuando vives físicamente alrededor de miles de personas cuyo único propósito es hacerte sentir viva? Pues si tu respuesta fue «sí», quizá variemos en una posibilidad. Aunque, si soy sincera, yo me sentía completamente inconstante… muerta incluso. Y lo estaba. Estaba muerta. No quería tener ninguna relación con nadie luego de que le perdí, a mi hermano, a Logan, cuyo amor desapareció de mi interior luego del accidente. Sin embargo se me ha dado una segunda oportunidad para recuperar ese vacío que quedó en mi interior, todo el amor –el que ni siquiera mi padre ha conseguido devolverme–, y si soy honesta, lo aprovecharé el tiempo que sea necesario… incluso cuando eso signifique que deba dar la vida por él, una vida que me devolvió, un vida que ya nadie rescataría, excepto él.",
+	"contributor": null,
+	"date": "2015-09-27T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 49099,
+	"unique_words": 5818,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9661399717567465,
+		"slope": 0.6213936479838031,
+		"std_error_intercept": 0.05687266756319,
+		"std_error_slope": 0.00566630055089318
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe2a350612971243bb7e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandre Kojeve/Introduccion a la lectura de Hegel (66039)/Introduccion a la lectura de Hegel - Alexandre Kojeve.epub",
+	"creator": "Alexandre Kojève",
+	"title": "Introducción a la lectura de Hegel",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "Introducción a la lectura de Hegel reúne las lecciones que Alexandre Kojève impartió sobre la Fenomenología del espíritu (1807) durante los años 1933-1939 en la École Pratique des Hautes Études de París. Estas lecciones ofrecen un comentario completo, y en ocasiones muy exhaustivo, de las principales nociones fenomenológicas, ontológicas e históricas de la mencionada obra de Hegel. El núcleo de las mismas se articula fundamentalmente en torno a la lucha por el reconocimiento, la constitución de una ciudadanía libre y autónoma, el «antropoteísmo» y la tesis del final de la filosofía y de la historia. El lector reconocerá enseguida, por tanto, la gran influencia que ejercen los trabajos de Marx en esta interpretación de la «ciencia de la experiencia de la conciencia».Además de su relevancia estrictamente conceptual, Introducción a la lectura de Hegel posee un amplio interés cultural. Pues varios asistentes a estos cursos se convirtieron después en ilustres representantes de la filosofía y las letras francesas de posguerra (Bataille,Queneau, Hyppolite, Aron, Merleau-Ponty, Caillois o Lacan, entre otros).El autor añadió como apéndice dos conferencias que versan sobre la noción de dialéctica y sobre la idea de la muerte en Hegel. Justo ahí refulge muy claramente la presencia de Ser y tiempo de Heidegger, que constituye la otra gran influencia de este libro de Kojève. La presente edición, primera que presenta en español el texto en su integridad, viene precedida por un prólogo de Manuel Jiménez Redondo, quien repasa las tesis más polémicas y críticas de esta Introducción a la lectura de Hegel.",
+	"contributor": "Andrés Alonso Martos",
+	"date": "1947-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 354816,
+	"unique_words": 15550,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8900502705367326,
+		"slope": 0.604817250935671,
+		"std_error_intercept": 0.16054904988938792,
+		"std_error_slope": 0.01367336358612234
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe2d350612971243bb7f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandre Postel/Los dos tortolos (81462)/Los dos tortolos - Alexandre Postel.epub",
+	"creator": "Alexandre Postel",
+	"title": "Los dos tórtolos",
+	"subject": "Novela",
+	"rights": "Nordica Libros",
+	"publisher": null,
+	"description": "Como las palomas de la fábula, Théodore y Dorothée se aman tiernamente. Esto no evita que se pregunten: ¿cómo divertirse?, ¿alimentarse?, ¿qué hacer con estos dos cuerpos?, ¿a qué dedicarse?, ¿deberíamos fundar una familia, trabajar, sentirnos indignados?, ¿qué hacen los otros?\nEsta novela, que relata el romance de una pareja de hoy, es también una pintura de la sociedad francesa de la década de 2000 y la generación que llega ahora a la edad adulta. Una generación engañada y menospreciada a menudo por su falta de pasión. La narración rezuma una inteligente ironía que hace a los personajes cómicos y terriblemente entrañables. 'La ironía de una generación cautiva de los dictados sociales'.",
+	"contributor": null,
+	"date": "2018-06-06T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 70082,
+	"unique_words": 11890,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1616468694550892,
+		"slope": 0.7362963460816071,
+		"std_error_intercept": 0.05954242865581325,
+		"std_error_slope": 0.005765466758372044
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe31350612971243bb80"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandre Postel/Un hombre al margen (80287)/Un hombre al margen - Alexandre Postel.epub",
+	"creator": "Alexandre Postel",
+	"title": "Un hombre al margen",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Damien North es profesor de Filosofía en una prestigiosa universidad. Viudo, lleva una vida solitaria. Un día es detenido por la policía acusado de haber descargado en su ordenador imágenes provenientes de una red pedófila. El caso genera un gran revuelo puesto que Damien es nieto de Axel North, figura política histórica muy conocida en Francia. A la vista de la terrible acusación, cualquier gesto, cualquier palabra suya puede considerarse una prueba condenatoria. El terrible engranaje empieza a girar...Esta novela, que te atrapa desde la primera página, no trata de la pedofilia. Ésta es sólo una excusa para narrar cómo una decisión judicial puede destrozar la vida de una persona y expulsarla de la sociedad. Para el autor lo importante es acompañar a su personaje en este proceso en el que cambia su percepción de sí mismo al tiempo que la percepción que los demás tienen de él. Una vez inmerso en una situación tan tremendamente perturbadora, ¿es posible volver a empezar de cero?Alexandre Postel ha recibido por esta obra el Premio Goncourt 2013 a la mejor primera novela y el Premio Landerneau Découvertes.",
+	"contributor": "María Teresa Gallego Urrutia",
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68630,
+	"unique_words": 10552,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4492659515715358,
+		"slope": 0.7032066695846327,
+		"std_error_intercept": 0.045566025494134896,
+		"std_error_slope": 0.004419548738751669
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe34350612971243bb81"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandre Vilamor/Yeong-Mi_ Belleza Eterna (61720)/Yeong-Mi_ Belleza Eterna - Alexandre Vilamor.epub",
+	"creator": "Alexandre Vilamor",
+	"title": "Yeong-Mi: Belleza Eterna",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "Sinopsis:Yeong-Mi sabe que ha encontrado al amor de su vida, por eso no está dispuesta a dejarlo ir. Luchará con todas sus fuerzas por retenerlo, aun cuando eso signifique abandonar su propia existencia. La noche en Seoul se vuelve helada mientras caen los primeros copos de nieve, pero eso ya no es un impedimento, pues Yeong-Mi ha dejado de sentir frío.",
+	"contributor": null,
+	"date": "2016-01-26T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68574,
+	"unique_words": 8513,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.510681287411164,
+		"slope": 0.6779125259423691,
+		"std_error_intercept": 0.04068587522694305,
+		"std_error_slope": 0.003946503304456545
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe36350612971243bb82"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandros Papadiamantis/La asesina (75391)/La asesina - Alexandros Papadiamantis.epub",
+	"creator": "Alexandros Papadiamantis",
+	"title": "La asesina",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "La asesina es una magnífica y estremecedora novela sobre la miseria y las difíciles condiciones de vida de las mujeres en la Grecia del XIX. La acción se desarrolla en Skiazos, donde la protagonista, Jadula Frankoyanú, vela a su nieta enferma que acaba de nacer. Durante las noches de insomnio la anciana recuerda los años pasados: su infancia, su matrimonio, los esfuerzos por mejorar su situación económica, las penalidades para conseguir los recursos suficientes para la dote de sus hijas, los hijos varones, también fuente de disgustos y preocupaciones (unos abandonan el hogar para emigrar, otro tiene problemas con la justicia). Tras varias noches en vela la protagonista acaba por perder el juicio y, en su locura, decide liberar a las pequeñas que se encuentra de la penosa vida que les espera. Papadiamandis demuestra ser un profundo conocedor del alma femenina y logra construir un personaje inolvidable, la anciana Frankoyanú, en el que se pueden reconocer rasgos de algunos personajes de la tragedia antigua como Medea y Orestes.",
+	"contributor": null,
+	"date": "1902-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 42860,
+	"unique_words": 6496,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5198775718023172,
+		"slope": 0.6815785536030784,
+		"std_error_intercept": 0.0418230549044919,
+		"std_error_slope": 0.004212237356775872
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe3a350612971243bb83"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexei Fiodorov/Los comunistas pasan a la clandestinidad (32059)/Los comunistas pasan a la clandestinidad - Alexei Fiodorov.epub",
+	"creator": "Alexéi Fiodorov",
+	"title": "Los comunistas pasan a la clandestinidad",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "El gran sentido de la Gran Guerra Patria de la Unión Soviética se ve presente en las páginas de este libro donde su autor, participante de estos terribles acontecimientos que marcaron significativamente la historia de la humanidad y al pueblo soviético, dirigió en los bosques de Chernigov un gran destacamento de guerrilleros en la lucha contra los nazis.",
+	"contributor": null,
+	"date": "1971-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 89181,
+	"unique_words": 11643,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.596307938153783,
+		"slope": 0.6838980357214567,
+		"std_error_intercept": 0.1257178678355728,
+		"std_error_slope": 0.011939764014673603
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe3e350612971243bb84"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexei K. Tolstoi/Vampiros (75197)/Vampiros - Alexei K. Tolstoi.epub",
+	"creator": "Alexéi K. Tolstói",
+	"title": "Vampiros",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "Vampiros reúne seis relatos de Alexéi Konstantínovich Tolstói (1817-1875), primo segundo del autor de Guerra y paz: las dos célebres novelitas Una familia de vampiros (también conocida como La familia del vurdalak en nuestros pagos) y El vampiro, los cuentos Amena, Dos días en las estepas de los kirguises y Artemi Simiónovich Bervenkovsky, y un último e inquietante relato de corte vampírico, titulado Reunidos después de trescientos años, que se ofrece aquí por vez primera en castellano. Se trata, pues, de la edición más completa de la obra de A. K. Tolstói que puede rastrearse en nuestra lengua. Para los cinco primeros textos se ha utilizado la añeja traducción argentina de Olga de Wolkonsky, corrigiéndola para la ocasión. El resultado es una colección de relatos fantásticos cuya lectura resulta tan apasionante como adictiva. Junto a Vampirismo de E. T. A. Hoffmann y a Carmilla de Sheridan Le Fanu, las aportaciones al género de Alexéi Tolstói representan la cumbre de la literatura de vampiros antes del Drácula de Stoker.",
+	"contributor": null,
+	"date": "2017-12-02T05:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 75776,
+	"unique_words": 10242,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0070050861119917,
+		"slope": 0.6407066277131148,
+		"std_error_intercept": 0.056415540007746685,
+		"std_error_slope": 0.005428496204150292
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe42350612971243bb85"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexei Panshin/Rito de iniciacion (16442)/Rito de iniciacion - Alexei Panshin.epub",
+	"creator": "Alexei Panshin",
+	"title": "Rito de iniciación",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "En el año 2198, Mia Havero es una niña de doce años que además de sus estudios regulares toma «Clases de Supervivencia». Estas clases son una preparación para todos los jóvenes a la «Prueba», el rito de iniciación a la edad adulta que se requiere tras cumplir los catorce años. Obligando a los adolescentes a experimentar los rigores y el peligro de la vida en un planeta colonia, las naves tienen la esperanza de evitar la superpoblación y asegurarse de que los supervivientes aporten las dotes positivas a la vida en la nave. Sin embargo, la tasa de mortalidad de los participantes en la «Prueba» es bastante elevado, por lo que no se escatiman gastos para capacitar a los adolescentes que deben pasar un mes en un planeta, lejos del mundo que ellos conocen.Un impresionante relato de las consecuencias psicológicas y morales de la adolescencia en una joven, cuya educación y ambiente pertenecen ciertamente a nuestro futuro aunque con unos problemas siempre actuales.JOHN BRUNNER",
+	"contributor": "Domingo Santos & José Luis Vigil",
+	"date": "2015-04-29",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 99686,
+	"unique_words": 11124,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5582149707400408,
+		"slope": 0.6755927497336247,
+		"std_error_intercept": 0.09086866039192422,
+		"std_error_slope": 0.008553246605472761
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe44350612971243bb86"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexei Varlamov/El nacimiento (77637)/El nacimiento - Alexei Varlamov.epub",
+	"creator": "Alexéi Varlámov",
+	"title": "El nacimiento",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Una historia sutil, llena de ternura y delicadeza narrativa... Sus protagonistas, una pareja distanciada que ha concebido un hijo casi por distracción, renacer y se redescubren con la llegada de su hijo y el dolor ante la idea de perderlo. Varlámov nos habla, en esta novela conmovedora de la capacidad de transformacion por el amor que 'no conoce el medio'.",
+	"contributor": null,
+	"date": "2009-02-18T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 39457,
+	"unique_words": 6477,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8060539752035705,
+		"slope": 0.658550738546207,
+		"std_error_intercept": 0.04582273585613042,
+		"std_error_slope": 0.0046454542266906726
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe4d350612971243bb87"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexey Pehov/El ladron de las sombras (9760)/El ladron de las sombras - Alexey Pehov.epub",
+	"creator": "Alexey Pehov",
+	"title": "El ladrón de las sombras",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Tras siglos de calma, el Sin Nombre se está poniendo de nuevo en movimiento y está reuniendo a un ejército: miles de gigantes, ogros y otras criaturas están aunando sus fuerzas desde todos los rincones de las Tierras Desoladas, unidos, por primera vez en la historia, bajo un único y oscuro estandarte. Hacia la primavera, o quizá incluso antes, el Sin Nombre y sus fuerzas estarán ante las puertas de la gran ciudad de Avendoom.Sólo Harold, el legendario ladrón de Siala, puede hallar un modo de detenerlos. Para ello contará con la ayuda de una princesa elfa, Miralissa, su escolta élfica, y una decena de Corazones Salvajes, los guerreros más experimentados y peligrosos de su mundo… y también del bufón del rey. Su misión, encontrar un artefacto mágico que devolverá la paz al reino de Siala.En la mejor tradición de la fantasía épica, El ladrón de las sombras es el primer volumen de Las Crónicas de Siala. El joven autor ruso Alexey Pehov aúna en su obra las características habituales de series de fantasía épica como Elric de Michael Moorcock, con elementos provenientes de la tradición folclórica rusa.",
+	"contributor": "Manuel Mata Álvarez-Santullano",
+	"date": "2002-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 162397,
+	"unique_words": 16263,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9667298624099367,
+		"slope": 0.6463933924667912,
+		"std_error_intercept": 0.0927742756268031,
+		"std_error_slope": 0.008398839135039287
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe55350612971243bb88"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexey Pehov/El rastreador de sombras (9763)/El rastreador de sombras - Alexey Pehov.epub",
+	"creator": "Alexey Pehov",
+	"title": "El rastreador de sombras",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "La batalla contra las fuerzas del Sin Nombre continúa. Acosados por enemigos implacables y por un destino que parece cebarse con su suerte, Harold el Sombra y sus compañeros continúan su camino en busca de las tenebrosas estancias de Hrad Spein y del único artefacto capaz de detener a un enemigo en apariencia imbatible. Pero su viaje no discurre sólo a través de los caminos y los bosques de Siala, sino también por los secretos de su pasado. Nuevos enigmas surgen ante Harold a medida que se interna en las tinieblas de sucesos lejanos y recuerdos ajenos. ¿Cuál es la auténtica historia del ambicioso hechicero al que el odio de una nación entera sólo permite recordar como el Sin Nombre? ¿Quién es el misterioso Amo que entorpece los esfuerzos tanto de Harold y sus camaradas como los de los sicarios del Sin Nombre? ¿Qué se esconde tras la histriónica máscara del bufón real, Kli-Kli? Y, por encima de todo, ¿qué pretenden en realidad las enigmáticas criaturas del mundo de las sombras que ayudan a Harold en su camino y por qué se empeñan en adjudicarle el extraño título de Bailarín de las Sombras?",
+	"contributor": "Manuel Mata Álvarez-Santullano",
+	"date": "2018-05-18",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 156206,
+	"unique_words": 15379,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7649266423919887,
+		"slope": 0.6607073799453692,
+		"std_error_intercept": 0.07061596401339791,
+		"std_error_slope": 0.006412613696047008
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe60350612971243bb89"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexey Pehov/Tempestad de sombras (15327)/Tempestad de sombras - Alexey Pehov.epub",
+	"creator": "Alexey Pehov",
+	"title": "Tempestad de sombras",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Harold el Sombra, el legendario ladrón de Siala, y sus compañeros han llegado al fin a Hrad Spein. Harold tendrá que aventurarse en solitario en las tenebrosas catacumbas de los Palacios del Hueso para hacer frente a horrores desconocidos y recuperar así el Cuerno del Arco Iris, el único artefacto mágico capaz de devolver la paz a Siala.Pero para llevar a cabo su misión, Harold y sus amigos aún deberán enfrentarse a los agentes del Sin Nombre y su poderosa magia oscura, y conseguir volver a Avendoom antes de que la oscuridad caiga sobre el reino de Valiostr.",
+	"contributor": "Manuel Mata Álvarez-Santullano",
+	"date": "2003-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 210652,
+	"unique_words": 17904,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9790227741613624,
+		"slope": 0.6400511715042575,
+		"std_error_intercept": 0.09216933662505773,
+		"std_error_slope": 0.008174333385102373
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe65350612971243bb8a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexia Mars/A la caza de un impostor (72172)/A la caza de un impostor - Alexia Mars.epub",
+	"creator": "Alexia Mars",
+	"title": "A la caza de un impostor",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "En el competitivo mundo de la publicidad, una mujer dirige con mano de hierro la agencia más exitosa del país: Mavi García. Entrar en ella es un reto y triunfar un sueño. Por eso, Ruth, la mano derecha de Mavi, no duda ni un segundo en aceptar el desafío de su jefa: llevar a la agencia a lo más alto y a cambio conseguir la dirección de una de las filiales de la empresa.Para lograrlo, Ruth escogerá un equipo de plena confianza formado exclusivamente de mujeres. Pero cuando la avalancha de trabajo se hace insostenible decide contratar a una ayudante personal. A la oferta se presenta Dan, un alocado gay con mucho estilo que le pondrá la vida patas arriba.Sin embargo, lo que la joven publicista no imagina es que el dicharachero ayudante es realmente Daniel Argüelles, hijo del dueño de la competencia. Daniel se está haciendo pasar por el atolondrado Dan para desenmascarar a su jefa y arrebatarle el contrato millonario que está a punto de firmar. Y el plan marcharía a las mil maravillas si no fuese porque esa morena descarada le atrae como un imán. Algo que por otro lado es un problema pues, ¿cómo se conquista a alguien que cree que eres homosexual?",
+	"contributor": null,
+	"date": "2017-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 109441,
+	"unique_words": 11969,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9310760715774853,
+		"slope": 0.6444419817115205,
+		"std_error_intercept": 0.056787415238991355,
+		"std_error_slope": 0.005305392471784218
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe6a350612971243bb8b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexia Mars/A la caza de un seductor (72171)/A la caza de un seductor - Alexia Mars.epub",
+	"creator": "Alexia Mars",
+	"title": "A la caza de un seductor",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "Sara Lago es una abogada de treinta y tres años cuyo mayor anhelo es vestirse de blanco y pasar por el altar. Algo totalmente irónico dado que en su trabajo se dedica a separar parejas. Todas sus amigas están casadas y tienen hijos. Bueno, todas menos Bea.El día de su aniversario, siguiendo el consejo de su hermana Ruth, decide darle una sorpresa de lo más alocada a su novio.Aunque al final la sorpresa se la lleva ella.Y como las desgracias nunca vienen solas, Nicolás Rico, el atractivo, mimado y seductor sobrino de sus jefes aparece en su vida para desbaratarle todos sus planes y robarle lo que más desea: ser socia del bufete Rico & Vallejo Abogados.Además, su atípica madre ha decidido regresar de ver mundo e instalarse en su apartamento.De la noche a la mañana, la perfecta Sara se verá inmersa en una divertida sucesión de acontecimientos que le acercarán a un desenlace que nunca imaginó.",
+	"contributor": null,
+	"date": "2017-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 95766,
+	"unique_words": 11017,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6636685057351261,
+		"slope": 0.6681283158761361,
+		"std_error_intercept": 0.05024300877398134,
+		"std_error_slope": 0.0047444835888379635
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe6e350612971243bb8c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexia Mars/A la caza de un sueno imposible (73339)/A la caza de un sueno imposible - Alexia Mars.epub",
+	"creator": "Alexia Mars",
+	"title": "A la caza de un sueño imposible",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "Bea siempre ha creído en los cuentos de hadas, pero en los atípicos. Esos en los que las heroínas acaban salvando al príncipe y no al revés. Por eso, cuando a los siete años el hombre de sus sueños acude en su rescate le jura que algún día será ella la que acabe venciendo al dragón.Y así, gracias a una noche mágica en un castillo veneciano, Bea se reencuentra con su noble italiano y decide conquistarlo. Ayudada por la oscuridad de la noche se introducirá en su habitación y se entregará a él… Sin llegar siquiera a imaginar que el destino ha movido ficha y la ha acercado a otros brazos, unos que ella odia terriblemente.Bea descubrirá que los cuentos no siempre son dulces y que a veces las perdices se comen con quien menos te lo esperas.",
+	"contributor": null,
+	"date": "2017-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 83524,
+	"unique_words": 10962,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6998020053752931,
+		"slope": 0.673208100892778,
+		"std_error_intercept": 0.0790868023440821,
+		"std_error_slope": 0.0075507638785690554
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe71350612971243bb8d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexia Mars/A la caza de una exclusiva (80824)/A la caza de una exclusiva - Alexia Mars.epub",
+	"creator": "Alexia Mars",
+	"title": "A la caza de una exclusiva",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "Andrea Rico es una periodista que trabaja en una revista del corazón y que está dispuesta a todo por conseguir las mejores noticias. Por ello, no dudará en hacer hasta lo imposible para lograr cubrir uno de los enlaces más taquilleros en el mundo de la farándula, aun cuando los novios deseen mantener todo en la más absoluta reserva.Sin embargo, no estará sola para enfrentarse con Sam Davis, responsable de la organización de tamaño evento. No obstante, ambos se llevarán más de una sorpresa en el camino.¿Qué pasaría si, por ansiar tanto una exclusiva, te encontrarás con el amor de tu vida?",
+	"contributor": null,
+	"date": "2018-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 64457,
+	"unique_words": 8741,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8447277860614955,
+		"slope": 0.6549473247433454,
+		"std_error_intercept": 0.07198326636787389,
+		"std_error_slope": 0.007017097308561261
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe78350612971243bb8e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexia Mars/Dime que eres tu (54986)/Dime que eres tu - Alexia Mars.epub",
+	"creator": "Alexia Mars",
+	"title": "Dime que eres tú",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "La apacible existencia de la joven Ariadna Smith se verá perturbada cuando a la muerte de su madre encuentre entre sus pertenencias una fotografía que podría cambiar todo su mundo. Dispuesta a desentrañar el misterio se colará en la poderosa mansión Railey, en la que todos sus miembros esconden un secreto. Poco a poco una oscura telaraña se irá tejiendo a su alrededor y la verdad que tanto ansía se convertirá en un peligro mortal. Su única salvación está en las manos de un solo hombre: Christopher Railey, su acérrimo enemigo.",
+	"contributor": null,
+	"date": "2016-06-30T05:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 141862,
+	"unique_words": 13882,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.2272362167159456,
+		"slope": 0.6186065629849451,
+		"std_error_intercept": 0.11292146914477492,
+		"std_error_slope": 0.010333259508998197
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe7e350612971243bb8f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexia Mars/El baile de la seduccion (61302)/El baile de la seduccion - Alexia Mars.epub",
+	"creator": "Alexia Mars",
+	"title": "El baile de la seducción",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "La vida no había sido muy justa con la joven Gwendolyn, quien a duras penas podía ayudar a mantener el lugar en el que se crio. «Ni con cien años de trabajo lo conseguiría», pensó. Pero... Una noche, un extraño se presenta ante su puerta con una propuesta escandalosa que dará respuesta a todos sus problemas. Así, Gwendolyn se verá abocada a una gran farsa que cambiará el rumbo de su vida y la acercará a los brazos del hombre menos indicado, el oscuro y seductor duque de Malford. La joven, ni en sus más recónditos sueños podría llegar a imaginar que pronto conocería los entresijos de su pasado a través de esa gran mentira… Amor, pasión y engaños en el Londres de la época georgiana. Una estremecedora historia en la que los protagonistas deberán sortear numerosos obstáculos hasta encontrar su final feliz.",
+	"contributor": null,
+	"date": "2017-02-10T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 114442,
+	"unique_words": 12189,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.174374709002186,
+		"slope": 0.6232108294083121,
+		"std_error_intercept": 0.12239065820021275,
+		"std_error_slope": 0.011393534942674317
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe82350612971243bb90"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexia Seris/A traves de Escocia (67074)/A traves de Escocia - Alexia Seris.epub",
+	"creator": "Alexia Seris",
+	"title": "A través de Escocia",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Katherine de Bradbury es una mujer inusual para su época, es audaz, decidida, valiente y bastante diestra como amazona y en el tiro al arco, su vida es apacible e incluso un poco aburrida, hasta que un día el príncipe heredero pone sus ojos en ella. Ian McRae es un laird cansado de las presiones a las que se ve sometido por los clanes vecinos y por sus propias gentes, hasta que un día una extraña se adentra en sus tierras y su vida cambia para siempre. Intriga, pasión, amistad, desengaños, traición y un amor que deberá superar todo lo que el destino les tiene preparado. ¿Lo conseguirán? Sumérgete en la Escocia del siglo XVI de la mano de Ian y Katherine y déjate llevar por una intensa y trepidante historia medieval.",
+	"contributor": null,
+	"date": "2015-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 92499,
+	"unique_words": 9348,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0047958242188426,
+		"slope": 0.6251477758895024,
+		"std_error_intercept": 0.09694776236990525,
+		"std_error_slope": 0.009180393503428343
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3fe86350612971243bb91"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexia Seris/A traves del honor (67424)/A traves del honor - Alexia Seris.epub",
+	"creator": "Alexia Seris",
+	"title": "A través del honor",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Logan McRae lo ha perdido todo tras desafiar a Ian, el Laird de Nairn. Tras el ultimátum de éste, abandona las tierras que una vez fueron su hogar para partir hacia un futuro incierto y un destino desconocido. Athdara McGregor es la primogénita de su clan, marcada con un don, la pesada carga que lleva dentro de su corazón la obliga a salir al encuentro de aquél a quien debe ayudar para recuperar su honor y su valía. Sólo hay un problema, el caballero al que debe ayudar es el highlander por el que lleva suspirando toda su vida. Secretos, intriga, amistad, lealtad, mentiras, traición, pasión y un amor tan intenso como la vida en Escocia. La segunda entrega de la trilogía “Highlands” no te dejará indiferente. ¿Te atreves a adentrarte en la Escocia medieval?",
+	"contributor": null,
+	"date": "2016-12-23T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 87913,
+	"unique_words": 9173,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.898537933709204,
+		"slope": 0.6361800309348297,
+		"std_error_intercept": 0.06922555257521026,
+		"std_error_slope": 0.006582109880393368
+	}
 }]
 
