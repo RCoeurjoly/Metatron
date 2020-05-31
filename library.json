@@ -34755,5 +34755,2365 @@
 		"std_error_intercept": 0.08864645777343859,
 		"std_error_slope": 0.00783271186916177
 	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ebf7350612971243b80e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Albert Simonin/Cuidado con la plata (46026)/Cuidado con la plata - Albert Simonin.epub",
+	"creator": "Albert Simonin",
+	"title": "Cuidado con la plata",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Es el número 1 de la serie Max le Menteur el Rudo ha llegado a la edad crítica y ya no le apetece comportarse con la violencia que le hizo ganar justamente su apodo. Pero acaba de dar un buen golpe y los jovencitos deseosos de hacer méritos, de conquistar fama fácil y de quedarse con la plata que otros han obtenido con el sudor de sus frentes y la habilidad de sus rápidas manos le obligará a emplearse a fondo. Se inicia así la feroz lucha entre un verdadero rudo que quiere dejar de serlo y unos meritorios del hampa que quisieran superar al viejo maestro para arrebatarle su botín, su prestigio y su privilegiada situación.",
+	"contributor": null,
+	"date": "1953-06-01T21:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 74349,
+	"unique_words": 12326,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6651690991692516,
+		"slope": 0.6925366367765806,
+		"std_error_intercept": 0.057406759101505694,
+		"std_error_slope": 0.005532343301559161
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec0d350612971243b80f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Albert Speer/Memorias (37567)/Memorias - Albert Speer.epub",
+	"creator": "Albert Speer",
+	"title": "Memorias",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "Cuando Albert Speer fue condenado por eltribunal de Nuremberg, en 1948, a veinte años de prisión, Hugh Trevor-Roperescribió: «Ahora probablemente tendrá la oportunidad de escribir su autobiografía.Serán las únicas memorias del Tercer Reich que, siendo de gran valor, ademásinvitarán a la lectura». Este libro es la crónica apasionada de unhombre que durante doce años estuvo unido a Adolf Hitler por una relación únicaaunque de distinto signo: como arquitecto remodelador de la ciudad de Berlín,capital del Imperio, como amigo próximo en las tertulias de la Cancillería delReich, como tecnócrata y organizador de una prodigiosa estructuraarmamentística y, a la vez, como un inesperado opositor. Más de cuarenta años después de supublicación, las Memorias de Albert Speer continúan siendo la semblanza másdetallada y fascinante de los círculos íntimos de Hitler, y del auge y caídadel Tercer Reich.",
+	"contributor": "Ángel Sabrido",
+	"date": "1969-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 301316,
+	"unique_words": 24769,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.167359797663171,
+		"slope": 0.6341383836184115,
+		"std_error_intercept": 0.14902485700056767,
+		"std_error_slope": 0.012852767278070713
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec2d350612971243b810"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Albert Vigoleis Thelen/La isla del segundo rostro (67413)/La isla del segundo rostro - Albert Vigoleis Thelen.epub",
+	"creator": "Albert Vigoleis Thelen",
+	"title": "La isla del segundo rostro",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "De las memorias aplicadas de Vigoleis.\nVigoleis y su inseparable compañera Beatrice, exiliados voluntarios del nazismo, desembarcan en Mallorca en 1931 para visitar a un cuñado moribundo. Sus maletas han desaparecido, y el cuñado goza de buena salud. Así empieza esta novela autobiográfica en la que el autor desgrana sus vivencias a través de todo tipo de peripecias y de situaciones disparatadas. Al mismo tiempo, esboza un retrato de la época, hasta el estallido de la guerra civil, una comedia humana en la que desfilan innumerables personajes de la fauna autóctona –pícaros, contrabandistas, prostitutas, anarquistas, un judío erotómano, un grande de España místico, escritores– y extranjeros ilustres –Keyserling, Robert Graves…–. Una suerte de odisea bufa sobre una época llena de malos presagios, obra insolente y satírica y a la vez desgarradora, que traduce todo el amor que pueda sentir por la humanidad un gran pesimista.",
+	"contributor": null,
+	"date": "1952-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 483001,
+	"unique_words": 33284,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0121908165148295,
+		"slope": 0.6467092021650667,
+		"std_error_intercept": 0.16978982151564473,
+		"std_error_slope": 0.014124729791814086
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec31350612971243b811"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Albert Wass/Alguien se equivoco (40689)/Alguien se equivoco - Albert Wass.epub",
+	"creator": "Albert Wass",
+	"title": "Alguien se equivocó",
+	"subject": "Segunda Guerra Mundial",
+	"publisher": null,
+	"description": "Es frecuente oír hablar de los refugiados que producen las guerras. Lo que pocos saben es que, al finalizar la Segunda Guerra Mundial, comenzó el calvario para más de 12 millones de personas desplazadas y expulsadas de sus tierras y sus hogares por los Aliados victoriosos.",
+	"contributor": "Denes Martos",
+	"date": "1970-01-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 61651,
+	"unique_words": 9136,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7131575778137778,
+		"slope": 0.673399038916098,
+		"std_error_intercept": 0.11916633502537732,
+		"std_error_slope": 0.011658211835275418
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec34350612971243b812"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto A. Zalles/Deportacion (47972)/Deportacion - Alberto A. Zalles.epub",
+	"creator": "Alberto A. Zalles",
+	"title": "Deportación",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Deportación es una ficción al estilo latinoamericano. La novela recrea el paisaje sombrío de la “década perdida”, de los años ochenta. Andrés e Ingrid, al emigrar, creen haberse zafado de aquel ambiente, pero ni su pasado, ni el autoritarismo justiciero les perdonan. Así, el día que los servicios secretos ecuatorianos dan con Andrés, todo se derrumba: familia, proyectos profesionales, futuro parten como esquirlas por los aires, pero refundan el sentido pintoresco del drama latinoamericano.",
+	"contributor": null,
+	"date": "2014-10-19T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 50167,
+	"unique_words": 9062,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5190757978775657,
+		"slope": 0.7026322968896558,
+		"std_error_intercept": 0.052055105605958274,
+		"std_error_slope": 0.005177388907881816
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec36350612971243b813"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto A. Zalles/Paris 13 noviembre (51980)/Paris 13 noviembre - Alberto A. Zalles.epub",
+	"creator": "Alberto A. Zalles",
+	"title": "París 13 noviembre",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "París 13 Noviembre es más que una novela; es un retrato de la crisis de identidad francesa. Es también una crónica del coraje de una ciudad desarmada que enfrenta una hecatombe. París 13 Noviembre es una historia de amor, de amistad, de anhelo de vida.",
+	"contributor": null,
+	"date": "2016-06-01",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 34168,
+	"unique_words": 6879,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.607194112517044,
+		"slope": 0.6934216473538939,
+		"std_error_intercept": 0.09383846725396838,
+		"std_error_slope": 0.009621988066740273
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec3b350612971243b814"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Alonso/This book is the milk (40530)/This book is the milk - Alberto Alonso.epub",
+	"creator": "Alberto Alonso",
+	"title": "This book is the milk",
+	"subject": "Idiomas",
+	"publisher": null,
+	"description": "¿Odias el inglés? ¿Llevas estudiando inglés toda tu vida y no consigues aprenderlo? Pues escucha: este libro es para ti. Este es un libro para pasarlo bien; reírse, descubrir cosas nuevas y engancharse, pero no sólo eso, es mucho más. En inglés hay muchas cosas que sabes, el problema es que no sabes que las sabes. Por ejemplo: ¿sabes decir ‘copo de nieve’? Quizá creas que no lo sabes, pero sí lo sabes. Sabes que “corn flakes” son ‘copos de maíz’, los has comido y pronunciado mil veces. Entonces si “corn” es ‘maiz’ y “flakes” son ‘copos’, ¿Cómo se dice ‘copo de nieve’? Claro, ¡¡“Snowflake”!! Esta manera de presentar las palabras consigue algo muy importante, grabarlas en tu cerebro de manera que no las volverás a olvidar. Este proceso lo hacemos con más de 2.000 términos y expresiones. Para aprender un idioma no sirve con conocer una palabra, hay que dominarla, y conseguirlo no siempre es fácil. Con This book is the milk! conseguirás este efecto y todo lo que te presentamos pasará a formar parte de tu inglés activo. This book is the milk! es un libro realizado por Alberto Alonso (presentador de radio y televisión de programas como English on the go y The show with no name en Vaughan) y Damián Mollá (colaborador del programa El hormiguero, Antena 3). Un libro para aquellos que quieren aprender inglés y divertirse al mismo tiempo. ¡Disfrutarás!",
+	"contributor": null,
+	"date": "2015-06-12T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 54039,
+	"unique_words": 10647,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.3689190020504474,
+		"slope": 0.8150468416485517,
+		"std_error_intercept": 0.07439764318550456,
+		"std_error_slope": 0.007355729210492879
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec3b350612971243b815"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Alonso/This book is the remilk!! (82667)/This book is the remilk!! - Alberto Alonso.epub",
+	"creator": "Alberto Alonso",
+	"title": "This book is the remilk!!",
+	"subject": "Referencia",
+	"publisher": null,
+	"description": "El inglés que no sabías que sabías\n¿Crees que el inglés es difícil y aburrido? Tranquilo, ¡aquí tienes un libro para aprender hasta 2.000 palabras con risas, sorpresas y nada de esfuerzo! Aprende inglés con Los Simpson, con las canciones de Disney, descubre qué significado oculto tienen los títulos de tus series, o los chistes que no entendiste de tus películas favoritas…Y es que en realidad, ¡ya sabes inglés! Pero no sabes que lo sabes.",
+	"contributor": null,
+	"date": "2014-12-04T23:00:00+00:00",
+	"original_language": "es"
+},
+{
+	"_id": {
+		"$oid": "5ed3ec3c350612971243b816"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Amaro/El instinto de las amapolas (50999)/El instinto de las amapolas - Alberto Amaro.epub",
+	"creator": "Alberto Amaro",
+	"title": "El instinto de las amapolas",
+	"subject": "Poesía",
+	"publisher": null,
+	"description": "Poesías colaterales para después de una guerra.",
+	"contributor": null,
+	"date": "2015-12-10T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 4606,
+	"unique_words": 1823
+},
+{
+	"_id": {
+		"$oid": "5ed3ec42350612971243b817"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Angela/Amor y sexo en la antigua Roma (77690)/Amor y sexo en la antigua Roma - Alberto Angela.epub",
+	"creator": "Alberto Angela",
+	"title": "Amor y sexo en la antigua Roma",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "• ¿Cómo se amaba en la antigua Roma? • ¿Cómo se besaban los enamorados?• ¿Se llevaban rosas rojas a la primera cita?• ¿Qué ocurría la noche de bodas?• ¿Qué astucias utilizaba una mujer para seducir a un hombre?• ¿Y para ser infiel a su marido?• ¿Cuáles eran las posturas preferidas en la cama?• ¿Es cierto que existían la lencería, las prostitutas de lujo, los afrodisíacos y los juguetes eróticos?Las respuestas a todas estas preguntas y muchas más se encuentran en estas amenas páginas, con sugerentes ilustraciones y fotografías a todo color.Un viaje sorprendente por el amor de hace dos mil años que transporta al lector hasta el corazón mismo de la vida cotidiana en las alcobas del mayor imperio que el mundo ha conocido.",
+	"contributor": null,
+	"date": "2015-04-06T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 123640,
+	"unique_words": 14932,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2698859968374396,
+		"slope": 0.7116562906108757,
+		"std_error_intercept": 0.07620005485314624,
+		"std_error_slope": 0.0070498458945429275
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec45350612971243b818"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Barrera Tyszka/La enfermedad (15650)/La enfermedad - Alberto Barrera Tyszka.epub",
+	"creator": "Alberto Barrera Tyszka",
+	"title": "La enfermedad",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Ernesto Durán sabe que está enfermo. Aunque los resultados clínicos digan lo contrario, desde que se ha separado de su mujer y vive solo, padece todos los síntomas de un mal que, según sospecha, puede ser mortal. Su obsesión va más allá de la mera hipocondría, y tiene la certeza de que sólo hay un médico que puede salvarlo. Pero el elegido, el doctor Andrés Miranda, en esos mismos momentos se enfrenta a una tragedia personal: un diagnóstico irrefutable que señala que su padre tiene cáncer, y le quedan pocas semanas por vivir. Mientras Durán necesita desesperadamente hablar de su caso y de él mismo, el doctor Miranda se siente rehén del silencio, es incapaz de hacer con su padre lo que siempre ha hecho con sus pacientes: decir la verdad. La vivencia de la enfermedad en estas dos personas que ocupan posiciones tan distintas, el médico que sabe acerca de la vida y de la muerte y no quiere o no puede hablar, y el enfermo de angustia que sólo sabe que su sufrimiento no le deja vivir, es la columna vertebral que sostiene a esta hermosa novela, madura, adulta, reflexiva y refinada, que nos susurra desde su primera página algo que está en nuestra naturaleza: vivir mata.",
+	"contributor": null,
+	"date": "2006-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 53665,
+	"unique_words": 7504,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.696878486101746,
+		"slope": 0.6644967034611197,
+		"std_error_intercept": 0.04450999012567658,
+		"std_error_slope": 0.004403137150422623
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec49350612971243b819"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Barrera Tyszka/Patria o muerte (47144)/Patria o muerte - Alberto Barrera Tyszka.epub",
+	"creator": "Alberto Barrera Tyszka",
+	"title": "Patria o muerte",
+	"subject": "Realista",
+	"publisher": null,
+	"description": "El insomnio y una persistente inquietud acompañan la jubilación del oncólogo Miguel Sanabria, que siente cómo la situación política ha emponzoñado su país, Venezuela, y también su vida, dirimida entre el extremismo antichavista de su esposa y el radicalismo bolivariano de su hermano. Esos desajustes irán en aumento en cuanto su sobrino Vladimir, recién llegado de La Habana, le pida que esconda un teléfono móvil en el que hay una grabación comprometedora y secreta de Hugo Chávez en un momento avanzado de su enfermedad.Entretanto, un periodista en paro, Fredy Lacuna, que intenta investigar sobre la enfermedad del presidente, se resiste a dejar el apartamento que le reclama la dueña, recién regresada de Miami; una estudiosa estadounidense, Madeleine, obtiene un contacto importante para completar su ensayo sobre el carisma. Y María, una niña de nueve años que vive encerrada en casa con su madre por la violencia que se ha adueñado de la calle, logra encontrar un amigo por internet.",
+	"contributor": null,
+	"date": "2015-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 66102,
+	"unique_words": 9144,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7912327383734432,
+		"slope": 0.6615572605892289,
+		"std_error_intercept": 0.061798664975006516,
+		"std_error_slope": 0.006012087748409699
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec4d350612971243b81a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Barrera Tyszka/Rating (29244)/Rating - Alberto Barrera Tyszka.epub",
+	"creator": "Alberto Barrera Tyszka",
+	"title": "Rating",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "¿Hasta dónde está dispuesta a llegar la televisión en su desesperada búsqueda de audiencia? Esta pregunta parece respirar en todas las páginas de esta historia. Rating es una novela que explora los límites morales en el crudo mundo de los reality shows y que hurga, desde su interior, en la exitosa industria de la telenovela latinoamericana. La novela alterna, hasta fusionarlas, la voz de Manuel Izquierdo, un guionista en plena crisis de los cincuenta, que después de dos décadas escribiendo melodramas televisivos se ha vuelto cínico y descreído, con la de Pablo Manzanares, un estudiante de literatura que quiere ser poeta y ha conseguido un trabajo menor en un canal. Desde las palabras de estos dos personajes, de estas dos experiencias que se cruzan, Barrera Tyszka propone un relato que desarrolla una sola historia y termina construyendo una única voz, apostando incluso por la creación de una sintaxis que reproduce el efecto caótico de la retórica televisiva. Alberto Barrera Tyszka vuelve a sorprendernos con una escritura ágil, por momentos vertiginosa, pero también llena de reflexión y de no pocos hallazgos literarios. Con una narración llena de humor y desparpajo, Rating ofrece una mirada crítica y compleja sobre la televisión, al tiempo que desnuda los procedimientos internos de la telenovela, una industria que es responsable de la educación sentimental de un continente y que ha hecho de la cursilería un producto de exportación. Con esta nueva novela, Alberto Barrera Tyszka confirma las grandes expectativas suscitadas por La enfermedad (Premio Herralde de Novela), que tuvo críticas extraordinarias en España y América Latina y que resultó finalista del Premio Fémina en Francia y del Independent Foreign Fiction Prize en Gran Bretaña. También obtuvo el Premio de la Editorial Popular de Literatura de China a la mejor novela en español de 2007.",
+	"contributor": null,
+	"date": "2011-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 85782,
+	"unique_words": 11013,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.634921121032208,
+		"slope": 0.6771616942168094,
+		"std_error_intercept": 0.06235571491937817,
+		"std_error_slope": 0.005940621720042073
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec59350612971243b81b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Benegas Lynch/Estados Unidos contra Estados Unidos (80042)/Estados Unidos contra Estados Unidos - Alberto Benegas Lynch.epub",
+	"creator": "Alberto Benegas Lynch",
+	"title": "Estados Unidos contra Estados Unidos",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "«Muchos libros han tratado de abordar estas cuestiones, algunos desde la izquierda y otros desde la derecha, y todos de forma parcial, enfocando tal o cual aspecto. Pero en este nuevo milenio ninguno, que yo sepa, las había abordado todavía de forma integral desde una postura coherentemente liberal. [...] Fiel al espíritu de su autor, Estados Unidos contra Estados Unidos tiene muchas dimensiones: el texto delata al mismo tiempo al profesor, al investigador, al economista, al periodista y, en general, al humanista que es Benegas Lynch. Pero tiene una dimensión adicional, que quizá convendría llamar sentimental. Es la condolencia de un enamorado de Estados Unidos por la decadencia paulatina, aunque no irreversible, del legado liberal de quienes erigieron la república estadounidense en el siglo XVIII.» Álvaro Vargas Llosa «Es verdad que el autor no deja en la Casa Blanca títere con cabeza, fustigando abusos y arbitrariedades, pero no estamos ante el clásico antiamericanismo sino, en realidad, ante lo que podríamos calificar como su opuesto, porque el objetivo de Benegas Lynch no es atacar a Estados Unidos sino defender la libertad. Y es precisamente el alejamiento de la tradición republicana y la consiguiente pérdida de la libertad lo que denuncia, desde la vigilancia a los ciudadanos, a los que se trata como delincuentes, hasta una política exterior de abierta colaboración con los regímenes dictatoriales. [...] El autor no invita a dejar atrás toda esperanza sino al revés: a conjeturar un futuro distinto. Y plantea un torrente de propuestas liberales en los campos más diversos.» Carlos Rodríguez Braun.",
+	"contributor": null,
+	"date": "2013-06-05T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 191465,
+	"unique_words": 21233,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7774664229244908,
+		"slope": 0.6742585969664529,
+		"std_error_intercept": 0.10181436899853812,
+		"std_error_slope": 0.009097910285068345
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec63350612971243b81c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Benegas Lynch/Meditaciones para meditar (83068)/Meditaciones para meditar - Alberto Benegas Lynch.epub",
+	"creator": "Alberto Benegas Lynch",
+	"title": "Meditaciones para meditar",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "En los artículos compilados en este libro, el Dr. Benegas Lynch se explaya sobre diversos temas, desde los Bancos Centrales al Fondo Monetario Internacional (FMI), de la seguridad en los aeropuertos después del 11 de septiembre del 2001, a los olores de París en el siglo XVIII, de África a la India y a Borges, de la psiquis a la fundación de los Estados Unidos y el populismo de Chávez en Venezuela. Avanza sobre temas no exentos de polémica y de abandonos de posturas “políticamente correctas” como respecto a las drogas o a las aventuras sexuales del ex -director del FMI.\nPor algunos momentos la obra permite a los lectores aproximarse a la intimidad del autor, a través de unas pistas sobre sus lecturas preferidas y nos revela la personalidad de quien es más conocido por sus conocimientos en el campo económico, pero a quien personalmente lo defino como un gran humanista, con amplio dominio en varios campos, incluso en los idiomas (su último acto está directamente escrito en inglés), y nuevamente me lleva a Mises, quien sostenía que nadie podía ser un buen economista a menos que estuviese versado en matemática, física y biología, historia y jurisprudencia.\nEn todos estos artículos aporta una bibliografía sumamente interesante. Y no siente miedo de provocar polémica. Muchos de los temas que trata esta recopilación de artículos pueden leerse como una continuación de los artículos de entregas anteriores o como continuación de libros, pero el lego los puede leer por separado y seguro le despertará una curiosidad por leer y profundizar en el futuro. Muchos de los grandes autores y libros liberales están profusamente citados, como Adam Smith, los Federalist Papers, Tocqueville, Spencer, Mises, Hayek, Popper, Friedman, pero la verdadera joya está en descubrir a autores nuevos y desconocidos.\nComo en el cuento de Borges citado ut supra, y también mencionado en forma recurrente por el autor, los artículos del Dr. Benegas Lynch sirven para crear una especie de biblioteca mental de “todos los libros” sobre la libertad posibles.\nEn suma, una valiosa obra contemporánea del Dr. Alberto Benegas Lynch, que aporta mucho a la literatura y discusión liberal, que llena de satisfacción a quienes, como la que suscribe este prólogo, cambió radicalmente el curso de su vida la primera vez que asistiera a sus clases y leyera su primer obra, Fundamentos de Análisis Económico, hace unos 25 años y hoy orgullosamente cuenta con el honor de prologarlo.",
+	"contributor": null,
+	"date": "2014-07-21T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 181020,
+	"unique_words": 21576,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7697798838237753,
+		"slope": 0.6762222943322987,
+		"std_error_intercept": 0.09111445722208579,
+		"std_error_slope": 0.008177957098737603
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec6a350612971243b81d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Benegas Lynch/Nada es gratis (83037)/Nada es gratis - Alberto Benegas Lynch.epub",
+	"creator": "Alberto Benegas Lynch",
+	"title": "Nada es gratis",
+	"subject": "Ensayo",
+	"publisher": null,
+	"description": "El libro trata de temas tan diversos como la manipulación genética, la educación, los modelos nórdicos, la relevancia de los derechos de propiedad, la política fiscal, la pobreza, los peligros del fanatismo, la tortura, la degradación de la democracia, el pragmatismo, la cuestión social, la moneda, el significado del derecho, la ecología, el estudio de la historia, la soberbia, las situaciones límite, el igualitarismo, la religiosidad y otros aspectos clave de las relaciones humanas.",
+	"contributor": null,
+	"date": "2016-01-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 125800,
+	"unique_words": 16770,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7459515557233416,
+		"slope": 0.6786640551111335,
+		"std_error_intercept": 0.11717871531657148,
+		"std_error_slope": 0.010826097484859314
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec75350612971243b81e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Benegas Lynch/Pensando en voz alta (81404)/Pensando en voz alta - Alberto Benegas Lynch.epub",
+	"creator": "Alberto Benegas Lynch",
+	"title": "Pensando en voz alta",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "Antologías, ensayos, artículos periodísticos, sobre la sociedad contemporanea, economía de mercado, condiciones económicas, libertad, liberalismo, relaciones internacionales, política, siglo XXI.",
+	"contributor": null,
+	"date": "2014-08-24T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 194682,
+	"unique_words": 20206,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9131932558926397,
+		"slope": 0.6593668711799515,
+		"std_error_intercept": 0.0756861537359227,
+		"std_error_slope": 0.006754278366641846
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec78350612971243b81f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Bermudez Ortiz/Mal de mares (35448)/Mal de mares - Alberto Bermudez Ortiz.epub",
+	"creator": "Alberto Bermúdez Ortiz",
+	"title": "Mal de mares",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "La nueva novela de Alberto Bermúdez, autor de Zoombie (Ed. Dolmen) se titula Mal de mares. Una aventura terrorífica que adentra al lector a bordo de un barco español a principios del S. XIX donde las supersticiones y las calamidades se dan la mano para crear el ambiente más propicio para la muerte. Diego y María se embarcan en una travesía a bordo del Nuestra Señora del Rosario, un buque de guerra con un destino que nadie podía imaginar. Lo que se presentaba como una experiencia inolvidable se convierte en la peor de sus pesadillas. A los pocos días de zarpar la nave empieza a ser presa de unos extraños fenómenos que abocarán a la tripulación al más funesto final. Don Pedro, un experimentado capitán de navío, junto con los oficiales de más alto rango, intentan mantener el orden en el barco mientras los marineros ven a Diego y a María como los culpables de las calamidades que están sufriendo… El miedo, las supersticiones y una terrible enfermedad acabarán imponiéndose sobre la razón, segando cualquier atisbo de humanidad. Descubre uno de los barcos más impresionantes que jamás surcará los mares y planta cara a los aterradores peligros que esconden las entrañas de un mar inhóspito y misterioso. Navega con un relato que evoca magistralmente las inmortales obras de W. H. Hodgson o W. Clark Russel, y disfruta del realismo sobrecogedor de una novela que hará que te sientas un miembro más de la tripulación.",
+	"contributor": null,
+	"date": "2013-12-18T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 53523,
+	"unique_words": 8465,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9145017872454984,
+		"slope": 0.6573044792480256,
+		"std_error_intercept": 0.14405234305046852,
+		"std_error_slope": 0.014253398077745118
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec7d350612971243b820"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Bermudez Ortiz/Zoombi (7828)/Zoombi - Alberto Bermudez Ortiz.epub",
+	"creator": "Alberto Bermúdez Ortiz",
+	"title": "Zoombi",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "El día del juicio final ha llegado a la Península Ibérica. ¿Quién asumirá la defensa de los pocos enclaves en los que todavía quedan supervivientes?: ¿el Gobierno?, ¿el ejército?... Sólo unos pocos privilegiados adelantados a su tiempo supieron predecir el Apocalipsis. Uno de estos visionarios formará parte del grupo resistente de un pequeño pueblo peninsular. Como experto en el fenómeno zombi intentará poner sus conocimientos al servicio de los integrantes de La Resistencia: no tienen armas y nadie sabe que existen, sólo se tienen los unos a los otros... Y se enfrentan a la criatura más peligrosa sobre la faz de la tierra: el zombi ibérico. Un relato donde se entremezcla el humor que camina entre la ironía más sutil y la pura escatología, donde los trazos de la crítica social, política, y de la propia psicología humana van de la mano, y donde la mezcolanza de géneros dispares (cómic, cine, literatura...) tienen cabida por igual. Imaginativo e innovador, nunca antes el género zombi tuvo una representación tan genuina como en Zoombi: un libro con auténtica denominación de origen. No dejes que otros asuman el reto de salvar tu vida. Adelántate a los acontecimientos... y sobrevive.",
+	"contributor": "capitancebolleta",
+	"date": "2009-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 96854,
+	"unique_words": 13401,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7509402155617733,
+		"slope": 0.6754909268997302,
+		"std_error_intercept": 0.03991798011463832,
+		"std_error_slope": 0.003766064172505177
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec84350612971243b821"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Bernabe/Los filosofos presocraticos (55071)/Los filosofos presocraticos - Alberto Bernabe.epub",
+	"creator": "Alberto Bernabé",
+	"title": "Los filósofos presocráticos",
+	"subject": "Ensayo",
+	"publisher": null,
+	"description": "Literatura, lengua y visión del mundo\nPese a la escasez de los textos que nos han quedado de los presocráticos, sus propuestas siguen siendo una fuente inagotable de sugerencias para el estudio. En este libro se reúnen diversos ensayos que abordan cuestiones centrales del pensamiento de estos pioneros de la filosofía en Grecia (lo que quiere decir la de Filosofía, sin más). Algunas de ellas, como la forma literaria de sus escritos o como sus ideas lingüísticas, no han sido frecuentemente objeto de análisis. Otras, en cambio, son cuestiones debatidas a las que se trata de dar respuestas originales. Especialmente interesante es la presencia de un texto, el Papiro de Derveni, en el que se desarrolla una nueva cosmogonía, con puntos de contacto con las de otros presocráticos, pero que constituye una síntesis muy singular. Aunque el libro está escrito en forma fácilmente comprensible, porque está pensado para un público amplio, puede contener algunas sugerencias atractivas incluso para los especialistas.",
+	"contributor": null,
+	"date": "2013-07-08T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 122665,
+	"unique_words": 13155,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6669842985493493,
+		"slope": 0.6642918586935076,
+		"std_error_intercept": 0.10217021835163624,
+		"std_error_slope": 0.009458564490623331
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec87350612971243b822"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Bevilacqua/El eros (36479)/El eros - Alberto Bevilacqua.epub",
+	"creator": "Alberto Bevilacqua",
+	"title": "El eros",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "El Eros es, el hilo rojo que permite al autor hilvanar los fragmentos de un mosaico de historias, reflexiones y episodios autobiográficos. En todos reinan figuras femeninas, algunas nítidamente presentes en la memoria, como la mítica Ada Vitali, que le inicia en el amor a los catorce años, otras evocadas, otra aun inventadas. Porque, como él afirma con emoción, «los hombres insisten en las viejas técnicas, en cambio, las mujeres…». En esta «aventura hecha de aventuras», el autor jamás olvida que tras todo gesto de amor hay un ser que sufre o goza. Solamente así el Eros adquiere sentido; de lo contrario todo se queda en simple gimnástica de cuerpos. Recibir lecciones de conducta de un libertino es una de las agradables sorpresas de este libro, como lo es la lectura de estas páginas intensas, sensuales y a veces dramáticas que no hacen sentir cuán difícil es apresar el misterio del Eros.",
+	"contributor": "Mercedes Corral",
+	"date": "1994-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 71639,
+	"unique_words": 11669,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1092148842780423,
+		"slope": 0.7407138548793311,
+		"std_error_intercept": 0.08998040119181758,
+		"std_error_slope": 0.008697395152275151
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec8c350612971243b823"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Bevilacqua/Una escandalosa juventud (28782)/Una escandalosa juventud - Alberto Bevilacqua.epub",
+	"creator": "Alberto Bevilacqua",
+	"title": "Una escandalosa juventud",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Dos juventudes se funden en esta nueva novela de Alberto Bevilacqua: la de Zelia Grossi, memorable figura de mujer contemporánea, y la emblemática de una sociedad cuya historia —declara la protagonista— «fue mantenida en secreto y que he conocido viviendo sus mil aventuras». Zelia, como personaje, tiene un doble registro. En el primero, proyecta una vicisitud individual: viaja de una realidad a otra; su irracionalidad psicológica es exasperada, desde la infancia, por los regímenes coercitivos a los que es sometida. Pero aunque el mundo de los otros la sacrifique a razones insolentes y brutales, controla con lúcida naturaleza ideas y sentimientos, usa la inteligencia y la irreverencia de su tierra, a la vez que el sarcasmo y la capacidad fantasmagórica. Aun situada en el centro de la inmoralidad pública, tiene en cuenta, con el debido desapego, que el absurdo existe y que la Luna tiene siempre dos caras; carente tanto de cinismo como de sentimiento de culpabilidad, demuestra que el verdadero escándalo nace sólo de quien, con una corrompida hombría de bien y una falsa moral, no ofrece a los hombres otras posibles elecciones. En el segundo registro, por el contrario, Zelia es la metáfora de un personaje más vasto y de sus normas de vida: el mundo de los habitantes del Valle del Po.",
+	"contributor": null,
+	"date": "1978-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 87738,
+	"unique_words": 14202,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4242961509775982,
+		"slope": 0.7161670676586692,
+		"std_error_intercept": 0.07475094013554098,
+		"std_error_slope": 0.0071085869894877635
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec8e350612971243b824"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Blest Gana/Gladys Fairfield (65491)/Gladys Fairfield - Alberto Blest Gana.epub",
+	"creator": "Alberto Blest Gana",
+	"title": "Gladys Fairfield",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Novela romántica que transcurre en los balnearios europeos en el primer cuarto del siglo XX.",
+	"contributor": null,
+	"date": "1912-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 39618,
+	"unique_words": 7211,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5887073229614954,
+		"slope": 0.6892524304931462,
+		"std_error_intercept": 0.0480934221586413,
+		"std_error_slope": 0.004874071455966272
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec8f350612971243b825"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Blest Gana/La venganza (65477)/La venganza - Alberto Blest Gana.epub",
+	"creator": "Alberto Blest Gana",
+	"title": "La venganza",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Ambientada en la Lima de 1763, la novela discurre en torno a una venganza en la que se van desgranando los intensos sentimientos y pasiones de los protagonistas, Juana Mendoza y Álvaro Fernández.",
+	"contributor": null,
+	"date": "2017-08-05",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 16144,
+	"unique_words": 3789,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5175760921254524,
+		"slope": 0.69206426012881,
+		"std_error_intercept": 0.06977661010464219,
+		"std_error_slope": 0.007576308814948615
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec91350612971243b826"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Blest Gana/Mariluan (65483)/Mariluan - Alberto Blest Gana.epub",
+	"creator": "Alberto Blest Gana",
+	"title": "Mariluán",
+	"subject": "Realista",
+	"publisher": null,
+	"description": "Fermín Mariluán es un joven brillante militar del ejército chileno, hijode araucanos, y que se ha educado lejos de las costumbres indígenas del mundode sus padres. Estamos en la ciudad de Los Ángeles (Chile), en 1833, y acaba deconocer a una hermosa joven de raza blanca con la que quiere casarse. Mariluán es plenamente consciente del conflicto permanente que existeentre el mundo al que pertenece y el mundo indígena del que procede, pero se veasí mismo como la prueba de que ambos mundos pueden convivir, y se dedica encuerpo y alma a lograr esa tarea.",
+	"contributor": null,
+	"date": "2017-08-07",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 44004,
+	"unique_words": 7046,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7007728918250404,
+		"slope": 0.6700525120226376,
+		"std_error_intercept": 0.05394212052724759,
+		"std_error_slope": 0.005421458232717725
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec9b350612971243b827"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Blest Gana/Martin Rivas (38477)/Martin Rivas - Alberto Blest Gana.epub",
+	"creator": "Alberto Blest Gana",
+	"title": "Martín Rivas",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "En Santiago del siglo XIX (Chile), en 1850, proveniente de una familia del norte de Chile (en Copiapó), caída en desgracia económicamente, un joven muy talentoso de buena apariencia, llamado Martín Rivas, es hospedado por los Encina, una familia creme de la creme de la clase alta capitalina radicada en un barrio aristocrático cercano a Campo de Marte.Don Dámaso —padre y cabeza de la familia— acoge a Martín por tener deudas de gratitud con el fallecido padre de éste, debido a que la simiente de su fortuna personal se debe a la venta de una mina de propiedad del difunto.A cambio del hospedaje, el joven Rivas se encarga de las contabilidades de Don Dámaso, quien es además un encumbrado personaje social y político de la sociedad chilena, muy convulsionada en aquella época por corrientes políticas importadas y además por convencionalismos y prejuicios discriminativos vigentes. Pronto Martín se gana la estima y confianza de Don Dámaso y le confía mayores responsabilidades rechazando recibir pecunio por sus servicios.",
+	"contributor": null,
+	"date": "1862-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 155044,
+	"unique_words": 14468,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0331915178337576,
+		"slope": 0.6330020657017644,
+		"std_error_intercept": 0.08789375264139332,
+		"std_error_slope": 0.007986337058424518
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec9d350612971243b828"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Bustos/Palabras de bits, palabras de tinta (78085)/Palabras de bits, palabras de tinta - Alberto Bustos.epub",
+	"creator": "Alberto Bustos",
+	"title": "Palabras de bits, palabras de tinta",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "Si te interesas por la lengua española, este es tu libro: aquí tienes recogido un año completo del Blog de Lengua para que disfrutes de sus jugosos artículos sobre gramática, etimología, ortografía o vocabulario en tu Kindle, desde la comodidad del sillón de tu casa o en el autobús, camino del trabajo.",
+	"contributor": null,
+	"date": "2009-12-05T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 47453,
+	"unique_words": 8168,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3139726933857914,
+		"slope": 0.7133235277132074,
+		"std_error_intercept": 0.045829075144578374,
+		"std_error_slope": 0.004578394356186141
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ec9f350612971243b829"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Canen/El Observador (36935)/El Observador - Alberto Canen.epub",
+	"creator": "Alberto Canen",
+	"title": "El Observador",
+	"subject": "Espiritualidad",
+	"publisher": null,
+	"description": "El Génesis, los siete días, la Creación... ¿de dónde procede el texto que compone la primera parte de La Biblia?¿Es su texto sólo un poema introductorio... o es una narración?¿Que hay detrás de sus palabras?Alberto Canen ha encontrado un camino alternativo para dar respuestas a estas y a otras preguntas contenidas en el Génesis. Ha hallado una ruta por la que nadie había transitado antes e invita al lector a recorrerla y a realizar con él sus hallazgos.El autor ha descubierto que oculto en el fondo de la trama existe alguien.Alguien que observa, alguien que narra. Alguien que narra lo que observa. Y un lugar, un sitio desde el cual observa.La ubicación del observador.La clave de un apasionante rompecabezas.El Génesis ha sido un misterio por miles de años. No se había podido comprender de que hablaba el texto. Si era sólo un poema introductorio a las Sagradas Escrituras, o si realmente contenía información acerca de la Creación.El texto del Génesis dividió las aguas de creacionistas y cientificistas durante mucho tiempo hasta el día de hoy.Con este libro espero que esta separación entre cientificistas y creacionistas se diluya ya que he descubierto la clave que unifica ambos mundos.Creo que la clave del misterio de Génesis es comprender que es narrado por alguien. Un narrador del Génesis. El que observa la visión que Dios le entrega y a partir de allí narra lo que observa y lo observa desde su ubicación humana y terrenal.Esta ubicación terrenal y precisa es la llave para comprender el Génesis.",
+	"contributor": null,
+	"date": "2015-05-19",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 34746,
+	"unique_words": 5799,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0601274952197444,
+		"slope": 0.7242552259167543,
+		"std_error_intercept": 0.1517657377949311,
+		"std_error_slope": 0.015540949743669322
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3eca0350612971243b82a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Cardin/Movimientos religiosos modernos (9652)/Movimientos religiosos modernos - Alberto Cardin.epub",
+	"creator": "Alberto Cardín",
+	"title": "Movimientos religiosos modernos",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "Movimientos religiosos modernos apareció como librito de divulgación en 1982, pero continúa siendo, aún hoy, una de las mejores iniciaciones —tanto descriptiva como analítica— de los nuevos encantamientos religiosos en las sociedades complejas.",
+	"contributor": null,
+	"date": "1982-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 27416,
+	"unique_words": 5951,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0513459146605229,
+		"slope": 0.750019920109033,
+		"std_error_intercept": 0.08862501242173171,
+		"std_error_slope": 0.009244984113343275
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3eca1350612971243b82b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Chicote/Pesadilla en la cocina_ Las recetas del programa (42928)/Pesadilla en la cocina_ Las recetas del pr - Alberto Chicote.epub",
+	"creator": "Alberto Chicote",
+	"title": "Pesadilla en la cocina: Las recetas del programa",
+	"subject": "Referencia",
+	"publisher": null,
+	"description": "Es directo, sincero y el terror de los hosteleros descuidados. Alberto Chicote recorre en Pesadilla en la cocina la geografía española para salvar restaurantes al borde de la quiebra en un proceso que puede ser complicado, tenso y hasta doloroso. En unos pocos días el cocinero debe detectar los problemas que amenazan el negocio y encontrar una solución. Si alguien puede devolverle la chispa a un restaurante ese alguien es Alberto Chicote, que consigue renovar por completo los locales que visita gracias a su experiencia como hostelero y a sus infalibles recetas. Este libro recoge los mejores platos que el reconocido chef ha propuesto a los restaurantes de la exitosa primera temporada del programa: la hamburguesa La Tana, el risotto muy cremoso de aceitunas verdes y tocineta curada de La Reina del Arenal, el tataki de atún con ajoblanco del To Toro, el solomillo de cerdo a la mostaza dulce con patatas revolconas de El Bodegón de Sancho, o las berenjenas Fernando del Dómine Cabra. Platos de restaurante que cualquiera puede hacer en casa y que reflejan la trayectoria de uno de los cocineros más importantes de nuestro país. Descubre los consejos y trucos de Chicote explicados con su inconfundible estilo y todo lo que los casi tres millones de espectadores que han seguido fielmente el programa se han quedado con ganas de ver en la pantalla.",
+	"contributor": null,
+	"date": "2013-06-05T12:48:03+00:00",
+	"original_language": "es"
+},
+{
+	"_id": {
+		"$oid": "5ed3eca9350612971243b82c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Chimal/La torre y el jardin (80071)/La torre y el jardin - Alberto Chimal.epub",
+	"creator": "Alberto Chimal",
+	"title": "La torre y el jardín",
+	"subject": "Ciencia ficción",
+	"rights": "Océano",
+	"publisher": null,
+	"description": "Dos hombres despiertan en celdas contiguas de un sorprendente burdel. Uno viste como astronauta, el otro ha decidido aclarar un siniestro recuerdo infantil que involucra a la legendaria señora Isabel, quien resuelve a golpe de magia cada problema de ese lugar.Pero ¿cómo resolver un misterio dentro de un edificio en el que se oyen voces que salen de las paredes, la gente entra a otra dimensión mientras va caminando, y cada bella mujer que aparece tiene una misión secreta, que implica juegos eróticos con animales, o viajes y paradojas en el tiempo?En La torre y el jardín , Alberto Chimal sumó temas propios de la ciencia ficción a la literatura fantástica y consiguió una de las novelas más ambiciosas de la narrativa latinoamericana reciente.",
+	"contributor": null,
+	"date": "2015-08-31T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 143794,
+	"unique_words": 13448,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.695493565928098,
+		"slope": 0.6602875391398456,
+		"std_error_intercept": 0.09579709950824918,
+		"std_error_slope": 0.008756781341557857
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecab350612971243b82d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Ciaurriz/El cuarteto de Marrakech (16510)/El cuarteto de Marrakech - Alberto Ciaurriz.epub",
+	"creator": "Alberto Ciáurriz",
+	"title": "El cuarteto de Marrakech",
+	"subject": "Erótico",
+	"publisher": "Odisea Editorial",
+	"description": "Una habitación de hotel en Marrakech y una cabaña aislada en el monte Atlas son los escenarios en los que el cuarteto protagonista de esta novela desatará sus pasiones carnales que quedarán grabadas a fuego para siempre en la memoria de Mohammed, Adid, Paco y Juan Carlos. Cada uno por su cuenta nos recordarán esos días de excesos sexuales que vivieron durante un tórrido verano en Marrakech.",
+	"contributor": null,
+	"date": "2014-03-06",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 37147,
+	"unique_words": 6796,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1067291428285457,
+		"slope": 0.7363753643737166,
+		"std_error_intercept": 0.11297178389053475,
+		"std_error_slope": 0.011507801460036843
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecac350612971243b82e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Ciaurriz/El gran salto (18690)/El gran salto - Alberto Ciaurriz.epub",
+	"creator": "Alberto Ciáurriz",
+	"title": "El gran salto",
+	"subject": "Erótico",
+	"publisher": "Odisea Editorial",
+	"description": "Arturo recibe una llamada telefónica que le devuelve recuerdos casi borrados de su primera adolescencia. A partir de ahí, nos relata en primera persona, efectuando atrevidos saltos hacia atrás y adelante en el tiempo, el reencuentro con el pueblo Alpedrejo donde el protagonista descubre el amor y el sexo en uno de los veran os de su adolescencia. Todo un mundo recreado en un texto conciso y afilado, desgarrador a veces y de expresión precisa y contenida. El relato entero no es sino una honda y prolongada historia de amor, de un amor que ni siquiera osa nombrarse.Alberto Ciáurriz nos retrata con sutileza ambientes y personajes que atraparán al lector de El gran salto (1999), novela ganadora del I Premio Odisea de Literatura.",
+	"contributor": null,
+	"date": "2014-06-13",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 27509,
+	"unique_words": 5585,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.356161987663549,
+		"slope": 0.7124942180851122,
+		"std_error_intercept": 0.04561261059415889,
+		"std_error_slope": 0.00475678407795288
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecb8350612971243b82f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Ciria (Hist.)/Partidos y poder en la Argentina moderna (78836)/Partidos y poder en la Argentina moderna - Alberto Ciria (Hist.).epub",
+	"creator": "Alberto Ciria (Hist.)",
+	"title": "Partidos y poder en la Argentina moderna",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "La revolución del 6 de setiembre de 1930 puede ser vista como un intento de restauración de la Argentina conservadora, como una revancha de los viejos sectores dirigentes desplazados del gobierno en 1916 por el radicalismo; no cabe duda de que lo fue en buena medida. Pero también es posible abordar el ciclo histórico abierto con el derrocamiento de Hipólito Yrigoyen desde otro punto de vista, para descubrir en él tendencias más profundas y persistentes, entre ellas una muy significativa, el ocaso de las prácticas políticas tradicionales. Se trata, dice Alberto Ciria, de «un proceso dinámico», el de «la declinación de los partidos políticos frente a otras fuerzas que cubrían sus claros». No es casual, por lo tanto, que en Partidos y poder en la Argentina moderna, además de realizar una cuidadosa descripción de los acontecimientos más relevantes del período 1930-1946, Ciria dedique singular atención al estudio de los llamados factores de poder y grupos de presión —fuerzas armadas, Iglesia, sindicatos, grupos económicos—, cuya creciente influencia en los mecanismos de decisión pasaría a convertirse en un dato irreversible de la estructura política argentina.",
+	"contributor": null,
+	"date": "1975-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 174994,
+	"unique_words": 18069,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.030578387601933,
+		"slope": 0.6492777762258837,
+		"std_error_intercept": 0.1599818245935637,
+		"std_error_slope": 0.014397608547548775
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecbb350612971243b830"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Clemente de la Torre/Fisica cuantica para filo-sofos (9846)/Fisica cuantica para filo-sofos - Alberto Clemente de la Torre.epub",
+	"creator": "Alberto Clemente de la Torre",
+	"title": "Física cuántica para filo-sofos",
+	"subject": "Ciencias naturales",
+	"publisher": null,
+	"description": "A partir de los datos sensoriales —los que nos otorgan nuestros sentidos—, como ver, oír, tocar, el conocimiento humano de la realidad y del mundo que nos rodean van en aumento constante. Así se construyen la mayoría de las ciencias. Pero hay una en especial, moderna, y podría decirse que más que contemporánea, que suele negar todo cuanto desde las primeras impresiones consideramos como verdadero. Se trata de la física, y particularmente de la física o mecánica cuántica, cuyos temas básicos ofrece Alberto Clemente de la Torre en este libro pensado para que lo lean no precisamente los estudiosos de esa ciencia ni los filósofos —aunque, desde luego, también podrán hacerlo para refrescar teorías y, sobre todo, métodos didácticos—, sino todos los interesados en el conocimiento, los amantes del saber, de donde el autor ha separado la palabra con el fin de hacernos ver que no se necesita más que filos, amor, interés, inquietud, y sofos, igual a sofía, a la sabiduría, al deseo de enterarnos acerca de qué es lo que han venido descubriendo y argumentando varios pensadores y científicos que se dedican, con igual amor al conocimiento, a investigar qué es lo que sucede en los mundos y en los submundos de las partículas, de las reacciones y de la materia y su contraparte, la antimateria. Paradojas como estar sin estar, ser sin realmente ser, ver una imagen y deducir lo que no contiene, a partir de fórmulas y ecuaciones expuestas con claridad, son temas de Física cuántica para filo-sofos, obra que en su brevedad es al mismo tiempo profunda y, paso a paso, contundente en demostraciones que generalmente no esperaríamos sin filosofar un poco y en el mismo sentido de sencillamente poner interés en lo que el autor trata de revelarnos. Éste es un libro que nos invita a reflexionar, entre otros temas, en la incertidumbre, una de las bases de la teoría cuántica, y a apreciar la belleza y la armonía alcanzadas por quienes filosofan acerca de los universos físicos.",
+	"contributor": null,
+	"date": "1992-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 38723,
+	"unique_words": 4783,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8369684131562947,
+		"slope": 0.631296622648924,
+		"std_error_intercept": 0.2108217454738826,
+		"std_error_slope": 0.021404437642870082
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecbd350612971243b831"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Cobos Aranegui/Amanecer (24062)/Amanecer - Alberto Cobos Aranegui.epub",
+	"creator": "Alberto Cobos Aranegui",
+	"title": "Amanecer",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "En un planeta abandonado a su suerte siglos atrás por un Imperio Galáctico que se ha perdido en la leyenda, unos mineros descubren una cápsula de un material desconocido. Días después, la cápsula emitirá una señal que precipitará los acontecimientos. El Imperio ha vuelto, es el amanecer de una nueva era... Es una historia sobre gente, envuelta en un contexto de ciencia-ficción porque el autor no la quería basar en un período actual y no tenía intención de ponerla en un contexto histórico pasado, por lo que es CF. Pero es una historia de gente.",
+	"contributor": null,
+	"date": "2000-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 53570,
+	"unique_words": 8263,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8528175247051797,
+		"slope": 0.6583684785240387,
+		"std_error_intercept": 0.05106060165357775,
+		"std_error_slope": 0.005051900868770814
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecc4350612971243b832"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Couste/El principe desvelado (75264)/El principe desvelado - Alberto Couste.epub",
+	"creator": "Alberto Cousté",
+	"title": "El príncipe desvelado",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Guerrero, ingeniero, amante, príncipe, cruel hasta lo indecible pero vencido por la hermosura, Sigismondo Malatesta, señor de Rimini y gran aventurero, es el hombre que mejor encarna los albores del siglo XV, unos años de transición que ven morir las viejas fórmulas de convivencia creadas por la Edad Media. Acompañado por el fragor de un presente incierto, que todavía no ha inventado su propia ética, Sigismondo busca una verdad que se consume en pasión y violencia hacia todo lo que le rodea, desde sus mujeres hasta sus soldados. Rimini, su cuidad, y el milagroso “don de vivir” de la gente italiana, capaz de mezclar ironía y fervor extremo en un solo gesto, son el escenario de las correrías de este portentoso antihéroe, perdedor por excelencia, que intuye el sinsentido de los proyectos a largo plazo y lo arriesga todo en cada apuesta. Al describir esta angustia, tan cercana a la nuestra, Alberto Cousté nos entrega el retrato de un hombre y una época teñidos de sangre y deseo, sin tiempo para la espera, y en esta feliz unión de realidad y ficción descubrimos las armas de un gran narrador.",
+	"contributor": null,
+	"date": "1990-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 135322,
+	"unique_words": 18793,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6451686863783246,
+		"slope": 0.6969252618273232,
+		"std_error_intercept": 0.1261839932116839,
+		"std_error_slope": 0.011590378484334043
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecc8350612971243b833"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto de la Rocha Munoz/Sumidero (65367)/Sumidero - Alberto de la Rocha Munoz.epub",
+	"creator": "Alberto de la Rocha Muñoz",
+	"title": "Sumidero",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Una adolescente desaparece el último sábado de agosto en un pueblo de la Sierra de Madrid, situado junto a la orilla de un embalse. Esa misma noche se desata una fuerte tormenta que anegará toda la zona. Después de una multitudinaria búsqueda, el cuerpo de la muchacha es encontrado flotando en las aguas. La autopsia revelará que lo que parecía un mero accidente, un ahogamiento fortuito, es en realidad una muerte violenta. Pero la tormenta hizo subir el nivel del embalse y borró todas las posibles pruebas.Un mes después, la investigación de la Policía Judicial está en un callejón sin salida: los culpables no han sido atrapados y los medios de comunicación han perdido el interés en la chica muerta del embalse. Es entonces cuando en el pequeño pueblo se instala un discreto y misterioso hombre. ¿Tendrá algo que ver con la investigación? ¿Será el último cartucho de la policía antes de darse por vencida?",
+	"contributor": null,
+	"date": "2015-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 90334,
+	"unique_words": 12005,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6862019585912462,
+		"slope": 0.6775921846496384,
+		"std_error_intercept": 0.12357642253752019,
+		"std_error_slope": 0.011724292614591184
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3eccb350612971243b834"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Diaz-Villasenor/La piel azul (82314)/La piel azul - Alberto Diaz-Villasenor.epub",
+	"creator": "Alberto Díaz-Villaseñor",
+	"title": "La piel azul",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Una imposible fauna de hombres en busca de otro imposible: encontrarse a sí mismos y a un futuro más allá de las convenciones. Un grupo peculiar y esperpéntico que no es consciente de estar accionando el mecanismo de relojería que hará saltar por los aires todos sus sueños. Y un entorno opresivamente masculino y centrífugo sin resquicios para la libertad individual. La historia de unos personajes delirantes embarcados en un movimiento por su dignidad. El esfuerzo alocado de unos hombres, que sólo quedará en intento por los acontecimientos y por un crimen fuera de lugar",
+	"contributor": null,
+	"date": "2016-05-30T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 62634,
+	"unique_words": 8824,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.09252556085202,
+		"slope": 0.7227373499442467,
+		"std_error_intercept": 0.03763706333617148,
+		"std_error_slope": 0.003677425933004874
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3eccf350612971243b835"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Doblas Martin/Un naufrago en Albion (83137)/Un naufrago en Albion - Alberto Doblas Martin.epub",
+	"creator": "Alberto Doblas Martín",
+	"title": "Un náufrago en Albión",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Corre el año 2029, abre una libreta vieja y empieza a leer una apasionante historia de hace más de 20 años, sobre alguien que abandonó una vida malherida para marcharse a Londres, llevando como único equipaje una mochila y una libreta, que compró en el aeropuerto.Libreta en la que se sumergió a escribir los sentimientos que le llevaron a esa situación, y todo lo que le aconteció en una ciudad nueva que le brindó la ocasión, de conocer a alguien que habitaba dentro de él, pero que le era totalmente desconocido.\nJamás pudo pensar que esa lectura le aportaría una enseñanza única, a cambio de removerle todos sus cimientos. En definitiva nos enseña, que la casualidad es esa cosa maravillosa que hace que todo lo malo de esta vida, merezca la pena…",
+	"contributor": null,
+	"date": "2017-03-22T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 70198,
+	"unique_words": 9064,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5573347886047701,
+		"slope": 0.680225309417644,
+		"std_error_intercept": 0.11889152137078286,
+		"std_error_slope": 0.011510670405319796
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecd3350612971243b836"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Dominguez/Cioran, Manual de antiayuda (66633)/Cioran, Manual de antiayuda - Alberto Dominguez.epub",
+	"creator": "Alberto Domínguez",
+	"title": "Cioran, Manual de antiayuda",
+	"subject": "Filosofía",
+	"publisher": null,
+	"description": "Quizá Cioran (1911-1995) —en palabras de Saint-John Perse, «el mayor prosador de la lengua francesa desde Paul Valéry»— sea uno de los escritores y pensadores más controvertidos del siglo XX, no ya por la naturaleza de sus reflexiones, sino por la contundencia de las mismas. Lector voraz de Schopenhauer, Nietzsche, y también de Heidegger, Simmel o Weininger, a los diecisiete años se inscribe en la facultad de Filosofía de Bucarest. Sufre importantes crisis de insomnio y pasa las noches sin dormir alternando entre la biblioteca y el burdel, en compañía de los pordioseros y de las prostitutas, con los cuales le gustaba charlar. Fue compañero de universidad de Ionesco y Eliade, con quienes forjó una amistad que duraría toda la vida. Tras una juventud de activismo político, se marchará a París, ciudad en la que mantuvo, durante muchos años, una existencia errática, sin hogar fijo y vagando de pensión en pensión.Emil Cioran sabía que la vida era trigo sucio, pero en lugar de hacer lo que hacemos todos, es decir, callar y pensar que, bueno, que en fin, que ajo y agua, él lo dijo, lo escribió, lo denunció, se encaró con la vida, le cantó las cuarenta a la vida, legándonos una obra transida de lucidez, desenfado y clarividencia. Frente a tantos pensadores útiles, ¿de qué sirve leer a Cioran, tan nihilista, tan en desacuerdo con la existencia? Entre otras muchas cosas, sirve para recordarnos que ningún filósofo nos saca de una verdadera encrucijada vital: para quien está negado para la felicidad, no hay sabiduría que valga. Podemos encontrar sus obras editadas, pero en cambio apenas existen trabajos que indaguen en las entrañas de su pensamiento, y precisamente ahí es donde reside el logro principal de este Cioran. Manual de antiayuda. Con abundantes guiños humorísticos y con una magistral aprehensión de las ideas, Alberto Domínguez nos propone un singular acercamiento a la obra de Cioran, logrando que el lector penetre con jovialidad en un pensar audaz, perturbador y siempre sugestivo. Y no solo eso: la ironía y la crítica acerca de las grandes flaquezas de nuestra civilización vertebran un texto que aspira a cumplir una de las máximas de nuestro autor, la de que «solo se deberían escribir libros para decir cosas que uno no se atrevería a confiar a nadie».",
+	"contributor": null,
+	"date": "2014-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 93095,
+	"unique_words": 13554,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.070447066541593,
+		"slope": 0.7393069293196262,
+		"std_error_intercept": 0.053922441009993015,
+		"std_error_slope": 0.005103520345702572
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecd5350612971243b837"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fabral/La pagina 290 (58236)/La pagina 290 - Alberto Fabral.epub",
+	"creator": "Alberto Fabral",
+	"title": "La página 290",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "El apóstol Juan, desterrado en Patmos se encuentra ante el ángel del Señor, quien lo guiará hasta la página 290, en la que podrá confirmar que las profecías del fin de los tiempos ya han empezado. Los acontecimientos sucederán hasta traernos al presente.",
+	"contributor": null,
+	"date": "2016-03-07T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 25372,
+	"unique_words": 7259,
+	"words_fit": {
+		"samples": 10,
+		"intercept": -0.17695467556431613,
+		"slope": 0.8979484879570634,
+		"std_error_intercept": 0.16402779517118188,
+		"std_error_slope": 0.0172133958316805
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecd7350612971243b838"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fausto/Intragenesis (80980)/Intragenesis - Alberto Fausto.epub",
+	"creator": "Alberto Fausto",
+	"title": "Intragenesis",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "Intragenesis es una búsqueda de respuestas, una novela de ciencia ficción que nos sitúa en un modelo de civilización similar al nuestro, cuyas salvedades harán que nos planteemos el origen y significado de nuestra propia existencia.Cadis Splendor es detector, su oficio consiste en explorar a los Voids que le llegan en la cadena de ensamblaje y decidir si son aptos para que se les de la luz. Supone un eslabón importante en el sistema reproductivo de una raza que no admite desviaciones en ciertos valores del código arquitectónico de sus hijos. Entre sus funciones, se halla la de buscar cualquier imperfección para 'reiniciar', si así fuese necesario, los parámetros de aquel Void que no cumpla los requisitos estipulados.Pero Cadis espera a su propio hijo y las preguntas comienzan a acuciarle, unas cuestiones incómodas que le empujarán a iniciar un fascinante periplo hacia la verdad.",
+	"contributor": null,
+	"date": "2012-12-22T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 40571,
+	"unique_words": 6454,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6329423114895765,
+		"slope": 0.6726650893556813,
+		"std_error_intercept": 0.03203431211004174,
+		"std_error_slope": 0.003240428950236766
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecdf350612971243b839"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fausto/La anatomia de las rosas rojas (54058)/La anatomia de las rosas rojas - Alberto Fausto.epub",
+	"creator": "Alberto Fausto",
+	"title": "La anatomía de las rosas rojas",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "¿Qué le ocurrió a Sarah Trelis? Enigmática y poco habladora, la pequeña Sarah se despide una mañana de su padre para no volver más. Solo tiene doce años. Nadie, ni siquiera ella, se imagina el horror que la aguarda. Historias sin aparente conexión se abren paso en la población costera de Faro de San Lucas: la de la propia niña, la de un carismático fotógrafo y la de una joven cuidadora de una residencia de ancianos. No se conocen, mas sus caminos se entretejen a medida que Sarah va descubriendo sus más profundos terrores, en esta historia donde el bien y el mal se difuminan y confunden. ¿Puede una persona aparentemente normal esconder un oscuro secreto? La anatomía de las rosas rojas es una novela llena de violencia, pero también de mucha sensibilidad. ¿Acompañarás a Sarah en su viaje a los infiernos?",
+	"contributor": null,
+	"date": "2016-07-06T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 138889,
+	"unique_words": 15627,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6874889119882899,
+		"slope": 0.6780766011576544,
+		"std_error_intercept": 0.16866259378414145,
+		"std_error_slope": 0.015460084750576288
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ece2350612971243b83a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fausto/Oniria (75759)/Oniria - Alberto Fausto.epub",
+	"creator": "Alberto Fausto",
+	"title": "Oniria",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "'Oniria es el bar al que vas cuando los demás sitios cierran, es la Place du Tertre en un día de cielo nuboso y pocos turistas, o los ojos verdes de una mujer morena. Oniria es todo lo que quieras, incluso todo lo que quisiste sin saberlo. Es la canción que adorabas de niño y sólo reconoces en sueños, es esa persona que se marchó, y la que nunca vino. Oniria es el mundo tal cual quisieras que fuese, es una noche de luz de farola y besos robados, es aquello que eres y nunca llegarás a ser. Una contradicción, una escena sin sentido. Es soñar que vives... y vivir que sueñas' (Siro Dufré, Oniria Vol. 1) ¿Qué ocurriría si no existiesen consecuencias a nuestros actos? ¿Qué pasaría si hubiese un lugar, en el que nuestras acciones fuesen impunes a todo castigo? Un mundo en el que lo soñado es vivido y lo vivido es sueño, en el que los mecanismos de la lógica se retuercen a nuestro antojo y uno puede ser la persona que siempre quiso ser. Siro Dufré es un joven reservado, cuya vida le ha llevado a obsesionarse por el mundo de los sueños. Nada le merece la pena de este lado de la realidad, por lo que ha creado su propio mundo y sus propias reglas, en esa delgada línea que supone la lucidez onironauta. Realidad y ficción se entremezclan en esta novela de ciencia-ficción con tintes románticos, en la que nada es lo que parece y todo es lo que es. ¿Y tú? ¿Qué harías en Oniria?",
+	"contributor": null,
+	"date": "2012-10-30T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 74958,
+	"unique_words": 9013,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8821329189117266,
+		"slope": 0.6461244713816768,
+		"std_error_intercept": 0.09607336653914318,
+		"std_error_slope": 0.009252583739063824
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ece7350612971243b83b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Ferreras/B de Bella (16768)/B de Bella - Alberto Ferreras.epub",
+	"creator": "Alberto Ferreras",
+	"title": "B de Bella",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "Bella, o simplemente B, como todos la llaman, es una joven inteligente, divertida, trabajadora y honesta. Pero B no se quiere. Cuando se mira al espejo, no es capaz de ver ninguna de sus virtudes, solo ve demasiadas curvas voluminosas, más que las que tienen sus amigas y sus compañeras en la agencia de publicidad. Culpable del peor de los pecados modernos, convencida de que su talla le impedirá ascender en el trabajo, encontrar novio y triunfar en la gran ciudad, B tiene la autoestima por los suelos y está a punto de tocar fondo. Un encuentro casual con una elegante mujer rusa dará un vuelco a su vida: dejará a B con un montón de preguntas retumbando en la cabeza y pondrá en marcha una inesperada historia de amor.",
+	"contributor": null,
+	"date": "2009-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 96720,
+	"unique_words": 11844,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.873512593498992,
+		"slope": 0.655995424993788,
+		"std_error_intercept": 0.08893416490931144,
+		"std_error_slope": 0.008391438134457935
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ece9350612971243b83c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fuguet/Aeropuertos (77786)/Aeropuertos - Alberto Fuguet.epub",
+	"creator": "Alberto Fuguet",
+	"title": "Aeropuertos",
+	"subject": "Juvenil",
+	"rights": "© 2010, Alberto Fuguet",
+	"publisher": null,
+	"description": "En Aeropuertos importa el cómo por sobre el qué de las cosas. Cómo nos paramos ante el presente, vislumbramos el futuro, recuperamos lo que fue y cómo, finalmente, nos las arreglamos para vivir con los errores cometidos. 'Otras vidas, vidas que ella nunca tendría, pero que quizás habría tenido si todo hubiera sido diferente.¿Sería más feliz? No lo sabe. Sí distinta, pero esa es otra cosa, así como esas vidas son otras vidas y esas vidas no tienen a Pablo, su hijo,' se dice en voz baja Francisca, la protagonista de esta la última novela de Alberto Fuguet, un relato donde la emoción dibuja el lado B de ser padres . Álvaro escucha una y otra vez el casete de Radiohead, mientras Francisca está embarazada; ellos tienen sólo diecisiete años.",
+	"contributor": null,
+	"date": "2010-11-08T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 41740,
+	"unique_words": 6731,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0289957567761165,
+		"slope": 0.7307989171952771,
+		"std_error_intercept": 0.08381800323237333,
+		"std_error_slope": 0.00845949953500318
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecf0350612971243b83d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fuguet/Apuntes autistas (78655)/Apuntes autistas - Alberto Fuguet.epub",
+	"creator": "Alberto Fuguet",
+	"title": "Apuntes autistas",
+	"subject": "Memorias",
+	"rights": "© 2007, Alberto Fuguet",
+	"publisher": null,
+	"description": "Viajar, mirar, leer y narrar son los verbos que mejor se conjugan en este libro. El autor de Por favor, rebobinar y Cortos, y la película Se arrienda, narra viajes que no son solo geográficos sino hacia las películas, libros, directores, escritores, actores y músicos que lo han marcado y acompañado en su trayecto. Una autobiografía en clave, una declaración de principios, un remix emocional; un libro sobre un crítico de cine que se transforma en escritor, y sobre un autor que sueña con filmar. Alberto Fuguet demuestra agudeza analítica en un apasionante libro sobre buscar, perderse y encontrarse, sobre cómo todas las cosas que nos gustan, todo con lo cual soñamos, nos define y nos hace ser finalmente lo que somos.",
+	"contributor": null,
+	"date": "2011-12-25T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 129587,
+	"unique_words": 16269,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.424253664379747,
+		"slope": 0.7039606653067962,
+		"std_error_intercept": 0.06636536649658785,
+		"std_error_slope": 0.0061169547761757296
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecf5350612971243b83e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fuguet/Las peliculas de mi vida (73869)/Las peliculas de mi vida - Alberto Fuguet.epub",
+	"creator": "Alberto Fuguet",
+	"title": "Las películas de mi vida",
+	"subject": "Realista",
+	"publisher": null,
+	"description": "«Unanovela original, llena de aventuras, de sorpresas, de películas, tendida comoun puente entre los Estados Unidos y América Latina, y enormemente divertida». MARIO VARGAS LLOSA BeltránSoler es de Chile, una tierra que se mueve. Es, además, un sismólogo que sabemás de placas tectónicas que de la vida. Camino a Tokio, hace escala en LosÁngeles, donde pierde el avión y se enfrenta a un temblor que lo remece. Depronto, aquellos filmes que vio durante su infancia y adolescencia en los 60 y70, lo acosan. Desde Aeropuerto 77 hasta Encuentros cercanos del tercer tipo,pasando por las ruidosas cintas de catástrofes como Terremoto, Beltránse conecta con su pasado y su excéntrica familia. Ambientada en dos mundosextrañamente paralelos —la California de Nixon y el Santiago de Pinochet—, estaágil y contemporánea novela es sobre dos idiomas, dos mundos y dos familia: queven las mismas películas.",
+	"contributor": null,
+	"date": "2003-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 92498,
+	"unique_words": 13095,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2222456403676225,
+		"slope": 0.7258818316108382,
+		"std_error_intercept": 0.1067921865459388,
+		"std_error_slope": 0.010112603881832414
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ecfb350612971243b83f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fuguet/Mala onda (49869)/Mala onda - Alberto Fuguet.epub",
+	"creator": "Alberto Fuguet",
+	"title": "Mala onda",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "En septiembre de 1980 un adolescente recorre las noches de Santiago de Chile: es Matías Vicuña que busca su identidad con desesperación en las venas y un grito de rabia en la garganta, lo cubre el polvo de las estrellas y por el horizonte se mueve la dictadura de Augusto Pinochet que avanza con velas desplegadas y a tambor batiente.Es la crónica despiadada de un viaje a través de los excesos —cocaína, sexo, marihuana, alcohol— con un fondo de cinismo generalizado, un dolor que no se aguanta y con los afectos sinceros cada día más secos y lejanos. Obra clave en la carrera de Fuguet.",
+	"contributor": null,
+	"date": "2016-04-17",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 103179,
+	"unique_words": 13583,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.456246064404927,
+		"slope": 0.6986264498618467,
+		"std_error_intercept": 0.0216236157147772,
+		"std_error_slope": 0.002029764605506869
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed04350612971243b840"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fuguet/Por favor, rebobinar (73870)/Por favor, rebobinar - Alberto Fuguet.epub",
+	"creator": "Alberto Fuguet",
+	"title": "Por favor, rebobinar",
+	"subject": "Realista",
+	"publisher": null,
+	"description": "Ellenguaje de una generación nacida a pasos del fin del milenio. Quétienen en común Enrique Alekán y Lucas García. Por qué los libros de BaltasarDaza son más «un disco que un libro». Pascal Barros, Damián Walker, GonzaloMcClure, Andoni Llovet. Sombras de un solo creador. Porfavor, rebobinar increpael establishment literariocon el arma de su propio lenguaje, rebuscando alguna respuesta en lasintrincadas entrañas de esta dudosa modernidad en que vivimos. «Estáclaro: soy un extra en mi propia vida», piensa Lucas García mientras planea supropio futuro. Así, a la velocidad de un videoclip, va corriendo la vida deestos personajes. Una gran crónica urbana querevela el insípido sabor de los tiempos que corren. Este libro es la metáforade una búsqueda formal, un anhelo enraizado en lo más hondo de la concienciadel autor.",
+	"contributor": null,
+	"date": "1998-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 126613,
+	"unique_words": 15744,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4416163769400714,
+		"slope": 0.7029220983766922,
+		"std_error_intercept": 0.12059257993450753,
+		"std_error_slope": 0.011135791151381077
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed0a350612971243b841"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Fuguet/Tinta roja (39436)/Tinta roja - Alberto Fuguet.epub",
+	"creator": "Alberto Fuguet",
+	"title": "Tinta roja",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "«El periodismo, como la prostitución, se aprende en la calle», sentencia Saúl Faúndez, editor de la sección policial de El Clamor. Quien lo escucha es Alfonso Fernández, un joven periodista en práctica que deberá pasar su verano reporteando para conseguir su título. Aquí la ciudad muestra su cara más negra, de la que nadie quiere ser parte, pero de la que todos queremos saber. Asesinatos, accidentes, suicidios. Burdeles, cantinas, restaurantes de mala muerte. Todo unido por la infatigable prosa de Fuguet, quien ha logrado crear una de las novelas más visuales del último tiempo. «Todos los días muere alguien. Eso ya no es novedad. La idea es que ese fiambre parezca el primero. Pica la cebolla, pero pícala fina». Esa es la misión de El Clamor: contar historias. Y esta novela la cuenta.",
+	"contributor": null,
+	"date": "2015-10-25",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 100297,
+	"unique_words": 13172,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6484845573667934,
+		"slope": 0.6814105698016676,
+		"std_error_intercept": 0.08055178343651523,
+		"std_error_slope": 0.007578421349252617
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed0a350612971243b842"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Galgano/Los monstruos y el gimnasio (75870)/Los monstruos y el gimnasio - Alberto Galgano.epub",
+	"creator": "Alberto Gálgano",
+	"title": "Los monstruos y el gimnasio",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "El relato que tienes en tus manos te va a sorprender y te va a entusiasmar. Te sorprenderá la inesperada relación entre el título y el contenido. Te entusiasmará la sencillez del mensaje tanto como el espíritu optimista que encierra. Esta narración, que en pocas hojas resume la esencia del éxito de las empresas del mañana, hace reflexionar sobre cómo son los vendedores de «largo alcance». Cuando este corto relato esté llegando a su fin, verás que el «monstruo» solo quería poner corazón y cerebro para que todos pudiéramos mejorar, lograr éxitos y quizás alguna agradecida sonrisa. Alberto Gálgano expone un nuevo método de gestión basado en la movilización intelectual de los trabajadores de una empresa para conseguir la satisfacción del cliente, y por tanto, el éxito de nuestra empresa. A través de esta breve historia, nos presenta los elementos esenciales (monstruos /clientes, atletas/trabajadores y gimnasio/empresa) para poder desarrollar un sistema de gestión más efectivo. A este método se le denomina «Calidad Total” y su objetivo principal es mejorar la competitividad. Es esta herramienta la que nos permite potenciar la capacidad individual de cada miembro de la compañía o empresa para mantener clientes ya ganados sin perderlos y atraer y ganar nuevos clientes. De esta forma, comienza explicando que es importante conocer el perfil y las necesidades concretas de cada cliente, para poder ofrecerle una respuesta individual y más eficaz. Consiguiendo así, mantener siempre un alto nivel de satisfacción en los mismos y que no nos abandonen. Para que este objetivo pueda ser alcanzado, cada miembro de una compañía debe “mimar» al cliente, esto es mejorar constantemente en cualquier cosa que hagamos por él, por tanto, sabrá que nosotros mejor que nadie sabemos cómo satisfacerle. Este proceso de mejora continua es la suma de mejoras diarias en cada miembro que compone la empresa, en consecuencia, una contínua mejora de procesos llevados a cabo metódicamente como puede ser: el ciclo PDCA (planificar, hacer, verificar, actuar) y/o las siete herramientas estadísticas como el DIAGRAMA DE ISHIKAWA (relación causa-efecto), que incorpora también las «5W + 1H», las siete herramientas de gestión y otras más sofisticadas.",
+	"contributor": "Traduttore: Coopers & Lybrand Gálgano",
+	"date": "1991-09-18T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 5857,
+	"unique_words": 1646
+},
+{
+	"_id": {
+		"$oid": "5ed3ed0f350612971243b843"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Garcia Briz/Resurreccion (71751)/Resurreccion - Alberto Garcia Briz.epub",
+	"creator": "Alberto García Briz",
+	"title": "Resurrección",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "En 2029, un grupo de investigación trabaja para recuperar un cerebro que ha permanecido congelado durante los últimos once años. Los primeros resultados se verán en peligro al descubrirse la identidad del sujeto, que saca a la luz una trama de corrupción en la industria farmacéutica. Pese a los avances tecnológicos, mucha gente quiere ver fracasar el proyecto: desde grupos religiosos hasta la dirección de la antigua empresa del paciente.",
+	"contributor": null,
+	"date": "2017-07-11T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 71082,
+	"unique_words": 8198,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.941348462601088,
+		"slope": 0.6348353035395312,
+		"std_error_intercept": 0.0791804162625793,
+		"std_error_slope": 0.007658291359922098
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed15350612971243b844"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Garzon Espinosa/A pie de escano (82768)/A pie de escano - Alberto Garzon Espinosa.epub",
+	"creator": "Alberto Garzón Espinosa",
+	"title": "A pie de escaño",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "¿En qué consiste de verdad la democracia representativa en España? En 2011 Alberto Garzón era un joven de 25 años que buscaba, como tantos otros, una oportunidad en el extranjero que le permitiera escapar de la precariedad laboral. Hoy es diputado por Málaga en el Congreso, candidato de Izquierda Unida a la presidencia del Gobierno y uno de los políticos con mayor proyección de este país. Entretanto han pasado algunas cosas: el recrudecimiento de la crisis, el 15-M, la irrupción de Podemos y el fin del bipartidismo, por mencionar algunas. En este libro, el más personal de los que ha escrito, Alberto Garzón plantea un análisis de lo que ha sucedido en nuestro país en estos cuatro años a partir de su aventura personal, desde el activismo estudiantil hasta la candidatura a la presidencia, pero también desde una perspectiva, la de la economía política, con la que Garzón pretende ir a la esencia de lo ocurrido en este tiempo, más allá de la apariencia y de la anécdota. A pie de escaño es también la historia de un aterrizaje, el suyo, en el hemiciclo, de sus experiencias a lo largo de la legislatura que ahora acaba, como novato en el Congreso, de la forma en que ha ido cambiando su visión de la democracia parlamentaria y de cómo utilizarla como palanca para un cambio del que quiere formar parte.",
+	"contributor": null,
+	"date": "2015-10-19T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 83835,
+	"unique_words": 9947,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7348478662774196,
+		"slope": 0.660310362607047,
+		"std_error_intercept": 0.08725366230284487,
+		"std_error_slope": 0.008327970608275934
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed17350612971243b845"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Garzon Espinosa/Esto tiene arreglo (22855)/Esto tiene arreglo - Alberto Garzon Espinosa.epub",
+	"creator": "Alberto Garzón Espinosa",
+	"title": "Esto tiene arreglo",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "Ante la dura recesión, ¿sólo cabenrecortes y reformas «agresivas»? El autor deeste libro, anuncia que nos hallamos inmersosen un cambio de época, en un proceso rupturista que no acabamosde percibir en su totalidad. Los gobiernos, nos alerta,aprovechan la crisis para recortar derechos laborales y empeorarlas condiciones de vida de la mayoría de ciudadanos, en un procesode «chinarización» que amenaza con instaurar un nuevo régimende semiesclavitud. Como consecuencia de todo ello, la rebeldíanace en los poros del sistema y se cristaliza en movilizacionessociales como las del 15-M. Y no es para menos: en los últimos añoslas grandes empresas, la banca y las grandes fortunas han hecho caer,bajo el disfraz de los llamados «mercados ﬁnancieros», a gobiernos enteros, sustituidospor ejecutivos títeres, y han convertido la democracia en una farsa,en un elemento de marketing,desechable cuando el dinero de los poderosos está enjuego. Cada uno de nosotros,concluye el autor, tiene que convertirse en un activista, porque convencer deesta realidad a otra persona, aunque sólo sea una, es ya todauna victoria.",
+	"contributor": null,
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 28268,
+	"unique_words": 4976,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8195889612670115,
+		"slope": 0.651615209112558,
+		"std_error_intercept": 0.06486024469967133,
+		"std_error_slope": 0.006749839131657223
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed1c350612971243b846"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Garzon Espinosa/La gran estafa (22856)/La gran estafa - Alberto Garzon Espinosa.epub",
+	"creator": "Alberto Garzón Espinosa",
+	"title": "La gran estafa",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "Nos repiten hasta la saciedad que la crisiseconómica es un accidente pasajero que podrá resolverse mediante durossacrificios por parte de trabajadores, parados, jubilados y estudiantes. Comolos antiguos mayas, los Gobiernos de medio mundo esperan que tras el ritualcomience la lluvia. Pero no hay señales de que nada de eso vaya a suceder. De hecho, todo apunta a que estamossiendo víctimas de una mentira, y a que la crisis económica no es más que unacoartada que oculta un inmenso robo. ¿Quién es el ladrón y quién ha robado en estapelícula?",
+	"contributor": null,
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 66602,
+	"unique_words": 8687,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7553103141791013,
+		"slope": 0.6586635238559091,
+		"std_error_intercept": 0.039829066740345545,
+		"std_error_slope": 0.00387245333729584
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed20350612971243b847"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Garzon Espinosa/La Tercera Republica (36199)/La Tercera Republica - Alberto Garzon Espinosa.epub",
+	"creator": "Alberto Garzón Espinosa",
+	"title": "La Tercera República",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "El caso Nóos, la trama Gürtel, los sobresueldos de Bárcenas, el caso Blesa… Los escándalos políticos que han salpicado la realidad española de los últimos años han llevado a gran parte de la sociedad a un cierto desencanto hacia la democracia surgida de la Transición y a cuestionar incluso la monarquía, la institución que hasta ahora había quedado casi al margen de toda crítica.En ese proceso de desilusión colectiva, el republicanismo, que tras la Constitución que convertía España de nuevo en un reino parecía no tener apenas cabida en la vida pública, ha vuelto con fuerza, como expresión no sólo del rechazo a una jefatura del Estado de carácter dinástico, sino también a una democracia de corte cada vez más liberal, que cercena los principios de participación libre y activa de los ciudadanos en los asuntos públicos.Para cambiar esa tendencia, Alberto Garzón Espinosa plantea en este libro un objetivo ambicioso para España, que va más allá de redactar una nueva Constitución: se trata de construir una base social suficientemente amplia que apoye y sostenga un cambio radical en las instituciones públicas, con el fin de consolidar una democracia plena, en la que los únicos reyes que quedarán serán los de la baraja.",
+	"contributor": "Michael Ralle & François Ralle",
+	"date": "2014-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 86471,
+	"unique_words": 10554,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7607523903909652,
+		"slope": 0.6612199650371409,
+		"std_error_intercept": 0.07246017904604864,
+		"std_error_slope": 0.006898811852243254
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed25350612971243b848"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Gil Picota Batista/El amante de la senora Forbes (68033)/El amante de la senora Forbes - Alberto Gil Picota Batista.epub",
+	"creator": "Alberto Gil Picota Batista",
+	"title": "El amante de la señora Forbes",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El amante de la señora Forbes es una agorera metáfora social que pone en perspectiva el peso del ciudadano ante la sociedad. El voyerismo de un adolescente se cierra con un homicidio y en una tumultuosa historia de amor. A la par, pueden advertirse las luchas de un movimiento político enfrentado al poder militar. Por la historia discurren músicos, líderes estudiantiles, militares y agentes de la policía. El barrio de Río Abajo, el Cuartel Central de la Policía, la Universidad de Panamá, la Vía España y la Plaza 5 de Mayo, son el escenario volcánico del desarrollo de la obra. El tiempo histórico del Istmo, la negociación del Tratado del Canal de Panamá, las grandes concentraciones del gobierno bonapartista de Omar Torrijos, la Seguridad del Estado y las luchas antidictatoriales se dejan apreciar a cada paso del relato. No pareciera posible, para los protagonistas, escapar de la adversidad en tan virulenta encerrona de su destino. El humor es un luciferino recurso ante la fiereza de la realidad. Una que, todavía, ignoraba Internet, los teléfonos celulares y Netflix. Para bien o para mal, sin embargo, no cabían en el infierno la maldad y la impudicia de esas décadas presuntamente revolucionarias.",
+	"contributor": null,
+	"date": "2017-05-19T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 83365,
+	"unique_words": 13597,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4878629259918092,
+		"slope": 0.710710776436346,
+		"std_error_intercept": 0.06004510321433019,
+		"std_error_slope": 0.005733613917042141
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed28350612971243b849"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Gonzalez/El amargo despertar (79139)/El amargo despertar - Alberto Gonzalez.epub",
+	"creator": "Alberto González",
+	"title": "El amargo despertar",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Jorge es uno de tantos en Madrid. Tiene las mismas virtudes y defectos que tú. El amargo despertar narra su historia cuando, tras una fatídica noticia personal, se levanta y no hay nadie. Sin más: nadie. Vivirás en la piel de una persona muerta por dentro y por fuera y que, sin embargo, sigue luchando por mantener su cordura. Imagínate en un barrio desconocido con tu camisa llena de sangre (¿Es la tuya?). Imagínate pidiendo ayuda a gritos cuando acabas de cometer un asesinato y que solo los perros logran contestar a tus súplicas. Imagínate entrando a sitios que nunca pensabas que ibas a entrar, comiendo lo que nunca en tu vida especulabas que ibas a probar y cometiendo los delitos que solo veías cada noche en el telediario. Imagínate que todo eso que haces es por tu supervivencia. Tu más completa y agónica supervivencia. Te recuerdo, si estás despistado, que estás solo. Vivirás también el viaje postrero de una civilización perdida y comprobarás que, por desgracia, estaremos todos condenados. Con una estructura circular y narrada en primera persona, El amargo despertar es una novela que busca explicar el fatal destino de la humanidad desde el deambular del último de sus supervivientes. ¿Querrás ser tú esa persona?",
+	"contributor": null,
+	"date": "2013-07-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 58861,
+	"unique_words": 9058,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6938512628405276,
+		"slope": 0.6760201860401057,
+		"std_error_intercept": 0.021714893863628414,
+		"std_error_slope": 0.002132304221195861
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed31350612971243b84a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Granados/Historias imprescindibles para los amantes de los viajes (79087)/Historias imprescindibles para los amantes - Alberto Granados.epub",
+	"creator": "Alberto Granados",
+	"title": "Historias imprescindibles para los amantes de los viajes",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Un libro divertido, ideal para los amantes de los viajes y el misterio. En la misma línea de los libros anteriores del autor, Alberto Granados nos presenta ahora una selección de las rutas y los viajes más insólitos de todos los tiempos. Nos muestra los hechos más curiosos de los destinos que han marcado nuestra historia: el hundimiento del Titanic, el efecto del Triángulo de las Bermudas, las misteriosas calles de Whitechapel donde acechaba Jack el destripador, el rodaje de Indiana Jones en Petra, y muchos más que harán viajar a la imaginación y despertar la inquietud por los lugares más emblemáticos de todos los tiempos.",
+	"contributor": null,
+	"date": "2013-01-29T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 113125,
+	"unique_words": 17182,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4228851227960484,
+		"slope": 0.7159452398558666,
+		"std_error_intercept": 0.013718493602499715,
+		"std_error_slope": 0.0012782652441689296
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed39350612971243b84b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Granados/La historia mas curiosa (78976)/La historia mas curiosa - Alberto Granados.epub",
+	"creator": "Alberto Granados",
+	"title": "La historia más curiosa",
+	"subject": "Ensayo",
+	"rights": "© 2010, Alberto Granados",
+	"publisher": null,
+	"description": "Desde tiempos inmemoriales el ser humano ha sentido curiosidad por los acontecimientos que acaecieron a sus ancestros y que han contribuido a que el mundo sea tal y como lo conocemos. Pero con el transcurso de los años las historias han sido manipuladas, muchos personajes han caído en el olvido y la ficción ha enturbiado los detalles. Los historiadores modernos han sacado a la luz nuevos testimonios que entroncan con los que siempre hemos aceptado como ciertos. ¿Viajó Cristóbal Colón en tres carabelas? ¿Fue Cleopatra la reina más bella de Egipto? ¿Consiguió algún preso fugarse de Alcatraz? ¿George Washington fue el primer presidente de los Estados Unidos de América?",
+	"contributor": null,
+	"date": "2010-12-14T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 78551,
+	"unique_words": 14077,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4649807299877637,
+		"slope": 0.7183419688231569,
+		"std_error_intercept": 0.0792256372712554,
+		"std_error_slope": 0.007601385162446842
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed3f350612971243b84c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Granados/Las rutas del misterio_ el Madrid oscuro (76494)/Las rutas del misterio_ el Madrid oscuro - Alberto Granados.epub",
+	"creator": "Alberto Granados",
+	"title": "Las rutas del misterio: el Madrid oscuro",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "En Las rutas del misterio. El Madrid oscuro, de Alberto Granados, autor de obras como Leyendas urbanas: Entre la realidad y la superstición o La historia más curiosa, el autor nos guía en un recorrido por el Madrid misterioso y oscuro, por los rincones que han sido escenario de acontecimientos terribles o inexplicables, cap aces de inquietar el ánimo del más templado. Nos descubre una ciudad muy diferente de la que se puede apreciar a simple vista. Crímenes, traiciones, personajes desalmados, episodios cargados de violencia, presencias extrañas cuyo fantasmal lamento recorre los pasillos de palacios olvidados... Quizá alguna de estas historias haga que usted no vuelva a pasear de noche por ciertas calles de Madrid. Alberto Granados es un autor de culto para los amantes de las leyendas urbanas. En Las rutas del misterio. El Madrid oscuro añade a las diferentes historias el enfoque del libro como “guía urbana”. Dirigido a lectores amantes de los misterios, lo paranormal, las historias inexplicables, oyentes de Milenio 3, La Rosa de los Vientos, seguidores de Iker Jiménez, con quien el autor colaboró estrechamente. Alberto Granados es periodista y escritor. En la Cadena Ser dirige y presenta los programas Ser Curiosos y A Vivir Madrid. Madrid, la urbe provinciana que se ha ido convirtiendo en una gran ciudad, alberga en sus calles y en sus escaleras de vecindario o corralas, historias oscuras, canallas o paranormales que en muchas ocasiones han pasado al imaginario colectivo dando 'sabor' a algunos de los rincones más emblemáticos de la capital. Alberto Granados, un buen conocedor de las 'leyendas urbanas' y autor de un libro de gran éxito sobre este tema, traza en esta nueva obra diversos itinerarios por Madrid, descubriéndonos historias increíbles y escalofriantes como la del Mesón del lobo feroz o la de La casa del pecado mortal, crueles asesinos que han dejado su rastro sangriento en alguna de nuestras calles o sucesos paranormales que han quedado para la historia de la ciudad, como los acontecidos en la 'Casa de Vallecas' o los protagonizados por los 'fantasmas del Reina Sofía'.",
+	"contributor": null,
+	"date": "2013-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 61439,
+	"unique_words": 8887,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8283167751353229,
+		"slope": 0.6587111658636788,
+		"std_error_intercept": 0.018675646843969294,
+		"std_error_slope": 0.0018275581092688884
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed46350612971243b84d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Granados/Leyendas urbanas (79163)/Leyendas urbanas - Alberto Granados.epub",
+	"creator": "Alberto Granados",
+	"title": "Leyendas urbanas",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Las historias fantásticas nos acompañan desde el principio de los tiempos, relatadas al calor de la hoguera y transmitidas de generación en generación. Son fábulas destinadas a entretener, asustar o sorprender, dirigidas sobre a todo a los más jóvenes y generalmente con moraleja: no vayas por ese camino, no llegues tarde a casa, no hables con desconocidos. En la actualidad y sobre todo gracias a las nuevas tecnologías, estas narraciones se conocen como leyendas urbanas y han pasado a formar parte del inconsciente colectivo. Inquietantes, macabras, divertidas o directamente increíbles, circulan por Internet, llegan a nuestros buzones de correo electrónico y a nuestros teléfonos móviles ¿Quién no ha oído hablar de la misteriosa chica de la curva o de los cocodrilos que viven en las alcantarillas de Nueva York? ¿Y qué hay de la célebre historia de Ricky Martin, el perro y la mermelada? Todas ellas y más están en este volumen, que incorpora también las leyendas de más reciente creación: Pandilla Sangre, la sonrisa del payaso, la burundanga... En suma, una colección de historias que le pondrá los pelos de punta, o le hará sonreír. En cualquier caso, una forma entretenida de conocer los miedos y supersticiones que, en mayor o menor grado, todos compartimos.",
+	"contributor": null,
+	"date": "2010-12-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 97029,
+	"unique_words": 14285,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3372537702723584,
+		"slope": 0.7177911427327006,
+		"std_error_intercept": 0.07769866755809218,
+		"std_error_slope": 0.007329447462071834
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed4e350612971243b84e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Granados/Los vigilantes de los dias (54987)/Los vigilantes de los dias - Alberto Granados.epub",
+	"creator": "Alberto Granados",
+	"title": "Los vigilantes de los días",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Cuando el periodista de la CNN Richard Cappa llega a México para preparar unos reportajes de carácter cultural, se ve inmerso en una tenebrosa trama manejada por un millonario que ha hecho negocio satisfaciendo los más bajos instintos de los poderosos del mundo... hombres sin escrúpulos dispuestos a todo para dar rienda suelta a sus perversiones.",
+	"contributor": null,
+	"date": "2011-05-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 114608,
+	"unique_words": 11586,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.192976770379957,
+		"slope": 0.6177828095987394,
+		"std_error_intercept": 0.13377469140920784,
+		"std_error_slope": 0.012451881933663488
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed52350612971243b84f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Granados/_Es eso cierto_ (78958)/_Es eso cierto_ - Alberto Granados.epub",
+	"creator": "Alberto Granados",
+	"title": "¿Es eso cierto?",
+	"subject": "Ensayo",
+	"publisher": null,
+	"description": "Fraudes, errores, experimentos inauditos... Todas las respuestas a tus preguntas sobre el mundo científico. Desde los albores del mundo el ser humano ha satisfecho sus ansias de conocimiento con la experimentación y la observación de su entorno para encontrar respuestas a preguntas aparentemente obvias que marcarían el rumbo de su existencia, para hacer realidad sus propios sueños o para entender el legado de los pueblos antiguos. A partir de ese impulso, de esa curiosidad inherente surgen incógnitas, teorías, fórmulas, hallazgos, experimentos... ciencia, y gracias a esta pulsión el hombre ha sido capaz de volar, de conquistar el espacio, de mejorar su calidad de vida... Pero toda cara posee una cruz y a veces el ardor científico se empaña de ambición o de fama y se convierte en generador de historias escabrosas que es mejor olvidar. Granados, autor de éxito de *Leyendas urbanas*, ha reunido para su «mundo curioso», un recorrido por los errores, los fraudes y las curiosidades científicas a través del tiempo, que no nos dejará indiferentes y que nos hará experimentar momentos irrepetibles. *¿Es eso cierto?* demuestra que ciencia y entretenimiento son en ocasiones un binomio perfecto.",
+	"contributor": null,
+	"date": "2008-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72982,
+	"unique_words": 13248,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4868020297530997,
+		"slope": 0.715518556684049,
+		"std_error_intercept": 0.04677213939932406,
+		"std_error_slope": 0.0045142061733796715
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed58350612971243b850"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Guaita Tello/Los ojos del mar (69310)/Los ojos del mar - Alberto Guaita Tello.epub",
+	"creator": "Alberto Guaita Tello",
+	"title": "Los ojos del mar",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "A primeros de los setenta, en la costa de Camerún, la joven Fanya y su abuela Simone, la curandera, encuentran herido e inconsciente en la playa a un extraño ser humanoide llamado Sharduk.Simone lo reconoce como un “mamiwata”, un espíritu de las aguas. Juntas intentarán salvarle la vida curando sus heridas y ocultándolo en el manglar. Al despertar, Sharduk les relatará cómo es el cada vez más deshabitado y peligroso mundo del que proviene, Teluria, y de qué manera llegó al nuestro a través de las extrañas “zonas de cruce”.Fanya y el aún convaleciente Sharduk no tardarán en enamorarse. Debido a peligrosas circunstancias tendrá que alejarse de ella, jurándole que volverá con un medio seguro para que puedan atravesar el “cruce” submarino juntos.De aquí parte una historia épica de aventuras, amor, magia africana y ciencia ficción, llena de giros inesperados. En ella descubriremos los distintos mundos y misterios de cada uno de sus protagonistas, que tendrán que enfrentarse tanto a los prejuicios de sus respectivas sociedades como a oscuros secretos y temibles enemigos.",
+	"contributor": null,
+	"date": "2017-11-08",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 93847,
+	"unique_words": 13139,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5291249404415541,
+		"slope": 0.6977428902013264,
+		"std_error_intercept": 0.0995398781312995,
+		"std_error_slope": 0.009414965074950347
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed5d350612971243b851"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Insua/El negro que tenia el alma blanca (77909)/El negro que tenia el alma blanca - Alberto Insua.epub",
+	"creator": "Alberto Insúa",
+	"title": "El negro que tenía el alma blanca",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Alberto Insúa nos cuenta la historia de un hombre negro, educado en el seno de una familia blanca acomodada, que se traslada de Cuba a Madrid tras el conflicto bélico del 98. El negro que tenía el alma blanca es una historia de pasión, desengaño, poder, desilusión, dinero, infelicidad… insertos en una acción situada en un tiempo externo reconocible, la guerra de Cuba (1895-98), sus inmediatos años posteriores y la época de entreguerras. Las referencias históricas, políticas y sociales son continuas.Con el telón de fondo del clima y paisaje cubanos, describe el narrador los ambientes alegres de algunas ciudades europeas, como Madrid, con sus barrios castizos; París, con sus grandes restaurantes y sus cabarets de lujo; los lugares más representativos de Barcelona o el Trafalgar Square de Londres, donde late el sentir de Europa, ávida de gozo y presente, tras la contienda. Tres son los ambientes en que viven los personajes: el mundo decadente del teatro, la aristocracia corrompida y la burguesía un poco cosmopolita de los tiempos de paz.El tema es el conflicto de un hombre negro con un alma blanca, con toda la simbología que la palabra entraña: no sólo heredero de toda la tradición cultural del hombre blanco, sino poseedor de un corazón noble, un alma limpia bajo una piel negra, en una sociedad llena de prejuicios. El tema del negrismo cobra una dimensión trascendental; la cuestión que subyace es la pregunta existencial: ¿qué es un hombre, su cuerpo o su alma?La novela tuvo tanto éxito que fue llevada al cine por Benito Perojo en dos versiones: una muda, de 1926-27, y otra ya sonora y musical, de 1934.",
+	"contributor": null,
+	"date": "1922-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 85909,
+	"unique_words": 12225,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2104218204946315,
+		"slope": 0.7244990696830499,
+		"std_error_intercept": 0.11015965152288688,
+		"std_error_slope": 0.010493659779631057
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed60350612971243b852"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Iranzo Sarguero/Estamos muertos (63775)/Estamos muertos - Alberto Iranzo Sarguero.epub",
+	"creator": "Alberto Iranzo Sarguero",
+	"title": "Estamos muertos",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Diecinueve relatos cortos de terror y fantasía. Un viaje a través de la imaginación del autor en el que nos encontraremos con vampiros, viajes en el tiempo y hacia otras dimensiones, libros malditos, ratas demoníacas, psicópatas, demonios, soñadores, monstruos y anti-héroes.",
+	"contributor": null,
+	"date": "2015-03-04T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 56633,
+	"unique_words": 9211,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.350746324687822,
+		"slope": 0.7094365517251401,
+		"std_error_intercept": 0.04147425847688334,
+		"std_error_slope": 0.0040851701777856715
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed64350612971243b853"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Iranzo Sarguero/Un lobo, una pelirroja y un monton de balas (65694)/Un lobo, una pelirroja y un monton de bala - Alberto Iranzo Sarguero.epub",
+	"creator": "Alberto Iranzo Sarguero",
+	"title": "Un lobo, una pelirroja y un montón de balas",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "La aburrida vida de Mikel y Melinda está a punto de cambiar cuando un extraño hombre muere delante suyo dejando en su poder un misterioso maletín. Una serie de brutales personajes interesados en recuperar dicho objeto para un manipulador criminal llamado El Lobo les darán caza, y una enigmática asesina a sueldo acudirá en ayuda de nuestra pareja protagonista para llevarles de la mano a un violento enfrentamiento plagado de revelaciones y sangre.",
+	"contributor": null,
+	"date": "2015-12-12T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 73210,
+	"unique_words": 10253,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2613300642822256,
+		"slope": 0.7117955124158,
+		"std_error_intercept": 0.14567590565755004,
+		"std_error_slope": 0.01405641137542669
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed67350612971243b854"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Jimenez Ure/Absurdos (17100)/Absurdos - Alberto Jimenez Ure.epub",
+	"creator": "Alberto Jiménez Ure",
+	"title": "Absurdos",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "En 1979, en el diario EL UNIVERSAL de Caracas, el crítico venezolano residenciado en París Gustavo GURRERO expresó sobre Acertijos de JIMÉNEZ URE «[…] Nos presenta la ficción como medio de indagar el renglón ontológico a través del absurdo, que desenmascara nuestra tradición lógica-occidental. Utilizando justamente la Lógica, por medio del diálogo que maneja reiteradamente en sus narraciones (tal vez lo mejor de ellas), en una especie de Mayéutica elaborada por las preguntas y respuestas de sus personajes (entre los cuales él se confiesa uno más), el autor de Acertijos va construyendo una serie de silogismos […]».Luego, en 1982, el filósofo Alberto ARVELO RAMOS llevaba en sus manos el primer ejemplar de un libro de JIMÉNEZ URE titulado Suicidios cuando tuvo un encuentro casual con el autor de los relatos y le dijo: «[…] Mira, tengo marcado y con anotaciones en los márgenes de cada página tus narraciones. Pienso que eres un filósofo transmutado en cuentista […]». Después, en el año de 1988, desde Manhattan, el novelista cubano Reinaldo ARENAS le envió una postal a JIMÉNEZ URE mediante la cual le confiesa «[…] que los elementos absurdos, escatológicos y macabros de sus cuentos lo habían impactado y quería convertirse en su padrino ante la editorial española Tusquets […]».Entre las opiniones de talentosos ensayistas, más tarde, en 1995, destacarían las de Juan LISCANO «[…] Hasta cierto punto, la obra de JIMÉNEZ URE podría calificarse con el término decimonónico de “maldita”. En ella hay videncia; hay intuiciones espirituales trascendentes; hay erotismo sádico-masoquista, me atrevería a decir, casi redentor, por lo purgativo; hay ciencia-ficción; hay cultivo del crimen como acto de rebelión total; hay preocupación interior por el destino humano; hay develamiento, blasfemia, insultos congelados, parodia de secretos íntimos, aberraciones, incesto, invocación sesgada demoníaca, delirio, maleficio, descomposición, fermentaciones enigmáticas […]».Esta obra, «Absurdos», es, como le deja indicado el subtítulo de su autor, la máxima recopilación personal de su obra cuentística; inédita en papel.",
+	"contributor": null,
+	"date": "2014-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 63367,
+	"unique_words": 13039,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3776590600141811,
+		"slope": 0.7333789025127136,
+		"std_error_intercept": 0.06054554587879874,
+		"std_error_slope": 0.005910199172745289
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed68350612971243b855"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Jimenez Ure/Decapitados (38702)/Decapitados - Alberto Jimenez Ure.epub",
+	"creator": "Alberto Jiménez Ure",
+	"title": "Decapitados",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "En Decapitados que es la vida de una República gobernada por Ares Paz Fobo ―el juego lingüístico (Ares es el dios de la guerra griego y Fobo la representación del terror griego)―, éste caprichosamente nombró a los miembros de la Asamblea de representantes de los ciudadanos [ARC] y los instó a que redactasen una nueva Carta Magna, que le daría poderes ilimitados. El arte utilitario tiene un estrecho vínculo con lo social y lo anterior es el aljófar que como imagen recaba el escritor para expresar su relación con el entorno, en la que no hay absurdo, sino dislates ridículos, y los actos no son grotescos, sino repugnantes, no tienen el relleno de un Henry Miller en su Trópico de Cáncer ante la sociedad pataca norteamericana de los años treinta. Y en una conclusión pesimista llama a la inteligencia a mandar y entonces la hace suicidar a lo nazi con una cápsula de cianuro viéndose en el espejo como en film el huevo de la serpiente. Estimado lector puede llamarse según el soporte teórico del Doctor Enrique Plata que lo escrito por Jiménez Ure sea lo mejor que se hace en Venezuela o lo es realmente…",
+	"contributor": null,
+	"date": "2010-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 12687,
+	"unique_words": 3621,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.6476956527334864,
+		"slope": 0.7979179480416546,
+		"std_error_intercept": 0.06751902862350477,
+		"std_error_slope": 0.007460063778105212
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed69350612971243b856"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Jimenez Ure/Dictados contrarrevolucionarios (18232)/Dictados contrarrevolucionarios - Alberto Jimenez Ure.epub",
+	"creator": "Alberto Jiménez Ure",
+	"title": "Dictados contrarrevolucionarios",
+	"subject": "Filosófico",
+	"publisher": null,
+	"description": "En «Dictados contrarrevolucionarios» hay una posición crítica ante una serie de circunstancias políticas y sociales (que hoy laceran la piel de nuestro país y de casi toda América Latina), que hacen de nuestros días una odisea de supervivencia y de permanencia histórica; pero ello no es obstáculo para el poeta, ya que se levanta ante las arbitrariedades y las injusticias con voz potente y esgrime, con la autoridad que le confiere sus claroscuros personales y su estatura intelectual, la bandera de una existencia en la que «no (le) apuran la muerte ni los deseos carnales», y avanza sin titubeos hacia el autoconocimiento y la realización plena.Hallamos en esta nueva entrega a un poeta y a un intelectual de regreso de los caminos de la existencia, que trae consigo una inmensa carga de angustia así como jirones de esperanzas para compartir con quienes deseen escucharlo. Percibimos a un creador que intenta —¿en vano?— abrir espacios para la inteligencia, en medio de la huida de la certeza que nos regala el presente siglo. Su discurso lo acerca al narrador y ensayista judío Amos Oz, en su doloroso libro de conferencias titulado «Contra el fanatismo» (Siruela, 2005), cuando nos dice que los hombres contemporáneos hemos perdido las tres grandes certezas del hombre decimonónico: el saber dónde iba a vivir, que iba a hacer para vivir y adónde iría una vez que lo alcanzara la muerte.",
+	"contributor": null,
+	"date": "2008-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 8202,
+	"unique_words": 3340
+},
+{
+	"_id": {
+		"$oid": "5ed3ed6a350612971243b857"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Jimenez Ure/Escorias (15165)/Escorias - Alberto Jimenez Ure.epub",
+	"creator": "Alberto Jiménez Ure",
+	"title": "Escorias",
+	"subject": "Drama",
+	"publisher": null,
+	"identifier": "9cb4a14c-d7c8-4bd6-8452-8eb189d2cd44",
+	"description": "En palabras de su autor: «Se trata de una novela rigurosamente existencialista, con algunos elementos que estigmatizan mis ficciones y que críticas como la de Shirley Yorleny Montero Rodríguez califica como post-modernos. Mi edad y mis depresiones me han convertido en una persona más vulnerable, motivo por el cual mis experiencias con los personajes que protagonizan en Escorias me afectaron tremendamente. Al extremo que intenté suicidarme un par de veces, con sobredosis de antidepresivos mezclados con licor. Anhelé se me oficiara un tedeum».",
+	"contributor": null,
+	"date": "2014-01-04T14:32:01",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 19894,
+	"unique_words": 5068,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.7854253981097591,
+		"slope": 0.7824958793188341,
+		"std_error_intercept": 0.06865387832724695,
+		"std_error_slope": 0.00733956231313078
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed70350612971243b858"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Ladero Lorente/Conecta2 (81135)/Conecta2 - Alberto Ladero Lorente.epub",
+	"creator": "Alberto Ladero Lorente",
+	"title": "Conecta2",
+	"subject": "Intriga",
+	"rights": "Todos los derechos reservados. Este libro ha sido publicado en modalidad de auto publicación por el autor oficiando también como editor. Ninguna sección de este material puede ser reproducida en ninguna forma ni por ningún medio sin la autorización expresa de su autor. Esto incluye pero no se limita a reimpresiones, extractos, fotocopias, grabación, o cualquier otro medio de reproducción. Para mayor información por favor contactar con el autor vía correo electrónico. Publicado en España por Alberto Ladero Lorente",
+	"publisher": null,
+	"description": "Imagina que encuentras por internet a alguien que conociste cuando eras un niño. Es más, imagina que sin saberlo te encontraste con esa persona cuando ya eras adulto. Pero aún más, imagina que esa persona es tu alma gemela...",
+	"contributor": null,
+	"date": "2017-11-16T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 118138,
+	"unique_words": 12653,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6432440969765583,
+		"slope": 0.6690083020444074,
+		"std_error_intercept": 0.052282458916583015,
+		"std_error_slope": 0.004854708424382546
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed78350612971243b859"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Ladero Lorente/La balada del gato negro (68877)/La balada del gato negro - Alberto Ladero Lorente.epub",
+	"creator": "Alberto Ladero Lorente",
+	"title": "La balada del gato negro",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "En un momento determinado de tu vida puedes estar en la cima disfrutando de lo bueno que te ofrece y al instante siguiente descender a las cavernas. Víctor de la Hera líder y batería de una banda de música que goza de gran popularidad, ve truncada su creciente fama por el grave accidente que sufre su único hijo, Diego. En tan sólo un instante su vida da un giro de más de ciento ochenta grados. Mientras este se debate entre la vida y la muerte, aguardando acontecimientos en una de las salas del hospital, Víctor conoce a Nita, también a la espera de que se produzca un milagro para su hija. Por caprichos del destino, de alguna manera sus vidas quedan conectadas por un hilo invisible para siempre...aunque siempre no es eterno... Con la muerte de su hijo, Víctor inicia el descenso hasta el mismo infierno, intenta soportar lo sucedido reconfortándose con la bebida y con las pastillas hasta tocar fondo, y ni si quiera puede aligerar su pena con las lagrimas; se siente un miserable, su propia mujer le culpa de todo lo sucedido, siendo el detonante de la ruptura de su relación; aunque ya hacía aguas antes de la tragedia. Cuando es capaz de salir de la espiral en la que se halla inmerso de nuevo el infortunio aparece en su vida. ¿Se puede encontrar de nuevo el amor en las condiciones más adversas? ¿Y una vez que se ha encontrado dejarlo marchar porque crees que no mereces ser amado? ¿Logrará superar de nuevo los obstáculos?...sumérgete en las páginas de esta novela, vívela en primera persona con sus personajes y forma parte de sus vidas...ellos formarán ya parte de la tuya.",
+	"contributor": null,
+	"date": "2016-12-12T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 104414,
+	"unique_words": 11575,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5626038294765479,
+		"slope": 0.676040648399715,
+		"std_error_intercept": 0.045649065077551544,
+		"std_error_slope": 0.004280874774557539
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed79350612971243b85a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Ladero Lorente/_Quien mato al rey de corazones_ (81158)/_Quien mato al rey de corazones_ - Alberto Ladero Lorente.epub",
+	"creator": "Alberto Ladero Lorente",
+	"title": "¿Quién mató al rey de corazones?",
+	"subject": "Ensayo",
+	"publisher": null,
+	"description": "¿Es posible reirse de todo sin perder el respeto por nadie?En este ensayo el autor trata de hacerlo, aunque no siempre lo consigue.La risa está garantizada.",
+	"contributor": null,
+	"date": "2016-07-21T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 21632,
+	"unique_words": 5085,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.8627908973340274,
+		"slope": 0.7667595325739446,
+		"std_error_intercept": 0.1215128774057306,
+		"std_error_slope": 0.012908128856598642
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed7b350612971243b85b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Laiseca/Aventuras de un novelista atonal (59452)/Aventuras de un novelista atonal - Alberto Laiseca.epub",
+	"creator": "Alberto Laiseca",
+	"title": "Aventuras de un novelista atonal",
+	"subject": "Sátira",
+	"publisher": null,
+	"description": "En las profundidades cavernosas de un exbaño transformado en cuarto, aislado como los «sabios locos» de los cuentos, un escritor trabaja en su libro único, misterioso, enciclopédico, definitivo y larguísimo. Es el nuevo alquimista que construye con papeles y letras su propia Torre de Babel. La novela atonal. Poco sabemos de esta obra maestra, destinada a revolucionar el arte en su conjunto y la literatura en particular. Por el momento su autor lucha contra las ratas, la abominable vieja de la pensión de las nieves, los espejismos y otros chascos que intentan destruirlo. Aventuras de un novelista atonal es la prueba de que hasta las cosas más terribles pueden decirse con humor y mediante el método del realismo delirante. Verificamos la inutilidad del éxito sin crecimiento interior, y que el verdadero Prometeo es siempre invisible (enmascarado por los falsos profetas del arte). Pero es además una alegoría entre el poder absoluto y el artista: parábola de la sociedad toda donde más allá de los stalingrados personales y los «triángulos de las Bermudas» que devoran almas existen la amistad, el coraje personal y la búsqueda del amor.",
+	"contributor": null,
+	"date": "1982-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 29898,
+	"unique_words": 7456,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.49035948072029895,
+		"slope": 0.8180820785222562,
+		"std_error_intercept": 0.10396475265645094,
+		"std_error_slope": 0.010772263614942287
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed7d350612971243b85c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Laiseca/EL gusano maximo de la vida misma (48280)/El gusano maximo de la vida misma - Alberto Laiseca.epub",
+	"creator": "Alberto Laiseca",
+	"title": "El gusano máximo de la vida misma",
+	"subject": "Sátira",
+	"publisher": null,
+	"description": "Las cloacas de Nueva York rebosan de ratas y de cocodrilos. Pero también las habita una verdadera corte de los milagros. Hombres y mujeres que viven de lo que pierde allí la gente de la superficie, prófugos de la justicia, cadáveres anónimos, un necrófilo escapado de otra novela, ex prostitutas y la imponente Reina de las Cloacas. Junto a ella y en carácter de príncipe consorte, se instala también el gusano máximo de la vida misma. Versátil y pleno de poderes, fornicador infatigable y espíritu libre, algún día vuelve a la superficie a desplegar victorioso todos sus talentos.Esta nueva novela del autor de Los Sorias sorprende con otras facetas de su realismo delirante, un modo original y revulsivo de reflexionar sobre el erotismo, la sabiduría y la justicia. Y confirma a Laiseca como uno de los escritores argentinos más sorprendentes.",
+	"contributor": null,
+	"date": "1998-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 40594,
+	"unique_words": 7922,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2814363849730825,
+		"slope": 0.7265171715002522,
+		"std_error_intercept": 0.17720625697501546,
+		"std_error_slope": 0.017924658061524143
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed84350612971243b85d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Laiseca/La hija de Kheops (69523)/La hija de Kheops - Alberto Laiseca.epub",
+	"creator": "Alberto Laiseca",
+	"title": "La hija de Kheops",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "Durante la cuarta dinastía y aconsejado por el astrólogo real, el faraón Kheops decidió acometer una magna empresa: construir una pirámide que será su monumento funerario y, supuestamente, preservará a Egipto de males futuros. Cetes, el astrólogo y mago, encargará al mejor arquitecto egipcio, el peculiar maestro Tofis, los trabajos de construcción, que se prolongarán treinta años. Pronto surgirán problemas: en primer lugar, los mosquitos, el tormento de los pobladores de la cuenca del Nilo; no menos espinosa es la lascivia de Boula, la mujer nubia de Tofis, que provoca desafueros en todos los que visitan a éste. A todo ello se sumará Hentsen, la incestuosa hija de Kheops, que tiene dos maridos: el propio faraón y el mago Cetes.Así, entre intrigas cortesanas, diálogos disparatados y digresiones mitológicas y políticas, pero sobre todo salidas de tono y comentarios delirantes del autor, que a propósito se deleita en los anacronismos, avanza no sólo la construcción de la pirámide, sino también esta divertida novela.Con La hija de Kheops, rescatamos para nuestro catálogo esta obra de Laiseca –autor de culto que cuenta con numerosos e incondicionales lectores– que, en una época de novelas históricas cortadas con idéntico y previsible patrón, aporta una innegable originalidad al género, hasta convertirlo en parodia.",
+	"contributor": null,
+	"date": "2006-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 95052,
+	"unique_words": 12869,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6134062215559755,
+		"slope": 0.6877809896816891,
+		"std_error_intercept": 0.10008220125754548,
+		"std_error_slope": 0.009456561386349814
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed8b350612971243b85e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Laiseca/La mujer en la Muralla (56668)/La mujer en la Muralla - Alberto Laiseca.epub",
+	"creator": "Alberto Laiseca",
+	"title": "La mujer en la Muralla",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "La mujer en la muralla es la parábola de un emperador feroz y genial y de la construcción de su obra ciclópea, la Gran Muralla China. Pero es también la aventura múltiple y fascinante del pueblo que admiró y padeció al déspota. Por las páginas de este libro desfilan en sordina el cauteloso sabio Lai Chú, los letrados caídos en desgracia, la ascendiente secta de los eunucos, y también esposas, concubinas y prostitutas idealizadas. Y, en el corazón de la historia, la abnegada Men Chiang Nü, que sigue hasta los confines del imperio a su marido letrado, porque éste ha sido reclutado para trabajar en la inhumana construcción de la Muralla. Con el absurdo como uno de los elementos más verosímiles de la realidad, y mediante un rigor documental digno de toda confianza.",
+	"contributor": null,
+	"date": "1990-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 127992,
+	"unique_words": 15882,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6473192446111395,
+		"slope": 0.6841313981918176,
+		"std_error_intercept": 0.052366385575461964,
+		"std_error_slope": 0.00483145361124541
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ed90350612971243b85f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Laiseca/Las aventuras del profesor Eusebio Filigranati (73827)/Las aventuras del profesor Eusebio Filigra - Alberto Laiseca.epub",
+	"creator": "Alberto Laiseca",
+	"title": "Las aventuras del profesor Eusebio Filigranati",
+	"subject": "Sátira",
+	"publisher": null,
+	"description": "El Profesor Eusebio Filigranati, tanto antítesis como alter ego de su creador Alberto Laiseca, es un personaje complejo y compuesto. Es líder de una mafia de chinos a quienes enseña caligrafía china, padrino de una industria de películas snuff que intenta destruir, padre adoptivo, hermano ideal y violador de chicas sonámbulas. Es, también, un romántico empedernido en busca del amor. Para conseguirlo sale con una gorda vámpira, con su hermana, con una niña pervertida y amante del sadomasoquismo y con una brasileña sin piernas ni brazos.Así es Eusebio, y así es el texto: desopilante, absurdamente errático, análogo a las legendarias narraciones orientales en donde los hechos se suceden sin lógica alguna y jamás se explica por qué ocurre una cosa o la otra. Laiseca construye magistralmente una trama colmada de delirio y seducción, teñida de ternura y romanticismo parodiado; un universo que lo abarca todo, desde la egiptología y el orientalismo decorativo hasta las tácticas militares, la crítica literaria y el desmembramiento de logias secretas.",
+	"contributor": null,
+	"date": "2003-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 98342,
+	"unique_words": 14459,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0604660714960452,
+		"slope": 0.7425395346446998,
+		"std_error_intercept": 0.06979618750323732,
+		"std_error_slope": 0.006576889766667126
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edaf350612971243b860"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Laiseca/Los sorias (10709)/Los sorias - Alberto Laiseca.epub",
+	"creator": "Alberto Laiseca",
+	"title": "Los sorias",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Como todas las obras de esta magnitud, es un mundo autónomo que vive con leyes propias y narra su propio origen. Basta pensar en el extraordinario primer capítulo, con la escena en la pensión que se amplifica y define todo un sistema complejísimo de representación de lo real. Lo que sucede en la pensión es el germen mortífero de una historia que funciona como una explosión nuclear.Un fragmento de ese mundo atomizado ha llegado hasta nosotros. Los sorias es la crónica de una realidad olvidada. Sus lectores se convierten en arqueólogos que descubren en medio de la selva una gran civilización perdida y vuelven a la ciudad para encontrarlo.",
+	"contributor": null,
+	"date": "1998-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 532166,
+	"unique_words": 47194,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2808032106725882,
+		"slope": 0.7241775125899008,
+		"std_error_intercept": 0.15357241393982532,
+		"std_error_slope": 0.0126826819972509
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edb2350612971243b861"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Laiseca/Matando enanos a garrotazos (11544)/Matando enanos a garrotazos - Alberto Laiseca.epub",
+	"creator": "Alberto Laiseca",
+	"title": "Matando enanos a garrotazos",
+	"subject": "Fantástico",
+	"publisher": null,
+	"identifier": "1f88d599-c65e-4216-9390-db806b3e6d9a",
+	"description": "Empezamos con problemas, hay un gerundio en el título del libro (cuenta la leyenda que por esta razón no le otorgaron un importante premio literario cuando el libro aún estaba inédito). Encima, habla de enanos y los enanos no aparecen por ningún lado. Por otra parte, las historias son absurdas, excesivas, delirantes, violentas, pantagruélicas, y tienen personajes de una moral que más que calificarla de dudosa, habría que reconocerla como directamente escandalosa. Todo en este libro es cruel y desmedido, de una inverosimilitud corrosiva. Las personas de bien no le dedicarían ni siquiera una mirada de refilón. Las personas de bien no miran de refilón. las personas de bien no miran... Pero entonces ¿por qué esa curiosidad? ¿Estás pensando seriamente en abrir este libro? ¿Acaso podés llegar a pensar por un instante que en los trece cuentos que conforman estas páginas hay alguna verdad verdadera, de esas que dicen que tienen los libros? Bueno, entonces es posible que los enanos de jardín y los conformistas que no terminan nunca de emparejar el césped comiencen a mirarte con miedo.",
+	"contributor": null,
+	"date": "2013-08-31T05:20:46",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 33018,
+	"unique_words": 7941,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1350595623161601,
+		"slope": 0.7560771081295713,
+		"std_error_intercept": 0.09059108914963394,
+		"std_error_slope": 0.009313874490292596
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edb5350612971243b862"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lajas/Adelgazar y estar sano con la medicina natural (46420)/Adelgazar y estar sano con la medicina nat - Alberto Lajas.epub",
+	"creator": "Alberto Lajas",
+	"title": "Adelgazar y estar sano con la medicina natural",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "Alberto Lajas, diplomado en medicina natural y experto en terapias energéticas y espirituales, gracias a su amplia experiencia de veinte años tratando a cientos de pacientes con éxito, ha creado un libro que estabas esperando. Lajas es consciente de que una de las mayores preocupaciones actuales de la gente es la obesidad, pero además afirma que esta preocupación ha llevado a que millones de personas estén en tratamientos psiquiátricos y que incluso se hayan suicidado. La obesidad no es solo un problema del cuerpo,-afirma Lajas-, además y sobre todo es un problema emocional y de aceptación del yo interno. Por ello Lajas ha creado un libro completo que te enseñara a amarte, lo primero, y después te mostrara los remedios y herramientas naturales que él ha empleado durante años para ayudarte a adelgazar y sobre todo, a hacerlo con salud. Un libro distinto, inédito y que cambiará tu vida.",
+	"contributor": null,
+	"date": "2015-08-26T21:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 22366,
+	"unique_words": 6324,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.5605299085646485,
+		"slope": 0.8173127417330099,
+		"std_error_intercept": 0.048273300487615245,
+		"std_error_slope": 0.005115087434431392
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edb7350612971243b863"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lajas/El amor es cosa de tres (77475)/El amor es cosa de tres - Alberto Lajas.epub",
+	"creator": "Alberto Lajas",
+	"title": "El amor es cosa de tres",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "Silvia acaba de llegar de Madrid a Bilbao, a casa de su amiga Amaia, recién divorciada, cansada, deprimida, sin sus hijos. Amaia, está feliz de que Silvia esté con ella. Amaia es lesbiana y acaba también de romper con Idoia. Lo que jamás se imaginaria Silvia es que iba a tener una experiencia sexual con Amaia, y tan profunda, y menos, que iba a enamorarse de ella. Abdul acaba también de llegar a Bilbao, viene de Paris, a casa de su primo Magali. Abdul se enamorará de Silvia locamente, y después de Amaia. Al final Amaia, Silvia y Abdul, gracias a una regresión que les hará Michel, el maestro espiritual, recordarán que en otra vida los tres ya se habían amado, y ahora vivirán, los tres, una historia de profundo amor, con sexo, pasión y entrega...Jamás en la literatura se habló del sexo con tanta claridad y nitidez, ni con tanto cariño y respeto.",
+	"contributor": null,
+	"date": "2014-08-08T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 40606,
+	"unique_words": 5848,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7085347515366431,
+		"slope": 0.6545036949580647,
+		"std_error_intercept": 0.07978638542769696,
+		"std_error_slope": 0.008070219552595324
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edb9350612971243b864"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lattuada/Diario de un gran amador (36471)/Diario de un gran amador - Alberto Lattuada.epub",
+	"creator": "Alberto Lattuada",
+	"title": "Diario de un gran amador",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "A quienes recuerden las deliciosas películas del cineasta italiano Alberto Lattuada, allá por los años cincuenta, no les sorprenderá encontrar hoy este libro suyo publicado en una colección de narrativa erótica. Como confiesa el propio Lattuada en su «Introducción»: «El cuento Diario de un gran amador, por ejemplo, fue escrito en 1942; esta fecha revela que mi fidelidad a la esencia de la belleza femenina nunca se extinguió en mí».De hecho, así es: el último de estos siete cuentos es de 1980. «Las fulguraciones», continúa reconociendo el autor, «no desaparecen con el andar de los años; en realidad, estoy convencido de que siempre permanecen al acecho mientras la memoria ilumina momentos lejanos con una evidencia de contornos que roza la nostalgia».Películas como Ana, Carta de una novicia y Guendolina dejaban ya imaginar el mundo erótico secreto que animaba a Lattuada en unos años en que tan sólo manifestar un deseo era ya pecado. En estos cuentos, que permanecieron largos años en el fondo de un cajón, el lector cinéfilo descubrirá todas las más íntimas fantasías que el cineasta evitaba exhibir en imágenes y que, en cambio, en la privacidad de una hoja en blanco, pudo expresar con entera libertad.",
+	"contributor": "Carmen Artal",
+	"date": "1980-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 29751,
+	"unique_words": 6556,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3343964850618921,
+		"slope": 0.7233865370026561,
+		"std_error_intercept": 0.028602237678805226,
+		"std_error_slope": 0.0029647245991490604
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edbb350612971243b865"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lopez/Mision fortuita (48874)/Mision fortuita - Alberto Lopez.epub",
+	"creator": "Alberto López",
+	"title": "Misión fortuita",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "26 años antes de la batalla de Yavin. Esta historia es fan fiction, no forma parte oficial de la continuidad La aventura continúa en el planeta Orum. Acompaña a Obi-Wan y a Anakin en esta trepidante historia llena de acción ambientada unos años antes de Star Wars: Episodio II: El Ataque de los Clones.",
+	"contributor": null,
+	"date": "2001-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 46989,
+	"unique_words": 6360,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1441393188033753,
+		"slope": 0.6134837523516288,
+		"std_error_intercept": 0.034096938202432925,
+		"std_error_slope": 0.003409029400620386
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edbd350612971243b866"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lopez/Relatos 2003 (50003)/Relatos 2003 - Alberto Lopez.epub",
+	"creator": "Alberto López",
+	"title": "Relatos 2003",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "Relatos de fan fiction por Alberto López El traje de Lord Vader Secuestro libertador ¡Menudo invento!\nLa fiesta de Bakura\nEl sustituto de Darth Vader Sensaciones\nLa carrera más corta de Shuz Smmot Cómo ser un buen senador\n¿Qué será la paz? Odio a Han Solo Cocina Tatooine: Los mejores platos ¿Así es como lo haces? Gracias a mí Un absurdo La traición de Syfo-Dyas No me gusta hablar del pasado Estoy preparado para afrontar las pruebas Siempre rítmica, siempre lenta, siempre aterradora El sacrificio de los Lars Coincidencias",
+	"contributor": null,
+	"date": "2002-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 20709,
+	"unique_words": 4488,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.509933447098009,
+		"slope": 0.6966817002118879,
+		"std_error_intercept": 0.17356170686968653,
+		"std_error_slope": 0.01849849325316798
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edbf350612971243b867"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lopez/Relatos 2005 (50243)/Relatos 2005 - Alberto Lopez.epub",
+	"creator": "Alberto López",
+	"title": "Relatos 2005",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "Relatos de fan fiction por Alberto López Cómo entrenar a un Sith Intransigencia Menudo deporte Si fuera un Jedi Suerte Boba Fett: la trampa perfecta Mara Jade: la historia se repite Tergiversadores Han &amp; Chewbacca: encargo letal Grievous: rumores Odio a Boba Fett Cuando un geonosiano le habla a un wookie Esclavos del miedo La leyenda de la Cueva del Mal Apostantes compulsivos La batalla del kaiburr Cómo perdí mis tres ojos Sin tópicos Indiana Jones VS Luke Skywalker Clones defectuosos En directo con Gardorr Recompensa por Boba Fett Si Anakin hubiera muerto Indiana Jones VS Han Solo El cumpleaños de Han Yo soy tu padre… ¿o no? Somnolencia El optimista y el pesimista Superviviente Experimento midicloriano",
+	"contributor": null,
+	"date": "2004-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 40897,
+	"unique_words": 6792,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8738274676905176,
+		"slope": 0.6558357798281514,
+		"std_error_intercept": 0.07661037801541262,
+		"std_error_slope": 0.007744630567861946
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edc3350612971243b868"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lopez Aroca/Candy City (55953)/Candy City - Alberto Lopez Aroca.epub",
+	"creator": "Alberto López Aroca",
+	"title": "Candy City",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Por aquí se dice que si uno cava al pie de un árbol es casi seguro que encontrará un cadáver. Los viejos cuentan esa clase de historias, pero yo jamás las he creido, pues Candy City está rodeada de inmensos fresnedales que se extienden hasta Oxfield y más allá. Estoy seguro que desde la fundación de la ciudad, mucha gente ha sido asesinada, pero es imposible que haya un muerto por fresno. Sin embargo, Louie y yo dimos aquel día con un antiguo cadáver. En Candy City, cualquier, en cualquier momento, puede tener motivos para matarte. Candy City es el homenaje que López Aroca realizó a la serie negra clásica y, más concretamente, a Jim Thompson... y no obstante, en una historia sobre el crimen organizado en una pequeña ciudad a caballo entre Chicago y New York, en la época previa a la Ley Seca, logró deslizar a cierto personaje salido de El Valle del Terror, la novela de Sherlock Holmes escrita por Conan Doyle que ya preconizaba el hardboiled norteamericano y la célebre Cosecha Roja de Dashiell Hammett. Quizá la moraleja de esta historia sea, simplemente, que cualquier tiempo pasado fue mejor y, sin duda, mucho más violento.Esta edición de 2010 cuenta con 20 extraordinarias ilustraciones interiores en b/n de Sergio Bleda, artista de reconocimiento internacional cuyo trabajo en esta obra resulta imprescindible.'Para meterle miedo a un tipo, pero no miedo a que te den una paliza, sino miedo de verdad, basta con sacar las tijeras de podar, y rebanarle un par dedos de los pies; quedará cojo para toda la vida, pero podrá hacerse todas las pajas que quiera', decía Craig. 'No es necesario llevar encima un botiquín de emergencia. Que se busque la vida, el gilipollas. Si se desangra será culpa suya y de nadie más. Que se joda'.",
+	"contributor": null,
+	"date": "2010-09-14T22:00:00+00:00",
+	"original_language": "es",
+	"epub_type": "text",
+	"language": "es",
+	"word_count": 53710,
+	"unique_words": 7466,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9157872079940652,
+		"slope": 0.6422773003542444,
+		"std_error_intercept": 0.05521658805204944,
+		"std_error_slope": 0.005461917663102109
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edcb350612971243b869"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lopez Aroca/Charlie Marlow y la rata gigante de Sumatra (55465)/Charlie Marlow y la rata gigante de Sumatr - Alberto Lopez Aroca.epub",
+	"creator": "Alberto López Aroca",
+	"title": "Charlie Marlow y la rata gigante de Sumatra",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Durante una reunión improvisada en el Billiard’s Club de Londres (donde como todo el mundo sabe, nadie juega al billar), un grupo de viajeros y aventureros rememoran las andanzas del marino Charles Marlow —más conocido por ser el protagonista de la novela El corazón de las tinieblas, de Joseph Conrad, que inspiró la película Apocalypse Now—, y el viaje que el vapor volandero Friesland realizó en 1893 en busca de un barco desaparecido, el Matilda Briggs, no muy lejos de la isla de Sumatra. Marlow tendrá que llevar a cabo la búsqueda en compañía de un inglés alto, estirado y extremadamente sagaz, que se hace pasar por un explorador noruego llamado Sigerson. La pista que conduce al Matilda Briggs llevará a Marlow y a su patrón (un enviado del Club Diógenes) hasta una siniestra isla en el Índico, envuelta en una misteriosa niebla perpetua, y cuyo perfil recuerda al de un cráneo… Los sonidos de los aleteos de extrañas y feroces aves antediluvianas y el lejano eco de un estremecedor gong de proporciones ciclópeas no representan una amenaza inmediata, pero no podemos decir lo mismo de la grotesca criatura que se ha escapado del Matilda Briggs, de la tripulación que se ha hecho con un ingenio perteneciente al Gobierno Británico y anda suelta por la isla, ni de un tercer elemento en discordia (un cazador de tigres reconvertido en cazador de hombres) que le sigue la pista al “noruego Sigerson” desde hace dos años, tras la muerte de un profesor de matemáticas llamado James Moriarty…",
+	"contributor": null,
+	"date": "2012-11-30T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 108174,
+	"unique_words": 13591,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5197765350526766,
+		"slope": 0.6858051719408002,
+		"std_error_intercept": 0.09551249130713925,
+		"std_error_slope": 0.008931645315148897
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edcd350612971243b86a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lopez Aroca/Sherlock Holmes en Rancho Dracula (55720)/Sherlock Holmes en Rancho Dracula - Alberto Lopez Aroca.epub",
+	"creator": "Alberto López Aroca",
+	"title": "Sherlock Holmes en Rancho Drácula",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "El lector encontrará en el presente volumen dos partes bien diferenciadas: Una primera dedicada a ciertos autores de la llamada “novela popular”, “de a duro”, “barata”, que han realizado diversos acercamientos a la figura del Maestro de Baker Street, y que en este caso son Curtis Garland, Norm Eldritch y Harry Stephen Keeler. En la segunda parte encontrará algunos de esos “pastiches extraviados” que reza el título de la cubierta. Hay un par de humoradas elaboradas por el doctor John H. Watson, así como una muy seria declaración debida a la pluma del inspector G. Lestrade relativa a un suceso que el amanuense de Holmes no sólo no recogió, sino que no se atrevió a mencionar.Asimismo, y a modo de coda, el avisado lector reconocerá (o conocerá por vez primera) el peculiar estilo literario del profesor James Moriarty en una misiva que envió desde España en el año 1866. El nombre del destinatario quizá no diga nada al lector, aunque puede que le resulte útil saber que, al igual que Moriarty, fue un renombrado matemático con peculiares aficiones (sobre todo a la fotografía, un arte en el que fue un destacado y temprano exponente), así como autor de algunos libros de ficción que, por diversos motivos, hubo de firmar con un nombre distinto del suyo.",
+	"contributor": null,
+	"date": "2013-01-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 24815,
+	"unique_words": 5357,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.7715310305907149,
+		"slope": 0.7701301367235447,
+		"std_error_intercept": 0.2149502538948349,
+		"std_error_slope": 0.02259594858964657
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edd0350612971243b86b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lopez Aroca/Sherlock Holmes y los zombis de Camford (75885)/Sherlock Holmes y los zombis de Camford - Alberto Lopez Aroca.epub",
+	"creator": "Alberto López Aroca",
+	"title": "Sherlock Holmes y los zombis de Camford",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "Es octubre de 1903. Sherlock Holmes está a punto de retirarse, Watson ha contraído matrimonio por enésima vez, y el detective de Baker Street cuenta ahora con la ayuda de un antiguo ex presidiario, Otis Mercer, para realizar las labores cotidianas del oficio. Cuando Bernard Baker, masón y también detective privado, solicita la ayuda del Maestro para localizar al comprador de un extraño 'elixir rejuvenecedor', Sherlock Holmes decide viajar a la ciudad universitaria de Camford, donde se topará con una abominable, mefítica y aterradora amenaza, así como con una serie de enigmas que desafiarán a la mente deductiva del Gran Detective: ¿Qué secreto oculta la piedra mágica del joven millonario recién llegado de Sudamérica? ¿Quién es el hombre de la mano de metal? ¿Cuáles son las verdaderas intenciones del extravagante señor Pride? ¿Qué prodigios se guardan en los lóbregos sótanos de la universidad? Y lo que es más, ¿podrá Sherlock Holmes resolver todos estos misterios, trabajar con unos nuevos y monstruosos aliados, y evitar que el mundo acabe invadido por una plaga de muertos vivientes?",
+	"contributor": null,
+	"date": "2010-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 74865,
+	"unique_words": 9505,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5517561656933978,
+		"slope": 0.6795888858083655,
+		"std_error_intercept": 0.05394636898147316,
+		"std_error_slope": 0.005195990513700987
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edd0350612971243b86c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Lopez Aroca/_.Y Drox desato el Infierno sobre la faz de la Tierra (55034)/_.Y Drox desato el Infierno sobre la faz d - Alberto Lopez Aroca.epub",
+	"creator": "Alberto López Aroca",
+	"title": "…Y Drox desató el Infierno sobre la faz de la Tierra",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "Relato corto con motivo del V Reto Fanzine celebrado el 26 de diciembre de 2009.",
+	"contributor": null,
+	"date": "2013-05-23T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 3935,
+	"unique_words": 1502
+},
+{
+	"_id": {
+		"$oid": "5ed3edd1350612971243b86d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Manguel/Con Borges (49826)/Con Borges - Alberto Manguel.epub",
+	"creator": "Alberto Manguel",
+	"title": "Con Borges",
+	"subject": "Crítica y teoría literaria",
+	"publisher": null,
+	"description": "«Existe un vasto grupo compuesto por todos aquellos que alguna vez le leyeron en voz alta a Borges: pequeños Boswells que raramente conocen la identidad de los otros pero que, de forma colectiva, mantienen la memoria de uno de los más cabales lectores del mundo (...) Durante varios años, de 1964 a 1968, tuve la inmensa fortuna de contarme entre los muchos que le leían a Jorge Luis Borges. Trabajaba por las tardes, al salir de la escuela, en una librería anglo-alemana de Buenos Aires, Pygmalion, que Borges frecuentaba como cliente» Con estas palabras inicia Alberto Manguel su libro homenaje al magistral escritor argentino. Un libro sembrado de emociones, vivencias y admiración. Con el estilo ameno y la erudición que le caracterizan, Alberto Manguel repasa en el baúl de sus recuerdos los momentos que compartió con el autor de El Aleph. Nos relata las lecturas y relecturas en voz alta de los libros que la ceguera le impedía escrutar. Las conversaciones y reflexiones de un Borges siempre sorprendente, su insaciable curiosidad y las sugerencias que le producían las mismas a Manguel. Magníficamente ilustrado con las fotografías de Sara Facio, Con Borges es un ensayo imprescindible para comprender las ambigüedades y simetrías de la ficción borgiana, siempre presidida por los arquetipos de la memoria, el tiempo y la eternidad. Un retrato del autor argentino que nos devuelve la fe en el poder, misterio y deleite del mundo de los libros.",
+	"contributor": "Eduardo Berti",
+	"date": "2001-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 15808,
+	"unique_words": 4140,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0393963227594347,
+		"slope": 0.7556425145347808,
+		"std_error_intercept": 0.09665368158868307,
+		"std_error_slope": 0.010511119057986948
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3edd6350612971243b86e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Manguel/El legado de Homero (72007)/El legado de Homero - Alberto Manguel.epub",
+	"creator": "Alberto Manguel",
+	"title": "El legado de Homero",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "A pesar de contar con varias biografías y que unas cuantas ciudades se disputen su nacimiento, no hay vestigios que puedan acreditar con seguridad la existencia de un hombre llamado Homero. Y sin embargo, no hay duda de que las obras reunidas bajo su autoría constituyen la piedra angular sobre la que descansa la literatura occidental. La Ilíada y la Odisea, con sus dioses fieramente humanos, constituyen la narración de las dos grandes metáforas que nos definen a través de los siglos: la vida como lucha y la vida como viaje. Sin importar si estos textos son alegóricos o si pretenden ser testimonio histórico de una época extinta, el rapto de Helena, el caballo de Troya, la cólera de Aquiles, el cíclope, Ulises y Penélope... Han alimentado nuestra imaginación durante más de dos mil quinientos años, sirviendo de inspiración a autores posteriores de todas las épocas y geografías: Platón, Virgilio, al-Farabi, San Agustín, Avicena, Dante o Joyce, entre muchos otros. Con erudición prodigiosa, Manguel persigue el legado de Homero a través de las cimas literarias de todos los tiempos, ofreciéndonos este maravilloso libro con el que nos muestra que las pasiones que laten en ambos poemas son sentimientos comunes a toda la humanidad.",
+	"contributor": null,
+	"date": "2006-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 86084,
+	"unique_words": 13555,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.058735059139605,
+		"slope": 0.7411030229081157,
+		"std_error_intercept": 0.07203874072350502,
+		"std_error_slope": 0.006861159286067052
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3eddf350612971243b86f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Manguel/Una historia de la lectura (82950)/Una historia de la lectura - Alberto Manguel.epub",
+	"creator": "Alberto Manguel",
+	"title": "Una historia de la lectura",
+	"subject": "Comunicación",
+	"publisher": null,
+	"description": "“Una historia de la lectura” es una deliciosa combinación de estudios clásicos, psicología, erudición histórica, anécdotas, memorias, fantasía, en función de una historia tan personal como universal, la de la lectura. Es la historia de la especie humana bajo el original punto de vista de Alberto Manguel que es capaz de contarlo de forma tan sencilla como amena. Lectores de todos los tiempos nos guían a través de las páginas de “Una historia de la lectura”: san Ambrosio, que fue uno de los primeros en aprender a leer en silencio; Diderot, que creía en los poderes terapéuticos de las novelas “picantes”; las damas de la corte japonesa del siglo XI, que escribían ellas mismas los textos que querían leer; Colette, que leía en la cama para protegerse del bullicio social; Borges, que pedía que leyeran para él a su madre, a sus amigos o a quien tuviera a mano; o Stevenson, que no quería aprender a leer para no privarse del placer que le producían las lecturas de su niñera. Manguel, que ha consultado cientos de libros en innumerables bibliotecas de todo el mundo, ha conseguido una obra que se lee como una novela rebosante de sorpresas para todos los amantes del libro y de la lectura. Un asombroso y fascinante vínculo entre el mundo y la palabra escrita en esta nueva y cuidada edición de Alianza Editorial, revisada por el autor y ampliada con más ilustraciones.",
+	"contributor": null,
+	"date": "2012-10-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 147881,
+	"unique_words": 26114,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.186260886925058,
+		"slope": 0.7543550770860273,
+		"std_error_intercept": 0.021658230109038296,
+		"std_error_slope": 0.001975360629399139
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ede4350612971243b870"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Marini/Mientras duermes (21628)/Mientras duermes - Alberto Marini.epub",
+	"creator": "Alberto Marini",
+	"title": "Mientras duermes",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Cillian, portero de un edificio de Nueva York, disfruta hundiendo las vidas de las personas que le rodean. Clara, la vecina del 5B, es su próximo objetivo y no parará hasta destrozar su existencia. Es incapaz de ser feliz y su único consuelo es impedir que también los demás lo sean. Clara es su antítesis: una mujer alegre, a gusto consigo misma, que responde con una sonrisa a todo lo que le ofrece la vida. Su indestructible vitalidad desquicia a Cillian, que llevará al extremo su juego.Jaume Balagueró explica así el proceso de gestación paralelo de la novela y la película en el prólogo del libro:«Primero fue un guión (…). Desde el primer momento me fascinó aquella historia perversa y retorcida, tan brillantemente tejida que era capaz de envolverte en su tela de maldad sin que te dieras cuenta (…). Pero el material de partida era demasiado vasto para las posibilidades de la película. La Nueva York original acabó siendo sustituida por una Barcelona más cercana más cómoda para la producción y el rodaje de la película. Eso nos obligó a modificar algunos personajes y suprimir otros, variar algunas tramas, adaptar el entorno y los hábitos (…). Pero muchos de los elementos de los que acabamos prescindiendo eran extraordinarios y brillantes. Y aquel proceso empezó a resultar frustrante y doloroso (…). Así que la idea de una novela surgió entonces. El germen brillantísimo que habitaba la mente de Alberto Marini seguiría creciendo y alumbraría esta novela, que agranda el universo del aquel guión y la película que generó, lo enriquece, crea nuevos matices y caminos, nuevas y sutilísimas tramas. Una novela que es, tal vez sin quererlo, lo que la película nunca podría alcanzar a ser».",
+	"contributor": "Jaume Balagueró",
+	"date": "2011-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 109397,
+	"unique_words": 12507,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.870097566107042,
+		"slope": 0.6529491965453288,
+		"std_error_intercept": 0.058811428616527266,
+		"std_error_slope": 0.005494667800116927
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed3ede8350612971243b871"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alberto Martin Garcia/Cuando sopla el viento de levante (71908)/Cuando sopla el viento de levante - Alberto Martin Garcia.epub",
+	"creator": "Alberto Martín García",
+	"title": "Cuando sopla el viento de levante",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "En la noche del 31 de agosto de 1970, el hotel Levante, del entonces afamado propietario Manuel Baena de Zúñiga, sucumbe arrasado por un estrepitoso incendio, llevándose por delante las vidas del empresario, su esposa y el hijo de ambos de tan solo diez años. Más de dos décadas después, en 1991, Pablo Veracruz llega hasta Cádiz huyendo de una relación fracasada y dispuesto a emprender una nueva etapa en su vida como trabajador del hotel Nuevo Levante, edificado sobre las cenizas del esplendor del antiguo edificio. Pero la tranquilidad que anhela se verá alterada por unos extraños sucesos que tienen lugar en las noches en que sopla con fuerza el viento de levante. Un teléfono que suena de madrugada a la misma hora en que se originó el misterioso incendio, unas voces del pasado, los delirios de un vagabundo que advierten de ánimas que no descansan… Pablo se verá inmerso en la encrucijada por resolver un caso cuyo informe policial presenta muchas lagunas y no pocas verdades por desvelar.",
+	"contributor": null,
+	"date": "2016-05-31T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 82936,
+	"unique_words": 10809,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9159542357237747,
+		"slope": 0.653142332723584,
+		"std_error_intercept": 0.10553993338685677,
+		"std_error_slope": 0.010082052807388733
+	}
 }]
 
