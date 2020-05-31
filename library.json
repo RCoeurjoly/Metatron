@@ -60938,5 +60938,2392 @@
 		"std_error_intercept": 0.08299087889441197,
 		"std_error_slope": 0.007868102539321466
 	}
+},
+{
+	"_id": {
+		"$oid": "5ed4010a350612971243bc5a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Bosch/Los siete aromas del mundo (23609)/Los siete aromas del mundo - Alfred Bosch.epub",
+	"creator": "Alfred Bosch",
+	"title": "Los siete aromas del mundo",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Un predicador puritano de Londres condena la bebida de moda en la Europa del XVII. Se trata del café, que levanta pasiones de todo tipo.",
+	"contributor": null,
+	"date": "2007-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 115318,
+	"unique_words": 13757,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8728665288739086,
+		"slope": 0.6611426762822553,
+		"std_error_intercept": 0.18782759605181104,
+		"std_error_slope": 0.01747452595976483
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4010f350612971243bc5b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Bosch i Pascual/Alia la sublime (48999)/Alia la sublime - Alfred Bosch i Pascual.epub",
+	"creator": "Alfred Bosch i Pascual",
+	"title": "Alia la sublime",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Una mujer fascinante, Alia, rodeada de un aura misteriosa, y un país remoto que no se sabe si existe, las Antillas, son los dos mitos que persigue Saad, el joven musulmán que protagoniza esta novela, durante toda su vida. Conocido como 'el hombre que tenía que morir' porque se salvó en el último momento de la horca, el joven Saad quiere huir de los negros presagios que le auguran a un morisco pobre como él, e intenta cambiar su destino en la convulsa Valencia del siglo XV. Un Mapamundi único será la clave que le abrirá las posibilidades de conseguir sus sueños, pero también lo que puede llevarle a la perdición. Alia la Sublime es una novela de aventuras situada en pleno desmembramiento de las sociedad medieval, cuando el oro de los mercaderes empieza a contar más que los títulos nobiliarios y el enfrenamiento entre cristianos, musulmanes y judíos significa el fin de una era en el Mediterráneo.",
+	"contributor": "Pau Pérez López",
+	"date": "2000-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 84998,
+	"unique_words": 11677,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.487151590650723,
+		"slope": 0.6967455419943077,
+		"std_error_intercept": 0.1025558208879284,
+		"std_error_slope": 0.009777682112922018
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40115350612971243bc5c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Bosch i Pascual/El atlas furtivo (74808)/El atlas furtivo - Alfred Bosch i Pascual.epub",
+	"creator": "Alfred Bosch i Pascual",
+	"title": "El atlas furtivo",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Corren malos tiempos para lascomunidades judías de la Corona de Aragón. El infante Juan le encarga almallorquín Cresques de Abrahamla confección de un atlas ante elque maravillarse del mundo conocido por los hombres. En ese clima deintolerancia religiosa, el cartógrafo judío emprende la ardua tarea dedocumentación, proyección y representación que tan prestigioso trabajo implica. Ante esehecho tan significativo en su vida, el cartógrafo decide dibujar dos atlas deforma paralela. Un Atlas Real, fiel reflejo de aquello que los hombres y laciencia han podido ratificar hasta el tumultuoso siglo XIV. El segundo llevará por nombre el Atlas Furtivo y, al margende la veracidad, incluirá, además de los hechos geográficos, todos aquelloslugares míticos y legendarios que maese Cresques ha escuchado en boca dehombres provenientes de otras latitudes. Un atlas concebido como un espacio para dar rienda suelta ala imaginación. Una vez concluida la tarea, Jafudá, el hijo menor de Cresques,emprende el viaje que le conducirá a Barcelona para hacer entrega de lasextraordinarias obras. Pero la Corte se halla sacudida por un torbellino deintrigas y conspiraciones, propios de un período de decadencia en el que eljoven descubrirá que los hombres han construido un mundo en donde la libertad yla tolerancia no tienen cabida puesto que éstos así lo hanquerido.",
+	"contributor": "Pau Pérez",
+	"date": "2018-05-24",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 135729,
+	"unique_words": 16607,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.023009028513172,
+		"slope": 0.6536608688548338,
+		"std_error_intercept": 0.1437845619484649,
+		"std_error_slope": 0.013203896214985975
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40116350612971243bc5d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred de Musset/Gamiani (16558)/Gamiani - Alfred de Musset.epub",
+	"creator": "Alfred de Musset",
+	"title": "Gamiani",
+	"subject": "Erótico",
+	"publisher": null,
+	"description": "La leyenda dice que el poeta Alfred de Musset, en una plática de absenta con sus amigos, apostaba a que la literatura erótica no necesitaba de la vulgaridad ni del lenguaje soez para ser altamente calentante. Siendo muy joven, cumple con su promesa, entregándoles a sus amigos un trabajo nunca pensado para la imprenta. Pero al ser un clásico de la pornografía, pronto ya estaba editándose profusamente.",
+	"contributor": "Desconocido",
+	"date": "1978-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 18394,
+	"unique_words": 4760,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.9316646503036532,
+		"slope": 0.7678785221525836,
+		"std_error_intercept": 0.08940816846368434,
+		"std_error_slope": 0.009614478573430294
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4011b350612971243bc5e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred de Vigny/Stello (65209)/Stello - Alfred de Vigny.epub",
+	"creator": "Alfred de Vigny",
+	"title": "Stello",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Las páginas de Stello constituyen, como escribe Luis Cernuda,«la convicción inquebrantable de la eterna hostilidad hacia el poeta encualquier régimen político». Este libro es, pues, el desarrollo de esa tesisa través de un tríptico que narra el final trágico de tres Poetas bajo otrostantos regímenes políticos totalmente distintos, incluso claramentecontrapuestos. «Tres dramas suspendidos de un mismo principio, como trescuadros sostenidos por un mismo caballete».",
+	"contributor": "Alberto Torrego Salcedo",
+	"date": "1832-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 89815,
+	"unique_words": 13376,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.9462210285840682,
+		"slope": 0.753160184440756,
+		"std_error_intercept": 0.14982791927652522,
+		"std_error_slope": 0.014221516937379422
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40127350612971243bc5f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Doblin/Berlin Alexanderplatz (8829)/Berlin Alexanderplatz - Alfred Doblin.epub",
+	"creator": "Alfred Döblin",
+	"title": "Berlin Alexanderplatz",
+	"subject": "Drama",
+	"publisher": null,
+	"identifier": "84793fa6-cefc-46df-a52f-6424e0cbc2ae",
+	"description": "Berlín Alexanderplatz aparece en 1929. Su éxito es extraordinario y, en pocos años, alcanza cuarenta y cinco ediciones y se traduce a varios idiomas. La novela se consideró una exaltación de Berlín, ciudad que el autor, por su profesión de médico, conocía muy bien. Los ojos de Döblin (y sus cuadernos) registran todos los detalles de la geografía berlinesa, pero como narrador omnisciente, Döblin interviene en la acción y comenta lo que ocurre. Fondo y forma se funde en un libro desconcertante y abierto a la interpretación.Berlín Alexanderplatz se considera una 'novela moderna' por muchos aspectos: no solamente por la ruptura con el carácter tradicional de héroe y con la estructura cronológica de relato, sino también por el uso de nuevas maneras de narrar (monólogos interiores, combinación de distintos niveles de lenguaje y puntos de vista...) y por el constante uso del collage intertextual (mezclando textos de canciones, titulares de los periódicos, transcripciones de sonidos, etc.).La historia se sitúa en el barrio de clase obrera, Alexanderplatz, en el Berlín de los años 20, y empieza con la salida de la cárcel de Franz Biberkopf. Döblin describe su lucha y su desdicha al intentar buscar por los submundos de Berlín un futuro y su intención de convertirse en 'un hombre nuevo'.",
+	"contributor": "Miguel Sáenz",
+	"date": "2013-08-02T19:10:54",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 230409,
+	"unique_words": 20426,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8836707006421343,
+		"slope": 0.6528866002849469,
+		"std_error_intercept": 0.2503134821711263,
+		"std_error_slope": 0.022044251312670474
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40128350612971243bc60"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Doblin/Las dos amigas y el envenenamiento (15190)/Las dos amigas y el envenenamiento - Alfred Doblin.epub",
+	"creator": "Alfred Döblin",
+	"title": "Las dos amigas y el envenenamiento",
+	"subject": "Psicológico",
+	"publisher": null,
+	"description": "Inspirada en un proceso que saltó a las páginas de los periódicos en los años 20 del siglo pasado, Las dos amigas y el envenenamiento describe los recónditos pliegues del resentimiento. Una mujer, envilecida por un marido que la maltrata, se rebela y encuentra refugio en una amiga, se confía, se abandona a ella y en sus brazos descubre otra cara de la sexualidad. Nace entonces la idea de hacer pagar al esposo sus ultrajes. Con un ritmo implacable, el deseo de venganza de las dos amigas se insinúa y propaga de frase en frase con una crudeza que confiere a la narración de Döblin una textura magistral e inolvidable.",
+	"contributor": "Joan Fontcuberta",
+	"date": "1924-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 31355,
+	"unique_words": 5880,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.0616987688202115,
+		"slope": 0.7327475940182719,
+		"std_error_intercept": 0.09436718562260614,
+		"std_error_slope": 0.009741516799219838
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4012f350612971243bc61"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Doblin/Wadzek contra la turbina de vapor (16633)/Wadzek contra la turbina de vapor - Alfred Doblin.epub",
+	"creator": "Alfred Döblin",
+	"title": "Wadzek contra la turbina de vapor",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Wadzek contra la turbina de vapor (1918), para muchos la clara predecesora de la obra maestra de Alfred Döblin, Berlin Alexanderplatz, constituye una magistral y divertidísima sátira del capitalismo salvaje. Wadzek y Rommel, los protagonistas de la novela, son dos industriales cuya única razón para vivir es la de superarse entre ellos y, de paso, aniquilarse el uno al otro. Rommel, un personaje ambicioso, extremado, actúa de manera sibilina contra su más firme competidor, Wadzek, quien, de este modo, se convertirá en víctima del sistema o, al menos, así lo percibe él, lo que hace que se vea obligado a arrastrar a toda su familia en una huida desaforada de un Berlín desproporcionado, caótico y tremendo.",
+	"contributor": "Belén Santana",
+	"date": "1918-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 134248,
+	"unique_words": 15786,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.806632304813327,
+		"slope": 0.666883125071272,
+		"std_error_intercept": 0.0955970660363753,
+		"std_error_slope": 0.008786492364124317
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40131350612971243bc62"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Hayes/Los enamorados (55908)/Los enamorados - Alfred Hayes.epub",
+	"creator": "Alfred Hayes",
+	"title": "Los enamorados",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Podría ser un cuadro de Edward Hopper: un hombre y una joven toman una copa a las tres de la tarde en el bar vacío de un hotel. Tras la apariencia impasible de la escena, tras las muecas suspendidas en el instante, uno de los personajes esconde una historia. Una historia de amor triste que de alguna forma el hombre, cerca de cumplir los cuarenta, atesora y viene puliendo y ahora se dispone a contar. Así empieza Los enamorados, cuarta novela del inglés Alfred Hayes, y la primera en ser traducida al español.Alfred Hayes escribió por única vez una obra maestra. Las fórmulas del amor —las que suponen un paraíso de éxtasis y felicidad, las que reclaman un vacío recíproco de identidad y posesión— pueden incluirse en los pliegues del relato, que consiente todas las situaciones y circunstancias capaces de sustentarlas. Afinada y entonada por una voz que no permite dudar acerca de lo que cuenta, esta novela inédita hasta ahora en español despertó la admiración del público y de lectores tan exigentes como Elizabeth Bowen, Stevie Smith y Antonia White. Este tribunal femenino respalda la turbulenta veracidad o por lo menos la verosimilitud tortuosa de una confesión: la del espléndido aislamiento de un hombre perdido en el laberinto de su amor.",
+	"contributor": "Martín Schifino",
+	"date": "1953-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 42661,
+	"unique_words": 6771,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3957907286953233,
+		"slope": 0.6976188891593292,
+		"std_error_intercept": 0.03705475563995457,
+		"std_error_slope": 0.0037333685526763963
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40133350612971243bc63"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Hayes/Mi perdicion (55916)/Mi perdicion - Alfred Hayes.epub",
+	"creator": "Alfred Hayes",
+	"title": "Mi perdición",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Un hombre en fuga termina encontrando siempre su pasado. Quien huye en Mi perdición es Asher, un guionista que abandona Hollywood después de descubrir a su esposa en brazos de un compañero de tenis. Viaja a Nueva York, ciudad de su infancia, donde conoce a una pareja de jóvenes irreverentes: Michael, un poeta rudo que escribe versos pornográficos, y Aurora, una atrevida italianita dispuesta a visitar su cuarto de hotel casi todas las noches. Michael no tiene problemas en “prestarle” a su novia a cambio de un sueldo como acompañante en sus exploraciones por una Nueva York ya perdida. Pronto, sin embargo, se revela que el trío amoroso no es más que una trampa en la que Asher terminará siempre mal parado, un juego cruel que le enseñará los límites morales de su propia generación. Escrita a fines de los sesenta, una década que puso en situación de idolatría a la juventud, esta novela de Alfred Hayes deslumbra con la honestidad y el despojamiento estilístico de siempre. Genio incomparable de la captura del instante, del fuego de la intensidad y del veredicto de decadencia inmediata, Hayes se muestra en Mi perdición, al igual que lo había hecho en Los enamorados y Que el mundo me conozca, como un autor insustituible, sui generis, único en su especie.",
+	"contributor": "Martín Schifino",
+	"date": "2016-09-15",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 48788,
+	"unique_words": 8043,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4915269029430547,
+		"slope": 0.696228428094949,
+		"std_error_intercept": 0.0555868506824367,
+		"std_error_slope": 0.005540958131209866
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40135350612971243bc64"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Hayes/Que el mundo me conozca (56255)/Que el mundo me conozca - Alfred Hayes.epub",
+	"creator": "Alfred Hayes",
+	"title": "Que el mundo me conozca",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Todo comienza con un guionista de Hollywood durante una fiesta en una casa frente al mar. Está solo y aburrido, y para evadirse de la charla convencional sale a la terraza y ve a uno de los invitados, una chica, que camina hasta la orilla. Primero no hace más que admirar su figura, pero en seguida advierte que ella quiere suicidarse y se precipita a la playa para intentar rescatarla. Un acto de compromiso, que tiempo después va a lamentar.En esta nueva novela, Alfred Hayes toma a dos personajes característicos, el escritor cínico y una aspirante a actriz, y describe la relación entre ellos revirtiendo todos los estereotipos de las historias de amor desencantado. Hayes sabe retratar como nadie a las personas que no pueden ayudarse a sí mismas y que tampoco pueden resistir la tentación de lastimar, y tiene el don de analizarlas y diseccionarlas con una precisión lapidaria. Esa visión de la conducta humana es, como en Los enamorados, despiadada pero admirable. Con su arte refinadísimo, Que el mundo me conozca proyecta en la página un relato conmovedor en el que ningún valor permanece inalterado, salvo la verdad y la belleza.",
+	"contributor": "Martín Schifino",
+	"date": "2016-09-23",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 36870,
+	"unique_words": 6035,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6412613242002474,
+		"slope": 0.6727752355680815,
+		"std_error_intercept": 0.08226893620160661,
+		"std_error_slope": 0.00838510418791507
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40139350612971243bc65"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Hitchcock/Alfred Hitchcock presenta Fue un crimen maravilloso (58317)/Alfred Hitchcock presenta Fue un crimen ma - Alfred Hitchcock.epub",
+	"creator": "Alfred Hitchcock",
+	"title": "Alfred Hitchcock presenta Fue un crimen maravilloso",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Cuando la mayoría de la gente se va de vacaciones, busca paz y tranquilidad. Otros prefieren esquiar, pescar o jugar al tenis. Pero cuando Hitchcock se marcha de vacaciones, se dirige a las exóticas playas del mal y se dedica a desenterrar siniestros secretos. De modo que si éste es el tipo de viaje que usted prefiere, el maestro de lo macabro le invita a que lo acompañe en sus diversiones diabólicas y juegos espeluznantes proporcionados por los mejores narradores del género de terror.",
+	"contributor": null,
+	"date": "1988-05-14T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 83231,
+	"unique_words": 11246,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7426148910816885,
+		"slope": 0.6716301316265282,
+		"std_error_intercept": 0.08110777633749552,
+		"std_error_slope": 0.007745864542598145
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4013f350612971243bc66"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Hitchcock/Historia para leer a plena luz (58238)/Historia para leer a plena luz - Alfred Hitchcock.epub",
+	"creator": "Alfred Hitchcock",
+	"title": "Historia para leer a plena luz",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "Diecisiete relatos de misterio, suspense y terror, recopilados por un maestro del género, Sir Alfred Hitchcock.Una certera selección que propone al lector una experiencia difícilmente comparable, porque cada uno de estos relatos, seleccionados por el genio indiscutible del creador de obras maestras como Psicosis, Vértigo o Los Pájaros ofrece una refinada dosis de emoción, de escalofriante angustia.La infinita gama perversa del suspense, para lectores con nervios de acero, recomendada por la máxima autoridad del género, al alcance de todos en esta colección de relatos breves y escalofriantes.",
+	"contributor": null,
+	"date": "1976-05-14T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 114288,
+	"unique_words": 12105,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.79435242246868,
+		"slope": 0.6541251296450137,
+		"std_error_intercept": 0.06643884322852128,
+		"std_error_slope": 0.006185556764977935
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40149350612971243bc67"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Hitchcock/Primera redada (58344)/Primera redada - Alfred Hitchcock.epub",
+	"creator": "Alfred Hitchcock",
+	"title": "Primera redada",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "Como el asedio a una fortaleza, las historias de suspense cons­tituyen una pesquisa al ingenio, un verdadero juego de ataque que se alimenta de la estrategia y la acción. Pero esta batalla literaria ni destruye ni mata; salvo, por supuesto, nuestro propio aburrimiento. Este es el botín por excelencia y conse­guirlo requiere un esfuerzo notable por parte del creador. Paradigma de esta respuesta, Primera redada conforma un atraco fulminante contra el tedio. Un asalto a los nervios más templados que, según palabras del maestro del mis­terio Alfred Hitchcock, reúne «una serie de planes brillantes y susceptibles de ser llevados a la práctica». Una panorámica del delito que, combinada en treinta relatos, rescata de lo bueno lo mejor: historias de espectros y aparecidos, crímenes consumados en la tranquilidad de los campos y en el asfixiante ruido de la ciudad, extraviados durante la Segunda Guerra Mundial y… hasta en los mapas de un bucanero. Es la captura de las dimensiones desconocidas del terror, el remate definitivo a una jornada de lectura inevitablemente cargada de adrenalina.",
+	"contributor": null,
+	"date": "1998-08-08T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 194556,
+	"unique_words": 20992,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.711579629565047,
+		"slope": 0.67738419446281,
+		"std_error_intercept": 0.047693059383619514,
+		"std_error_slope": 0.004256374871862714
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40149350612971243bc68"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Jarry/Costumbres de los ahogados (81727)/Costumbres de los ahogados - Alfred Jarry.epub",
+	"creator": "Alfred Jarry",
+	"title": "Costumbres de los ahogados",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Serie de textos breves del inventor de la Patafísica y del precursor del teatro del absurdo gracias a su obra «Ubú rey», personaje con el cual, según algunos, empezó a identificarse, dando prioridad al placer antes que a la realidad.",
+	"contributor": null,
+	"date": "1902-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 8651,
+	"unique_words": 2771
+},
+{
+	"_id": {
+		"$oid": "5ed4014b350612971243bc69"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Kubin/El gabinete de curiosidades - Autobiografia (35920)/El gabinete de curiosidades - Autobiografi - Alfred Kubin.epub",
+	"creator": "Alfred Kubin",
+	"title": "El gabinete de curiosidades - Autobiografía",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Alfred Kubin, pintor, grabador y dibujante, con sus imágenes oníricas y visionarias crea un mundo inquietante que refleja la convulsa belleza de las cosas sometidas al imperio y las desgarraduras del tiempo. Ilustró obras de E. A. Poe, Kafka, Nerval y Fiodor Dostoyevski. Publicó algunos ensayos de critica de arte, una autobiografía y numerosos relatos, que es lo que recoge esta edición.El título «Demonios y fantasmas de la noche» que acompaña a su Autobiografía, ilustra a la perfección el mundo tenebroso y visionario del escritor y pintor del expresionismo austriaco Alfred Kubin.",
+	"contributor": "Jorge Segovia & Violetta Beck",
+	"date": "1925-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 31742,
+	"unique_words": 6788,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.041952550478318,
+		"slope": 0.7493044852784461,
+		"std_error_intercept": 0.06491795671530055,
+		"std_error_slope": 0.006695044808420615
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4014c350612971243bc6a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Kubin/El trabajo del dibujante (35919)/El trabajo del dibujante - Alfred Kubin.epub",
+	"creator": "Alfred Kubin",
+	"title": "El trabajo del dibujante",
+	"subject": "Arte",
+	"publisher": null,
+	"description": "Trabajando de firme, con el equipaje ligero y el corazón feliz, el dibujante se regocija con la simplicidad maravillosa de su arte, que le permite contentarse con una pluma, tinta china y papel. Él inventa sus criaturas, imagina y justifica cosas imposibles. Disciplinado, educa durante años su ojo, su mano y su carácter hasta que concibe progresivamente esa gracia y esa inocencia celeste que pueden hacer que todo se comprenda con casi nada. No cesa entonces de perfeccionarse en la maestría de su arte, hasta no ser más que un juguete vivo articulado a su espíritu.",
+	"contributor": "Alfred Kubin",
+	"date": "1939-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 22876,
+	"unique_words": 5015,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6650317675990283,
+		"slope": 0.6840631473322851,
+		"std_error_intercept": 0.0791957281790089,
+		"std_error_slope": 0.008377155040153364
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40150350612971243bc6b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Kubin/La otra parte (22812)/La otra parte - Alfred Kubin.epub",
+	"creator": "Alfred Kubin",
+	"title": "La otra parte",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "Un joven artista recibe una insólita invitación de un amigo de infancia: trasladarse a un país recién fundado en algún lugar de Asia Central. Se trata del Reino de los Sueños, en cuya capital, Perla, el protagonista espera ver cumplida la promesa de libertad en que se basa la creación de una sociedad ideal. Pero el sueño se convertirá en pesadilla; la libertad, en opresión. Esta soberbia novela aúna lo decadente, lo fantástico y lo esperpéntico para explorar el lado oscuro de la naturaleza humana con sensibilidad y y un memorable sentido del humor. Considerada por Hermann Hesse una obra maestra, 'La otra parte' es el legado literario de un visionario que, a medio camino entre Meyrink, Poe y Kafka, retrató el choque de dos épocas cuyo fruto sería un siglo XX marcado por la deshumanización y dos guerras mundiales",
+	"contributor": "Juan José del Solar",
+	"date": "1909-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 85684,
+	"unique_words": 13935,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2966142555574347,
+		"slope": 0.7253180079755985,
+		"std_error_intercept": 0.042555515682327134,
+		"std_error_slope": 0.004054635131218676
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40156350612971243bc6c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Lansing/La prision blanca (57433)/La prision blanca - Alfred Lansing.epub",
+	"creator": "Alfred Lansing",
+	"title": "La prisión blanca",
+	"subject": "Viajes",
+	"publisher": null,
+	"description": "Cuando el día 1 de agosto de 1914 el Endurance zarpó desde el puerto de Londres, una euforia extraña, mezcla de orgullo y temor, dominaba la tripulación: por primera vez en la Historia, un puñado de hombres intentaría cruzar a pie el continente antártico. La misión casi parecía imposible, pero la voluntad de Sir Ernest Shackleton, el jefe de la expedición, era capaz de convertir cualquier conjetura en algo palpable y cierto. Ni siquiera en octubre de 1915, cuando el Endurance se quedó atrapado y hubo que abandonar su carcasa agonizante, los ánimos flaquearon: asentados en un témpano de hielo y embutidos luego en tres pequeños botes salvavidas, Shackleton y sus hombres sobrevivieron, enfrentándose al terror de la larga noche polar.La madrugada del día 20 de mayo de 1916, los obreros que trabajaban en la estación ballenera de Stromness vieron acercarse una figura insólita, con la ropa hecha jirones y el pelo suelto a media espalda: tras casi quinientos días sin pisar tierra firme, ahí estaba Sir Ernest Shackleton para comunicar al mundo entero que él y su gente habían conseguido huir de la cárcel de viento y hielo que a punto estuvo de convertirse en su tumba.La prisión blanca es el testimonio vívido de esta aventura que ensanchó los límites de la realidad para que ahí cupieran los sueños de unos hombres valerosos.",
+	"contributor": "Elena de Grau",
+	"date": "1959-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 108721,
+	"unique_words": 12495,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.2025758048258726,
+		"slope": 0.6251977469056372,
+		"std_error_intercept": 0.13055916783961988,
+		"std_error_slope": 0.012204007915025674
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40161350612971243bc6d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Loisy/El nacimiento del cristianismo (71288)/El nacimiento del cristianismo - Alfred Loisy.epub",
+	"creator": "Alfred Loisy",
+	"title": "El nacimiento del cristianismo",
+	"subject": "Crítica y teoría literaria",
+	"publisher": null,
+	"description": "Lo último y, según opiniones, el más magistral de todos los intentos de comprender y describir según los cánones normales de la historia humana, sin prejuicios y sin milagros, un movimiento que ha moldeado toda la religión posterior del mundo occidental. Los historiadores previos de la cristiandad han sido generalmente teólogos, convencidos de la naturaleza milagrosa de su tema y consecuentemente, sin importar lo aprendido, obligados a ser acríticos. Sólo unos pocos han rechazado deliberadamente lo milagroso, y muchos de ellos, en su ansiedad por liberarse de una falsa mitología, han sido traicionados en una actitud polémica y no han podido apreciar la grandeza de su tema. Pero, aparte de estas consideraciones, el tema en sí es curiosamente difícil y oscuro. Los Evangelios, que a primera vista parecen vidas simples de Jesús, prueban que el análisis tuvo un propósito bastante diferente, al haber estado expuesto a influencias variadas e incalculables en interés de diferentes doctrinas y comunidades. Es sólo en los últimos años que los estudiosos han empezado a comprender cuán diferente de un libro moderno, impreso en un millar de copias uniformes, era la naturaleza de un libro antiguo escrito copia por copia; cuán diferente es el libro que, aunque escrito, sigue siendo principalmente un instrumento para la recitación oral, susceptible de ser mejorado o alterado según las circunstancias o el gusto del recitador;El análisis de Loisy de los libros del Nuevo Testamento y de otras obras de la literatura cristiana primitiva supera cualquier análisis previo conocido.",
+	"contributor": "Tomás V. Ruiz",
+	"date": "1933-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 196662,
+	"unique_words": 15897,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6429933976479867,
+		"slope": 0.6622821768490399,
+		"std_error_intercept": 0.14211424522819502,
+		"std_error_slope": 0.012672247973604856
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40165350612971243bc6e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Lopez/Ya esta el listo que todo lo sabe (17863)/Ya esta el listo que todo lo sabe - Alfred Lopez.epub",
+	"creator": "Alfred López",
+	"title": "Ya está el listo que todo lo sabe",
+	"subject": "Ciencias naturales",
+	"publisher": null,
+	"description": "¿Inventaron los nazis la Fanta? ¿Por qué los miércoles se abrevian con una X en los calendarios? ¿Desde cuándo se guarda un minuto de silencio? ¿Para qué sirven los bigotes a un gato? ¿Por qué es el FC Barcelona “més que un club”? ¿Cuál es el origen de las rebajas? ¿Es realmente francesa la “tortilla francesa”? Alfred López escribe diariamente en 20minutos.es y colabora regularmente con la web de Yahoo! en España. Ha colaborado con la Cadena SER, Radio Nacional y sus historias han sido portada en medios y objeto de reportajes en televisión.",
+	"contributor": null,
+	"date": "2014-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 77013,
+	"unique_words": 13616,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2858838653875433,
+		"slope": 0.7334504119762452,
+		"std_error_intercept": 0.09990192807764127,
+		"std_error_slope": 0.00960044587475126
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4016e350612971243bc6f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Metraux/Vodu (38339)/Vodu - Alfred Metraux.epub",
+	"creator": "Alfred Métraux",
+	"title": "Vodú",
+	"subject": "Espiritualidad",
+	"publisher": null,
+	"description": "... magia y hechicería: un paganismo de Occidente, que descubrimos con alegría u horror, según nuestro temperamento.Una obra maestra de observación y descripción sobre la vida y los rituales de los mambos haitianos, y de la historia y orígenes de su religión.",
+	"contributor": null,
+	"date": "1958-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 157954,
+	"unique_words": 19116,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.792532303474385,
+		"slope": 0.6742197131628855,
+		"std_error_intercept": 0.10307675387207312,
+		"std_error_slope": 0.009352106959471734
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4017e350612971243bc70"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Rosenberg/Alfred Rosenberg. Diarios 1934-1944 (69796)/Alfred Rosenberg. Diarios 1934-1944 - Alfred Rosenberg.epub",
+	"creator": "Alfred Rosenberg",
+	"title": "Alfred Rosenberg. Diarios 1934-1944",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "Desaparecidos tras los juicios de Núremberg en 1946, los diarios de Alfred Rosenberg, principal ideólogo del Partido Nacional Socialista en Alemania, fueron descubiertos recientemente. Ahora, por primera vez, se presentan en una edición completa, con comentarios de los reconocidos especialistas Jürgen Matthäus y Frank Bajohr. Los escritos de Rosenberg muestran que su papel en la preparación y ejecución del Holocausto ha sido claramente subestimado: Rosenberg fue uno de los antisemitas más virulentos desde la misma fundación del partido nazi y apoyó el genocidio hasta sus últimos momentos. Este documento único ofrece claves importantes acerca de la dinámica de violencia creada por el régimen nacionalsocialista.",
+	"contributor": "Lara Cortés & Isabel Romero & Alicia Valero & Teófilo de Lozoya",
+	"date": "2015-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 295108,
+	"unique_words": 24131,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7402890402327051,
+		"slope": 0.6655697724947144,
+		"std_error_intercept": 0.10373243502466908,
+		"std_error_slope": 0.008960922262563684
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40183350612971243bc71"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Shmueli/El haren de la Sublime Puerta (11388)/El haren de la Sublime Puerta - Alfred Shmueli.epub",
+	"creator": "Alfred Shmueli",
+	"title": "El harén de la Sublime Puerta",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Una apasionante novela basada en los hechos que tuvieron lugar en el Harén Imperial de Topkapi a principios del siglo XVII, durante los reinados de los sultanes Murat IV y su hermano Ibrahim el Loco. Es un eunuco, Jaja, quien nos relata cómo fue capturado y castrado siendo un niño por traficantes árabes para ser vendido en los mercados de Istambul. Su llegada al Harén Imperial es el comienzo de una trepidante sucesión de acontecimientos en los que las luchas por el poder, las intrigas, el refinamiento, la seducción y la crueldad se entrelazan para conformar el auténtico núcleo del soberbio imperio turco. Jaja es el mejor guía en ese microcosmos dominado por las mujeres, que se desvela ante los ojos del lector con toda su carga de fascinación y peligro. Y es también el impecable cronista de una forma de vida cuyo esplendor no tuvo parangón en su tiempo.",
+	"contributor": "María Isabel Butler de Foley",
+	"date": "1993-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 98529,
+	"unique_words": 12270,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6004750815615827,
+		"slope": 0.6806178070835319,
+		"std_error_intercept": 0.07139253821574527,
+		"std_error_slope": 0.006726276990511342
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40186350612971243bc72"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Sonnenfeld/Educar para madurar_ Las 5 claves neurobiologicas para que tu hijo sea feliz (43149)/Educar para madurar_ Las 5 claves neurobio - Alfred Sonnenfeld.epub",
+	"creator": "Alfred Sonnenfeld",
+	"title": "Educar para madurar: Las 5 claves neurobiológicas para que tu hijo sea feliz",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "Educar es un reto tan apasionante como complejo. Lo saben los padres, lo saben los profesores, lo sabe toda persona que esté o haya estado cerca de algún niño. En ese camino para alcanzar la madurez los últimos avances científicos de la Neurobiología son una ayuda tan poderosa como desconocida. Estas páginas constituyen una excelente introducción a cómo la Neurobiología ayuda en la educación de una persona y las 5 claves que de ella derivan para que tu hijo sea feliz. Es un ensayo al alcance del gran público, muy útil para todo lector inconformista que esté dispuesto a abrazar los últimos avances científicos sin perder de vista una concepción integral de la persona.",
+	"contributor": null,
+	"date": "2015-08-31T21:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 52564,
+	"unique_words": 8487,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5755664328147558,
+		"slope": 0.6843551326805257,
+		"std_error_intercept": 0.07830014898803371,
+		"std_error_slope": 0.007758746068802039
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4018f350612971243bc73"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Blanco/Los jinetes del aguila (8837)/Los jinetes del aguila - Alejandro Blanco.epub",
+	"creator": "Alejandro Blanco",
+	"title": "Los jinetes del águila",
+	"subject": "Histórico",
+	"publisher": null,
+	"identifier": "a93523e9-3a64-4008-be28-eeeaa0ce2e15",
+	"description": "Noega, cerca de la actual Gijón, año 9 d.C. Cuatro hermanos astures se ven obligados a escapar de su castro natal, perseguidos por una familia rival que ha asesinado a su familia y cuenta con el apoyo del gobernador romano de la provincia. Los cuatro juran vengar con sangre la injusticia cometida. En su huida se verán forzados a alistarse en las legiones romanas como auxiliares. Allí serán destinados a Germania, donde tomarán parte en la legendaria batalla de Teutoburgo. Servirán al general Julio Cesar Germánico, here- dero del emperador Tiberio, en su guerra contra Arminio, el caudillo germano. Bajo su mando directo se verán envueltos en conjuras que cambiarán el destino del Imperio romano. Los jinetes del águila es una novela histórica en la que se mezclan batallas y aventuras, intrigas y traiciones, amor y venganza.",
+	"contributor": null,
+	"date": "2013-08-02T19:10:57",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 147349,
+	"unique_words": 13909,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0712468637612784,
+		"slope": 0.6293029503425176,
+		"std_error_intercept": 0.0758798439006005,
+		"std_error_slope": 0.006922678787974255
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4019a350612971243bc74"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Feito/La caricia del verdugo (78563)/La caricia del verdugo - Alejandro Feito.epub",
+	"creator": "Alejandro Feito",
+	"title": "La caricia del verdugo",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Radu Dumukrat no es un sicario cualquiera, es tal vez el último de los mulobeng, una antigua casta de guerreros y asesinos de etnia romaní. Santiago Matesanz, alias el Segador, es un criminal convicto, antiguo miembro de la organización corsa conocida como la cofradía de Partinello. Diferentes, aunque igualmente letales, ambos se ven forzados a aceptar sendos trabajos que les llevarán a sumergirse en una cruel lucha de poder entre los más poderosos cárteles de la droga de la costa azul; una guerra que teñirá de sangre las calles de la vieja ciudad de Marsella. Antagonistas mortales a pesar de no haberse conocido siquiera, cada uno deberá enfrentar los más oscuros secretos de su pasado al verse inmersos en un intrincado dédalo de engaños, mascaradas y traiciones.",
+	"contributor": null,
+	"date": "2015-02-04T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 201718,
+	"unique_words": 19556,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.080429725397311,
+		"slope": 0.6438181488127941,
+		"std_error_intercept": 0.18943177860534186,
+		"std_error_slope": 0.016857765569817794
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4019d350612971243bc75"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Melero/La luz de mis dias (75212)/La luz de mis dias - Alejandro Melero.epub",
+	"creator": "Alejandro Melero",
+	"title": "La luz de mis días",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Una novela conmovedora, escrita con exquisita sensibilidad, y que engancha desde la primera página. La luz de mis días cuenta la historia de dos mujeres, vecinas del mismo edificio. Luisa, habladora infatigable, sigue fielmente una serie de televisión sobre una familia llena de secretos y misterios. Marifé, ama de casa infeliz, escucha cada día cómo su vecina le cuenta con pasión un nuevo capítulo. La saga familiar de la serie de televisión se va entrelazando con la rutina aparentemente inocua de las vecinas, dos mujeres como hay miles. Pero pronto veremos que la historia de Marifé oculta tantos enigmas como los que se ven en la pequeña pantalla...",
+	"contributor": null,
+	"date": "2018-05-02T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 68123,
+	"unique_words": 8466,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4605600422526919,
+		"slope": 0.6815216808217389,
+		"std_error_intercept": 0.033903790948325616,
+		"std_error_slope": 0.003290385160558342
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4019f350612971243bc76"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Sawa/Criadero de curas (56208)/Criadero de curas - Alejandro Sawa.epub",
+	"creator": "Alejandro Sawa",
+	"title": "Criadero de curas",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Este feroz ataque contra los internados religiosos fue publicada en 1888 por «El Motín» y está dedicada a Silverio Lanza, «en desagravio de la estupidez de casi todos y como homenaje de admiración». Pueden ser considerada «novela de aprendizaje», aunque no se atiene rigurosamente a los cánones del género. El resultado del aprendizaje es la destrucción del protagonista, y el culpable de este hecho, como se reitera a lo largo del libro, es la intransigencia y el fanatismo religioso. En «Criadero de curas» se hace palpable una lacra social, cuya crítica constituyen los rasgos más característicos del naturalismo radical. Alejandro Sawa, al igual que José Zahonero y Eduardo López Bago llevan a sus últimas consecuencias los principios de la escuela zolesca, con el objetivo de realizar una literatura higiénica y terapéutica en un país en el que, según los citados autores, no sólo la literatura y el arte están enfermos sino también, y sobre todo, las instituciones políticas y sociales. Mostrar la llaga y la enfermedad supone, por tanto, el primer paso para hallar el remedio.La novela aparece estructurada en ocho capítulos, cada uno de los cuales lleva un título que anuncia el contenido de la historia. La historia se inicia con la decisión tajante tomada por los padres: «Quedó decidido. Aquel niño no podía ser otra cosa que cura». El narrador valora esta decisión como una auténtica aniquilación, como un asesinato: «Hay que mentar las cosas y las personas por su nombre. Asesinato el hecho; autores: D. Francisco de tal y tal y doña Juana de casi iguales apellidos; y víctima: el hijo de entrambos seres, Manolito (igual nombre que Dios)». El segundo capítulo, titulado significativamente «Ingreso en la sombra», se inicia con la entrada del protagonista en el seminario donde «se vería forzado a dejar que se consumiera su vida». En él se nos relata el primer día de estancia en el recinto religioso. El tercer capítulo, Et lux facta est, comienza con la asistencia a clase de latín. Si entre los capítulos I y II se produce una elipsis narrativa, al comienzo del III se recurre a la técnica del «flash-back», muy habitual en Sawa. Con la noticia de la fuga se inicia el capítulo V, A muerte. Ante la gravedad del caso se reúne el claustro de profesores, que Sawa califica de pelotón de inquisidores juzgando a un reo de fe. Les preocupa más que la suerte del muchacho el dinero que dejarán de percibir si abandona definitivamente el centro. Aquellas «bestias carniceras» acuerdan el tipo de castigo que se ha de imponer al fugitivo: un mes de calabozo en la cueva negra. El capítulo VI, titulado Fugitivo, supone una nueva retrospección en el curso narrativo para relatar la fuga. En la parte séptima, El castigo, se lleva a cabo el suplicio que le habían preparado. El calabozo donde lo encierran viene a ser «una sombría restauración de los “in pace” de la Edad Media». El capítulo octavo y último, Final del drama, relata el fatal desenlace: «Sobre la cama está su cuerpecito rígido y tendido, pero la inteligencia ya no está allí hace mucho rato. Se ha ido. Le repugnaban tanto las cosas de la vida, que ha preferido agotarse». «Los ojos quedaron abiertos con una expresión desesperada que apostrofaba al Cielo».El fanatismo religioso es el primer responsable del trágico final, del encierro en «aquella cloaca», en el «aquel criadero de sombra», en «aquel criadero de curas». Estamos ante la cumbre de la vertiente anticlerical de la novelística de Sawa. Pero la historia de nuestro protagonista no es un caso aislado, como el mismo Sawa se encarga de subrayar.En la presente edición se han mantenido las normas ortográficas de la edición de 1888, a partir de la cual se ha realizado esta.",
+	"contributor": null,
+	"date": "1888-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 24515,
+	"unique_words": 5483,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1195267499621107,
+		"slope": 0.7380617791886304,
+		"std_error_intercept": 0.10273010732719405,
+		"std_error_slope": 0.010809169619820983
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401a4350612971243bc77"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Sawa/Iluminaciones en la sombra (48095)/Iluminaciones en la sombra - Alejandro Sawa.epub",
+	"creator": "Alejandro Sawa",
+	"title": "Iluminaciones en la sombra",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Iluminaciones en la sombra aúna densidad de conceptos y una prosa admirable por su expresividad modernista, convirtiéndose en un poema vasto y profundo. Nos encontramos ante unas memorias llenas de pasión, de vida, de amor; impregnadas de preocupación por los humildes: repletas de lúcidos e intransigentes juicios de un alma siempre cordial. Sawa, amigo de la bohemia parisina y madrileña, agudo observador de su época, nos ofrece, además, en estos recuerdos en los que se funden lo privado y lo público unas páginas de impagable valor testimonial: la vida literaria, el anarquismo de fin de siglo, que tanto ensalzó y del que tan próximo se sintió, las figuras de políticos y los sucesos cotidianos se revitalizan de su mano. Pero, con ser indudable su virtud documental, su mayor importancia radica en la incuestionable calidad y expresividad de su estilo.",
+	"contributor": null,
+	"date": "1910-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 104727,
+	"unique_words": 16988,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2347010104405465,
+		"slope": 0.7381588310700332,
+		"std_error_intercept": 0.07332700699344084,
+		"std_error_slope": 0.0068748417638579236
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401a6350612971243bc78"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alejandro Sawa/La mujer de todo el mundo (47141)/La mujer de todo el mundo - Alejandro Sawa.epub",
+	"creator": "Alejandro Sawa",
+	"title": "La mujer de todo el mundo",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "La condesa del Zarzal, acostumbrada al fausto y a la riqueza y, por su extrema hermosura, al rendimiento total de los que se hallan en su presencia, inopinadamente se encuentra al borde de la catástrofe económica en el momento en que los cincuenta y seis años de edad le revelan el principio del angustioso e inexorable declive de su hermosura. A la condesa se le vienen abajo los dos sillares que sustentan su vida: la opulencia y la hermosura, El modo como la condesa reacciona frente a tal ruina, consiste la fuerza motora de la acción que, por consiguiente, se bifurca en los dos episodios fundamentales en la vida de la condesa, dominada por la ambición e impulsada siempre por sus instintos sexuales.Para evitar la inminente catástrofe económica, la condesa seduce a su confesor, don Felipe, para que éste, en la confesión, aconseje a la joven Galindo, rica y huérfana, que se case con su hijo Enrique, joven enfermo e impotente. De esta forma recuperaría su poder económico. Se las arregla, además para seducir al joven artista Eudoro Gamoda, quien, hasta los veintidós años, «abstraído, separado, emancipado del mundo externo por sus ambiciones y tareas…, se había olvidado de amar».",
+	"contributor": null,
+	"date": "1895-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 47307,
+	"unique_words": 8418,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.549873606283145,
+		"slope": 0.6972695617425306,
+		"std_error_intercept": 0.0719772585776516,
+		"std_error_slope": 0.0071924898167589
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401aa350612971243bc79"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aleksandra Kollontai/Autobiografia de una mujer emancipada (70566)/Autobiografia de una mujer emancipada - Aleksandra Kollontai.epub",
+	"creator": "Aleksandra Kollontai",
+	"title": "Autobiografía de una mujer emancipada",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "«Aún creía que habría de venir un tiempo en que la mujer sería juzgada con las mismas medidas morales que el hombre. Pues no es su virtud específicamente femenina lo que le confiere un puesto de honor en la sociedad, sino el valor del trabajo útil que haya desempeñado, el valor de su personalidad como ser humano, como ciudadana, como pensadora, como luchadora… este motivo ha constituido la fuerza directriz de toda mi vida y obra. Seguir mi camino, trabajar, luchar, crear lado a lado con los hombres y aspirar a un objetivo universal humano, construyendo al mismo tiempo mi vida personal e íntima como mujer, según mi propia voluntad y las leyes innatas de mi naturaleza: tales son los postulados que han condicionado mi ideario». —A. K.",
+	"contributor": "Elena Herrero y Juan del Solar",
+	"date": "1926-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 77496,
+	"unique_words": 9850,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5796610023324964,
+		"slope": 0.6790838413283792,
+		"std_error_intercept": 0.07054714262564413,
+		"std_error_slope": 0.006776062766723155
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401ad350612971243bc7a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Aleksandra Kollontai/La bolchevique enamorada (38852)/La bolchevique enamorada - Aleksandra Kollontai.epub",
+	"creator": "Aleksandra Kollontai",
+	"title": "La bolchevique enamorada",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Vassilissa es una joven bolchevique de gran rectitud moral que se enamora perdidamente de Volodya, un atractivo anarquista. Inician una bonita pero también tormentosa relación en la que el amor se entremezcla continuamente con el compromiso por su pueblo. Al igual que Alexandra Kollontai, la protagonista de esta novela se entrega totalmente a la causa revolucionaria rusa y a la lucha feminista. En palabras de la autora, «Esta novela no es ni un estudio «ético» ni un cuadro de la vida de la rusa soviética. Es puramente un estudio psicológico de las relaciones sexuales del período de la posguerra. Muchos de los problemas que presento no son exclusivos de la Rusia soviética. (…). Mi intención al escribir este libro es que sirva, aunque sea poco, para combatir la vieja hipocresía burguesa de los valores morales y para demostrar una vez más que empezamos a respetar a la mujer, no por su «moral buena', sino por su actuación, por su sinceridad, con respecto a los deberes de su clase, de su país y de la Humanidad en general».",
+	"contributor": null,
+	"date": "2013-09-05",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 67529,
+	"unique_words": 8355,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7329986157798327,
+		"slope": 0.6570322698664354,
+		"std_error_intercept": 0.08538832539616964,
+		"std_error_slope": 0.008292824120910522
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401af350612971243bc7b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alessandro Manzoni/Historia de la columna infame (20151)/Historia de la columna infame - Alessandro Manzoni.epub",
+	"creator": "Alessandro Manzoni",
+	"title": "Historia de la columna infame",
+	"subject": "Historia",
+	"source": "Storia della colonna infame",
+	"publisher": null,
+	"description": "Precursorade la novela de investigación judicial, la Historia de la columna infame se publicó por primera vez comoapéndice de Los novios, la gran noveladel italiano «moderno». Sin embargo Manzoni, quizá preocupado por laincoherencia de incluir hechos históricos en una obra de ficción, decidiópublicarla por separado. Los hechos que analiza la novela se remontan a 1630.Milán, entonces bajo dominio español, sufre una epidemia de peste. Una viejachismosa lanza una acusación contra el comisario de sanidad: lo había visto «untar»las paredes del vecindario. Los acusados son brutalmente torturados yconfiesan. La sentencia condena a los acusados a una muerte atroz. Pietro Verri, tío deManzoni, había tratado el mismo caso en sus Observacionessobre la tortura paraatacar una sentencia basada en la tortura de los implicados; Manzoni va másallá; los jueces que primero torturaron y luego ejecutaron la sentenciaactuaron como «funcionarios del Mal» (en palabras de Sciascia, que los comparaa los burócratas de los campos de concentración) porque, como letrados yhombres instruidos que eran, sabían que aquel delito era imposible y lospresuntos autores, por tanto, inocentes. Leonardo Sciascia, en su notapreliminar, nos advierte de la desgraciada actualidad de la tesis de la novela:Decir que el pasado ya no existe —que la tortura institucional ha sido abolida,que el fascismo fue una fiebre pasajera que nos ha vacunado—, es de unhistoricismo de profunda mala fe, cuando no de profunda estupidez. La torturasigue existiendo. Y el fascismo sigue vivo.",
+	"contributor": "Elena de Grau",
+	"date": "1842-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 50092,
+	"unique_words": 7741,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9096761228849994,
+		"slope": 0.6510276118940027,
+		"std_error_intercept": 0.1465549508006943,
+		"std_error_slope": 0.014577994668977447
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401bd350612971243bc7c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alessandro Manzoni/Los novios (9585)/Los novios - Alessandro Manzoni.epub",
+	"creator": "Alessandro Manzoni",
+	"title": "Los novios",
+	"subject": "Romántico",
+	"publisher": null,
+	"identifier": "4bd82dfe-4828-4ae4-ad03-5c74a65d4458",
+	"description": "Los novios (I promessi sposi) es la obra que hizo famoso en el mundo entero a Manzoni, primer autor exponente de la novela italiana moderna. Junto con la Divina Comedia del Dante es considerada la obra de literatura más importante y estudiada en las escuelas italianas. La obra fue escrita originalmente en el italiano de Lombardía y más tarde, luego de aprender para ello la lengua florentina, considerada más culta, reescrita por Manzoni en el italiano de Florencia.La acción comienza en Milán a mediados del siglo XVII, durante la dominación española y con el dramático episodio de la peste cercando a la población. La trama brota del hallazgo de un viejo manuscrito, y enlaza de forma magistral ficción y hechos reales. Una pareja de prometidos, Renzo y Lucía, que son dos humildes campesinos, tendrán que enfrentarse a Don Rodrigo, el señor del lugar, que, encaprichado con Lucía, tratará de separarlos urdiendo toda clase de maquinaciones criminales contra la pareja. Luego de muchas peripecias y desventuras, triunfarán los enamorados y volverán a reunirse para celebrar su tan ansiado matrimonio. La lucha de los humildes por el más elemental de los derechos, dio lugar a una novela histórica que dibujó a la sociedad de la época con todos los matices y todas las emociones del alma humana, ganando un lugar indiscutible entre los grandes clásicos de la literatura universal.",
+	"contributor": null,
+	"date": "2013-08-02T19:16:17",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 279627,
+	"unique_words": 21271,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.710242974535192,
+		"slope": 0.663193096514451,
+		"std_error_intercept": 0.21120367361348028,
+		"std_error_slope": 0.018321222305661463
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401bf350612971243bc7d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alessandro Manzoni/Los novios (trad. Itziar Hernandez Rodilla) (38892)/Los novios (trad. Itziar Hernandez Rodilla - Alessandro Manzoni.epub",
+	"creator": "Alessandro Manzoni",
+	"title": "Los novios (trad. Itziar Hernández Rodilla)",
+	"subject": "Romántico",
+	"publisher": null,
+	"description": "Los novios es la obra más conocida del escritor italiano Alessandro Manzoni, quien la publicó inicialmente con el nombre de Fermo e Lucia en 1823, y posteriormente modificó y publicó por entregas desde 1840 a 1842. Cuenta la historia de una pareja de prometidos, Renzo y Lucia, dos humildes campesinos que tendrán que enfrentarse a don Rodrigo, el señor del lugar, quien, encaprichado con la muchacha, tratará de separarlos urdiendo toda clase de maquinaciones criminales contra la pareja. Después de muchas peripecias y desventuras, triunfarán los enamorados y volverán a reunirse para celebrar su tan ansiado matrimonio.La lucha de los humildes por el más elemental de los derechos, dio lugar a esta novela histórica que dibujó el ambiente social de la Lombardía del siglo XVII bajo dominación española con todos los matices y todas las emociones del alma humana, relatando de manera sobrecogedora los efectos de la peste y ganando, en definitiva, un lugar indiscutible entre los grandes clásicos de la literatura universal.",
+	"contributor": "Itziar Hernández Rodilla",
+	"date": "1842-01-01T00:00:00+00:00",
+	"original_language": "es"
+},
+{
+	"_id": {
+		"$oid": "5ed401c6350612971243bc7e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alex George/El sonido de la vida (57491)/El sonido de la vida - Alex George.epub",
+	"creator": "Alex George",
+	"title": "El sonido de la vida",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Hannover, Alemania, 1904. Frederick y Jette son una pareja poco convencional cuyo destino se une al conocerse una cálida tarde de primavera en el parque de Grosse Garten. Frederick posee el don de la música, y, Jette, a pesar de su falta de gracia femenina, una sensibilidad especial para apreciar una delicada melodía. Al escuchar de boca de Frederick un aria de La Bohème de Puccini, reconoce en él al hombre de su vida. Poco después, Jette se queda embarazada, y ante la rotunda desaprobación de su madre, deciden huir juntos y embarcarse en el primer buque que zarpe hacia el Nuevo Mundo. El azar les lleva a Nueva Orléans. La pareja acabará instalándose en una pequeña ciudad de Misuri, donde da comienzo la gran historia de amor y supervivencia de cuatro generaciones de una misma familia.",
+	"contributor": "Álvaro Abella",
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 139487,
+	"unique_words": 16693,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6547097980263714,
+		"slope": 0.681737769131813,
+		"std_error_intercept": 0.07111850186902213,
+		"std_error_slope": 0.006516669932423003
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401c7350612971243bc7f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alex Scarrow/Espora (50150)/Espora - Alex Scarrow.epub",
+	"creator": "Alex Scarrow",
+	"title": "Espora",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "Un patógeno alienígena ha reducido a la población a una masa de barro negro hirviendo. Cuando llega el Octavo Doctor, se da cuenta de que la última amenaza de la humanidad es horriblemente familiar – es un virus que casi aniquila a su propia raza, los Señores del Tiempo…",
+	"contributor": null,
+	"date": "2013-08-23T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 10644,
+	"unique_words": 2876,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.4990788092040789,
+		"slope": 0.804052718812392,
+		"std_error_intercept": 0.05504166030682635,
+		"std_error_slope": 0.00615679930705291
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401cf350612971243bc80"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alex Scarrow/Tiempo de dinosaurios (78981)/Tiempo de dinosaurios - Alex Scarrow.epub",
+	"creator": "Alex Scarrow",
+	"title": "Tiempo de dinosaurios",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Liam O’Connor, Maddy Carter y Sal Vikram deberían haber muerto hace mucho tiempo. Liam, a bordo del Titanic en 1912; Maddy, en un accidente de avión en 2012, y Sal, en un incendio en el año 2029. Sin embargo, ahora tienen una segunda oportunidad: una agencia que nadie sabe que existe los ha reclutado para evitar que los viajes en el tiempo destruyan la historia tal como la conocemos… Ellos son los TimeRiders, los vigilantes del tiempo. Cuando Maddy abre por error un portal en un momento y un lugar equivocado, Liam viaja sesenta y cinco millones de años al pasado, al lugar de caza de unas mortíferas –y hasta ahora desconocidas– especies de depredador. ¿Podrá Liam contactar con Maddy y Sal antes de ser despedazado por los dinosaurios? ¿Y lo conseguirá sin poner la historia en tal peligro que una nueva y aterradora realidad alcance nuestro mundo? Segunda entrega de la apasionante serie de TimeRiders",
+	"contributor": null,
+	"date": "2013-09-19T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 144888,
+	"unique_words": 14378,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7977962577947877,
+		"slope": 0.6556753361585215,
+		"std_error_intercept": 0.044645344283311385,
+		"std_error_slope": 0.004078544916352394
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401d3350612971243bc81"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander de Comeau/La magia del monje, o el elixir de la vida (61879)/La magia del monje, o el elixir de la vida - Alexander de Comeau.epub",
+	"creator": "Alexander de Comeau",
+	"title": "La magia del monje, o el elixir de la vida",
+	"subject": "Sátira",
+	"publisher": null,
+	"description": "El más impenetrable misterio rodea la vida de Alexander deComeau, autor del que tan sólo se sabe su nombre (tal vez seudónimo) y sunacionalidad británica. Las guías literarias de terror más especializadas -quereseñan otra obra de De Comeau, «Fire of Isis» (1927)- recomiendan conentusiasmo la lectura de «La magia del monje» (1931) como una novela memorable, deun gótico tardío, delirante y única. La historia que nos cuenta De Comeau enesta obra inclasificable posee sin embargo todas y cada una de lascaracterísticas del género gótico. Su protagonista, el hermano Dimas, es un religioso laicoaficionado a la Alquimia, a quien el anciano y corrupto abad de su monasteriocomisiona para encontrar el Elixir de la Vida Eterna. Dimas parte de viaje, enpleno otoño de la Edad Media, a la busca de los sabios ocultistas que, antesque él, aseguraron haber buscado el Elixir... e incluso haberlo encontrado. Viajará a la tierra de los muertos, se enfrentará con unembrutecido noble feudal, conseguirá amuletos mágicos y manos de gloria, serátestigo de Misas Negras, prisionero de brujas y magos... Pero estas siniestras aventuras por el lado más oscuro setornan divertidas peripecias gracias al hábil tono satírico de De Comeau, quelo emparenta con el no menos delirante mundo de Potocki en su sin par «Manuscritoencontrado en Zaragoza» (en esta misma colección), y nos recuerda el alegremundo, sensual y pícaro, de Chaucer o las canciones de taberna goliárdicas.",
+	"contributor": "Santiago García",
+	"date": "1931-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 82797,
+	"unique_words": 11511,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8409556030117575,
+		"slope": 0.6660018619441899,
+		"std_error_intercept": 0.1257944302538814,
+		"std_error_slope": 0.012018503871564834
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401d5350612971243bc82"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander Von Humboldt/Breviario del Nuevo Mundo (37967)/Breviario del Nuevo Mundo - Alexander Von Humboldt.epub",
+	"creator": "Alexander Von Humboldt",
+	"title": "Breviario del Nuevo Mundo",
+	"subject": "Viajes",
+	"publisher": null,
+	"description": "De las inabarcables páginas que Alejandro de Humboldt escribiera sobre sus cinco años americanos, se han escogido en esta ocasión memorables pasajes acerca de su comprensión de la naturaleza y el hombre de este continente. Breviario del Nuevo Mundo, reúne entonces textos tan valiosos como los de su encuentro con los indios del Orinoco, su desafiante ascenso a los volcanes andinos, su paso por Colombia, Ecuador, Perú y todas las singularidades mexicanas. A este volumen seguirán otros dedicados a distintos momentos de su experiencia americana.",
+	"contributor": "Óscar Rodríguez Ortiz",
+	"date": "1993-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 53072,
+	"unique_words": 8979,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.275013714397378,
+		"slope": 0.7207697061687198,
+		"std_error_intercept": 0.05847966499532467,
+		"std_error_slope": 0.005790237453667275
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401db350612971243bc83"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexander Von Humboldt/Ensayo politico sobre la isla de Cuba (76699)/Ensayo politico sobre la isla de Cuba - Alexander Von Humboldt.epub",
+	"creator": "Alexander Von Humboldt",
+	"title": "Ensayo político sobre la isla de Cuba",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "Pese a su importancia, sobre todo para el examen del conflictivo tema de la esclavitud en el Caribe en la primera mitad del siglo XIX, el Ensayo político sobre la isla de Cuba, que la Biblioteca Ayacucho ofrece al lector, no es de los libros más conocidos de Alejandro de Humboldt. En efecto, de la vastísima obra del gran viajero y científico alemán, son los textos relativos a su viaje por Venezuela, Colombia y Ecuador, lo mismo que su extenso estudio de la sociedad colonial mexicana, los que suelen ser editados y estudiados con mayor frecuencia [...] la huella dejada por el sabio prusiano en nuestra América, huella incidente sobre el mundo europeo del siglo XIX y cultivada además por las élites gobernantes criollas desde el propio inicio de la vida republicana fue grande, muy grande; porque se hizo presente por doquier, marcando en forma indeleble nuestra historia y nuestra geografía; y también porque el nombre mismo del famoso viajero quedó asociado de algún modo, aunque sin mucha base en este punto, con el proceso de nuestra propia independencia.",
+	"contributor": null,
+	"date": "1827-10-30T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 105361,
+	"unique_words": 13576,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.48949041574206,
+		"slope": 0.6933964228354299,
+		"std_error_intercept": 0.05429737209287971,
+		"std_error_slope": 0.005088218240721004
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401e3350612971243bc84"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Lapierre/La extraordinaria vida de William Petty (25949)/La extraordinaria vida de William Petty - Alexandra Lapierre.epub",
+	"creator": "Alexandra Lapierre",
+	"title": "La extraordinaria vida de William Petty",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "¿Experto en arte clásico o ladrón de obras de arte? Lo que sabemos con certeza es que fue uno de los primeros aventureros en perseguir los tesoros de la antigua Grecia a lo largo de la orilla del Mediterráneo, y también uno de los primeros locos (o genios) que consiguió apoderarse de las obras maestras de la humanidad. La historia ha olvidado su nombre. Sin embargo, William Petty fue un arqueólogo avant la lettre, un pionero que siguió los rastros de la Antigüedad para ofrecerlos a la posteridad. La historia de nuestro protagonista es un misterioso viaje, desde los sombríos castillos del Támesis, a los luminosos templos de Grecia; desde las galerías de los palacios de Venecia, a lo más profundo de las prisiones turcas. Petty empleó cualquier método, lícito o no, para llevar a Inglaterra trofeos de incalculable valor. Obras que hoy, cuatro siglos después, seguimos admirando en los más importantes museos del mundo.",
+	"contributor": null,
+	"date": "2004-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 164765,
+	"unique_words": 20165,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7801712009675754,
+		"slope": 0.6796532060510858,
+		"std_error_intercept": 0.11921962716474592,
+		"std_error_slope": 0.0107805494841293
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401ed350612971243bc85"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandra Lapierre/Seras reina del mundo (13652)/Seras reina del mundo - Alexandra Lapierre.epub",
+	"creator": "Alexandra Lapierre",
+	"title": "Serás reina del mundo",
+	"subject": "Aventuras",
+	"publisher": null,
+	"identifier": "fe89d582-95d5-4762-a69b-40bd6072d658",
+	"description": "A la estela de Cristóbal Colón, una mujer que consiguió lo imposible. Isabel Barreto, la primera mujer conquistadora.Hasta el siglo XVIII se impuso el silencio a los navegadores para que las rutas marítimas no fueran descubiertas, así salvaguardar los descubrimientos de las naciones más poderosas de quienes buscaban aprovecharse. Isabel Barreto sustituyó a su esposo Álvaro de Mendaña al mando de la expedición hacia las islas Salomón, un grupo de hombres que la rechazaban por ser mujer. Un personaje fuera de serie, valiente y ejemplar que se adelantó a su tiempo.Una apasionante novela que narra las aventuras de Isabel Barreto, la primera mujer que se atrevió a ponerse al mando de un barco y partir a la conquista del mundo. Un personaje real y poco conocido de nuestra historia.",
+	"contributor": "Juan Camargo",
+	"date": "2013-11-11T01:49:50",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 174668,
+	"unique_words": 20102,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6279365328898938,
+		"slope": 0.6844368597304613,
+		"std_error_intercept": 0.07735627311709335,
+		"std_error_slope": 0.006962720484173675
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401f1350612971243bc86"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexandre Olivier Exquemelin/Bucaneros de America (20200)/Bucaneros de America - Alexandre Olivier Exquemelin.epub",
+	"creator": "Alexandre Olivier Exquemelin",
+	"title": "Bucaneros de América",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "En 1666 Exquemelin partió hacia América desde el puerto de El Havre en la nave San Juan, de la Compañía Francesa de las Indias Occidentales. El barco cayó en manos de los piratas y Exquemelin fue vendido como esclavo en la isla Tortuga. Durante su cautiverio aprendió de su amo el oficio de cirujano, y adoptó la Ley de la Costa siendo pirata. Así sirvió a las órdenes de piratas tan insignes como L’Olonnais, Morgan o Bertrand d’Oregon hasta el fallido desembarco en la costa occidental de Puerto Rico, en 1674. Participó asimismo en asedios a las plazas de tierra firme: combatió en los dos asaltos a Maracaibo, en las dos tomas de la isla de Santa Catalina y en la toma y desvastación de Panamá. Bucaneros de América es la crónica apasionante, narrada en primera persona, de un actor presencial de las aventuras de los piratas del siglo XVII. La obra se publicó en Ámsterdam en 1678, y sólo tres años después apareció la presente versión española.",
+	"contributor": "Alonso de Buena Maison",
+	"date": "1678-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 86354,
+	"unique_words": 9969,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1086482681495404,
+		"slope": 0.6276396407129983,
+		"std_error_intercept": 0.18617559029375666,
+		"std_error_slope": 0.01772739317261785
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed401fc350612971243bc87"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexis J. Regnat/El traidor (35152)/El traidor - Alexis J. Regnat.epub",
+	"creator": "Alexis J. Regnat",
+	"title": "El traidor",
+	"subject": "Romántico",
+	"publisher": null,
+	"identifier": "7ce9d803-3280-43e8-bd41-6e094f85dcdf",
+	"description": "Henry Daylight Strieber, capitán del ejército británico, maldijo durante años aquella mañana de mil novecientos treinta y cinco, cuando fue llamado al despacho de su superior. Aceptar aquella misión como informador, y ser prácticamente arrojado al centro de Alemania, donde permaneció aislado y sin recibir nuevas órdenes, fue todo uno. Al principio, sin experiencia, no sospechó que algo extraño ocurría. Pero el tiempo pasó, la guerra estalló y se vio envuelto en el conflicto, con un uniforme que no era el suyo, y en contra de su propio país. Dafne Sevenstons tuvo que luchar mucho en la vida para salir adelante, ella y su hermana. Huérfanas muy jóvenes, Dafne consiguió trabajo como institutriz en el seno de una buena familia. Con el único inconveniente que viajaban por toda Europa por negocios. Atrapada en Alemania, en el mismo Berlín cuando estalla el conflicto, su vida va a cambiar insospechadamente, cuando se ve envuelta en un 'juego de espías', sólo por ayudar a un compatriota que encuentra herido. Henry tendrá que tomar decisiones rápidas. Tiene que ayudar a los suyos, cuando en su patria es considerado prácticamente un traidor. Y en todo el caos que envuelve su vida, cae en sus manos una joven inglesa, a la que tendrá que proteger. Sin pretenderlo, ambos están unidos por un mismo destino.",
+	"contributor": null,
+	"date": "2015-03-15T22:30:54",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 192770,
+	"unique_words": 17581,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.775548543248047,
+		"slope": 0.6586523497940486,
+		"std_error_intercept": 0.12240398404800862,
+		"std_error_slope": 0.010931893731187364
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40207350612971243bc88"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alexis J. Regnat/Rescate en Berlin (35150)/Rescate en Berlin - Alexis J. Regnat.epub",
+	"creator": "Alexis J. Regnat",
+	"title": "Rescate en Berlín",
+	"subject": "Romántico",
+	"publisher": null,
+	"identifier": "1de7eb39-5001-45bd-8b8a-9b6548776eb3",
+	"description": "Estar “quemado”, tampoco iba a resultar tan malo para el capitán en la reserva Anthony Daylight Strieber. Ya no podía volver a primera línea del servicio británico de 'los informadores'. Era un hombre de treinta que llevaba más de doce años sin un solo día de descanso en su trabajo. Ser el instructor y entrenador de futuros agentes, era un trabajo agradable, le hacía compartir sus vastos conocimientos y ejercitarse a diario físicamente, con jóvenes con muchas ganas de luchar. Para un tipo como él, acostumbrado al constante peligro, era un cambio refrescante. Además, seguía al pie del cañón. Tenía que hacer que aquellos chicos entraran en el mundo del 'espionaje” con unos conocimientos, que él tardó años y horrores en adquirir. Pero el día que perdió a uno de sus primeros reclutas, una joven con la que compartió algo más que su experiencia como 'instructor', le hizo plantearse muchas cosas. Entre ellas, que no volvería a entrenar a una mujer,. Alexandra McKonky tenía un objetivo, una misión que cumplir, secreta y extraoficial, tras el último bastión alemán, en el mismo Berlín. Necesitaba al mejor instructor para conseguir sobrevivir y volver del infierno en que se estaba convirtiendo la capital en los últimos días de la casi ya acabada Segunda Guerra Mundial. Con los rusos y los aliados cercándola. Temiendo un final sangriento para la población civil, debía de darse prisa en su cometido y rescatar a una persona allí atrapada y sin posibilidades de huir si no fuese por ella. Tony es obligado a entrenar a Alexandra, en contra casi de su voluntad. Cuando la conoce, ve en ella material, es más que capaz de todo lo que se proponga, unicamente necesita la instrucción adecuada. Pero en su interior solo desea disuadirla de su objetivo casi suicida. No quiere volver a perder a una buena recluta en una misión abocada al desastre. Tampoco desea alejarla de su lado. Una fuerte, espléndida y valiente mujer, dura como el acero de la que se siente atraído como un imán, y que se ha colado dentro de su corazón. Cuando está preparada para asumir el trabajo, Tony se lanza tras ella para cubrirla en su Rescate en Berlín.",
+	"contributor": null,
+	"date": "2015-03-15T22:30:54",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 222664,
+	"unique_words": 19481,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8863983003507219,
+		"slope": 0.6507386907619199,
+		"std_error_intercept": 0.09832762296583208,
+		"std_error_slope": 0.008682627346155302
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4020f350612971243bc89"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfonso del Rio/Ioannes (10539)/Ioannes - Alfonso del Rio.epub",
+	"creator": "Alfonso del Río",
+	"title": "Ioannes",
+	"subject": "Histórico",
+	"publisher": null,
+	"identifier": "0d923b5a-e48f-4cbe-a748-6c4c3a92c861",
+	"description": "Año 452 después de Cristo. Atila se acerca a Roma. El Papa León sabe que si «el azote de Dios» no la conquista, será otro quien lo haga antes o después. Así que encomienda a Ioannes, un caballero que parece estar bendecido con la inmortalidad, sacar de la urbe un misterioso cofre y huir hasta una nación que está emergiendo en ese momento, llamada a convertirse en la poderosa Serenísima República de Venecia.Carnaval de Venecia, en nuestros días. El Papa Pedro II es arrojado desde el Campanile por un encapuchado. La ciudad queda sitiada hasta que se resuelva el crimen, y atrapa en su red de canales al hijo de un millonario inglés, a una joven arqueóloga española y a toda una panoplia de personajes que ignoran hasta qué punto la historia en la que participan puede cambiar el mundo.Ioannes es una novela vertiginosa. La intriga alcanza hasta la cúpula de la Iglesia y se sumerge en el túnel del tiempo. Intereses políticos y espirituales entran en conflicto en una Venecia retratada por Alfonso del Río con precisión histórica y rasgos legendarios. En la lid entre conspiradores implacables y hombres y mujeres dispuestos a la victoria del bien, el lector sólo al final encontrará respiro.",
+	"contributor": null,
+	"date": "2013-08-02T20:16:58",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 143140,
+	"unique_words": 15116,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.076478375577058,
+		"slope": 0.6373469646878546,
+		"std_error_intercept": 0.05232388554272641,
+		"std_error_slope": 0.0047846539161636725
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40217350612971243bc8a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfonso del Rio/La ciudad de la lluvia (80818)/La ciudad de la lluvia - Alfonso del Rio.epub",
+	"creator": "Alfonso del Río",
+	"title": "La ciudad de la lluvia",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "En el Bilbao de principios de los años ochenta, tres misteriosas muertes unirán los destinos de varios personajes sin conexión aparente. Alain Lara, un joven y prometedor jugador del Athletic, descubre una vieja fotografía de los años cuarenta que su abuelo Rodrigo había mantenido siempre oculta. De todos los personajes que aparecen en ella Alain reconoce a su abuelo, junto a un también joven Ignacio Aberasturi, el gran empresario bilbaíno y actual candidato a la presidencia del Banco del Norte. La repentina y extraña coincidente desaparición de ambos, junto con otros sucesos, lo llevará a una investigación que se remontará a un pasado oculto.En un intento por entender lo que sucede, Alain contactará con María, la hija y heredera del imperio Aberasturi, y junto a ella tejerán los hilos del pasado que unieron a sus familias en los años del Berlín nazi, en busca de respuestas. Pero lo que obtendrán serán más preguntas, más dudas, más sospechas.¿Qué pudo unir hace más de cuarenta años a estos dos hombres cuyas vidas nunca más volvieron a cruzarse? ¿Quiénes son los demás personajes que aparecen retratados junto a ellos? ¿Quién y por qué anda detrás de ellos?La ciudad de la lluvia es un thriller que reúne lo mejor y lo peor que anida en el ser humano. Es una historia sobre el poder magnético de la ambición, el amor y la complicidad entre las personas, y que nos muestra que la cara oculta que todos tenemos no puede permanecer indefinidamente en la sombra.",
+	"contributor": null,
+	"date": "2018-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 153993,
+	"unique_words": 16033,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8432692200862666,
+		"slope": 0.6593152591037912,
+		"std_error_intercept": 0.14550478556054072,
+		"std_error_slope": 0.013228241535028653
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4021a350612971243bc8b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfonso Reyes/La cena y otras historias (22850)/La cena y otras historias - Alfonso Reyes.epub",
+	"creator": "Alfonso Reyes",
+	"title": "La cena y otras historias",
+	"subject": "Realista",
+	"source": "La cena y otras historias",
+	"publisher": null,
+	"description": "Estelibro es una antología que reúne la mayor parte de la obra de ficción deAlfonso Reyes quien imaginaba hermosas e inquietantes historias —situadas enuna dimensión que inventó en su juventud— y sabía contarlas de tal manera queproducen en el lector un deslumbramiento como el que tan bien expresó JulioTorri: «Tu“Juan Peña” es precioso. ¡Cómo sabes sacar partido de cualquier cosa y hacerlainteresante y bella! Estás maduro para las Memorias. Si te resuelves aescribirlas no seas del todo veraz; no prescindas de tu imaginación…».",
+	"contributor": null,
+	"date": "1956-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 55302,
+	"unique_words": 11245,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.8150595956379021,
+		"slope": 0.7798532686615328,
+		"std_error_intercept": 0.07453763980778946,
+		"std_error_slope": 0.007355887567475582
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4021f350612971243bc8c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfonso Reyes/Vision de Anahuac y otros ensayos (22768)/Vision de Anahuac y otros ensayos - Alfonso Reyes.epub",
+	"creator": "Alfonso Reyes",
+	"title": "Visión de Anáhuac y otros ensayos",
+	"subject": "Filosofía",
+	"source": "Visión de Anáhuac y otros ensayos",
+	"publisher": null,
+	"description": "En este texto, Alfonso Reyes recrea la primera ydeslumbrante visión que los conquistadores españoles tienen del valle de Méxicoy la esplendorosa ciudad de Tenochtitlan. En Visiónde Anáhuac (1519), como explica en entrevista Anthony Stanton, «un americanoexiliado en Europa (Alfonso Reyes) recrea con la imaginación la visión quetuvieron los europeos que llegaron a vislumbrar una gran ciudad en medio de unlago, que aparece ante ellos como “un espejismo de cristales” y como “unainmensa flor de piedra”, maravillosas imágenes poéticas inventadas por Reyes».",
+	"contributor": null,
+	"date": "1983-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 63678,
+	"unique_words": 12021,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.524872221476599,
+		"slope": 0.713275456450793,
+		"std_error_intercept": 0.10307371260643447,
+		"std_error_slope": 0.010057728925721243
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4021f350612971243bc8d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Assollant/Aventuras maravillosas pero autenticas del capitan Corcoran (55926)/Aventuras maravillosas pero autenticas del - Alfred Assollant.epub",
+	"creator": "Alfred Assollant",
+	"title": "Aventuras maravillosas pero auténticas del capitán Corcorán",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Presentamos al Maravilloso Capitán Corcorán - encantador con las mujeres, cortés con los auténticos caballeros, mortal con los piratas y despiadado con los ingleses. Habla varios idiomas, puede doblar una barra de hierro sólo con sus manos, y se ha aventurado a través de los siete mares con su fiel amigo Louison a su lado. Leal únicamente con su amo, Louison puede ser un poco ruidoso, ¡y cuidado con ella cuando se salta una comida! (es un tigre, después de todo).El capitán Corcorán viaja a la India en nombre de la Academia de Ciencias de Lyon con la misión de encontrar un libro sagrado de los hindúes. Una vez en la India, pronto se distrae de su misión por las reivindicaciones del Príncipe Holkar, su hija de ojos de loto y su predisposición en contra de las fuerzas de ocupación inglesas.Aventuras y humor decimonónicos en la India precolonial.",
+	"contributor": "Juan Farias",
+	"date": "1867-01-01T00:00:00+00:00",
+	"original_language": "es"
+},
+{
+	"_id": {
+		"$oid": "5ed40227350612971243bc8e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfred Wegener/El origen de los continentes y oceanos (79281)/El origen de los continentes y oceanos - Alfred Wegener.epub",
+	"creator": "Alfred Wegener",
+	"title": "El origen de los continentes y océanos",
+	"subject": "Ciencias naturales",
+	"publisher": null,
+	"description": "Tendemos a pensar que las únicas revoluciones científicas auténticas del siglo XX fueron aquellas que surgieron de la física y la biología molecular. Sin embargo, también las ciencias de la Tierra experimentaron lo que podemos denominar un cambio revolucionario: el paso que va de creer que los continentes se formaron y desarrollaron en lugares fijos, a aceptar la idea de que hubo una época en que el mundo terrestre estaba prácticamente aglutinado en un gran supercontinente, Pangea, del que posteriormente y mediante un lento mecanismo de fractura y deriva, terminaron surgiendo los continentes tal y como los conocemos en la actualidad.Fue el geofísico, meteorólogo y explorador alemán Alfred Lothard Wegener (1880-1930) quien nos mostró, con mucha más claridad y fuerza que otros predecesores suyos, la faceta cambiante de la geografía de la Tierra. El lugar en el que presentó de manera más completa y accesible sus ideas es un libro que con justicia se puede incluir en el grupo de los «clásicos de la ciencia»: El origen de los continentes y océanos (1915).",
+	"contributor": "Francisco Anguita Virella y Juan Carlos Herguera García",
+	"date": "1915-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 140329,
+	"unique_words": 13569,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.052656007084219,
+		"slope": 0.6284100955154682,
+		"std_error_intercept": 0.10377200960195258,
+		"std_error_slope": 0.009504215848724
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4022d350612971243bc8f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Abarca/El Codigo de Nuremberg (18137)/El Codigo de Nuremberg - Alfredo Abarca.epub",
+	"creator": "Alfredo Abarca",
+	"title": "El Código de Nuremberg",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "El Código de Nuremberg toca desde la ficción uno de los temas más delicados de la realidad contemporánea: el avance de la medicina mediante la experimentación de nuevas drogas en seres humanos. La sórdida trama de un negocio que mueve millones es descubierta por una médica y un fiscal. ¿Podrán ellos luchar contra una gigantesca multinacional?",
+	"contributor": null,
+	"date": "2003-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 117364,
+	"unique_words": 13942,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9826820465821793,
+		"slope": 0.6506952451216483,
+		"std_error_intercept": 0.09358613075721764,
+		"std_error_slope": 0.008694549278461793
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40232350612971243bc90"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Abarca/La abogada (18138)/La abogada - Alfredo Abarca.epub",
+	"creator": "Alfredo Abarca",
+	"title": "La abogada",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "Destacada abogada, única socia mujer de uno de los estudios jurídicos más reputados del país, Mercedes Lascano se siente sola y vulnerable por primera vez en su vida. Sus atributos físicos, que solían asegurarle el éxito con el sexo opuesto, comienzan a sufrir las marcas del tiempo. Pronto se da cuenta de que también en su intimidad se está transformando. El caso de una maestra acusada de estupro, un litigio entre empresas por una licitación para la distribución de gas —que se monta sobre una red de intereses y aprietes que compromete a los tres poderes del Estado— y la traición dentro de su propio equipo de trabajo la sorprenden respondiendo de maneras nuevas, menos rígidas, al borde de las normas de la ética profesional. En ese clima de desconcierto irrumpe Javier Costa, un cliente de antecedentes dudosos que, aunque ella no lo sospeche, cambiará la vida de Mercedes.",
+	"contributor": null,
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 115600,
+	"unique_words": 13833,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7477136539056721,
+		"slope": 0.6692460038398512,
+		"std_error_intercept": 0.05511884057987124,
+		"std_error_slope": 0.0051269852241923475
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40234350612971243bc91"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Alamo/El caso Foucault (27341)/El caso Foucault - Alfredo Alamo.epub",
+	"creator": "Alfredo Álamo",
+	"title": "El caso Foucault",
+	"subject": "Ciencia ficción",
+	"publisher": null,
+	"description": "El detective privado Lucas Martell despierta con una de sus habituales resacas. Casi sin tiempo a que los implantes sanitarios estabilicen su metabolismo es asaltado por unos desconocidos que le implantan una misteriosa cápsula en el cerebro. A partir de entonces, él y Foucault serán todo uno. Persecuciones, palizas, garitos de mala muerte, mujeres fatales, hampones de medio pelo, organizaciones secretas, todos en contra de Lucas y Foucault en una aventura sin descanso que retoma lo mejor de la novela negra engarzándolo con lo más tradicional del Ciberpunk. CiberPulp en estado puro.",
+	"contributor": null,
+	"date": "2004-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 38042,
+	"unique_words": 6725,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8020380902348052,
+		"slope": 0.6646404785476693,
+		"std_error_intercept": 0.033961331213467526,
+		"std_error_slope": 0.0034529107194358043
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40237350612971243bc92"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Alamo/Manana sera tierra (27204)/Manana sera tierra - Alfredo Alamo.epub",
+	"creator": "Alfredo Álamo",
+	"title": "Mañana será tierra",
+	"subject": "Terror",
+	"publisher": null,
+	"description": "Jaume, un militante comunista y cobarde huye de la Guerra Civil Española por los Pirineos, igual que los 550 mil españoles que perdieron la guerra en el año 1939. Jaume el Comunista es internado en el campo de concentración de Argelers, junto a miles y miles de derrotados en las playas de arenas blanquecinas de la costa mediterránea de Francia. Hambre, humedad, frio, disentería, sarna y horror bajo las arenas de la playa. Y luego el mar y sus abismos.",
+	"contributor": null,
+	"date": "2011-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 52311,
+	"unique_words": 7886,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.712197573682633,
+		"slope": 0.6713427790528527,
+		"std_error_intercept": 0.10489743515500301,
+		"std_error_slope": 0.010398262324685652
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40243350612971243bc93"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Alvar Ezquerra/El duque de Lerma (35516)/El duque de Lerma - Alfredo Alvar Ezquerra.epub",
+	"creator": "Alfredo Alvar Ezquerra",
+	"title": "El duque de Lerma",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "El I duque de Lerma, don Francisco de Sandoval y Rojas (1553-1625), llegó a ser el español más poderoso de su tiempo… y también la cabeza visible de una red de inmoralidad y corrupción. Valido y hombre de confianza de Felipe III, era en realidad el verdadero gobernante del reino, situación que aprovechó para enriquecerse sin límites. Nacido en una familia fiel al servicio de la Corona, pero sin apenas recursos económicos, logró amasar la mayor fortuna del momento y controlar tal cantidad de oficios, mercedes y dignidades que perdió el juicio por la codicia y la pasión del poder. Durante su gestión, el tráfico de influencias, el nepotismo y la venta de cargos públicos superaron el límite de lo tolerable. Hubo numerosas voces que se levantaron contra él, entre ellas la de la propia reina. Siempre angustiado por acumular riquezas y conseguir el perdón de Dios, el momento culminante de su bipolaridad psíquica tuvo lugar cuando pidió el capelo cardenalicio. Alfredo Alvar, especialista en la España del Siglo de Oro, lleva a cabo en este libro una brillante y minuciosa investigación que descubre aspectos inéditos de tan controvertido personaje y de su época.",
+	"contributor": null,
+	"date": "2010-12-18T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 222661,
+	"unique_words": 23179,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4757319871534673,
+		"slope": 0.6967310563645662,
+		"std_error_intercept": 0.08219772679158399,
+		"std_error_slope": 0.007258308539820697
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4024b350612971243bc94"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Alvar Ezquerra/La emperatriz (10931)/La emperatriz - Alfredo Alvar Ezquerra.epub",
+	"creator": "Alfredo Alvar Ezquerra",
+	"title": "La emperatriz",
+	"subject": "Historia",
+	"publisher": null,
+	"identifier": "36d930c0-4ebf-4384-883e-851bf98fca0c",
+	"description": "Cuentan que el 1 de mayo de 1539, cuando murió la emperatriz Isabel, con apenas treinta y seis años, no había forma de separar de su cuerpo a su viudo Carlos V, y que este cayó en tal depresión que tuvo que retirarse al monasterio jerónimo de La Sisla. El emperador nunca volvió a casarse, ni superó su muerte. Pero Isabel no fue solo su amada esposa y madre del futuro rey Felipe II, fue también la gobernadora de España en las largas ausencias de su marido por los reinos de Europa. Gracias a su saber hacer y a su buen tino con las cortes de Castilla y Aragón, la dinastía de los Austrias se consolidó y España se convirtió en un estado moderno. Alfredo Alvar nos descubre (desde el silencio de los documentos originales de archivo, los más inéditos) la vida y las claves de gobierno de esta mujer fascinante, la que más poder ha tenido en España, la única emperatriz.",
+	"contributor": null,
+	"date": "2013-08-15T04:02:27",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 160107,
+	"unique_words": 17476,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6689257991068445,
+		"slope": 0.6779861857408214,
+		"std_error_intercept": 0.1741643287971098,
+		"std_error_slope": 0.015784817072335644
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4024f350612971243bc95"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bocardo/El umbral del miedo (67099)/El umbral del miedo - Alfredo Bocardo.epub",
+	"creator": "Alfredo Bocardo",
+	"title": "El umbral del miedo",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Darío Ballesteros era un muchacho inseguro y temeroso. Su vida le parecía aburrida, y en su soledad sentía que nadie lo valoraba. Aquélla noche cuando la desilusión le llenó por primera vez el alma de un insoportable dolor, salió de casa a buscar algo que terminara con ese sufrimiento. Estaba dispuesto a aceptar la muerte si era eso lo único que pudiese encontrar; sin embargo, lo que encontró en lo profundo de aquel oscuro monte, fue ese extraño amuleto que le cambió la vida. La gente ahora comenta con gran azoro, la forma en que Darío Ballesteros ha pasado de ser un timorato, a un joven carismático y arrogante de un día para otro. Él oculta a toda costa su secreto, a pesar de la oscura historia que hay de tras. Desde entonces, si lo miras a los ojos y no te sientes perturbado, pronto lo estarás.",
+	"contributor": null,
+	"date": "2016-08-14T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 65315,
+	"unique_words": 8829,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.1022565741911747,
+		"slope": 0.6313161725175259,
+		"std_error_intercept": 0.08295285692564268,
+		"std_error_slope": 0.008077888740671679
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40259350612971243bc96"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bryce Echenique/Cuentos completos (50798)/Cuentos completos - Alfredo Bryce Echenique.epub",
+	"creator": "Alfredo Bryce Echenique",
+	"title": "Cuentos completos",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Los cuentos que agrupa esta edición completa de la obra breve del escritor peruano Alfredo Bryce Echenique incluyen desde los de su primer libro, Huerto cerrado, hasta algunos más recientes e inéditos. Sus cuentos tienen la ventaja de ser muy variados en su temática, muy sencillos en su historia (no en su construcción) y llenos de humor. A menudo son narrados desde el subconsciente de sus personajes, una técnica que recuerda al «flujo de conciencia» utilizado por James Joyce.«Dados a contarnos los unos a los otros, el mundo sería una novela de Bryce Echenique, una biografía sin pérdida. Todo comienza en los cuentos». Julio Ortega",
+	"contributor": null,
+	"date": "1995-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 190585,
+	"unique_words": 17177,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5670520241944637,
+		"slope": 0.6731989266023034,
+		"std_error_intercept": 0.051184423054461345,
+		"std_error_slope": 0.004575395308506115
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4025d350612971243bc97"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bryce Echenique/Dandole pena a la tristeza (16523)/Dandole pena a la tristeza - Alfredo Bryce Echenique.epub",
+	"creator": "Alfredo Bryce Echenique",
+	"title": "Dándole pena a la tristeza",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Esta novela relata los avatares de una acaudalada y muy limeña familia. El autor nos ofrece el vívido retrato del fundador de esta saga –un minero de finales del siglo XIX que con enorme creatividad y no poco sacrificio funda un gran imperio financiero– y de sus descendientes. A juzgar por el dramático curso que toman las vidas de éstos, el barniz de civilización con el que adornan sus vidas no los libra de los instintos más primarios que laten en su ser. Sólo ello explica que el juego de la vida consista, para algunos de los personajes, en dirigir otras vidas, contrariar destinos y, en un extremo sobrecogedor, deshacerse de quienes ponen en riesgo el orden señorial.",
+	"contributor": null,
+	"date": "2012-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 85104,
+	"unique_words": 10864,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3524710241654492,
+		"slope": 0.6996857808070236,
+		"std_error_intercept": 0.05890328079382187,
+		"std_error_slope": 0.005615271550658464
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40265350612971243bc98"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bryce Echenique/El hombre que hablaba de Octavia de Cadiz (21551)/El hombre que hablaba de Octavia de Cadiz - Alfredo Bryce Echenique.epub",
+	"creator": "Alfredo Bryce Echenique",
+	"title": "El hombre que hablaba de Octavia de Cadiz",
+	"subject": "Humor",
+	"publisher": null,
+	"description": "Martín Romaña, protagonista de este relato, asegura que Octavia de Cádiz lo adoró, y que la mejor prueba de ello fue el lamentable estado en que lo dejó ya de por vida al casarse por primera vez y queriéndose tanto. Martín sólo pensaba en una muerte como las de los viejos tiempos, cuando los héroes de las novelas o se casaban o se morían de amor. En cuanto al amor de Octavia por Martín, había empezado meses atrás en casa de ella y de una manera realmente maravillosa, porque Florence, la hermana mayor de Octavia, regresó una tarde de la universidad de Nanterre y contó que la gente se aburría bastante, pero que alguien le había dicho que en el departamento de Español había un profesor peruano tan taciturno como loco, un tal Martín Romaña, que no dictaba sus clases, sino que las llevaba grabadas. Entonces, Octavia rompió con sus tres pretendientes de París, de Lisboa y de Milán, y decidió ir a estudiar a Nanterre, convertirse en alumna de Martín Romaña...",
+	"contributor": null,
+	"date": "1985-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 161116,
+	"unique_words": 14621,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.53353148028825,
+		"slope": 0.671553192973216,
+		"std_error_intercept": 0.058884260603508716,
+		"std_error_slope": 0.005334125415081752
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4026a350612971243bc99"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bryce Echenique/El huerto de mi amada (10925)/El huerto de mi amada - Alfredo Bryce Echenique.epub",
+	"creator": "Alfredo Bryce Echenique",
+	"title": "El huerto de mi amada",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Carlitos Alegre se decide a aparecer por la fiesta que su distinguida familia da en el jardín de la casa, donde se siente inmediatamente atraído por Natalia de Larrea, una bella y acaudalada mujer que es el centro de atención de las miradas masculinas. Los celos que despierta el aparatoso baile de Carlitos y Natalia desencadenan una delirante pelea de la que se zafan los dos amantes, que se van a vivir a la casa de campo de ella. Sin embargo, el idilio entre el chico y la aristócrata ha escandalizado tanto a sus familiares y amigos, que el padre de él llega a demandar a Natalia por corrupción de menores. Esto les obliga a adoptar nuevas estrategias para poner a salvo su pasión, que tampoco es ajena al aprendizaje vital del muchacho y a la vida cosmopolita a la que está acostumbrada la mujer.Con este relato, a ratos hilarante, a ratos tierno, Alfredo Bryce Echenique consigue deslumbrarnos primero y conmovernos a continuación, gracias a su capacidad para describir los estados de ánimo y para reproducir los guiños de un grupo social y de una época. La pluma irreverente y tierna a la vez, y el desatado sentido del humor de Alfredo Bryce Echenique convierten esta historia inolvidable en un hito de la literatura actual.",
+	"contributor": null,
+	"date": "2002-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 103821,
+	"unique_words": 11446,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6365007133699945,
+		"slope": 0.6685832053741056,
+		"std_error_intercept": 0.03731346832856305,
+		"std_error_slope": 0.003500780909713809
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4026d350612971243bc9a"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bryce Echenique/Guia triste de Paris (22898)/Guia triste de Paris - Alfredo Bryce Echenique.epub",
+	"creator": "Alfredo Bryce Echenique",
+	"title": "Guía triste de París",
+	"subject": "Otros",
+	"publisher": null,
+	"description": "Después de varias novelas, Alfredo Bryce Echenique regresa a «ese endemoniado género llamado cuento». Y lo hace con esta soberbia colección de relatos que llevan la marca de un escritor que ha hecho del amor y la amistad el lema de su vida.Abolir la frontera que separa la realidad de la ficción ha sido, desde siempre, uno de los más caros anhelos del ser humano. La magia y la literatura lo han conseguido, pero pocos privilegiados logran ejercerlas con la suficiente autoridad, y en nuestro tiempo ninguno de modo tan divertido y conmovedor como Alfredo Bryce Echenique.Guía triste de París es una excelente muestra de su reconocido talento para recrear el mundo. Tomando materiales de ambos lados de esa frontera, Bryce nos entrega catorce historias en las que suprime limpiamente las barreras entre lo que fue y lo que pudo o debió ser. Una operación que realiza con total naturalidad, pues, como él mismo confiesa, suele dejar a la fantasía «entrar y circular libremente por donde le dé su real gana, en cualquier circunstancia o momento, incluso dormido».",
+	"contributor": null,
+	"date": "1999-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 56255,
+	"unique_words": 8554,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8075519135581999,
+		"slope": 0.6624769171069159,
+		"std_error_intercept": 0.03739064120848668,
+		"std_error_slope": 0.003684914692834974
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40270350612971243bc9b"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bryce Echenique/La amigdalitis de Tarzan (16103)/La amigdalitis de Tarzan - Alfredo Bryce Echenique.epub",
+	"creator": "Alfredo Bryce Echenique",
+	"title": "La amigdalitis de Tarzán",
+	"subject": "Drama",
+	"publisher": null,
+	"identifier": "5f932bba-fdac-432c-9dec-91674bb093e9",
+	"description": "Una historia de amor en la que los dos protagonistas recorren no sólo el mundo de los sentimientos, sino el propio mundo iberoamericano. Juan Manuel Carpio,cantautor peruano probando suerte en París y María de la Trinidad del MonteMontes, joven aristócrata salvadoreña, narran la historia de su relación através de cartas en La amigdalitis de Tarzán. Ella fracasará en su intento de llevar una vida plena en el matrimoniocon un fotógrafo chileno. Él tendráaspavientos internacionales a través de sus canciones. Pero ninguno imaginará lo indispensable quese tornará para cada cual la lectura del cariño del otro en las misivas, lascartas, que protagonizan La amigdalitis de Tarzán. Asistimos así al desarrollo deuna narración suelta y contada con un ritmo acelerado —pues las cartas seinsertan dentro de la narración, no la detienen— y que desemboca en lasconclusiones que enunciaban sus propias premisas. Conclusiones sin conclusión:el disparate existencial va a continuar.",
+	"contributor": null,
+	"date": "2014-02-16T14:42:08",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 79635,
+	"unique_words": 10456,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.5945594741476332,
+		"slope": 0.6798340546232152,
+		"std_error_intercept": 0.0439615634977967,
+		"std_error_slope": 0.004213311543575811
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4027d350612971243bc9c"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bryce Echenique/La vida exagerada de Martin Romana (14815)/La vida exagerada de Martin Romana - Alfredo Bryce Echenique.epub",
+	"creator": "Alfredo Bryce Echenique",
+	"title": "La vida exagerada de Martin Romaña",
+	"subject": "Fantástico",
+	"publisher": null,
+	"description": "La vida exagerada de Martín Romaña es, probablemente, la novela mayor y la más característica del talante biográfico y narrativo de Alfredo Bryce Echenique. Si por lo primero estamos ante una biografía inclusiva, que hace un balance irónico de la década de los años 60 desde su centro mitológico, el París de la rebelión juvenil del mayo del 68, por lo segundo estamos un relato circular, elocuente y digresivo, que hace la oralidad diomática, de su lengua peruana, la alegoría migratoria de una saga tan desmitificadora como humorística.Martin Romaña es un peruano que una década después de haber emigrado a París con la intención de convertirse en escritor, empieza a redactar su «cuaderno azul de navegación» en el cual, además de contar su experiencia parisina de Mayo del 68, rescata los recuerdos de Inés, su esposa que lo abandona por su inseguridad, timidez e indecisión.Algunos temas abordados son su trágico desembarco proveniente del Perú en Dunkerque, en donde pierde toda su biblioteca a causa de un accidente, pasando por su admiración por César Vallejo y Ernest Hemingway, su desencanto de París, su participación irrelevante en un grupo procomunista durante Mayo del 68, la novela que nunca escribió, hasta un caso de hemorroides y el encuentro mágico con ese ser, verdadero bálsamo de su tristeza, que será Octavia de Cádiz, y por la cual redactará el Cuaderno rojo de fatídica navegación.Es una obra del post boom al dirigir la narrativa hacia el individuo, al revisar la sentimentalidad de los personajes, y al abandonar los discursos épicos y esencialistas sobre América Latina.Todo ello narrado desde una visión sensible y nostálgica, aunque sin carecer de brotes de intensa ironía y felicidad.",
+	"contributor": null,
+	"date": "1981-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 250265,
+	"unique_words": 20083,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.050584131519578,
+		"slope": 0.6346720699246,
+		"std_error_intercept": 0.08717708605691539,
+		"std_error_slope": 0.007627931884575699
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40280350612971243bc9d"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bryce Echenique/Magdalena peruana y otros cuentos (76641)/Magdalena peruana y otros cuentos - Alfredo Bryce Echenique.epub",
+	"creator": "Alfredo Bryce Echenique",
+	"title": "Magdalena peruana y otros cuentos",
+	"subject": "Relato",
+	"publisher": null,
+	"description": "Este libro está compuesto de los doce cuentos siguientes: Anorexia y tijerita, En ausencia de los dioses, Una carta a Martín Romaña, El gordo más incómodo del mundo, El Papa Guido Sin Número, A veces te quiero como siempre, Apptes, El breve retorno de Florence, Este otoño, Desorden en la casita, Una tajada de vida, Cómo y por qué odié los libros para niños Magdalena peruana, cuento cuyo título da nombre al conjunto de relatos y que, en cierto modo, es un homenaje que Bryce Echenique le rinde a Marcel Proust, como el lector descubrirá en estas páginas.",
+	"contributor": null,
+	"date": "1989-10-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 62252,
+	"unique_words": 8255,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.8335402158568682,
+		"slope": 0.7440606859610052,
+		"std_error_intercept": 0.10022459589698765,
+		"std_error_slope": 0.00979746024255775
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4028b350612971243bc9e"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Bryce Echenique/Un mundo para Julius (13273)/Un mundo para Julius - Alfredo Bryce Echenique.epub",
+	"creator": "Alfredo Bryce Echenique",
+	"title": "Un mundo para Julius",
+	"subject": "Realista",
+	"publisher": null,
+	"identifier": "b9d8d9e7-0eee-4390-8721-1df568db6fa9",
+	"description": "Memoria y recreación de la infancia, Un mundo para Julius constituye un hito de la narrativa latinoamericana de los últimos tiempos. Ha sido traducida a varios idiomas y es lectura obligada en muchas universidades francesas, alemanas y norteamericanas. “Por la inteligencia de su factura, la ciencia de su lenguaje, la mezcla sutil de ironía, nostalgia y humor, y la aguda visión de lo real que conforman su esencia, este libro de Bryce Echenique es una de las mejores novelas escritas por un autor latinoamericano” (Gabriel García Márquez).",
+	"contributor": null,
+	"date": "2013-10-26T18:57:14",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 215513,
+	"unique_words": 17084,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9271564175436364,
+		"slope": 0.6405009390879494,
+		"std_error_intercept": 0.12709760790417626,
+		"std_error_slope": 0.011251875238982665
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40292350612971243bc9f"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Cernuda/La centesima puerta (74134)/La centesima puerta - Alfredo Cernuda.epub",
+	"creator": "Alfredo Cernuda",
+	"title": "La centésima puerta",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Cuando Bagdad cayó en poder del ejército estadounidense, bandas de saqueadores vaciaron el Museo Nacional de Iraq. Semanas después, Ayman Mansûr, experto en la civilización sumeria, recibe el encargo de huir de Bagdad con el Sello de los Destinos. Debe impedir que caiga en manos de la élite que nos gobierna desde la sombra.\nGabriela, una joven rebelde, creadora de grafitis y peleada con el mundo, comienza a tener extraños sueños que revolucionarán su caótica vida.\nNoah Stein, abogado y mano derecha del multimillonario Michael Fellerstone, relacionado con los Illuminati y los Bilderberg, es el encargado de encontrar a Ayman Mansûr y el Sello de los Destinos. Toda la maquinaria del poder se pondrá a su servicio para estrechar el cerco y destruir la codiciada pieza sumeria.\nEstas tres personas, aparentemente tan separadas en la distancia y en la cultura, Bagdad, Madrid, Washington, iniciarán un viaje apasionante que les llevará a conocer y a habitar mundos sorprendentes. Mundos del pasado, del presente y del futuro. La alquimia, el Nuevo Orden Mundial, los universos paralelos. Mundos fantásticos y tenebrosos.",
+	"contributor": null,
+	"date": "2017-11-16T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 131518,
+	"unique_words": 17334,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.771221829786901,
+		"slope": 0.679885235369916,
+		"std_error_intercept": 0.1096054881340157,
+		"std_error_slope": 0.010090543128742272
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed40298350612971243bca0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Conde/El Griffon (68522)/El Griffon - Alfredo Conde.epub",
+	"creator": "Alfredo Conde",
+	"title": "El Griffon",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "En esta novela se combinan dos historias separadas por cuatro siglos. Por un lado asistimos al viaje de un Visitador del Santo Oficio a Galicia en tiempos de Felipe II, una época poco propicia para la magia y las meigas y en la que el afán de conocimiento pueden conducir a la hoguera. Por otro lado, acompañamos a un escritor y profesor de literatura gallego en sus escarceos amorosos en Aix-en-Provence y al nacimiento de un proyecto literario insólito: escribir la historia de un Griffon con cabeza de anguila y cuerpo de león.",
+	"contributor": "Alfredo Conde",
+	"date": "1984-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 108889,
+	"unique_words": 14860,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2321018388713594,
+		"slope": 0.7256207524006261,
+		"std_error_intercept": 0.15130841890739444,
+		"std_error_slope": 0.014141761067182434
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4029d350612971243bca1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Conde/Huesos de santo (56749)/Huesos de santo - Alfredo Conde.epub",
+	"creator": "Alfredo Conde",
+	"title": "Huesos de santo",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Con el hallazgo del acicalado y bellísimo cadáver de Sofía Esteiro y un «atentado aéreo» contra la hija del delegado del Gobierno de Galicia arranca esta novela en la que el comisario Andrés Salorio, que se las pintaba muy felices en sus últimos años antes de jubilarse, tendrá que enfrentarse tanto a un enigmático caso de homicidio como a las trapacerías de su familia más cercana y de sus colaboradores. Por no hablar siquiera de sus conflictos con los poderes establecidos, que pueden desembocar en un violento choque con el delegado del Gobierno y en un tremendo topetazo con la Iglesia.En una obra que retrata de un modo exquisito y muy eficaz las relaciones que se establecen en una pequeña cudad, Alfredo Conde construye una ingeniosa y divertidísima novela, llena de las más desconcertantes pistas falsas y en la que, por los caminos más insospechados, conduce al lector hasta el mismísimo sepulcro del apóstol Santiago, donde le aguardan nuevas sorpresas.",
+	"contributor": null,
+	"date": "2017-03-07",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 109070,
+	"unique_words": 14778,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6823142254217005,
+		"slope": 0.6848203208144713,
+		"std_error_intercept": 0.08690894515729307,
+		"std_error_slope": 0.008121708823735066
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402a2350612971243bca2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Conde/Llovida del cielo (57027)/Llovida del cielo - Alfredo Conde.epub",
+	"creator": "Alfredo Conde",
+	"title": "Llovida del cielo",
+	"subject": "Policial",
+	"publisher": null,
+	"description": "Una mañana de junio aparece en la plaza de A. Quintana el cadáver desnudo de una joven. Según el relato de una mujer, el cuerpo había caído de lo alto. El extraño caso cae en manos del escéptico comisario Salorio, quien se verá obligado a investigar incluso a un sector muy importante de la Iglesia tras la desaparición del Codex Calistino, la joya del patrimonio artístico de la catedral.En una novela que retrata de forma exquisita y a la vez divertida la vida en Santiago de Compostela, Alfredo Conde construye una obra caracterizada por el humor y el sarcasmo, llena de pistas falsas, propia del mejor género negro.",
+	"contributor": null,
+	"date": "2016-10-22",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 100678,
+	"unique_words": 14719,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3308225095165844,
+		"slope": 0.7214539670693062,
+		"std_error_intercept": 0.1240708344880963,
+		"std_error_slope": 0.01166923078702365
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402a5350612971243bca3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Conde/Los otros dias (19201)/Los otros dias - Alfredo Conde.epub",
+	"creator": "Alfredo Conde",
+	"title": "Los otros días",
+	"subject": "Drama",
+	"publisher": null,
+	"description": "Los otros días es la historia de un director de orquesta que, a causa de la enfermedad de Parkinson, no puede continuar la labor a la que ha dedicado toda su vida y regresa a su tierra, para terminar de envejecer. La música ha sido el pilar fundamental de su existencia, y ni su condición de sacerdote ni su vinculación a la masonería pudieron postergar esta vocación primera. Desde este retiro en que se pierde y recobra la verdadera dimensión de los otros días, el protagonista se abre a un espacio de extrema sensibilidad ante lo exterior y lo interior, y rehace su relación con el recuerdo, con la belleza, con la luz, con la lluvia, con las pequeñas cosas. Lentamente comprende que la felicidad va unida al mero hecho de existir, que asoma tras esas acciones simples que en nuestra cotidianidad suceden: respirar, comer, mirar, oler, pasear La fuerza telúrica de la tierra gallega, la sorprendente aparición de Xana y la maliciosa jocundia del tío Álvaro serán el contrapunto de la degradación psíquica y física que la enfermedad conlleva.",
+	"contributor": null,
+	"date": "2014-06-26",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72848,
+	"unique_words": 11279,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.1874357680733867,
+		"slope": 0.7284046731236207,
+		"std_error_intercept": 0.054092114388572525,
+		"std_error_slope": 0.00522146935628591
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402a8350612971243bca4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo de Hoces Garcia-Galan/Fuckowski_ Memorias de un ingeniero (10133)/Fuckowski_ Memorias de un ingeniero - Alfredo de Hoces Garcia-Galan.epub",
+	"creator": "Alfredo de Hoces García-Galán",
+	"title": "Fuckowski: Memorias de un ingeniero",
+	"subject": "Humor",
+	"publisher": null,
+	"identifier": "3ada6784-2513-4621-a471-4e3858c73965",
+	"description": "Sarcásticas desventuras de un ingeniero bohemio encerrado en la cárcel de la imbecilidad corporativa.",
+	"contributor": null,
+	"date": "2013-08-02T19:23:35",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 47530,
+	"unique_words": 9007,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.8956296671597223,
+		"slope": 0.7628530198841226,
+		"std_error_intercept": 0.039396930157395975,
+		"std_error_slope": 0.003935337400544921
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402b4350612971243bca5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo del Barrio Jimenez/La reliquia de Yahveh (71600)/La reliquia de Yahveh - Alfredo del Barrio Jimenez.epub",
+	"creator": "Alfredo del Barrio Jiménez",
+	"title": "La reliquia de Yahvéh",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "En una excursión por el desierto egipcio, una arqueóloga, Marie Mariette, descubre la lápida de entrada a una tumba aparentemente intacta. Toma unas fotografías y vuelve a tapar su descubrimiento con vistas a una exploración posterior.Una vez analizadas las fotos llega a la conclusión que el enterramiento pertenece a Sheshonk I, un legendario faraón de los tiempos de Salomón que, según la Biblia, consiguió invadir y saquear la ciudad de Jerusalén en el siglo X antes de Cristo. Y eso no es todo, en la puerta de entrada al complejo subterráneo también aparece nítidamente representada el Arca de la Alianza, el cofre de oro puro donde los israelitas guardaban las Tablas de los Diez Mandamientos y sus más preciados tesoros religiosos.Ante tamaño hallazgo, se organiza secretamente una expedición relámpago de la que también formarán parte un detective de Scotland Yard experto en jeroglíficos y en las Sagradas Escrituras, John Winters, y un conservador del Museo de El Cairo, Alí Khalil.Sin embargo, no será tan fácil recuperar el sagrado vestigio: la tumba está llena de enigmáticos acertijos y numerosas trampas mortales, el Arca se revela como algo más que un simple e inofensivo objeto de culto y los servicios secretos de varios países pugnan por hacerse con tan preciada y terrible reliquia.",
+	"contributor": null,
+	"date": "2007-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 188455,
+	"unique_words": 21463,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.690300878614888,
+		"slope": 0.6844764303242679,
+		"std_error_intercept": 0.07426765442320277,
+		"std_error_slope": 0.006644714511020795
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402b8350612971243bca6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Elias/Prohibido morir (42005)/Prohibido morir - Alfredo Elias.epub",
+	"creator": "Alfredo Elias",
+	"title": "Prohibido morir",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "Prohibido morir (La Legión Azul) narra la vida de unos héroes cuyo premio fue el olvido. Murieron muchos de ellos, demasiados. Sean recordados ahora con este humilde homenaje Primero fue la División Azul, luego la Legión Azul. Quede constancia que no todo lo expuesto es producto de la imaginación, debo destacar como ciertos, los lugares, algunos hechos y algunos mandos que aparecen en el libro y que existieron durante el episodio de la guerra ahora descrito. Gente y guerra injustamente olvidada, y hasta tal extremo desconocida y ocultada que ni los libros de historia se atreven a reflejar. Trata pues de unos hombres, algo más de dos mil, que ofrecieron sus vidas por su causa, (compartida o no por una parte de su generación), en un indiscutible acto de bravura y generosidad. Quizás debieran ser ejemplo para muchos que hoy se autocalifican de luchadores de otras causas que se dicen más nobles. La bravura, el coraje, la valentía han sido siempre envidiadas por aquellos mansos que al amparo de la modernidad ocultan sus cobardías sin enfrentarse al enemigo de frente, cara a cara. Los héroes han muerto, hoy es el tiempo de los burócratas. Vaya por aquellos hombres, tan sólo el recuerdo y el respeto por su inútil sacrificio, y sirva sí de homenaje, reconocimiento y afecto hacia aquellas madres que perdieron sus hijos obteniendo a cambio la crítica y la venganza del olvido. Por ellas, a las que nadie, ningún régimen o Gobierno posterior, tuvo a bien recordar ni mover siquiera un dedo por devolverles los restos de sus hijos en un olvido y desprecio imperdonable, vil y cobarde. Los pueblos demuestran su grado de civilización con su comportamiento diario, en el respeto a las leyes y en el respeto a las ideas contrarias, sean cuales sean y tengan el color que tengan. Solo los actos deben ser perseguidos, sancionados; los pensamientos, las ideas: nunca. El lector maduro, o quienes se encuentran en la juventud de la madurez (recordando la expresión de André Mourois) sonreirán con la lectura de este pequeño libro y serán, quizás, los únicos que adviertan que no todo lo narrado es ficción. El joven, por el contrario, no creerá lo que aquí se le cuente, no importa. La historia es diferente según quien la vive, o quien la cuenta. Parto de un hecho incuestionable, el protagonista de esta historia, él y algunos otros, existieron realmente y la descripción de sus hazañas no les hace justicia, ellos fueron mucho más, ellos fueron auténticos héroes, héroes que, como dije, la historia ha premiado con el olvido pero que la historia al final les hará justicia. Todos formaron parte de lo que se llamó “ la Centuria de Honor “, los cien hombres creadores de la FE, Falange Española.",
+	"contributor": null,
+	"date": "2014-08-28T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 73466,
+	"unique_words": 10435,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.696360144818894,
+		"slope": 0.67648682347198,
+		"std_error_intercept": 0.08340261653843149,
+		"std_error_slope": 0.008045299689857018
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402b9350612971243bca7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Espino/Jicaras tristes (51706)/Jicaras tristes - Alfredo Espino.epub",
+	"creator": "Alfredo Espino",
+	"title": "Jícaras tristes",
+	"subject": "Realista",
+	"publisher": null,
+	"description": "La única obra poética de Alfredo Espino esconde en su interior la pasión y la tristeza por la vida de un hombre que supo mirar el alma de los salvadoreños a través de las señales que regala la naturaleza a los libres y limpios del alma.Estos tiernos versos los escribió el poeta Alfredo Espino en los años treinta, cuando todavía cientos de árboles se movían al ritmo de la limpia brisa de la campiña salvadoreña.Espino ha sido considerado, desde su muerte el 24 de mayo de 1928, uno de los poetas más leídos y recitados de memoria entre gente de todas las edades en la región.",
+	"contributor": null,
+	"date": "1936-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 12924,
+	"unique_words": 3765,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.6236325192215714,
+		"slope": 0.802119721094363,
+		"std_error_intercept": 0.08245271464034026,
+		"std_error_slope": 0.009098215056433816
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402bd350612971243bca8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Garcia Frances/La noche de los gitanos (31586)/La noche de los gitanos - Alfredo Garcia Frances.epub",
+	"creator": "Alfredo García Francés",
+	"title": "La noche de los gitanos",
+	"subject": "Intriga",
+	"publisher": null,
+	"description": "En la madrugada del 1 de agosto de 1944 murieron incinerados en el campo de Auschwitz cuatro mil gitanos. Aquel crimen pasó a la Historia como ´Zigeunernacht´, la Noche de los Gitanos. Los protagonistas se verán involucrados en un golpe de Estado para derribar la democracia en España y reemplazarla por una monarquía títere a las órdenes de los militares, con un rey sin atribuciones y dispuesto a abdicar en su hijo. Cada uno de los tres personajes, Tano, el Gitano, un paria social superviviente de Auschwitz, África, una ascendente espía del CNI y, Paco Escorpión Dávila, un antiguo campeón de boxeo afectado de Alzheimer, narran su parte de la historia en la que se mezclan espías, falsos etarras, islamistas magrebíes y un grupo de golpistas decididos a cambiar violentamente la historia de España. Desamor, amistad, traición, muerte, locura, sexo, crueldad y sacrificio acompañan a los tres protagonistas en su carrera hacia su inevitable destrucción. Tan solo la astucia salvará al más humano de ellos. Además de un thriller negrísimo sobre un escenario histórico que muchos analistas políticos consideran posible, La Noche de los Gitanos, es una novela de gran actualidad política sobre el terrorismo vasco en España y el islamista en el Magreb.",
+	"contributor": null,
+	"date": "2012-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 82979,
+	"unique_words": 15298,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 0.894171617088469,
+		"slope": 0.7760218436815489,
+		"std_error_intercept": 0.15101410433383453,
+		"std_error_slope": 0.014425495373943392
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402bd350612971243bca9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez/La hija de Tom Gardner (70169)/La hija de Tom Gardner - Alfredo Gomez.epub",
+	"creator": "Alfredo Gómez",
+	"title": "La hija de Tom Gardner",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "En algún lugar de California, 1880... Mark nunca imaginó que, trabajando al servicio de Tom Gardner, encontraría el verdadero amor. Esto será el comienzo de su nueva vida, o sencillamente, el principio de sus problemas. Porque en en el Salvaje Oeste, solo un hombre armado es capaz de marcar la diferencia.",
+	"contributor": null,
+	"date": "2014-02-10T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 4509,
+	"unique_words": 1407
+},
+{
+	"_id": {
+		"$oid": "5ed402bf350612971243bcaa"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez Cerda/Aparecio en mi ventana (10888)/Aparecio en mi ventana - Alfredo Gomez Cerda.epub",
+	"creator": "Alfredo Gómez Cerdá",
+	"title": "Apareció en mi ventana",
+	"subject": "Infantil",
+	"publisher": null,
+	"identifier": "5c6dac53-501a-42ac-b4ff-db734dd760e7",
+	"description": "Gil, un niño solitario, recibe la visita de un mukusuluba, extraño pájaro que se convierte en su mejor amigo. Y no solo para él, sino también para toda su familia. Pero, ¿es el único remedio para los problemas de comunicación en el hogar? Una historia que muestra la importancia del diálogo familiar.",
+	"contributor": null,
+	"date": "2013-08-15T04:02:08",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 24846,
+	"unique_words": 4033,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3744916899079545,
+		"slope": 0.683941643971315,
+		"std_error_intercept": 0.03131471360245201,
+		"std_error_slope": 0.003291490805392017
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402c0350612971243bcab"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez Cerda/El negocio de papa (79052)/El negocio de papa - Alfredo Gomez Cerda.epub",
+	"creator": "Alfredo Gómez Cerdá",
+	"title": "El negocio de papá",
+	"subject": "Infantil",
+	"publisher": null,
+	"description": "Semana a semana, Tomás le cuenta a Juanjo, su psicólogo, por qué ha suspendido cinco asignaturas, si él jamás había suspendido antes. Parece que algo tiene que ver el cambio de negocio de su padre. ¿No dicen que hay que ser coherente con los propios pensamientos? Una historia sobre amistad y autonomía personal.",
+	"contributor": null,
+	"date": "2014-04-14T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 24746,
+	"unique_words": 3698,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3243996363220736,
+		"slope": 0.6802539797113437,
+		"std_error_intercept": 0.06040084918004135,
+		"std_error_slope": 0.006350684939410555
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402c2350612971243bcac"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez Cerda/El rostro de la sombra (26449)/El rostro de la sombra - Alfredo Gomez Cerda.epub",
+	"creator": "Alfredo Gómez Cerdá",
+	"title": "El rostro de la sombra",
+	"subject": "Juvenil",
+	"publisher": null,
+	"description": "¿Cómo es posible que algunos vídeos de Internet se difundan tan rápido? Una escena interesante, una anécdota divertida… Ya está todo inventado. Hay que grabar algo que de verdad llame la atención. Algo arriesgado y peligroso. Tan peligroso que nadie puede saber quién lo ha colgado. Pero ¿nadie se ha parado a pensar en las consecuencias de lo que han hecho? Adrián y sus amigos tienen una buena idea. Seguro que su vídeo se convierte en el más visto de Internet en menos de 24 horas. Regresan a casa de madrugada después de una fiesta, borrachos. Deciden lanzar una piedra a una carretera para provocar un accidente y grabarlo con un teléfono móvil. En ese instante comenzará para ellos una auténtica pesadilla, que removerá sus conciencias hasta límites insospechados.casa de madrugada después de una fiesta, borrachos. Deciden lanzar una piedra a una carretera para provocar un accidente y grabarlo con un teléfono móvil. En ese instante comenzará para ellos una auténtica pesadilla, que removerá sus conciencias hasta límites insospechados.",
+	"contributor": null,
+	"date": "2011-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 41983,
+	"unique_words": 6137,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8318023791459401,
+		"slope": 0.6475010035869043,
+		"std_error_intercept": 0.08054404239159856,
+		"std_error_slope": 0.00812532234692641
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402c3350612971243bcad"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez Cerda/El tesoro mas precioso del mundo (78956)/El tesoro mas precioso del mundo - Alfredo Gomez Cerda.epub",
+	"creator": "Alfredo Gómez Cerdá",
+	"title": "El tesoro más precioso del mundo",
+	"subject": "Infantil",
+	"rights": "WORLD ALL LANGUAGES",
+	"publisher": null,
+	"description": "Flor va a todas partes con una maleta cargada de títeres; Nomeacuerdo es un escritor con una imaginación desbordante al que se le olvidan las cosas. Juntos, han montado una divertida obra de teatro que puede saltar de las páginas de este libro a la clase. ¿Dónde está la línea que separa la ficción de la realidad? Integrada en la narración, aparece una divertida obra de teatro con todas sus indicaciones para que los lectores la puedan representar.",
+	"contributor": null,
+	"date": "2011-02-28T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 17437,
+	"unique_words": 3076,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.021549358906506,
+		"slope": 0.6136420252876567,
+		"std_error_intercept": 0.10316693643837757,
+		"std_error_slope": 0.01113852381611528
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402c4350612971243bcae"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez Cerda/Las palabras magicas (6999)/Las palabras magicas - Alfredo Gomez Cerda.epub",
+	"creator": "Alfredo Gómez Cerdá",
+	"title": "Las palabras mágicas",
+	"subject": "Infantil",
+	"publisher": null,
+	"identifier": "a671d435-d020-4fad-9889-11c30730b935",
+	"description": "Ramón es un niño con una imaginación desbordante y todos recurren a él a la hora de jugar. Vive con tanta intensidad sus fantasías que se olvida de todo, hasta de que tiene ganas de hacer pis. Eso le va a ocasionar algún disgusto, sobre todo con su intransigente madre. Este libro es la primera incursión del autor en la literatura infantil. A partir de 9 años.",
+	"contributor": null,
+	"date": "2013-08-02T18:59:02",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 13584,
+	"unique_words": 2764,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.444178245723217,
+		"slope": 0.6811894360578961,
+		"std_error_intercept": 0.0652728158160537,
+		"std_error_slope": 0.007176988028839884
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402c7350612971243bcaf"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez Cerda/Las siete muertes del gato (79105)/Las siete muertes del gato - Alfredo Gomez Cerda.epub",
+	"creator": "Alfredo Gómez Cerdá",
+	"title": "Las siete muertes del gato",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Germán tiene una gran habilidad para escapar de sitiaciones límite y muy arriesgadas. Quiere probarlo todo; pero él mismo será el que, paso a paso, llegue a una situación sin salida. Sus amigos del barrio y su novia serán testigos de una vida que pasa demasiado deprisa.",
+	"contributor": null,
+	"date": "2013-02-28T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 57842,
+	"unique_words": 7718,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.4431576417941183,
+		"slope": 0.6860930011307217,
+		"std_error_intercept": 0.06991019773714821,
+		"std_error_slope": 0.006874463187741794
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402c8350612971243bcb0"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez Cerda/Nano y Esmeralda (12592)/Nano y Esmeralda - Alfredo Gomez Cerda.epub",
+	"creator": "Alfredo Gómez Cerdá",
+	"title": "Nano y Esmeralda",
+	"subject": "Infantil",
+	"publisher": null,
+	"identifier": "c2d5d3fb-0579-48c8-b112-4d7390a9bf87",
+	"description": "Nano siempre se pregunta por qué los jerséis nuevos son para sus hermanos. Él tiene que «heredar» los de Rosa, aunque parezcan de chica. En cambio, Luisma nunca «hereda» los suyos porque su madre dice que ya están viejos.Esmeralda, que teje muy bien, le dice que le hará un jersey nuevo. Pero todos los jerséis que empieza le salen mal y… ¿Conseguirá Nano un jersey nuevo? Mientras, Nano y Esmeralda lo pasan estupendamente con la bicicleta voladora.A partir de 9 años",
+	"contributor": "Carmen Lucini",
+	"date": "2013-09-28T01:32:50",
+	"original_language": "spa",
+	"language": "es",
+	"word_count": 27554,
+	"unique_words": 4184,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.3047149262545492,
+		"slope": 0.6893120642225069,
+		"std_error_intercept": 0.10188002461301292,
+		"std_error_slope": 0.010623375038343593
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402cc350612971243bcb1"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez Cerda/Noche de alacranes (81377)/Noche de alacranes - Alfredo Gomez Cerda.epub",
+	"creator": "Alfredo Gómez Cerdá",
+	"title": "Noche de alacranes",
+	"subject": "Histórico",
+	"publisher": null,
+	"description": "Un profesor de instituto invita a Catalina Melgosa, testigo directo de la posguerra española, a dar una charla a sus alumnos. El contacto con los jóvenes y el hecho de que recuerde un episodio de su pasado, hace que Catalina rememore, durante una larga noche, su amor adolescente por Emilio, al que ayudó cuando este fue secuestrado por los maquis. Una novela que reflexiona sobre el destino que se asigna a cada persona.",
+	"contributor": null,
+	"date": "2012-05-27T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72557,
+	"unique_words": 8356,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.971062292220338,
+		"slope": 0.6324911689739933,
+		"std_error_intercept": 0.09911553415082332,
+		"std_error_slope": 0.00957059034511864
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402cd350612971243bcb2"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Gomez Cerda/Sin billete de vuelta (78952)/Sin billete de vuelta - Alfredo Gomez Cerda.epub",
+	"creator": "Alfredo Gómez Cerdá",
+	"title": "Sin billete de vuelta",
+	"subject": "Novela",
+	"rights": "Metaforic Club de Lectura SL",
+	"publisher": null,
+	"description": "Un grupo de ancianos se reúne cada tarde en la estación de Sants, en Barcelona. La megafonía no deja de anunciar la salida de nuevos trenes. Y con cada tren que parte, se inicia un largo viaje hacia el pasado en la mente de estos ancianos, hasta su adolescencia, hasta la tierra donde nacieron y vivieron sus primeros años. Iremos descubriendo los motivos que les impulsaron a marcharse lejos, en busca de una vida digna.",
+	"contributor": null,
+	"date": "2016-07-03T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 32352,
+	"unique_words": 5432,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6327738602742068,
+		"slope": 0.6698469582250102,
+		"std_error_intercept": 0.03916586165943557,
+		"std_error_slope": 0.0040331709607447684
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402d0350612971243bcb3"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Grimaldos/Claves de la Transicion 1973-1986 (para adultos). De la muerte de Carrero Blanco al referendum (23004)/Claves de la Transicion 1973-1986 (para ad - Alfredo Grimaldos.epub",
+	"creator": "Alfredo Grimaldos",
+	"title": "Claves de la Transición 1973-1986 (para adultos). De la muerte de Carrero Blanco al referéndum de la OTAN",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "La Transición es un período complejo de nuestra historia reciente. Contada desde diferentes puntos de vista por historiadores, novelista, series de televisión y documentales, ha primado, a la hora de describirla, el lado anecdótico, la influencia directa de los personajes políticos y la madurez del pueblo español que supo entender el cambio de régimen sin enfrentamientos ni mayores convulsiones sociales. Ahora que tanto se cuestiona el proceso, este libro aporta otra mirada, diferente y crítica, que destaca la influencia extranjera, el papel de la CIA, las FF. AA., el verdadero papel de Suárez y del Rey, así como la labor, en la sombra, de otros protagonistas. Es posible que la sociedad, acostumbrada a medias verdades, desee ya saber que la Transición NO fue, en realidad, como se cuenta.",
+	"contributor": null,
+	"date": "2013-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 48295,
+	"unique_words": 8453,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.2684205785503397,
+		"slope": 0.7208144128489509,
+		"std_error_intercept": 0.03407627288135173,
+		"std_error_slope": 0.003399526088387673
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402d6350612971243bcb4"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Grimaldos/La CIA en Espana (21297)/La CIA en Espana - Alfredo Grimaldos.epub",
+	"creator": "Alfredo Grimaldos",
+	"title": "La CIA en España",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "La CIA (Central Intelligence Agency) está detrás de casi todos los acontecimientos políticos y militares de la historia reciente de España: la permanencia de la dictadura franquista, la transición del franquismo a la Monarquía, el golpe de estado del 23-F, la evolución controlada hacia un sistema parlamentario, la definitiva integración a la estructura de la OTAN las instalaciones de las bases militares estadounidenses en suelo español, las recientes escalas en sus aeropuertos de aviones de la CIA —con prisioneros que son trasladados a centros de tortura situados en varios países de la órbita norteamericana—, el envío de tropas a la guerra en Iraq; en fin, han encontrado en España una plataforma sólida para actuar tanto dentro del país como para extender sus tentáculos al norte de África y Europa.En esta oscura tarea de mover los hilos desde las sombra colaboran miembros del Ejército español, destacados políticos y diplomáticos, empresarios, hombres de banca y personajes del mundo de la cultura y el periodismo.Entre la investigación histórica y el reportaje de actualidad, Alfredo Grimaldos devela quiénes son y cómo actúan algunos de los que han participado en las acciones, qué conexiones han tenido con las cúpulas militares y civiles del poder, así como cuál es su presencia en las instituciones democráticas españolas. Documentado de una forma irrefutable y escrito como un thiller político, este es un trabajo repleto de información y nombres propios que provocará asombro a los lectores que se sumerjan en sus páginas.",
+	"contributor": null,
+	"date": "2006-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 109839,
+	"unique_words": 14639,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.287749930290797,
+		"slope": 0.7142144792030782,
+		"std_error_intercept": 0.10958147621809498,
+		"std_error_slope": 0.010234741107071765
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402dc350612971243bcb5"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Grimaldos/La Iglesia en Espana 1977-2008 (23044)/La Iglesia en Espana 1977-2008 - Alfredo Grimaldos.epub",
+	"creator": "Alfredo Grimaldos",
+	"title": "La Iglesia en España 1977-2008",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "La Iglesia es, todavía en el siglo XXI español, uno de los pilares de la vida política, social y cultural. Grimaldos desmonta y analiza su poder, sus relaciones, sus arcaicas formas internas y externas, los conflictos en el seno de la Conferencia episcopal, las relaciones con los diferentes partidos políticos e instituciones bancarias y financieras, en resumen, su influencia y poder.La Iglesia española santificó la Cruzada franquista y los fusilamientos de quienes defendieron la Segunda República. Durante cuarenta años, disfrutó de las prebendas de la dictadura y fue uno de sus pilares. Cuando el régimen empezaba a desmoronarse, se distanció tácticamente de él, apostó por una apertura controlada y selló una renovada alianza medieval entre la cruz y el trono ocupado por el «sucesor a título de rey», designado por el propio Franco. Los Pactos de la Moncloa, la Constitución y los Acuerdos entre el Estado español y la Santa Sede apuntalaron sus privilegios.Durante los últimos veinte años se ha convertido en el eje del neofranquismo y ha salido a la calle contra el aborto, los matrimonios entre homosexuales, la escuela pública y la eutanasia. El poder civil ha cedido una y otra vez ante la Conferencia Episcopal, que ha arrancado a Rodríguez Zapatero más dinero público para sus arcas que a Adolfo Suárez o José María Aznar. Esta es la crónica de estos últimos años.",
+	"contributor": null,
+	"date": "2010-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 121352,
+	"unique_words": 14838,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6928872098636778,
+		"slope": 0.677819925077515,
+		"std_error_intercept": 0.0760947293595439,
+		"std_error_slope": 0.007050613491010063
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402dd350612971243bcb6"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Grimaldos/La sombra de Franco en la transicion (33339)/La sombra de Franco en la transicion - Alfredo Grimaldos.epub",
+	"creator": "Alfredo Grimaldos",
+	"title": "La sombra de Franco en la transición",
+	"subject": "Historia",
+	"publisher": null,
+	"description": "La mitificada Transición no fue pacífica ni modélica: desde la desaparición física del dictador hasta la aprobación de la Constitución -convertida, de hecho, en una Ley de Punto Final-, decenas de manifestantes que reclamaban amnistía y libertad en las calles fueron asesinados por miembros de las fuerzas policiales y elementos de la extrema derecha, mientras personajes como Rodolfo Martín Villa o Juan José Rosón encabezaban el Ministerio del Interior.",
+	"contributor": null,
+	"date": "2004-08-09T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 23468,
+	"unique_words": 4766,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.6377723777783746,
+		"slope": 0.6796904166359917,
+		"std_error_intercept": 0.04326318497443933,
+		"std_error_slope": 0.004567328927955917
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402e1350612971243bcb7"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Grimaldos Feito/Esperanza Aguirre. La lideresa (41965)/Esperanza Aguirre. La lideresa - Alfredo Grimaldos Feito.epub",
+	"creator": "Alfredo Grimaldos Feito",
+	"title": "Esperanza Aguirre. La lideresa",
+	"subject": "Memorias",
+	"publisher": null,
+	"description": "El verdadero retrato de una política ambiciosa y calculadora que, bajo la apariencia de un discurso marcadamente populista, oculta un programa liberal que aspira a estrujar el erario público hasta el último céntimo. Detrás de la aristocrática y pizpireta millonaria que actúa con aire arrabalero y maneja la Comunidad de Madrid con absoluto desparpajo, hay un plan sistemático de destrucción de los servicios básicos y de saqueo del presupuesto público en busca del beneficio privado. Amigos, correligionarios y parientes se benefician de la política de Esperanza Aguirre. Consigue que el AVE pare en una finca de su familia, y construye carreteras y líneas de metro con la intención de multiplicar los beneficios de las poderosas empresas constructoras que se mueven a su alrededor. Además, ha convertido Telemadrid en un órgano de desinformación y propaganda a su exclusivo servicio. La desmedida ambición de Aguirre tiene como objetivo la presidencia de su partido y la del Gobierno, pero los escándalos protagonizados por sus más estrechos colaboradores y el rechazo que ella misma genera fuera de Madrid –incluso en sus propias filas–, la apartan, cada vez más, de esa competida carrera.",
+	"contributor": null,
+	"date": "2008-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 91874,
+	"unique_words": 12612,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.125604875835862,
+		"slope": 0.6403086541813114,
+		"std_error_intercept": 0.027425840570098836,
+		"std_error_slope": 0.002598494392527034
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402e8350612971243bcb8"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo J. Venteo/Luna de sangre (77628)/Luna de sangre - Alfredo J. Venteo.epub",
+	"creator": "Alfredo J. Venteo",
+	"title": "Luna de sangre",
+	"subject": "Novela",
+	"rights": "Alfredo J. Venteo",
+	"publisher": null,
+	"description": "Año 1.506, Bab al Khemis, una remota aldea de Tremecén, en el norte de África. Muhyí un joven adolescente recibe de su madre una inquietante revelación sobre sus orígenes. Junto con Kamal, un antiguo amigo de la familia, Muhyí emprende una arriesgada misión en pos de encontrar a su padre.",
+	"contributor": null,
+	"date": "2018-05-22T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 121561,
+	"unique_words": 14741,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.7490947558565486,
+		"slope": 0.6712383960338324,
+		"std_error_intercept": 0.09207493427519148,
+		"std_error_slope": 0.008530108675008273
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402ee350612971243bcb9"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo J. Venteo/Testamento de sangre (49603)/Testamento de sangre - Alfredo J. Venteo.epub",
+	"creator": "Alfredo J. Venteo",
+	"title": "Testamento de sangre",
+	"subject": "Novela",
+	"publisher": null,
+	"description": "Novela histórica ambientada en la España de finales del Siglo XV En un Al Ándalus que agoniza: un cofre secreto, traiciones, odio y la voluntad inquebrantable de Hisham, nos hacen viajar a una época convulsa, de ira y de grandeza entre los sultanes Boabdil y Al Zagall. ¿Pudo un comerciante evitar la caída de Al Ándalus? ¿Puede desvelar los secretos de una conspiración una misteriosa inscripción tallada en la roca? Las respuestas a estas claves en esta enigmática trama que recrea con detalles la vida de la época.",
+	"contributor": null,
+	"date": "2016-03-05T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 116928,
+	"unique_words": 14701,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.0126739317932665,
+		"slope": 0.6501170776265003,
+		"std_error_intercept": 0.052645494301680945,
+		"std_error_slope": 0.004892433804453927
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402f5350612971243bcba"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Lopez Lopez/Tiempo ibero (78995)/Tiempo ibero - Alfredo Lopez Lopez.epub",
+	"creator": "Alfredo López López",
+	"title": "Tiempo íbero",
+	"subject": "Histórico",
+	"rights": "Alfredo López López",
+	"publisher": null,
+	"description": "Antiguas culturas en la peninsula ibérica, antes de las épocas griega y romana. La novela se ambienta en el siglo V a. C. y narra las aventuras de un joven que quiere ser guerrero. Para ello debe superar una ceremonia de iniciación guerrera, tras lo cual se embarca en un viaje que le llevará por distintas ciudades u oppidas de la antigua Iberia. En estas aventuras se dan a conocer algunos de los usos y costumbres de una cultura de la que apenas se conoce nada, pero que ha llegado a nuestros días a través de los escasos restos arqueológicos encontrados hasta el momento. Los distintos pueblos íberos se extinguieron con la llegada y conquista por parte del Imperio Romano. Una de las batallas más célebres fue la toma de Numancia, donde quedó de manifiesto la fuerza y el tesón de estos pueblos para tratar de sobreponerse a la conquista y destrucción de su cultura. En este libro hay aventuras, amor, traiciones, batallas, desengaños...todos los ingredientes necesarios para sumergirse en un entretenimiento que a la vez pretende dar a conocer la existencia de esta cultura prerromana.",
+	"contributor": null,
+	"date": "2017-07-17T22:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 145320,
+	"unique_words": 14165,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.9838820370007075,
+		"slope": 0.6389995836335745,
+		"std_error_intercept": 0.12022703128305406,
+		"std_error_slope": 0.01098065528151422
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402f9350612971243bcbb"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Olmeda/Aprendiendo a obedecer (66387)/Aprendiendo a obedecer - Alfredo Olmeda.epub",
+	"creator": "Alfredo Olmeda",
+	"title": "Aprendiendo a obedecer",
+	"subject": "Ciencias sociales",
+	"publisher": null,
+	"description": "La vieja tesis de los movimientos sociales de que a mayor educación se aumentarían las posibilidades de cambio social ha resultado ser equivocada. El avance de la escolarización obligatoria y su extensión a capas de edad más amplias cada vez no ha producido deseos mayores de liberación. A menudo, ha resultado tener un efecto contrario, pues quienes salen de las escuelas han asumido el discurso del Poder y se han convertido en férreos defensores del estado de las cosas.¿Qué papel ha tenido la propia escuela en este proceso? Recogiendo toda una tradición crítica y partiendo en especial de las ideas anarquistas al respecto, este libro pone de manifiesto el papel de reproducción del sistema que juega la escuela oficial, convertida en un instrumento más de dominación. Así, se analizan en la obra los aspectos explícitos de la escuela en cuanto transmisora de la cultura e ideas del capitalismo, como los contenidos que se enseñan de manera declarada o las relaciones entre el diseño escolar y la estructura jerárquica de la democracia y también aquellos aspectos que quedan más o menos ocultos, como la influencia de la metodología o de la visión antropológica del sistema de enseñanza en la misión que mejor cumple: aprender a obedecer.Al tiempo, los autores ofrecen las claves de una visión libertaria de la educación, esgrimiendo los rasgos generales de las ricas experiencias anarquistas en este terreno, en la búsqueda de personas libres que contribuyan a una sociedad libre.",
+	"contributor": null,
+	"date": "2015-01-01T00:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 72775,
+	"unique_words": 9411,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.572208567935304,
+		"slope": 0.6781892979562115,
+		"std_error_intercept": 0.11131699416515828,
+		"std_error_slope": 0.010746195927081386
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed402fd350612971243bcbc"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo P. Hogan/La mano del muerto (32193)/La mano del muerto - Alfredo P. Hogan.epub",
+	"creator": "Alfredo P. Hogan",
+	"title": "La mano del muerto",
+	"subject": "Aventuras",
+	"publisher": null,
+	"description": "Aunque atribuida a Alejandro Dumas, esta obra es en realidad del portugués Alfredo Possolo Hogan. Si en El Conde de Montecristo Edmundo Dantés lleva a cabo su venganza contra aquellos que arruinaron su vida, rompieron su historia de amor y lo condenaron a sufrir presidio en el famoso penal de la isla de If, ahora, en esta soberbia continuación de la más famosa obra de Dumas, será Benedetto, hijo de una de las víctimas de la venganza de Edmundo, el que ahora profana la tumba de su padre, le corta al cadáver una mano -la mano del muerto- y jura tomar venganza sobre el conde de Montecristo. A partir de este momento la novela, como un folletín vertiginoso, nos irá contando cómo el vengador va dando los pasos oportunos para cumplir su venganza. En el camino van reapareciendo los principales personajes de la historia y cruzándose historias de amor, fraudes, odios y rencores.",
+	"contributor": null,
+	"date": "1854-08-09T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 93182,
+	"unique_words": 11087,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 1.8010023572640637,
+		"slope": 0.657148774291552,
+		"std_error_intercept": 0.10734043460952596,
+		"std_error_slope": 0.010158508799889492
+	}
+},
+{
+	"_id": {
+		"$oid": "5ed4030b350612971243bcbd"
+	},
+	"filepath": "/home/roland/terabyte/Biblioteca_65.534_EPUB_ESP/Biblioteca/Alfredo Relano/366 historias del futbol mundial que deberias saber (59185)/366 historias del futbol mundial que deber - Alfredo Relano.epub",
+	"creator": "Alfredo Relaño",
+	"title": "366 historias del fútbol mundial que deberías saber",
+	"subject": "Divulgación",
+	"publisher": null,
+	"description": "¿Sabías que Brasil no estrenó su clásica camiseta amarilla, la «verdeamarelha», hasta 1954?, ¿que el Manchester United y el Liverpool, rivales encarnizados, amañaron un partido para que el Manchester no descendiera?, ¿que la primera gran bronca entre Madrid y Barça se remonta a 1916, cuando empataron a 6 goles en un mítico partido?, ¿que 33 años después de matar con una moto al legendario Gigi Meroni el homicida involuntario se convirtió en presidente del Torino?, ¿que la película Evasión o victoria se inspiró en un partido verdadero disputado entre prisioneros de guerra ucranianos y nazis?, ¿que fue un periodista gaditano el que inventó las tandas de penaltis?, ¿que un prisionero de guerra alemán defendió la portería del Manchester City? o ¿que el Real Madrid fue rechazado en el campeonato catalán?... Esto y mucho más encontrarás en las páginas de este fantástico y definitivo libro. 366 historias escritas por uno de los periodistas deportivos más importantes de nuestro país que nos hace recordar con nostalgia algunas de las historias olvidadas del juego más hermoso jamás inventado.",
+	"contributor": null,
+	"date": "2011-12-31T23:00:00+00:00",
+	"original_language": "es",
+	"language": "es",
+	"word_count": 247446,
+	"unique_words": 21729,
+	"words_fit": {
+		"samples": 10,
+		"intercept": 2.4166369601669313,
+		"slope": 0.6114967071288486,
+		"std_error_intercept": 0.0614363911483607,
+		"std_error_slope": 0.005380392279398773
+	}
 }]
 
